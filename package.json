@@ -1,0 +1,23 @@
+{
+  "name": "pokemini",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
+  },
+  "dependencies": {
+    "@pkmn/client": "^0.7.3",
+    "@pkmn/data": "^0.10.11",
+    "@pkmn/dex": "^0.10.11",
+    "@pkmn/img": "^0.3.4",
+    "@pkmn/randoms": "^0.10.11",
+    "@pkmn/sim": "^0.10.11",
+    "@pkmn/view": "^0.7.3"
+  }
+}
