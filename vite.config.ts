@@ -5,7 +5,10 @@ export default defineConfig({
   base: '/pokemini/',
   resolve: {
     alias: {
-      '#': resolve(__dirname, './src'),
+      '#': resolve(import.meta.dirname, './src'),
     },
+  },
+  define: {
+    global: 'globalThis',
   },
 });
