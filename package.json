@@ -12,9 +12,11 @@
     "scrape-routes": "node src/scripts/scrape-routes.ts"
   },
   "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^7.3.1",
     "@types/node": "^26.6.5",
     "axios": "^1.20.0",
     "cheerio": "^1.2.0",
+    "svelte-check-native": "^1.10.0",
     "typescript": "^7.0.2",
     "vite": "^8.3.4"
   },
@@ -25,6 +27,7 @@
     "@pkmn/img": "^0.3.4",
     "@pkmn/randoms": "^0.10.11",
     "@pkmn/sim": "^0.10.11",
-    "@pkmn/view": "^0.7.3"
+    "@pkmn/view": "^0.7.3",
+    "svelte": "^5.57.2"
   }
 }

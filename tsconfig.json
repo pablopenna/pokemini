@@ -16,7 +16,8 @@
     "noFallthroughCasesInSwitch": true,
     "paths": {
       "#/*": ["./src/*"]
-    }
+    },
+    "types": ["svelte", "vite/client"],
   },
   "include": ["src"],
 }
