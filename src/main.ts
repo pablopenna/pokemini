@@ -1,27 +1,26 @@
 import { mount } from 'svelte';
-
-import { main as doBattle } from '#/game/battle/battle.ts';
-import Test from '#/Test.svelte';
+import { main as doBattle, submitChoice } from '#/game/battle/battle.ts';
+import SpriteRenderer from '#/components/SpriteRenderer.svelte';
+import ButtonPanel from '#/components/ButtonPanel.svelte';
+import BattleLog from '#/components/BattleLog.svelte';
 
 export async function main() {
-  console.log("heelo?");
-  const target = document.getElementById('app');
-  if (target) {
-        // Mount the component, optionally passing props
-        const battlePanel = mount(Test, {
-            target: target,
-            props: {
-                // Pass your battle state or other data as props here
-                // e.g., battle: clientBattle
-            }
-        });
+  const spriteTarget = document.getElementById('sprites');
+  const buttonTarget = document.getElementById('buttons');
+  const logTarget = document.getElementById('battle-log');
 
-        // The `mount` function returns an object with an `unmount` method if you need it later
-        console.log(battlePanel);
-  } else {
-    console.error("NO ELEMENT!");
+  if (!spriteTarget || !buttonTarget || !logTarget) {
+    console.error('Missing mount targets');
+    return;
   }
-  
+
+  mount(SpriteRenderer, { target: spriteTarget });
+  mount(ButtonPanel, {
+    target: buttonTarget,
+    props: { onChoice: (choice: string) => submitChoice(choice) }
+  });
+  mount(BattleLog, { target: logTarget });
+
   await doBattle();
 }
 

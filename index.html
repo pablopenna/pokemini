@@ -1,15 +1,21 @@
+<!doctype html>
+
 <head>
+  <meta charset="UTF-8" />
+  <title>PokéMini</title>
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 </head>
+
 <body>
   <div id="app">
-    <div id="battle-log" style="height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 8px;"></div>
+    <div id="battle-log"></div>
     <div id="sprites" style="display: flex; justify-content: space-around; margin-top: 16px;">
-      <div id="p1-sprite"></div>
-      <div id="p2-sprite"></div>
+      <!-- <div id="p1-sprite"></div>
+      <div id="p2-sprite"></div> -->
     </div>
     <div id="moves" style="display: flex; justify-content: space-around; margin-top: 16px;"></div>
     <div id="team" style="display: flex; justify-content: space-around; margin-top: 16px;"></div>
+    <div id="buttons"></div>
   </div>
   <script type="module" src="/src/main.ts"></script>
 </body>
