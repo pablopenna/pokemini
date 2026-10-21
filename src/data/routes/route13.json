@@ -1,0 +1,405 @@
+{
+  "id": "route13",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route13.shtml",
+  "image": "/maps/route13.png",
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Oddish",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Venonat",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgey",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgeotto",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Gloom",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Ditto",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Bellsprout",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Venonat",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgey",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgeotto",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Weepinbell",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Ditto",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 84
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 84
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Picnicker Alma",
+      "team": [
+        "Goldeen",
+        "Poliwag",
+        "Horsea"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Bird Keeper Sebastian",
+      "team": [
+        "Pidgey",
+        "Pidgeotto"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Picnicker Susie",
+      "team": [
+        "Pidgey",
+        "Meowth",
+        "Rattata",
+        "Pikachu",
+        "Meowth"
+      ],
+      "levels": [
+        24,
+        24,
+        24,
+        24,
+        24
+      ]
+    },
+    {
+      "name": "Picnicker Susie",
+      "team": [
+        "Pidgeotto",
+        "Meowth",
+        "Raticate",
+        "Pikachu",
+        "Meowth"
+      ],
+      "levels": [
+        27,
+        27,
+        27,
+        27,
+        27
+      ]
+    },
+    {
+      "name": "Picnicker Susie",
+      "team": [
+        "Pidgeotto",
+        "Persian",
+        "Raticate",
+        "Pikachu",
+        "Persian"
+      ],
+      "levels": [
+        47,
+        47,
+        47,
+        47,
+        47
+      ]
+    },
+    {
+      "name": "Picnicker Susie",
+      "team": [
+        "Pidgeot",
+        "Persian",
+        "Raticate",
+        "Raichu",
+        "Persian"
+      ],
+      "levels": [
+        52,
+        52,
+        52,
+        52,
+        52
+      ]
+    },
+    {
+      "name": "Beauty Lola",
+      "team": [
+        "Rattata",
+        "Pikachu",
+        "Rattata"
+      ],
+      "levels": [
+        27,
+        27,
+        27
+      ]
+    },
+    {
+      "name": "Beauty Sheila",
+      "team": [
+        "Clefairy",
+        "Meowth"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Beauty Sheila",
+      "team": [
+        "Clefairy",
+        "Persian"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    },
+    {
+      "name": "Picnicker Valerie",
+      "team": [
+        "Poliwag",
+        "Poliwag"
+      ],
+      "levels": [
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Picnicker Gwen",
+      "team": [
+        "Pidgey",
+        "Meowth",
+        "Pidgey",
+        "Pidgeotto"
+      ],
+      "levels": [
+        27,
+        27,
+        27,
+        27
+      ]
+    },
+    {
+      "name": "Bird Keeper Perry",
+      "team": [
+        "Spearow",
+        "Pidgey",
+        "Pidgey",
+        "Spearow",
+        "Spearow"
+      ],
+      "levels": [
+        25,
+        25,
+        25,
+        25,
+        25
+      ]
+    },
+    {
+      "name": "Biker Jared",
+      "team": [
+        "Koffing",
+        "Koffing",
+        "Koffing"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Bird Keeper Robert",
+      "team": [
+        "Pidgey",
+        "Pidgeotto",
+        "Spearow",
+        "Fearow"
+      ],
+      "levels": [
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    {
+      "name": "Bird Keeper Robert",
+      "team": [
+        "Pidgeotto",
+        "Pidgeotto",
+        "Fearow",
+        "Fearow"
+      ],
+      "levels": [
+        28,
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Bird Keeper Robert",
+      "team": [
+        "Pidgeot",
+        "Pidgeot",
+        "Fearow",
+        "Fearow"
+      ],
+      "levels": [
+        47,
+        47,
+        47,
+        47
+      ]
+    }
+  ]
+}
