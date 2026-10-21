@@ -6,6 +6,7 @@ import { Dex } from '@pkmn/dex';
 import { LogFormatter } from '@pkmn/view';
 import { Sprites } from '@pkmn/img';
 import { Protocol } from '@pkmn/protocol';
+import { ChoiceBuilder } from '@pkmn/view';
 
 import { UIPlayer, type ChoiceRequest } from '#/game/battle/ui-player';
 
@@ -30,9 +31,23 @@ export async function main() {
 
     // --- UI rendering ---------------------------------------------------------
 
+    let currentBuilder: ChoiceBuilder | null = null;
+
     function clearChoices() {
         movesEl.innerHTML = '';
         teamEl.innerHTML = '';
+    }
+
+    function updateChoiceUI() {
+        if (!currentBuilder) return;
+
+        // e.g., "Choose move for Pokémon 1 of 2"
+        const remaining = currentBuilder.requestLength() - currentBuilder.index();
+        if (remaining > 0) {
+            // Re-render the move buttons for the next Pokémon.
+            // For now, just log it — the player can click another move.
+            console.log(`Need ${remaining} more choice(s)`);
+        }
     }
 
     function makeButton(label: string, choice: string, disabled = false) {
@@ -40,8 +55,24 @@ export async function main() {
         btn.textContent = label;
         btn.disabled = disabled;
         btn.addEventListener('click', () => {
-            player1.submitChoice(choice);
-            clearChoices();
+            if (!currentBuilder) return;
+
+            const error = currentBuilder.addChoice(choice);
+            if (error) {
+                // ChoiceBuilder returns a string on failure, not an exception.
+                console.error('ChoiceBuilder error:', error);
+                return;
+            }
+
+            if (currentBuilder.isDone()) {
+                player1.submitChoice(currentBuilder.toString());
+                clearChoices();
+                currentBuilder = null;
+            } else {
+                // For doubles: update the UI to show the remaining choices.
+                // For singles, isDone() will already be true after one choice.
+                updateChoiceUI();
+            }
         });
         return btn;
     }
@@ -77,10 +108,15 @@ export async function main() {
             renderTeamPreview(request);
             return;
         }
+
+        // Create the builder for this turn.
+        currentBuilder = new ChoiceBuilder(request as any);
+
         if ('forceSwitch' in request && request.forceSwitch?.[0]) {
             renderSwitches(request as any, /* forced */ true);
             return;
         }
+
         if ('active' in request && request.active?.[0]) {
             renderMoves(request as any);
             renderSwitches(request as any, /* forced */ false);
@@ -107,9 +143,9 @@ export async function main() {
             p2SpriteEl.innerHTML = `<img src="${url}" width="${w}" height="${h}" ${pixelated ? 'style="image-rendering: pixelated;"' : ''} />`;
         }
     }
-    
+
     // --- Start the battle ----------------------------------------------------
-    
+
     const battleLoop = async () => {
         for await (const chunk of streams.omniscient) {
             for (const line of chunk.split('\n')) {
@@ -128,7 +164,7 @@ export async function main() {
             }
         }
     };
-    
+
     void player1.start();
     void player2.start();
 
