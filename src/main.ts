@@ -21,7 +21,8 @@ export async function main() {
   } else {
     console.error("NO ELEMENT!");
   }
-  //await doBattle();
+  
+  await doBattle();
 }
 
 main();
