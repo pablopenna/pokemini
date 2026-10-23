@@ -20,4 +20,5 @@
   .sprite-container { display: flex; gap: 2rem; justify-content: center; }
   .sprite-slot { width: 120px; height: 120px; }
   .sprite-slot img { width: 100%; height: 100%; object-fit: contain; image-rendering: pixelated; }
+  .sprite-slot:first-child img { transform: scaleX(-1); }
 </style>
