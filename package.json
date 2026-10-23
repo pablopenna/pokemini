@@ -9,7 +9,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "scrape-routes": "node src/scripts/scrape-routes.ts"
+    "scraperoute": "node src/scripts/scrape-routes.ts"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^7.3.1",

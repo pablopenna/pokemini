@@ -1,0 +1,56 @@
+{
+  "id": "route2",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route2.shtml",
+  "image": "/maps/route2.png",
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgey",
+      "rate": 45
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rattata",
+      "rate": 45
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Caterpie",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Weedle",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgey",
+      "rate": 45
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rattata",
+      "rate": 45
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Caterpie",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Weedle",
+      "rate": 5
+    }
+  ],
+  "trainers": []
+}

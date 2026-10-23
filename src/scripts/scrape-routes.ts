@@ -9,9 +9,23 @@ import { downloadImage } from '#/scripts/utils/download-image.ts'
 import { parseEncounters } from '#/scripts/utils/parse-encounters.ts';
 import { parseTrainers } from '#/scripts/utils/parse-trainers.ts';
 
-const ROUTE_URL = 'https://www.serebii.net/pokearth/kanto/3rd/route13.shtml';
 const FORCE = process.argv.includes('--force');
 const ROUTES_DIR = path.join('src', 'data', 'routes');
+
+let routeIdParam = '';
+const args = process.argv.slice(2);
+
+const parseParameters = (args: string[]) => {
+  for (let i = 0; i < args.length; i++) {
+    if (args[i] === '--id' || args[i] === '-id') {
+      routeIdParam = args[++i];
+    }
+  }
+}
+
+const getUrl = (routeId: string = 'route1'): string => {
+  return `https://www.serebii.net/pokearth/kanto/3rd/${routeId}.shtml`
+}
 
 async function scrapeRoute(url: string, routeId: string, force: boolean) {
   const jsonPath = path.join(ROUTES_DIR, `${routeId}.json`);
@@ -27,8 +41,16 @@ async function scrapeRoute(url: string, routeId: string, force: boolean) {
     }
   }
 
-  console.log(`Scraping ${routeId} from ${url}...`);
-  const { data: html } = await axios.get(url);
+  let html = null;
+  try {
+    console.log(`Scraping ${routeId} from ${url}...`);
+    const { data: r_html } = await axios.get(url);
+    html = r_html;
+  } catch(e: unknown) {
+    console.error(`Error fetching ${url}. Code: ${(e as any).status}`);
+    return;
+  }
+  
   const $ = cheerio.load(html);
 
   const imageSrc = $('img[src*="/pokearth/maps/"]').first().attr('src') || null;
@@ -47,6 +69,13 @@ async function scrapeRoute(url: string, routeId: string, force: boolean) {
 }
 
 (async () => {
-  await scrapeRoute(ROUTE_URL, 'route13', FORCE);
-  console.log('Saved route data.');
+  parseParameters(args);
+  if(routeIdParam === '') {
+    console.error("Route ID required. specify with --id <routeId>. e.g --id route13");
+    return;
+  }
+
+  const url = getUrl(routeIdParam);
+  const result = await scrapeRoute(url, routeIdParam, FORCE);
+  console.log(result ? 'Success' : 'Failure');
 })();
