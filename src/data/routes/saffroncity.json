@@ -1,0 +1,183 @@
+{
+  "id": "saffroncity",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/saffroncity.shtml",
+  "image": "/maps/saffroncity.png",
+  "encounters": [
+    {
+      "method": "gift",
+      "version": "unknown",
+      "species": "Hitmonlee",
+      "rate": 0
+    },
+    {
+      "method": "gift",
+      "version": "unknown",
+      "species": "Hitmonchan",
+      "rate": 0
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Psychic Cameron",
+      "team": [
+        "Slowpoke",
+        "Slowpoke",
+        "Slowbro"
+      ],
+      "levels": [
+        33,
+        33,
+        33
+      ]
+    },
+    {
+      "name": "Channeler Tasha",
+      "team": [
+        "Gastly",
+        "Gastly",
+        "Haunter"
+      ],
+      "levels": [
+        33,
+        33,
+        33
+      ]
+    },
+    {
+      "name": "Psychic Johan",
+      "team": [
+        "Kadabra",
+        "Slowpoke",
+        "Mr. Mime",
+        "Kadabra"
+      ],
+      "levels": [
+        31,
+        31,
+        31,
+        31
+      ]
+    },
+    {
+      "name": "Psychic Tyron",
+      "team": [
+        "Mr. Mime",
+        "Kadabra"
+      ],
+      "levels": [
+        34,
+        34
+      ]
+    },
+    {
+      "name": "Channeler Stacy",
+      "team": [
+        "Haunter"
+      ],
+      "levels": [
+        38
+      ]
+    },
+    {
+      "name": "Channeler Amanda",
+      "team": [
+        "Gastly",
+        "Haunter"
+      ],
+      "levels": [
+        34,
+        34
+      ]
+    },
+    {
+      "name": "Psychic Preston",
+      "team": [
+        "Slowbro"
+      ],
+      "levels": [
+        38
+      ]
+    },
+    {
+      "name": "Leader Sabrina",
+      "team": [
+        "Kadabra",
+        "Mr. Mime",
+        "Venomoth",
+        "Alakazam"
+      ],
+      "levels": [
+        38,
+        37,
+        38,
+        43
+      ]
+    },
+    {
+      "name": "Black Belt Hitoshi",
+      "team": [
+        "Machop",
+        "Mankey",
+        "Primeape"
+      ],
+      "levels": [
+        31,
+        31,
+        31
+      ]
+    },
+    {
+      "name": "Black Belt Hideki",
+      "team": [
+        "Machop",
+        "Machoke"
+      ],
+      "levels": [
+        32,
+        32
+      ]
+    },
+    {
+      "name": "Black Belt Aaron",
+      "team": [
+        "Primeape"
+      ],
+      "levels": [
+        36
+      ]
+    },
+    {
+      "name": "Black Belt Mike",
+      "team": [
+        "Mankey",
+        "Mankey",
+        "Primeape"
+      ],
+      "levels": [
+        31,
+        31,
+        31
+      ]
+    },
+    {
+      "name": "Black Belt Koichi",
+      "team": [
+        "Hitmonlee",
+        "Hitmonchan"
+      ],
+      "levels": [
+        37,
+        37
+      ]
+    }
+  ],
+  "exits": {
+    "north": "route5.shtml",
+    "south": "route6.shtml",
+    "east": "route8.shtml",
+    "west": "route7.shtml"
+  },
+  "accesses": [
+    "silphco.shtml"
+  ]
+}

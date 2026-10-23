@@ -1,6 +1,6 @@
 import * as cheerio from 'cheerio';
-import type { RouteEncounter, EncounterMethod } from '#/types/route.ts';
-import { isEncounterMethod } from '#/types/route.ts';
+import type { RouteEncounter, EncounterMethod } from "#/types/route-encounter.ts";
+import { isEncounterMethod } from "#/types/route-encounter.ts";
 
 
 export function parseEncounters($: cheerio.CheerioAPI): RouteEncounter[] {

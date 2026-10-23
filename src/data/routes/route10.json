@@ -1,0 +1,272 @@
+{
+  "id": "route10",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route10.shtml",
+  "image": "/maps/route10.png",
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Voltorb",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Spearow",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Ekans",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Voltorb",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Spearow",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Sandshrew",
+      "rate": 25
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 84
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 84
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Picnicker Heidi",
+      "team": [
+        "Pikachu",
+        "Clefairy"
+      ],
+      "levels": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Picnicker Carol",
+      "team": [
+        "Pidgey",
+        "Pidgeotto"
+      ],
+      "levels": [
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Hiker Clark",
+      "team": [
+        "Geodude",
+        "Onix"
+      ],
+      "levels": [
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Hiker Trent",
+      "team": [
+        "Onix",
+        "Graveler"
+      ],
+      "levels": [
+        19,
+        19
+      ]
+    },
+    {
+      "name": "Hiker Trent",
+      "team": [
+        "Onix",
+        "Graveler"
+      ],
+      "levels": [
+        31,
+        31
+      ]
+    },
+    {
+      "name": "Pokemaniac Herman",
+      "team": [
+        "Cubone",
+        "Slowpoke"
+      ],
+      "levels": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Pokemaniac Herman",
+      "team": [
+        "Marowak",
+        "Slowbro"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Pokemaniac Herman",
+      "team": [
+        "Marowak",
+        "Slowbro"
+      ],
+      "levels": [
+        54,
+        54
+      ]
+    },
+    {
+      "name": "Pokemaniac Mark",
+      "team": [
+        "Rhyhorn",
+        "Lickitung"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Pokemaniac Mark",
+      "team": [
+        "Rhyhorn",
+        "Lickitung"
+      ],
+      "levels": [
+        33,
+        33
+      ]
+    },
+    {
+      "name": "Pokemaniac Mark",
+      "team": [
+        "Rhydon",
+        "Lickitung"
+      ],
+      "levels": [
+        54,
+        54
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": "lavendertown.shtml",
+    "east": null,
+    "west": "route9.shtml",
+    "inner": [
+      "rocktunnel.shtml",
+      "powerplant.shtml"
+    ]
+  }
+}

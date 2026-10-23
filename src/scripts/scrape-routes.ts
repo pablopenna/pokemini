@@ -8,6 +8,7 @@ import type { RouteData } from '#/types/route.ts';
 import { downloadImage } from '#/scripts/utils/download-image.ts'
 import { parseEncounters } from '#/scripts/utils/parse-encounters.ts';
 import { parseTrainers } from '#/scripts/utils/parse-trainers.ts';
+import { parseConnections } from './utils/parse-connections.ts';
 
 const FORCE = process.argv.includes('--force');
 const ROUTES_DIR = path.join('src', 'data', 'routes');
@@ -59,8 +60,9 @@ async function scrapeRoute(url: string, routeId: string, force: boolean) {
 
   const encounters = parseEncounters($);
   const trainers = parseTrainers($);
+  const connections = parseConnections($);
 
-  const routeData: RouteData = { id: routeId, url, image, encounters, trainers };
+  const routeData: RouteData = { id: routeId, url, image, encounters, trainers, connections };
 
   await fsp.mkdir(ROUTES_DIR, { recursive: true });
   await fsp.writeFile(jsonPath, JSON.stringify(routeData, null, 2));
