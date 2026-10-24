@@ -55,7 +55,7 @@
 
   /* Wide screens: image on the left, sections on the right. */
   @media (min-width: 900px) {
-    .layout { flex-direction: row; align-items: center; justify-content: center; }
+    .layout { flex-direction: row; align-items: flex-start; justify-content: center; }
     .map { flex: 1 1 50%; min-width: 0; }
     .panels { flex: 1 1 50%; min-width: 0; }
   }
