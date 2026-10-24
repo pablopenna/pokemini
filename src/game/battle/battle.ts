@@ -11,13 +11,20 @@ import { ChoiceBuilder } from '@pkmn/view';
 import { UIPlayer, type ChoiceRequest } from '#/game/battle/ui-player';
 
 // ---- reactive state -------------------------------------------------
-export const battleState = writable({
+const initialState = () => ({
     p1Sprite: null as string | null,
     p2Sprite: null as string | null,
     moves: [] as { label: string; choice: string; disabled: boolean }[],
     switches: [] as { label: string; choice: string }[],
     log: ''
 });
+
+export const battleState = writable(initialState());
+
+export function resetBattleState() {
+    currentBuilder = null;
+    battleState.set(initialState());
+}
 
 let currentBuilder: ChoiceBuilder | null = null;
 let player1: UIPlayer;
@@ -125,6 +132,7 @@ export async function main() {
                 clientBattle.add(args, kwArgs);
                 if (html) battleState.update(s => ({ ...s, log: s.log + html }));
                 updateSprites(clientBattle);
+                if (args[0] === 'win' || args[0] === 'tie') return;
             }
         }
     };
