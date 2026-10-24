@@ -168,5 +168,14 @@
         31
       ]
     }
-  ]
+  ],
+  "connections": {
+    "north": null,
+    "south": "route3",
+    "east": "ceruleancity",
+    "west": null,
+    "inner": [
+      "mt.moon"
+    ]
+  }
 }

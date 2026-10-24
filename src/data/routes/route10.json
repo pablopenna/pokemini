@@ -261,12 +261,12 @@
   ],
   "connections": {
     "north": null,
-    "south": "lavendertown.shtml",
+    "south": "lavendertown",
     "east": null,
-    "west": "route9.shtml",
+    "west": "route9",
     "inner": [
-      "rocktunnel.shtml",
-      "powerplant.shtml"
+      "rocktunnel",
+      "powerplant"
     ]
   }
 }

@@ -28,5 +28,12 @@
       "rate": 50
     }
   ],
-  "trainers": []
+  "trainers": [],
+  "connections": {
+    "north": "viridiancity",
+    "south": "pallettown",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
 }

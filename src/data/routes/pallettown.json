@@ -172,8 +172,8 @@
     }
   ],
   "connections": {
-    "north": "route1.shtml",
-    "south": "route21.shtml",
+    "north": "route1",
+    "south": "route21",
     "east": null,
     "west": null,
     "inner": []

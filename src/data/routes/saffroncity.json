@@ -171,13 +171,13 @@
       ]
     }
   ],
-  "exits": {
-    "north": "route5.shtml",
-    "south": "route6.shtml",
-    "east": "route8.shtml",
-    "west": "route7.shtml"
-  },
-  "accesses": [
-    "silphco.shtml"
-  ]
+  "connections": {
+    "north": "route5",
+    "south": "route6",
+    "east": "route8",
+    "west": "route7",
+    "inner": [
+      "silphco"
+    ]
+  }
 }

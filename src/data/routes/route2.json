@@ -52,5 +52,15 @@
       "rate": 5
     }
   ],
-  "trainers": []
+  "trainers": [],
+  "connections": {
+    "north": "pewtercity",
+    "south": "viridiancity",
+    "east": null,
+    "west": null,
+    "inner": [
+      "viridianforest",
+      "diglett'scave"
+    ]
+  }
 }

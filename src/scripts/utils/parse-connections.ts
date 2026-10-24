@@ -11,6 +11,8 @@ const BLOCK_TAGS = new Set([
   'br', 'p', 'table', 'tbody', 'tr', 'td', 'th', 'div', 'ul', 'ol', 'hr',
 ]);
 
+const stripExtension = (href: string) => href.replace(/\.shtml$/, '');
+
 // Fetches the North, East, West and South exits from the HTML
 function parseExits($: cheerio.CheerioAPI): Omit<RouteConnection, 'inner'> {
   const exits: Record<string, string | null> = Object.fromEntries(
@@ -37,7 +39,8 @@ function parseExits($: cheerio.CheerioAPI): Omit<RouteConnection, 'inner'> {
     if (!$a.length) $a = $node.parent().nextAll('a').first();
 
     if ($a.length) {
-      exits[dir] = $a.attr('href') ?? null;
+      const href = $a.attr('href');
+      exits[dir] = href ? stripExtension(href) : null;
     }
   });
 
@@ -79,7 +82,8 @@ function parseAccesses($: cheerio.CheerioAPI): string[] | null {
         child.name === 'a' ? [child] : $(child).find('a').toArray();
       for (const a of anchors) {
         const href = $(a).attr('href');
-        if (href && !links.includes(href)) links.push(href);
+        const clean = href && stripExtension(href);
+        if (clean && !links.includes(clean)) links.push(clean);
       }
     });
 
