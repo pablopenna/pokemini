@@ -2,6 +2,7 @@
   import { Teams } from '@pkmn/sim';
   import { TeamGenerators } from '@pkmn/randoms';
   import Battle from '#/components/Battle.svelte';
+  import LocationView from '#/components/LocationView.svelte';
     import type { BattleResult } from '#/types/battle/battle-result';
   import { Location } from '#/types/overworld/location';
   import type { Player } from '#/types/player';
@@ -37,6 +38,10 @@
     {#if lastResult}
       <p>Last battle: {lastResult === 'p1' ? 'you won' : lastResult === 'p2' ? 'you lost' : 'tie'}</p>
     {/if}
-    <button onclick={startBattle}>Battle</button>
+    <LocationView location={player.location} onTravel={loc => (player.location = loc)} />
+    <section>
+      <h2>Battle</h2>
+      <button onclick={startBattle}>Battle</button>
+    </section>
   </main>
 {/if}

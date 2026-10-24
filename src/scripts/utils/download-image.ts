@@ -15,7 +15,7 @@ export async function downloadImage(
   if (!force) {
     try {
       await fsp.access(destPath);
-      return `/maps/${filename}`;  // already cached
+      return `/locations/${filename}`;  // already cached
     } catch {
       // not cached, proceed
     }
@@ -26,5 +26,5 @@ export async function downloadImage(
   await fsp.writeFile(destPath, data);
   console.log(`  Downloaded ${filename}`);
 
-  return `/maps/${filename}`;
+  return `/locations/${filename}`;
 }

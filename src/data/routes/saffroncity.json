@@ -1,7 +1,7 @@
 {
   "id": "saffroncity",
   "url": "https://www.serebii.net/pokearth/kanto/3rd/saffroncity.shtml",
-  "image": "/maps/saffroncity.png",
+  "image": "/locations/saffroncity.png",
   "encounters": [
     {
       "method": "gift",

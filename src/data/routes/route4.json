@@ -1,7 +1,7 @@
 {
   "id": "route4",
   "url": "https://www.serebii.net/pokearth/kanto/3rd/route4.shtml",
-  "image": "/maps/route4.png",
+  "image": "/locations/route4.png",
   "encounters": [
     {
       "method": "grass",
