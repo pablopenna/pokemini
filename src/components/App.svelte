@@ -20,6 +20,7 @@
   // Main-screen state lives here and is untouched while the battle view is shown.
   let view = $state<'main' | 'battle'>('main');
   let lastResult = $state<BattleResult | null>(null);
+  let inventoryDialog = $state<HTMLDialogElement>();
 
   function startBattle() {
     opponentTeam = randomTeam();
@@ -40,7 +41,15 @@
       <DebugMenu bind:gameFlags={player.gameFlags} />
     {/if}
     <h1>PokéMini</h1>
-    <p>Current location: {player.location}</p>
+    <div class="player-info">
+      <p>Current location: {player.location}</p>
+      <p>Team: {player.team.map(p => p.species).join(', ') || 'empty'}</p>
+      <button onclick={() => inventoryDialog?.showModal()}>Inventory</button>
+      <dialog bind:this={inventoryDialog}>
+        <h2>Inventory</h2>
+        <form method="dialog"><button>Close</button></form>
+      </dialog>
+    </div>
     {#if lastResult}
       <p>Last battle: {lastResult === 'p1' ? 'you won' : lastResult === 'p2' ? 'you lost' : 'tie'}</p>
     {/if}
@@ -55,4 +64,5 @@
 
 <style>
   main { text-align: center; }
+  .player-info { margin-bottom: 1.5rem; }
 </style>
