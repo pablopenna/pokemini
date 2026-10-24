@@ -3,13 +3,14 @@
   import { TeamGenerators } from '@pkmn/randoms';
   import Battle from '#/components/Battle.svelte';
     import type { BattleResult } from '#/types/battle/battle-result';
+  import { Location } from '#/types/overworld/location';
   import type { Player } from '#/types/player';
 
   // Placeholder teams until the main page has real ones.
   Teams.setGeneratorFactory(TeamGenerators);
   const randomTeam = () => Teams.generate('gen9randombattle');
 
-  let player = $state<Player>({ team: randomTeam() });
+  let player = $state<Player>({ team: randomTeam(), location: Location.PalletTown });
   let opponentTeam = $state(randomTeam());
 
   // Main-screen state lives here and is untouched while the battle view is shown.
@@ -32,6 +33,7 @@
 {:else}
   <main>
     <h1>PokéMini</h1>
+    <p>Current location: {player.location}</p>
     {#if lastResult}
       <p>Last battle: {lastResult === 'p1' ? 'you won' : lastResult === 'p2' ? 'you lost' : 'tie'}</p>
     {/if}

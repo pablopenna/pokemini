@@ -170,5 +170,12 @@
         5
       ]
     }
-  ]
+  ],
+  "connections": {
+    "north": "route1.shtml",
+    "south": "route21.shtml",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
 }
