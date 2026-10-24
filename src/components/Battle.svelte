@@ -1,8 +1,8 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { main as doBattle, submitChoice, resetBattleState } from '#/game/battle/battle.ts';
-  import { type BattleResult } from '#/types/battle-result';
-  import type { PlayerControl, Team } from '#/types/battle-options';
+  import { type BattleResult } from '#/types/battle/battle-result';
+  import type { PlayerControl, Team } from '#/types/battle/battle-options';
   import SpriteRenderer from '#/components/SpriteRenderer.svelte';
   import ButtonPanel from '#/components/ButtonPanel.svelte';
   import BattleLog from '#/components/BattleLog.svelte';

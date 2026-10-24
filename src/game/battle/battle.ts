@@ -8,8 +8,8 @@ import { Sprites } from '@pkmn/img';
 import { Protocol } from '@pkmn/protocol';
 import { ChoiceBuilder } from '@pkmn/view';
 import { UIPlayer, type ChoiceRequest } from '#/game/battle/ui-player';
-import type { BattleResult } from '#/types/battle-result.ts';
-import type { BattleOptions } from '#/types/battle-options.ts';
+import type { BattleResult } from '#/types/battle/battle-result';
+import type { BattleOptions } from '#/types/battle/battle-options';
 
 // ---- reactive state -------------------------------------------------
 const initialState = () => ({

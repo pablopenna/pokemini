@@ -1,5 +1,5 @@
 import * as cheerio from 'cheerio';
-import type { RouteTrainer } from "#/types/route-trainer.ts";
+import type { RouteTrainer } from "#/types/overworld/route-trainer.ts";
 
 export function parseTrainers($: cheerio.CheerioAPI): RouteTrainer[] {
   const trainers: RouteTrainer[] = [];

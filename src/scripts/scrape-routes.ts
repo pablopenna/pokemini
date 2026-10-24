@@ -3,7 +3,7 @@ import * as cheerio from 'cheerio';
 import * as fsp from 'fs/promises'
 import * as path from 'path';
 
-import type { RouteData } from '#/types/route.ts';
+import type { RouteData } from '#/types/overworld/route.ts';
 
 import { downloadImage } from '#/scripts/utils/download-image.ts'
 import { parseEncounters } from '#/scripts/utils/parse-encounters.ts';

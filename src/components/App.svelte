@@ -2,8 +2,8 @@
   import { Teams } from '@pkmn/sim';
   import { TeamGenerators } from '@pkmn/randoms';
   import Battle from '#/components/Battle.svelte';
-    import type { BattleResult } from '#/types/battle-result';
-  import type { BattleOptions } from '#/types/battle-options';
+    import type { BattleResult } from '#/types/battle/battle-result';
+  import type { BattleOptions } from '#/types/battle/battle-options';
 
   // Placeholder teams until the main page has real ones.
   Teams.setGeneratorFactory(TeamGenerators);

@@ -1,6 +1,6 @@
 import * as cheerio from 'cheerio';
-import { DIRECTIONS } from '#/types/route-connections.ts';
-import type { RouteConnection } from '#/types/route-connections.ts';
+import { DIRECTIONS } from '#/types/overworld/route-connections.ts';
+import type { RouteConnection } from '#/types/overworld/route-connections.ts';
 
 const EXIT_PATTERN = /(North|South|East|West)\s+Exit\s*:/i;
 const ACCESS_PATTERN = /Access\s+To\s*:/i;
