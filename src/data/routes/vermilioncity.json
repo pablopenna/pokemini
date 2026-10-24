@@ -1,0 +1,297 @@
+{
+  "id": "vermilioncity",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/vermilioncity.shtml",
+  "image": "/locations/vermilioncity.png",
+  "images": [
+    "/locations/vermilioncity.png",
+    "/locations/vermilioncity-33-gym.png",
+    "/locations/vermilioncity-33-harbor.png"
+  ],
+  "encounters": [
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Shellder",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Staryu",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 44
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Shellder",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 44
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Staryu",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Sailor Dwayne",
+      "team": [
+        "Pikachu",
+        "Pikachu"
+      ],
+      "levels": [
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Engineer Baily",
+      "team": [
+        "Voltorb",
+        "Magnemite"
+      ],
+      "levels": [
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Gentleman Tucker",
+      "team": [
+        "Pikachu"
+      ],
+      "levels": [
+        23
+      ]
+    },
+    {
+      "name": "Leader Lt. Surge",
+      "team": [
+        "Voltorb",
+        "Pikachu",
+        "Raichu"
+      ],
+      "levels": [
+        21,
+        18,
+        24
+      ]
+    }
+  ],
+  "connections": {
+    "north": "route6",
+    "south": "ssanne",
+    "east": "route11",
+    "west": null,
+    "inner": [
+      "oneisland",
+      "twoisland",
+      "threeisleport"
+    ]
+  }
+}

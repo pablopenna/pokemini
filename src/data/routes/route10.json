@@ -2,6 +2,9 @@
   "id": "route10",
   "url": "https://www.serebii.net/pokearth/kanto/3rd/route10.shtml",
   "image": "/locations/route10.png",
+  "images": [
+    "/locations/route10.png"
+  ],
   "encounters": [
     {
       "method": "grass",

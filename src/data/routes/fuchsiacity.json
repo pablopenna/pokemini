@@ -1,0 +1,215 @@
+{
+  "id": "fuchsiacity",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/fuchsiacity.shtml",
+  "image": "/locations/fuchsiacity.png",
+  "images": [
+    "/locations/fuchsiacity.png",
+    "/locations/fuchsiacity-37-gym.png"
+  ],
+  "encounters": [
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Seaking",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 5
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Seaking",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 5
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Juggler Nate",
+      "team": [
+        "Drowzee",
+        "Kadabra"
+      ],
+      "levels": [
+        34,
+        34
+      ]
+    },
+    {
+      "name": "Juggler Kayden",
+      "team": [
+        "Hypno"
+      ],
+      "levels": [
+        38
+      ]
+    },
+    {
+      "name": "Juggler Kirk",
+      "team": [
+        "Drowzee",
+        "Drowzee",
+        "Kadabra",
+        "Drowzee"
+      ],
+      "levels": [
+        31,
+        31,
+        31,
+        31
+      ]
+    },
+    {
+      "name": "Tamer Edgar",
+      "team": [
+        "Arbok",
+        "Sandslash",
+        "Arbok"
+      ],
+      "levels": [
+        33,
+        33,
+        33
+      ]
+    },
+    {
+      "name": "Tamer Phil",
+      "team": [
+        "Sandslash",
+        "Arbok"
+      ],
+      "levels": [
+        34,
+        34
+      ]
+    },
+    {
+      "name": "Juggler Shawn",
+      "team": [
+        "Drowzee",
+        "Hypno"
+      ],
+      "levels": [
+        34,
+        34
+      ]
+    },
+    {
+      "name": "Leader Koga",
+      "team": [
+        "Koffing",
+        "Muk",
+        "Koffing",
+        "Weezing"
+      ],
+      "levels": [
+        37,
+        39,
+        37,
+        43
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": "route19",
+    "east": "route15",
+    "west": "route18",
+    "inner": [
+      "safarizone"
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "id": "treasurebeach",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/treasurebeach.shtml",
+  "image": "/locations/treasurebeach.png",
+  "images": [
+    "/locations/treasurebeach.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Spearow",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Tangela",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Fearow",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Meowth",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Persian",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Spearow",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Tangela",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Fearow",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Meowth",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Persian",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 95
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacruel",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 95
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacruel",
+      "rate": 5
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 80
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 80
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Seadra",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Kingler",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Swimmer F Amara",
+      "team": [
+        "Seel",
+        "Seel",
+        "Dewgong"
+      ],
+      "levels": [
+        36,
+        36,
+        36
+      ]
+    }
+  ],
+  "connections": {
+    "north": "oneisland",
+    "south": null,
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

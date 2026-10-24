@@ -1,0 +1,68 @@
+{
+  "id": "route7",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route7.shtml",
+  "image": "/locations/route7.png",
+  "images": [
+    "/locations/route7.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Meowth",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgey",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Oddish",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Growlithe",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Meowth",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgey",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Bellsprout",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Vulpix",
+      "rate": 10
+    }
+  ],
+  "trainers": [],
+  "connections": {
+    "north": null,
+    "south": null,
+    "east": "saffroncity",
+    "west": "celadoncity",
+    "inner": [
+      "undergroundpath7-8"
+    ]
+  }
+}

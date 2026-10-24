@@ -1,0 +1,300 @@
+{
+  "id": "route21",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route21.shtml",
+  "image": "/locations/route21.png",
+  "images": [
+    "/locations/route21.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Tangela",
+      "rate": 100
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Tangela",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Seadra",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Kingler",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Fisherman Wade",
+      "team": [
+        "Magikarp",
+        "Magikarp",
+        "Magikarp",
+        "Magikarp",
+        "Magikarp",
+        "Magikarp"
+      ],
+      "levels": [
+        27,
+        27,
+        27,
+        27,
+        27,
+        27
+      ]
+    },
+    {
+      "name": "Fisherman Wade",
+      "team": [
+        "Magikarp",
+        "Magikarp",
+        "Magikarp",
+        "Magikarp",
+        "Magikarp",
+        "Magikarp"
+      ],
+      "levels": [
+        47,
+        47,
+        47,
+        47,
+        47,
+        47
+      ]
+    },
+    {
+      "name": "Fisherman Ronald",
+      "team": [
+        "Seaking",
+        "Goldeen",
+        "Seaking",
+        "Seaking"
+      ],
+      "levels": [
+        28,
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Sis And Bro Lil & Ian",
+      "team": [
+        "Seadra",
+        "Starmie"
+      ],
+      "levels": [
+        33,
+        33
+      ]
+    },
+    {
+      "name": "Sis And Bro Lil & Ian",
+      "team": [
+        "Seadra",
+        "Starmie"
+      ],
+      "levels": [
+        50,
+        50
+      ]
+    },
+    {
+      "name": "Sis And Bro Lil & Ian",
+      "team": [
+        "Seadra",
+        "Starmie"
+      ],
+      "levels": [
+        55,
+        55
+      ]
+    },
+    {
+      "name": "Swimmer M Spencer",
+      "team": [
+        "Seadra",
+        "Tentacruel"
+      ],
+      "levels": [
+        33,
+        33
+      ]
+    },
+    {
+      "name": "Fisherman Claude",
+      "team": [
+        "Shellder",
+        "Cloyster"
+      ],
+      "levels": [
+        31,
+        31
+      ]
+    },
+    {
+      "name": "Fisherman Nolan",
+      "team": [
+        "Seaking",
+        "Goldeen"
+      ],
+      "levels": [
+        33,
+        33
+      ]
+    },
+    {
+      "name": "Swimmer M Jack",
+      "team": [
+        "Starmie"
+      ],
+      "levels": [
+        37
+      ]
+    },
+    {
+      "name": "Swimmer M Jack",
+      "team": [
+        "Starmie"
+      ],
+      "levels": [
+        50
+      ]
+    },
+    {
+      "name": "Swimmer M Roland",
+      "team": [
+        "Poliwhirl",
+        "Tentacool",
+        "Seadra"
+      ],
+      "levels": [
+        32,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "Swimmer M Jerome",
+      "team": [
+        "Staryu",
+        "Wartortle"
+      ],
+      "levels": [
+        33,
+        33
+      ]
+    }
+  ],
+  "connections": {
+    "north": "pallettown",
+    "south": "cinnabarisland",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

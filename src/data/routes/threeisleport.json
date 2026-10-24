@@ -1,0 +1,34 @@
+{
+  "id": "threeisleport",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/threeisleport.shtml",
+  "image": "/locations/threeisleport.png",
+  "images": [
+    "/locations/threeisleport.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Dunsparce",
+      "rate": 100
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Dunsparce",
+      "rate": 100
+    }
+  ],
+  "trainers": [],
+  "connections": {
+    "north": "threeisland",
+    "south": null,
+    "east": null,
+    "west": null,
+    "inner": [
+      "vermilioncity",
+      "oneisland",
+      "twoisland"
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "id": "ssanne",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/ssanne.shtml",
+  "image": "/locations/ssanne.png",
+  "images": [
+    "/locations/ssanne.png",
+    "/locations/ssanne-47-deck.png",
+    "/locations/ssanne-47-1f.png",
+    "/locations/ssanne-47-2f.png",
+    "/locations/ssanne-47-3f.png",
+    "/locations/ssanne-47-b1f.png"
+  ],
+  "encounters": [],
+  "trainers": [
+    {
+      "name": "Sailor Trevor",
+      "team": [
+        "Machop",
+        "Tentacool"
+      ],
+      "levels": [
+        17,
+        17
+      ]
+    },
+    {
+      "name": "Sailor Edmond",
+      "team": [
+        "Machop",
+        "Shellder"
+      ],
+      "levels": [
+        18,
+        18
+      ]
+    },
+    {
+      "name": "Gentleman Thomas",
+      "team": [
+        "Growlithe",
+        "Growlithe"
+      ],
+      "levels": [
+        18,
+        18
+      ]
+    },
+    {
+      "name": "Gentleman Arthur",
+      "team": [
+        "Nidoran♂",
+        "Nidoran♀"
+      ],
+      "levels": [
+        19,
+        19
+      ]
+    },
+    {
+      "name": "Lass Ann",
+      "team": [
+        "Pidgey",
+        "Nidoran♀"
+      ],
+      "levels": [
+        18,
+        18
+      ]
+    },
+    {
+      "name": "Youngster Tyler",
+      "team": [
+        "Nidoran♂"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeotto",
+        "Raticate",
+        "Kadabra",
+        "Wartortle"
+      ],
+      "levels": [
+        19,
+        16,
+        18,
+        20
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeotto",
+        "Raticate",
+        "Kadabra",
+        "Ivysaur"
+      ],
+      "levels": [
+        19,
+        16,
+        18,
+        20
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeotto",
+        "Raticate",
+        "Kadabra",
+        "Charmeleon"
+      ],
+      "levels": [
+        19,
+        16,
+        18,
+        20
+      ]
+    },
+    {
+      "name": "Fisherman Dale",
+      "team": [
+        "Goldeen",
+        "Tentacool",
+        "Goldeen"
+      ],
+      "levels": [
+        17,
+        17,
+        17
+      ]
+    },
+    {
+      "name": "Gentleman Brooks",
+      "team": [
+        "Pikachu"
+      ],
+      "levels": [
+        23
+      ]
+    },
+    {
+      "name": "Lass Dawn",
+      "team": [
+        "Rattata",
+        "Pikachu"
+      ],
+      "levels": [
+        18,
+        18
+      ]
+    },
+    {
+      "name": "Gentleman Lamar",
+      "team": [
+        "Growlithe",
+        "Ponyta"
+      ],
+      "levels": [
+        17,
+        17
+      ]
+    },
+    {
+      "name": "Sailor Duncan",
+      "team": [
+        "Horsea",
+        "Shellder",
+        "Tentacool"
+      ],
+      "levels": [
+        17,
+        17,
+        17
+      ]
+    },
+    {
+      "name": "Sailor Leonard",
+      "team": [
+        "Shellder"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "name": "Sailor Dylan",
+      "team": [
+        "Horsea",
+        "Horsea",
+        "Horsea"
+      ],
+      "levels": [
+        17,
+        17,
+        17
+      ]
+    },
+    {
+      "name": "Sailor Huey",
+      "team": [
+        "Tentacool",
+        "Staryu"
+      ],
+      "levels": [
+        18,
+        18
+      ]
+    },
+    {
+      "name": "Fisherman Barny",
+      "team": [
+        "Tentacool",
+        "Staryu",
+        "Shellder"
+      ],
+      "levels": [
+        17,
+        17,
+        17
+      ]
+    },
+    {
+      "name": "Sailor Phillip",
+      "team": [
+        "Machop"
+      ],
+      "levels": [
+        20
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": "vermilioncity",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

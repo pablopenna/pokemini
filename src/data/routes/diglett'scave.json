@@ -1,0 +1,67 @@
+{
+  "id": "diglett'scave",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/diglett'scave.shtml",
+  "image": "/locations/diglett'scave.png",
+  "images": [
+    "/locations/diglett'scave.png",
+    "/locations/diglett'scave-41-b1f.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Diglett",
+      "rate": 95
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Dugtrio",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Diglett",
+      "rate": 95
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Dugtrio",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Dugtrio",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Diglett",
+      "rate": 95
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Diglett",
+      "rate": 95
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Dugtrio",
+      "rate": 5
+    }
+  ],
+  "trainers": [],
+  "connections": {
+    "north": "route2",
+    "south": "route11",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

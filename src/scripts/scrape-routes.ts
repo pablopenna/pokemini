@@ -11,6 +11,8 @@ import { parseTrainers } from '#/scripts/utils/parse-trainers.ts';
 import { parseConnections } from './utils/parse-connections.ts';
 
 const FORCE = process.argv.includes('--force');
+const CRAWL = process.argv.includes('--crawl');
+const CRAWL_DELAY_MS = 300;
 const ROUTES_DIR = path.join('src', 'data', 'routes');
 
 let routeIdParam = '';
@@ -26,6 +28,25 @@ const parseParameters = (args: string[]) => {
 
 const getUrl = (routeId: string = 'route1'): string => {
   return `https://www.serebii.net/pokearth/kanto/3rd/${routeId}.shtml`
+}
+
+// Downloads every map image on the page (some places have one per floor).
+// Images that fail to download (e.g. 404) are skipped. The first one that
+// succeeds is saved as <routeId>, the rest as <routeId>-<original name>.
+async function downloadImages($: cheerio.CheerioAPI, url: string, routeId: string, force: boolean): Promise<string[]> {
+  const srcs = [...new Set($('img[src*="/pokearth/maps/"]').map((_, el) => $(el).attr('src')).get())];
+  const saved: string[] = [];
+
+  for (const src of srcs) {
+    const imageUrl = new URL(src, url).href;
+    const name = saved.length === 0 ? routeId : `${routeId}-${path.parse(src).name}`;
+    try {
+      saved.push(await downloadImage(imageUrl, name, force));
+    } catch (e) {
+      console.warn(`  Skipping image ${imageUrl} (${(e as any).status ?? e})`);
+    }
+  }
+  return saved;
 }
 
 async function scrapeRoute(url: string, routeId: string, force: boolean) {
@@ -54,15 +75,14 @@ async function scrapeRoute(url: string, routeId: string, force: boolean) {
   
   const $ = cheerio.load(html);
 
-  const imageSrc = $('img[src*="/pokearth/maps/"]').first().attr('src') || null;
-  const imageUrl = imageSrc ? new URL(imageSrc, url).href : null;
-  const image = imageUrl ? await downloadImage(imageUrl, routeId, force) : null;
+  const images = await downloadImages($, url, routeId, force);
+  const image = images[0] ?? null;
 
   const encounters = parseEncounters($);
   const trainers = parseTrainers($);
   const connections = parseConnections($);
 
-  const routeData: RouteData = { id: routeId, url, image, encounters, trainers, connections };
+  const routeData: RouteData = { id: routeId, url, image, images, encounters, trainers, connections };
 
   await fsp.mkdir(ROUTES_DIR, { recursive: true });
   await fsp.writeFile(jsonPath, JSON.stringify(routeData, null, 2));
@@ -70,10 +90,42 @@ async function scrapeRoute(url: string, routeId: string, force: boolean) {
   return routeData;
 }
 
+// Returns every location linked from a route (exits and inner areas).
+const connectionIds = (route: RouteData): string[] => {
+  const { inner, ...exits } = route.connections;
+  return [...Object.values(exits), ...inner].filter((id): id is string => !!id && !id.includes('/'));
+}
+
+// Depth-first: scrape a route, then recurse into each of its connections.
+async function crawl(routeId: string, visited: Set<string>) {
+  if (visited.has(routeId)) return;
+  visited.add(routeId);
+
+  let route: RouteData | undefined;
+  try {
+    route = await scrapeRoute(getUrl(routeId), routeId, FORCE);
+  } catch (e) {
+    console.error(`Failed to scrape ${routeId}:`, e);
+  }
+  if (!route) return;
+
+  await new Promise((resolve) => setTimeout(resolve, CRAWL_DELAY_MS));
+  for (const id of connectionIds(route)) {
+    await crawl(id, visited);
+  }
+}
+
 (async () => {
   parseParameters(args);
   if(routeIdParam === '') {
     console.error("Route ID required. specify with --id <routeId>. e.g --id route13");
+    return;
+  }
+
+  if (CRAWL) {
+    const visited = new Set<string>();
+    await crawl(routeIdParam, visited);
+    console.log(`Crawled ${visited.size} locations`);
     return;
   }
 

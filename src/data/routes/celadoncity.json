@@ -1,0 +1,235 @@
+{
+  "id": "celadoncity",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/celadoncity.shtml",
+  "image": "/locations/celadoncity.png",
+  "images": [
+    "/locations/celadoncity.png",
+    "/locations/celadoncity-35-gym.png",
+    "/locations/celadoncity-35-gamecorner.png"
+  ],
+  "encounters": [
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 99
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Koffing",
+      "rate": 1
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 99
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Koffing",
+      "rate": 1
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 99
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Grimer",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 99
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Grimer",
+      "rate": 1
+    },
+    {
+      "method": "gift",
+      "version": "unknown",
+      "species": "Eevee",
+      "rate": 0
+    },
+    {
+      "method": "gift",
+      "version": "unknown",
+      "species": "Abra",
+      "rate": 180
+    },
+    {
+      "method": "gift",
+      "version": "unknown",
+      "species": "Clefairy",
+      "rate": 500
+    },
+    {
+      "method": "gift",
+      "version": "unknown",
+      "species": "Scyther",
+      "rate": 5500
+    },
+    {
+      "method": "gift",
+      "version": "unknown",
+      "species": "Pinsir",
+      "rate": 5500
+    },
+    {
+      "method": "gift",
+      "version": "unknown",
+      "species": "Dratini",
+      "rate": 2800
+    },
+    {
+      "method": "gift",
+      "version": "unknown",
+      "species": "Porygon",
+      "rate": 9999
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Lass Kay",
+      "team": [
+        "Bellsprout",
+        "Weepinbell"
+      ],
+      "levels": [
+        23,
+        23
+      ]
+    },
+    {
+      "name": "Beauty Bridget",
+      "team": [
+        "Oddish",
+        "Bellsprout",
+        "Oddish",
+        "Bellsprout"
+      ],
+      "levels": [
+        21,
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Picnicker Tina",
+      "team": [
+        "Bulbasaur",
+        "Ivysaur"
+      ],
+      "levels": [
+        24,
+        24
+      ]
+    },
+    {
+      "name": "Beauty Tamia",
+      "team": [
+        "Bellsprout",
+        "Bellsprout"
+      ],
+      "levels": [
+        24,
+        24
+      ]
+    },
+    {
+      "name": "Beauty Lori",
+      "team": [
+        "Exeggcute"
+      ],
+      "levels": [
+        24
+      ]
+    },
+    {
+      "name": "Lass Lisa",
+      "team": [
+        "Oddish",
+        "Gloom"
+      ],
+      "levels": [
+        23,
+        23
+      ]
+    },
+    {
+      "name": "Cooltrainer Mary",
+      "team": [
+        "Bellsprout",
+        "Oddish",
+        "Weepinbell",
+        "Gloom",
+        "Ivysaur"
+      ],
+      "levels": [
+        22,
+        22,
+        22,
+        22,
+        22
+      ]
+    },
+    {
+      "name": "Leader Erika",
+      "team": [
+        "Victreebel",
+        "Tangela",
+        "Vileplume"
+      ],
+      "levels": [
+        29,
+        24,
+        29
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": null,
+    "east": "route7",
+    "west": "route16",
+    "inner": [
+      "rockethideout"
+    ]
+  }
+}

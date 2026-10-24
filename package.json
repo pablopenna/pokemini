@@ -10,6 +10,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "scraperoute": "node src/scripts/scrape-routes.ts",
+    "scrapeall": "node src/scripts/scrape-routes.ts --id route1 --crawl",
     "rescraperoutes": "for f in src/data/routes/*.json; do node src/scripts/scrape-routes.ts --id \"$(basename \"$f\" .json)\" --force; done"
   },
   "devDependencies": {

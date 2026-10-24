@@ -1,0 +1,72 @@
+{
+  "id": "powerplant",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/powerplant.shtml",
+  "image": "/locations/powerplant.png",
+  "images": [
+    "/locations/powerplant.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Magnemite",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Voltorb",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pikachu",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Magneton",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Electabuzz",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Magnemite",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Voltorb",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pikachu",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Magneton",
+      "rate": 15
+    }
+  ],
+  "trainers": [],
+  "connections": {
+    "north": null,
+    "south": "route10",
+    "east": "route10",
+    "west": null,
+    "inner": []
+  }
+}

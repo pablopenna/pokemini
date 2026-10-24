@@ -1,0 +1,401 @@
+{
+  "id": "pokemonmansion",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/pokemonmansion.shtml",
+  "image": "/locations/pokemonmansion.png",
+  "images": [
+    "/locations/pokemonmansion.png",
+    "/locations/pokemonmansion-54-2f.png",
+    "/locations/pokemonmansion-54-3f.png",
+    "/locations/pokemonmansion-54-b1f.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Raticate",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Koffing",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rattata",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Growlithe",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Grimer",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Weezing",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Raticate",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Grimer",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rattata",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Vulpix",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Koffing",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Muk",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Raticate",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Koffing",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rattata",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Growlithe",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Grimer",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Weezing",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Raticate",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Grimer",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rattata",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Vulpix",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Koffing",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Muk",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Raticate",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Koffing",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rattata",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Growlithe",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Grimer",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Weezing",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Raticate",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Grimer",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rattata",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Vulpix",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Koffing",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Muk",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Raticate",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Koffing",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Growlithe",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Ditto",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Grimer",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rattata",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Weezing",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Raticate",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Grimer",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Vulpix",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Ditto",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Koffing",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rattata",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Muk",
+      "rate": 5
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Youngster Johnson",
+      "team": [
+        "Ekans",
+        "Ekans",
+        "Raticate"
+      ],
+      "levels": [
+        33,
+        33,
+        34
+      ]
+    },
+    {
+      "name": "Scientist Ted",
+      "team": [
+        "Electrode",
+        "Weezing"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Burglar Arnie",
+      "team": [
+        "Charmander",
+        "Charmeleon"
+      ],
+      "levels": [
+        34,
+        34
+      ]
+    },
+    {
+      "name": "Burglar Simon",
+      "team": [
+        "Ninetales"
+      ],
+      "levels": [
+        38
+      ]
+    },
+    {
+      "name": "Scientist Braydon",
+      "team": [
+        "Magnemite",
+        "Magneton",
+        "Voltorb"
+      ],
+      "levels": [
+        33,
+        33,
+        33
+      ]
+    },
+    {
+      "name": "Burglar Lewis",
+      "team": [
+        "Growlithe",
+        "Ponyta"
+      ],
+      "levels": [
+        34,
+        34
+      ]
+    },
+    {
+      "name": "Scientist Ivan",
+      "team": [
+        "Magnemite",
+        "Electrode"
+      ],
+      "levels": [
+        34,
+        34
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": "cinnabarisland",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

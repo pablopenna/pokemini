@@ -1,0 +1,142 @@
+{
+  "id": "oneisland",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/oneisland.shtml",
+  "image": "/locations/oneisland.png",
+  "images": [
+    "/locations/oneisland.png"
+  ],
+  "encounters": [
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 95
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacruel",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 95
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacruel",
+      "rate": 5
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 80
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 80
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Shellder",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Seadra",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Staryu",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Kingler",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [],
+  "connections": {
+    "north": null,
+    "south": "treasurebeach",
+    "east": "kindleroad",
+    "west": null,
+    "inner": [
+      "vermilioncity",
+      "twoisland",
+      "threeisleport"
+    ]
+  }
+}

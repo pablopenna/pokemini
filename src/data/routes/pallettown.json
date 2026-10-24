@@ -2,6 +2,9 @@
   "id": "pallettown",
   "url": "https://www.serebii.net/pokearth/kanto/3rd/pallettown.shtml",
   "image": "/locations/pallettown.png",
+  "images": [
+    "/locations/pallettown.png"
+  ],
   "encounters": [
     {
       "method": "surf",

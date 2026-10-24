@@ -1,0 +1,266 @@
+{
+  "id": "indigoplateau",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/indigoplateau.shtml",
+  "image": null,
+  "images": [],
+  "encounters": [],
+  "trainers": [
+    {
+      "name": "Elite Four Lorelei",
+      "team": [
+        "Dewgong",
+        "Cloyster",
+        "Slowbro",
+        "Jynx",
+        "Lapras"
+      ],
+      "levels": [
+        52,
+        51,
+        52,
+        54,
+        54
+      ]
+    },
+    {
+      "name": "Elite Four Bruno",
+      "team": [
+        "Onix",
+        "Hitmonchan",
+        "Hitmonlee",
+        "Onix",
+        "Machamp"
+      ],
+      "levels": [
+        51,
+        53,
+        53,
+        54,
+        56
+      ]
+    },
+    {
+      "name": "Elite Four Agatha",
+      "team": [
+        "Gengar",
+        "Golbat",
+        "Haunter",
+        "Arbok",
+        "Gengar"
+      ],
+      "levels": [
+        54,
+        54,
+        53,
+        56,
+        58
+      ]
+    },
+    {
+      "name": "Elite Four Lance",
+      "team": [
+        "Gyarados",
+        "Dragonair",
+        "Dragonair",
+        "Aerodactyl",
+        "Dragonite"
+      ],
+      "levels": [
+        56,
+        54,
+        54,
+        58,
+        60
+      ]
+    },
+    {
+      "name": "Champion Blue",
+      "team": [
+        "Pidgeot",
+        "Alakazam",
+        "Rhydon",
+        "Arcanine",
+        "Exeggutor",
+        "Blastoise"
+      ],
+      "levels": [
+        59,
+        57,
+        59,
+        59,
+        61,
+        63
+      ]
+    },
+    {
+      "name": "Champion Blue",
+      "team": [
+        "Pidgeot",
+        "Alakazam",
+        "Rhydon",
+        "Gyarados",
+        "Arcanine",
+        "Venusaur"
+      ],
+      "levels": [
+        59,
+        57,
+        59,
+        59,
+        61,
+        63
+      ]
+    },
+    {
+      "name": "Champion Blue",
+      "team": [
+        "Pidgeot",
+        "Alakazam",
+        "Rhydon",
+        "Exeggutor",
+        "Gyarados",
+        "Charizard"
+      ],
+      "levels": [
+        59,
+        57,
+        59,
+        59,
+        61,
+        63
+      ]
+    },
+    {
+      "name": "Elite Four Lorelei",
+      "team": [
+        "Dewgong",
+        "Cloyster",
+        "Piloswine",
+        "Jynx",
+        "Lapras"
+      ],
+      "levels": [
+        64,
+        63,
+        63,
+        66,
+        66
+      ]
+    },
+    {
+      "name": "Elite Four Bruno",
+      "team": [
+        "Steelix",
+        "Hitmonchan",
+        "Hitmonlee",
+        "Steelix",
+        "Machamp"
+      ],
+      "levels": [
+        65,
+        65,
+        65,
+        66,
+        68
+      ]
+    },
+    {
+      "name": "Elite Four Agatha",
+      "team": [
+        "Gengar",
+        "Crobat",
+        "Misdreavus",
+        "Arbok",
+        "Gengar"
+      ],
+      "levels": [
+        66,
+        66,
+        65,
+        68,
+        70
+      ]
+    },
+    {
+      "name": "Elite Four Lance",
+      "team": [
+        "Gyarados",
+        "Dragonite",
+        "Kingdra",
+        "Aerodactyl",
+        "Dragonite"
+      ],
+      "levels": [
+        68,
+        66,
+        66,
+        70,
+        72
+      ]
+    },
+    {
+      "name": "Champion Blue",
+      "team": [
+        "Heracross",
+        "Alakazam",
+        "Tyranitar",
+        "Arcanine",
+        "Exeggutor",
+        "Blastoise"
+      ],
+      "levels": [
+        72,
+        73,
+        72,
+        73,
+        73,
+        75
+      ]
+    },
+    {
+      "name": "Champion Blue",
+      "team": [
+        "Heracross",
+        "Alakazam",
+        "Tyranitar",
+        "Gyarados",
+        "Arcanine",
+        "Venusaur"
+      ],
+      "levels": [
+        72,
+        73,
+        72,
+        73,
+        73,
+        75
+      ]
+    },
+    {
+      "name": "Champion Blue",
+      "team": [
+        "Heracross",
+        "Alakazam",
+        "Tyranitar",
+        "Exeggutor",
+        "Gyarados",
+        "Charizard"
+      ],
+      "levels": [
+        72,
+        73,
+        72,
+        73,
+        73,
+        75
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": "route23",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

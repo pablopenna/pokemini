@@ -1,0 +1,249 @@
+{
+  "id": "viridiancity",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/viridiancity.shtml",
+  "image": "/locations/viridiancity.png",
+  "images": [
+    "/locations/viridiancity.png",
+    "/locations/viridiancity-30-gym.png"
+  ],
+  "encounters": [
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Poliwhirl",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 5
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Poliwhirl",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 5
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Tamer Cole",
+      "team": [
+        "Arbok",
+        "Tauros"
+      ],
+      "levels": [
+        39,
+        39
+      ]
+    },
+    {
+      "name": "Black Belt Kiyo",
+      "team": [
+        "Machoke"
+      ],
+      "levels": [
+        43
+      ]
+    },
+    {
+      "name": "Cooltrainer Samuel",
+      "team": [
+        "Sandslash",
+        "Sandslash",
+        "Rhyhorn",
+        "Nidorino",
+        "Nidoking"
+      ],
+      "levels": [
+        37,
+        37,
+        38,
+        39,
+        39
+      ]
+    },
+    {
+      "name": "Cooltrainer Yuji",
+      "team": [
+        "Sandslash",
+        "Graveler",
+        "Onix",
+        "Graveler",
+        "Marowak"
+      ],
+      "levels": [
+        38,
+        38,
+        38,
+        38,
+        38
+      ]
+    },
+    {
+      "name": "Black Belt Atsushi",
+      "team": [
+        "Machop",
+        "Machoke"
+      ],
+      "levels": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "Tamer Jason",
+      "team": [
+        "Rhyhorn"
+      ],
+      "levels": [
+        43
+      ]
+    },
+    {
+      "name": "Cooltrainer Warren",
+      "team": [
+        "Marowak",
+        "Marowak",
+        "Rhyhorn",
+        "Nidorina",
+        "Nidoqueen"
+      ],
+      "levels": [
+        37,
+        37,
+        38,
+        39,
+        39
+      ]
+    },
+    {
+      "name": "Black Belt Takashi",
+      "team": [
+        "Machoke",
+        "Machop",
+        "Machoke"
+      ],
+      "levels": [
+        38,
+        38,
+        38
+      ]
+    },
+    {
+      "name": "Leader Giovanni",
+      "team": [
+        "Rhyhorn",
+        "Dugtrio",
+        "Nidoqueen",
+        "Nidoking",
+        "Rhyhorn"
+      ],
+      "levels": [
+        45,
+        42,
+        44,
+        45,
+        50
+      ]
+    }
+  ],
+  "connections": {
+    "north": "route2",
+    "south": "route1",
+    "east": null,
+    "west": "route22",
+    "inner": []
+  }
+}

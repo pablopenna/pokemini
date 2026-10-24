@@ -1,0 +1,295 @@
+{
+  "id": "route20",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route20.shtml",
+  "image": "/locations/route20.png",
+  "images": [
+    "/locations/route20.png"
+  ],
+  "encounters": [
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Seadra",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Kingler",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Swimmer M Barry",
+      "team": [
+        "Shellder",
+        "Cloyster"
+      ],
+      "levels": [
+        31,
+        31
+      ]
+    },
+    {
+      "name": "Swimmer M Darrin",
+      "team": [
+        "Horsea",
+        "Horsea",
+        "Seadra",
+        "Horsea"
+      ],
+      "levels": [
+        28,
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Swimmer M Darrin",
+      "team": [
+        "Seadra",
+        "Seadra",
+        "Seadra",
+        "Seadra"
+      ],
+      "levels": [
+        52,
+        52,
+        52,
+        52
+      ]
+    },
+    {
+      "name": "Swimmer F Shirley",
+      "team": [
+        "Seadra",
+        "Horsea",
+        "Seadra"
+      ],
+      "levels": [
+        30,
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Swimmer F Tiffany",
+      "team": [
+        "Seaking"
+      ],
+      "levels": [
+        35
+      ]
+    },
+    {
+      "name": "Picnicker Irene",
+      "team": [
+        "Tentacool",
+        "Horsea",
+        "Seel"
+      ],
+      "levels": [
+        30,
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Bird Keeper Roger",
+      "team": [
+        "Fearow",
+        "Fearow",
+        "Pidgeotto"
+      ],
+      "levels": [
+        30,
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Swimmer F Nora",
+      "team": [
+        "Shellder",
+        "Shellder",
+        "Cloyster"
+      ],
+      "levels": [
+        30,
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Swimmer M Dean",
+      "team": [
+        "Staryu"
+      ],
+      "levels": [
+        35
+      ]
+    },
+    {
+      "name": "Picnicker Missy",
+      "team": [
+        "Goldeen",
+        "Seaking"
+      ],
+      "levels": [
+        31,
+        31
+      ]
+    },
+    {
+      "name": "Picnicker Missy",
+      "team": [
+        "Seaking",
+        "Seaking"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    },
+    {
+      "name": "Picnicker Missy",
+      "team": [
+        "Seaking",
+        "Seaking"
+      ],
+      "levels": [
+        54,
+        54
+      ]
+    },
+    {
+      "name": "Swimmer F Melissa",
+      "team": [
+        "Poliwag",
+        "Seaking"
+      ],
+      "levels": [
+        31,
+        31
+      ]
+    },
+    {
+      "name": "Swimmer F Melissa",
+      "team": [
+        "Poliwhirl",
+        "Seaking"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": null,
+    "east": "route19",
+    "west": "cinnabarisland",
+    "inner": [
+      "seafoamislands"
+    ]
+  }
+}

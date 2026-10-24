@@ -1,0 +1,56 @@
+{
+  "id": "route5",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route5.shtml",
+  "image": "/locations/route5.png",
+  "images": [
+    "/locations/route5.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgey",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Meowth",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Oddish",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgey",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Meowth",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Bellsprout",
+      "rate": 25
+    }
+  ],
+  "trainers": [],
+  "connections": {
+    "north": "ceruleancity",
+    "south": "saffroncity",
+    "east": null,
+    "west": null,
+    "inner": [
+      "undergroundpath5-6"
+    ]
+  }
+}

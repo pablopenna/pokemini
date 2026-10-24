@@ -1,0 +1,933 @@
+{
+  "id": "safarizone",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/safarizone.shtml",
+  "image": "/locations/safarizone.png",
+  "images": [
+    "/locations/safarizone.png",
+    "/locations/safarizone-51-area2.png",
+    "/locations/safarizone-51-area3.png",
+    "/locations/safarizone-51-area4.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidoran♂",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Exeggcute",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rhyhorn",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Venonat",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidorino",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidorina",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Parasect",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Scyther",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Chansey",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidoran♀",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Exeggcute",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rhyhorn",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Venonat",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidorina",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidorino",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Parasect",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pinsir",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Chansey",
+      "rate": 1
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Seaking",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Dratini",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Dragonair",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Seaking",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Dratini",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Dragonair",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidoran♂",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Doduo",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Exeggcute",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Paras",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidorino",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidoran♀",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Parasect",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Kangaskhan",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Scyther",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidoran♀",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Doduo",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Exeggcute",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Paras",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidorina",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidoran♂",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Parasect",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Kangaskhan",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pinsir",
+      "rate": 1
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Seaking",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Dratini",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Dragonair",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Seaking",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Dratini",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Dragonair",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidoran♂",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Exeggcute",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rhyhorn",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Paras",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidorino",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidorina",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Venomoth",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Chansey",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Tauros",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidoran♀",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Exeggcute",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rhyhorn",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Paras",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidorina",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidorino",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Venomoth",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Chansey",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Tauros",
+      "rate": 1
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Seaking",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Dratini",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Dragonair",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Seaking",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Dratini",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Dragonair",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidoran♂",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Doduo",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Exeggcute",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Venonat",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidorino",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidoran♀",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Venomoth",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Tauros",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Kangaskhan",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidoran♀",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Doduo",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Exeggcute",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Venonat",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidorina",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidoran♂",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Venomoth",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Tauros",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Kangaskhan",
+      "rate": 1
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Seaking",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Dratini",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Dragonair",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Seaking",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Dratini",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Dragonair",
+      "rate": 1
+    }
+  ],
+  "trainers": [],
+  "connections": {
+    "north": null,
+    "south": "fuchsiacity",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

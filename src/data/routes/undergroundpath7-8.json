@@ -1,0 +1,17 @@
+{
+  "id": "undergroundpath7-8",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/undergroundpath7-8.shtml",
+  "image": "/locations/undergroundpath7-8.png",
+  "images": [
+    "/locations/undergroundpath7-8.png"
+  ],
+  "encounters": [],
+  "trainers": [],
+  "connections": {
+    "north": null,
+    "south": null,
+    "east": "route8",
+    "west": "route7",
+    "inner": []
+  }
+}

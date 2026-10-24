@@ -1,0 +1,234 @@
+{
+  "id": "capebrink",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/capebrink.shtml",
+  "image": "/locations/capebrink.png",
+  "images": [
+    "/locations/capebrink.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Oddish",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Spearow",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Gloom",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Fearow",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Meowth",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Persian",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golduck",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Bellsprout",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Spearow",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Weepinbell",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Fearow",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Meowth",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Persian",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowbro",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 95
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Golduck",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 95
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowbro",
+      "rate": 5
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Poliwhirl",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 5
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Poliwhirl",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 5
+    }
+  ],
+  "trainers": [],
+  "connections": {
+    "north": null,
+    "south": "twoisland",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

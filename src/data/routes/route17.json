@@ -1,0 +1,230 @@
+{
+  "id": "route17",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route17.shtml",
+  "image": "/locations/route17.png",
+  "images": [
+    "/locations/route17.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Doduo",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Spearow",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Raticate",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rattata",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Fearow",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Doduo",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Spearow",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Raticate",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rattata",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Fearow",
+      "rate": 5
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Cue Ball Isaiah",
+      "team": [
+        "Machop",
+        "Machamp"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Cue Ball Isaiah",
+      "team": [
+        "Machoke",
+        "Machamp"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    },
+    {
+      "name": "Biker Virgil",
+      "team": [
+        "Weezing",
+        "Koffing",
+        "Weezing"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Cue Ball Raul",
+      "team": [
+        "Mankey",
+        "Primeape"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Biker Billy",
+      "team": [
+        "Muk"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "name": "Biker Nikolas",
+      "team": [
+        "Voltorb",
+        "Voltorb"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Cue Ball Zeek",
+      "team": [
+        "Machoke"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "name": "Cue Ball Corey",
+      "team": [
+        "Primeape",
+        "Machoke"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Cue Ball Corey",
+      "team": [
+        "Primeape",
+        "Machamp"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    },
+    {
+      "name": "Biker Jaxon",
+      "team": [
+        "Weezing",
+        "Muk"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Biker Jaxon",
+      "team": [
+        "Weezing",
+        "Muk"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    },
+    {
+      "name": "Cue Ball Jamal",
+      "team": [
+        "Mankey",
+        "Mankey",
+        "Machamp",
+        "Machop"
+      ],
+      "levels": [
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    {
+      "name": "Biker William",
+      "team": [
+        "Koffing",
+        "Weezing",
+        "Koffing",
+        "Koffing",
+        "Weezing"
+      ],
+      "levels": [
+        25,
+        25,
+        25,
+        25,
+        25
+      ]
+    }
+  ],
+  "connections": {
+    "north": "route16",
+    "south": "route18",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

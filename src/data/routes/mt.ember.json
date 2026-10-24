@@ -1,0 +1,322 @@
+{
+  "id": "mt.ember",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/mt.ember.shtml",
+  "image": "/locations/mt.ember.png",
+  "images": [
+    "/locations/mt.ember.png",
+    "/locations/mt.ember-60-summit.png",
+    "/locations/mt.ember-60-summitpath1f.png",
+    "/locations/mt.ember-60-summitpath2f.png",
+    "/locations/mt.ember-60-summitpath3f.png",
+    "/locations/mt.ember-60-rubypath1f.png",
+    "/locations/mt.ember-60-rubypathb1f.png",
+    "/locations/mt.ember-60-rubypathb2f.png",
+    "/locations/mt.ember-60-rubypathb3f.png",
+    "/locations/mt.ember-60-rubypathb4f.png",
+    "/locations/mt.ember-60-rubypathb5f.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Ponyta",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Fearow",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Spearow",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machop",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rapidash",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Ponyta",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Fearow",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Spearow",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machop",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rapidash",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Magmar",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machop",
+      "rate": 50
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 50
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machop",
+      "rate": 50
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 50
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machop",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machoke",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machop",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machoke",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machop",
+      "rate": 50
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 50
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machop",
+      "rate": 50
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 50
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 70
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Slugma",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 70
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slugma",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Slugma",
+      "rate": 60
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slugma",
+      "rate": 60
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Slugma",
+      "rate": 100
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slugma",
+      "rate": 100
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Slugma",
+      "rate": 60
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slugma",
+      "rate": 60
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 70
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Slugma",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 70
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slugma",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 70
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Slugma",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 70
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slugma",
+      "rate": 20
+    }
+  ],
+  "trainers": [],
+  "connections": {
+    "north": null,
+    "south": "kindleroad",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

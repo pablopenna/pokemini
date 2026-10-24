@@ -1,0 +1,313 @@
+{
+  "id": "route11",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route11.shtml",
+  "image": "/locations/route11.png",
+  "images": [
+    "/locations/route11.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Ekans",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Spearow",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Drowzee",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Sandshrew",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Spearow",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Drowzee",
+      "rate": 25
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 84
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 84
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Youngster Eddie",
+      "team": [
+        "Ekans"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "name": "Gamer Hugo",
+      "team": [
+        "Poliwag",
+        "Horsea"
+      ],
+      "levels": [
+        18,
+        18
+      ]
+    },
+    {
+      "name": "Engineer Bernie",
+      "team": [
+        "Magnemite",
+        "Magnemite",
+        "Magneton"
+      ],
+      "levels": [
+        18,
+        18,
+        18
+      ]
+    },
+    {
+      "name": "Engineer Bernie",
+      "team": [
+        "Magneton",
+        "Magneton",
+        "Magneton"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Gamer Jasper",
+      "team": [
+        "Bellsprout",
+        "Oddish"
+      ],
+      "levels": [
+        18,
+        18
+      ]
+    },
+    {
+      "name": "Youngster Dave",
+      "team": [
+        "Nidoran♂",
+        "Nidorino"
+      ],
+      "levels": [
+        18,
+        18
+      ]
+    },
+    {
+      "name": "Youngster Dillon",
+      "team": [
+        "Sandshrew",
+        "Zubat"
+      ],
+      "levels": [
+        19,
+        19
+      ]
+    },
+    {
+      "name": "Engineer Braxton",
+      "team": [
+        "Magnemite"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "name": "Youngster Yasu",
+      "team": [
+        "Rattata",
+        "Rattata",
+        "Raticate"
+      ],
+      "levels": [
+        17,
+        17,
+        17
+      ]
+    },
+    {
+      "name": "Youngster Yasu",
+      "team": [
+        "Rattata",
+        "Raticate",
+        "Raticate"
+      ],
+      "levels": [
+        22,
+        22,
+        22
+      ]
+    },
+    {
+      "name": "Youngster Yasu",
+      "team": [
+        "Raticate",
+        "Raticate",
+        "Raticate"
+      ],
+      "levels": [
+        47,
+        47,
+        47
+      ]
+    },
+    {
+      "name": "Gamer Darian",
+      "team": [
+        "Growlithe",
+        "Vulpix"
+      ],
+      "levels": [
+        18,
+        18
+      ]
+    },
+    {
+      "name": "Gamer Darian",
+      "team": [
+        "Growlithe",
+        "Vulpix"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Gamer Dirk",
+      "team": [
+        "Voltorb",
+        "Magnemite"
+      ],
+      "levels": [
+        18,
+        18
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": null,
+    "east": "route12",
+    "west": "vermilioncity",
+    "inner": [
+      "diglett'scave"
+    ]
+  }
+}

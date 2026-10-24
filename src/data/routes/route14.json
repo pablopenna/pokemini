@@ -1,0 +1,287 @@
+{
+  "id": "route14",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route14.shtml",
+  "image": "/locations/route14.png",
+  "images": [
+    "/locations/route14.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Oddish",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Venonat",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Ditto",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgey",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgeotto",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Gloom",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Bellsprout",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Venonat",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Ditto",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgey",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgeotto",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Weepinbell",
+      "rate": 5
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Bird Keeper Carter",
+      "team": [
+        "Pidgey",
+        "Doduo",
+        "Pidgeotto"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Bird Keeper Mitch",
+      "team": [
+        "Pidgey",
+        "Spearow",
+        "Pidgey",
+        "Fearow"
+      ],
+      "levels": [
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    {
+      "name": "Bird Keeper Marlon",
+      "team": [
+        "Spearow",
+        "Doduo",
+        "Fearow"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Bird Keeper Marlon",
+      "team": [
+        "Fearow",
+        "Doduo",
+        "Fearow"
+      ],
+      "levels": [
+        30,
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Bird Keeper Marlon",
+      "team": [
+        "Fearow",
+        "Dodrio",
+        "Fearow"
+      ],
+      "levels": [
+        48,
+        48,
+        48
+      ]
+    },
+    {
+      "name": "Bird Keeper Beck",
+      "team": [
+        "Pidgeotto",
+        "Fearow"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Bird Keeper Donald",
+      "team": [
+        "Farfetch'd"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "name": "Bird Keeper Benny",
+      "team": [
+        "Spearow",
+        "Fearow"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Bird Keeper Benny",
+      "team": [
+        "Fearow",
+        "Fearow"
+      ],
+      "levels": [
+        32,
+        32
+      ]
+    },
+    {
+      "name": "Bird Keeper Benny",
+      "team": [
+        "Fearow",
+        "Fearow"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    },
+    {
+      "name": "Biker Gerald",
+      "team": [
+        "Koffing",
+        "Muk"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Biker Malik",
+      "team": [
+        "Koffing",
+        "Grimer"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Biker Isaac",
+      "team": [
+        "Grimer",
+        "Grimer",
+        "Koffing"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Biker Lukas",
+      "team": [
+        "Koffing",
+        "Koffing",
+        "Grimer",
+        "Koffing"
+      ],
+      "levels": [
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    {
+      "name": "Biker Lukas",
+      "team": [
+        "Koffing",
+        "Koffing",
+        "Muk",
+        "Weezing"
+      ],
+      "levels": [
+        47,
+        47,
+        47,
+        47
+      ]
+    },
+    {
+      "name": "Twins Kiri & Jan",
+      "team": [
+        "Charmander",
+        "Squirtle"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": null,
+    "east": "route13",
+    "west": "route15",
+    "inner": []
+  }
+}

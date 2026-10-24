@@ -1,0 +1,386 @@
+{
+  "id": "route24",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route24.shtml",
+  "image": "/locations/route24.png",
+  "images": [
+    "/locations/route24.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Oddish",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Caterpie",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Weedle",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgey",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Abra",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Kakuna",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Metapod",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Bellsprout",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Caterpie",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Weedle",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgey",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Abra",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Metapod",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Kakuna",
+      "rate": 1
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 84
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 84
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeotto",
+        "Abra",
+        "Rattata",
+        "Squirtle"
+      ],
+      "levels": [
+        17,
+        16,
+        15,
+        18
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeotto",
+        "Abra",
+        "Rattata",
+        "Bulbasaur"
+      ],
+      "levels": [
+        17,
+        16,
+        15,
+        18
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeotto",
+        "Abra",
+        "Rattata",
+        "Charmander"
+      ],
+      "levels": [
+        17,
+        16,
+        15,
+        18
+      ]
+    },
+    {
+      "name": "Bug Catcher Cale",
+      "team": [
+        "Caterpie",
+        "Weedle",
+        "Metapod",
+        "Kakuna"
+      ],
+      "levels": [
+        10,
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Lass Ali",
+      "team": [
+        "Pidgey",
+        "Oddish",
+        "Bellsprout"
+      ],
+      "levels": [
+        12,
+        12,
+        12
+      ]
+    },
+    {
+      "name": "Youngster Timmy",
+      "team": [
+        "Sandshrew",
+        "Ekans"
+      ],
+      "levels": [
+        14,
+        14
+      ]
+    },
+    {
+      "name": "Youngster Timmy",
+      "team": [
+        "Raticate",
+        "Ekans",
+        "Zubat"
+      ],
+      "levels": [
+        19,
+        19,
+        19
+      ]
+    },
+    {
+      "name": "Youngster Timmy",
+      "team": [
+        "Raticate",
+        "Ekans",
+        "Golbat"
+      ],
+      "levels": [
+        27,
+        27,
+        27
+      ]
+    },
+    {
+      "name": "Youngster Timmy",
+      "team": [
+        "Raticate",
+        "Arbok",
+        "Golbat"
+      ],
+      "levels": [
+        52,
+        52,
+        52
+      ]
+    },
+    {
+      "name": "Lass Reli",
+      "team": [
+        "Nidoran♂",
+        "Nidoran♀"
+      ],
+      "levels": [
+        16,
+        16
+      ]
+    },
+    {
+      "name": "Lass Reli",
+      "team": [
+        "Pidgey",
+        "Nidoran♀"
+      ],
+      "levels": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Lass Reli",
+      "team": [
+        "Pidgeotto",
+        "Nidorina"
+      ],
+      "levels": [
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Camper Ethan",
+      "team": [
+        "Mankey"
+      ],
+      "levels": [
+        18
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Ekans",
+        "Zubat"
+      ],
+      "levels": [
+        15,
+        15
+      ]
+    },
+    {
+      "name": "Camper Shane",
+      "team": [
+        "Rattata",
+        "Ekans"
+      ],
+      "levels": [
+        14,
+        14
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": "ceruleancity",
+    "east": "route25",
+    "west": null,
+    "inner": []
+  }
+}

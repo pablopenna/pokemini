@@ -1,0 +1,331 @@
+{
+  "id": "route15",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route15.shtml",
+  "image": "/locations/route15.png",
+  "images": [
+    "/locations/route15.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Oddish",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Venonat",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgey",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgeotto",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Gloom",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Ditto",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Bellsprout",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Venonat",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgey",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgeotto",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Weepinbell",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Ditto",
+      "rate": 5
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Picnicker Becky",
+      "team": [
+        "Pikachu",
+        "Raichu"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Picnicker Becky",
+      "team": [
+        "Pikachu",
+        "Raichu"
+      ],
+      "levels": [
+        32,
+        32
+      ]
+    },
+    {
+      "name": "Picnicker Becky",
+      "team": [
+        "Pikachu",
+        "Raichu"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    },
+    {
+      "name": "Picnicker Becky",
+      "team": [
+        "Raichu",
+        "Raichu"
+      ],
+      "levels": [
+        54,
+        54
+      ]
+    },
+    {
+      "name": "Crush Kin Ron & Mya",
+      "team": [
+        "Hitmonchan",
+        "Hitmonlee"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Crush Kin Ron & Mya",
+      "team": [
+        "Hitmonchan",
+        "Hitmonlee"
+      ],
+      "levels": [
+        33,
+        33
+      ]
+    },
+    {
+      "name": "Crush Kin Ron & Mya",
+      "team": [
+        "Hitmonchan",
+        "Hitmonlee"
+      ],
+      "levels": [
+        51,
+        51
+      ]
+    },
+    {
+      "name": "Crush Kin Ron & Mya",
+      "team": [
+        "Hitmonchan",
+        "Hitmonlee"
+      ],
+      "levels": [
+        56,
+        56
+      ]
+    },
+    {
+      "name": "Picnicker Celia",
+      "team": [
+        "Clefairy"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "name": "Biker Ernest",
+      "team": [
+        "Koffing",
+        "Koffing",
+        "Weezing",
+        "Koffing",
+        "Grimer"
+      ],
+      "levels": [
+        25,
+        25,
+        25,
+        25,
+        25
+      ]
+    },
+    {
+      "name": "Biker Alex",
+      "team": [
+        "Koffing",
+        "Grimer",
+        "Weezing"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Beauty Grace",
+      "team": [
+        "Pidgeotto",
+        "Wigglytuff"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Beauty Grace",
+      "team": [
+        "Pidgeot",
+        "Wigglytuff"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    },
+    {
+      "name": "Beauty Olivia",
+      "team": [
+        "Bulbasaur",
+        "Ivysaur"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Picnicker Kindra",
+      "team": [
+        "Gloom",
+        "Oddish",
+        "Oddish"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Bird Keeper Chester",
+      "team": [
+        "Dodrio",
+        "Doduo",
+        "Doduo"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Bird Keeper Chester",
+      "team": [
+        "Dodrio",
+        "Dodrio",
+        "Doduo"
+      ],
+      "levels": [
+        30,
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Bird Keeper Chester",
+      "team": [
+        "Dodrio",
+        "Dodrio",
+        "Dodrio"
+      ],
+      "levels": [
+        48,
+        48,
+        48
+      ]
+    },
+    {
+      "name": "Bird Keeper Edwin",
+      "team": [
+        "Pidgeotto",
+        "Farfetch'd",
+        "Doduo",
+        "Pidgey"
+      ],
+      "levels": [
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    {
+      "name": "Picnicker Yazmin",
+      "team": [
+        "Bellsprout",
+        "Oddish",
+        "Tangela"
+      ],
+      "levels": [
+        29,
+        29,
+        29
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": null,
+    "east": "route14",
+    "west": "fuchsiacity",
+    "inner": []
+  }
+}

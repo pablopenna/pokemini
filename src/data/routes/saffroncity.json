@@ -2,6 +2,11 @@
   "id": "saffroncity",
   "url": "https://www.serebii.net/pokearth/kanto/3rd/saffroncity.shtml",
   "image": "/locations/saffroncity.png",
+  "images": [
+    "/locations/saffroncity.png",
+    "/locations/saffroncity-36-gym.png",
+    "/locations/saffroncity-36-fightingdojo.png"
+  ],
   "encounters": [
     {
       "method": "gift",

@@ -1,0 +1,303 @@
+{
+  "id": "route19",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route19.shtml",
+  "image": "/locations/route19.png",
+  "images": [
+    "/locations/route19.png"
+  ],
+  "encounters": [
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Seadra",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Kingler",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Swimmer M Richard",
+      "team": [
+        "Tentacool",
+        "Shellder"
+      ],
+      "levels": [
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Swimmer M Reece",
+      "team": [
+        "Goldeen",
+        "Horsea",
+        "Staryu"
+      ],
+      "levels": [
+        29,
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Swimmer M Tony",
+      "team": [
+        "Horsea",
+        "Horsea"
+      ],
+      "levels": [
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Swimmer M Tony",
+      "team": [
+        "Seadra",
+        "Seadra"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    },
+    {
+      "name": "Swimmer M David",
+      "team": [
+        "Goldeen",
+        "Shellder",
+        "Seaking"
+      ],
+      "levels": [
+        29,
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Swimmer M Douglas",
+      "team": [
+        "Horsea",
+        "Tentacool",
+        "Tentacool",
+        "Goldeen"
+      ],
+      "levels": [
+        27,
+        27,
+        27,
+        27
+      ]
+    },
+    {
+      "name": "Swimmer M Matthew",
+      "team": [
+        "Poliwag",
+        "Poliwhirl"
+      ],
+      "levels": [
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Swimmer M Matthew",
+      "team": [
+        "Poliwhirl",
+        "Poliwrath"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    },
+    {
+      "name": "Sis And Bro Lia & Luc",
+      "team": [
+        "Goldeen",
+        "Seaking"
+      ],
+      "levels": [
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Swimmer M Axle",
+      "team": [
+        "Tentacool",
+        "Tentacool",
+        "Staryu",
+        "Horsea",
+        "Tentacruel"
+      ],
+      "levels": [
+        27,
+        27,
+        27,
+        27,
+        27
+      ]
+    },
+    {
+      "name": "Swimmer F Alice",
+      "team": [
+        "Goldeen",
+        "Seaking"
+      ],
+      "levels": [
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Swimmer F Alice",
+      "team": [
+        "Seaking",
+        "Seaking"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    },
+    {
+      "name": "Swimmer F Connie",
+      "team": [
+        "Staryu",
+        "Staryu",
+        "Staryu"
+      ],
+      "levels": [
+        29,
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Swimmer F Anya",
+      "team": [
+        "Poliwag",
+        "Goldeen",
+        "Seaking",
+        "Goldeen",
+        "Poliwag"
+      ],
+      "levels": [
+        27,
+        27,
+        27,
+        27,
+        27
+      ]
+    }
+  ],
+  "connections": {
+    "north": "fuchsiacity",
+    "south": null,
+    "east": null,
+    "west": "route20",
+    "inner": []
+  }
+}

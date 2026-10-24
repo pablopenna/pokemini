@@ -1,0 +1,253 @@
+{
+  "id": "route22",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route22.shtml",
+  "image": "/locations/route22.png",
+  "images": [
+    "/locations/route22.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rattata",
+      "rate": 45
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Mankey",
+      "rate": 45
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Spearow",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rattata",
+      "rate": 45
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Mankey",
+      "rate": 45
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Spearow",
+      "rate": 10
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Poliwhirl",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 5
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Poliwhirl",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 5
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgey",
+        "Squirtle"
+      ],
+      "levels": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgey",
+        "Bulbasaur"
+      ],
+      "levels": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgey",
+        "Charmander"
+      ],
+      "levels": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeot",
+        "Rhyhorn",
+        "Growlithe",
+        "Exeggcute",
+        "Alakazam",
+        "Blastoise"
+      ],
+      "levels": [
+        47,
+        45,
+        45,
+        45,
+        47,
+        53
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeot",
+        "Rhyhorn",
+        "Gyarados",
+        "Growlithe",
+        "Alakazam",
+        "Venusaur"
+      ],
+      "levels": [
+        47,
+        45,
+        45,
+        45,
+        47,
+        53
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeot",
+        "Rhyhorn",
+        "Exeggcute",
+        "Gyarados",
+        "Alakazam",
+        "Charizard"
+      ],
+      "levels": [
+        47,
+        45,
+        45,
+        45,
+        47,
+        53
+      ]
+    }
+  ],
+  "connections": {
+    "north": "route23",
+    "south": null,
+    "east": "viridiancity",
+    "west": null,
+    "inner": []
+  }
+}

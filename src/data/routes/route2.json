@@ -2,6 +2,9 @@
   "id": "route2",
   "url": "https://www.serebii.net/pokearth/kanto/3rd/route2.shtml",
   "image": "/locations/route2.png",
+  "images": [
+    "/locations/route2.png"
+  ],
   "encounters": [
     {
       "method": "grass",

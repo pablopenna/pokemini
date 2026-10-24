@@ -1,0 +1,418 @@
+{
+  "id": "pokemontower",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/pokemontower.shtml",
+  "image": "/locations/pokemontower.png",
+  "images": [
+    "/locations/pokemontower.png",
+    "/locations/pokemontower-48-2f.png",
+    "/locations/pokemontower-48-3f.png",
+    "/locations/pokemontower-48-4f.png",
+    "/locations/pokemontower-48-5f.png",
+    "/locations/pokemontower-48-6f.png",
+    "/locations/pokemontower-48-7f.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Gastly",
+      "rate": 90
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Cubone",
+      "rate": 9
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Haunter",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Gastly",
+      "rate": 90
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Cubone",
+      "rate": 9
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Haunter",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Gastly",
+      "rate": 86
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Cubone",
+      "rate": 9
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Haunter",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Gastly",
+      "rate": 86
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Cubone",
+      "rate": 9
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Haunter",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Gastly",
+      "rate": 86
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Cubone",
+      "rate": 9
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Haunter",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Gastly",
+      "rate": 86
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Cubone",
+      "rate": 9
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Haunter",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Gastly",
+      "rate": 85
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Cubone",
+      "rate": 9
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Haunter",
+      "rate": 6
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Gastly",
+      "rate": 85
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Cubone",
+      "rate": 9
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Haunter",
+      "rate": 6
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Gastly",
+      "rate": 75
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Haunter",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Cubone",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Gastly",
+      "rate": 75
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Haunter",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Cubone",
+      "rate": 10
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeotto",
+        "Growlithe",
+        "Exeggcute",
+        "Kadabra",
+        "Wartortle"
+      ],
+      "levels": [
+        25,
+        23,
+        22,
+        20,
+        25
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeotto",
+        "Gyarados",
+        "Growlithe",
+        "Kadabra",
+        "Ivysaur"
+      ],
+      "levels": [
+        25,
+        23,
+        22,
+        20,
+        25
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeotto",
+        "Exeggcute",
+        "Gyarados",
+        "Kadabra",
+        "Charmeleon"
+      ],
+      "levels": [
+        25,
+        23,
+        22,
+        20,
+        25
+      ]
+    },
+    {
+      "name": "Channeler Hope",
+      "team": [
+        "Gastly"
+      ],
+      "levels": [
+        23
+      ]
+    },
+    {
+      "name": "Channeler Patricia",
+      "team": [
+        "Gastly"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "name": "Channeler Carly",
+      "team": [
+        "Gastly"
+      ],
+      "levels": [
+        24
+      ]
+    },
+    {
+      "name": "Channeler Laurel",
+      "team": [
+        "Gastly",
+        "Gastly"
+      ],
+      "levels": [
+        23,
+        23
+      ]
+    },
+    {
+      "name": "Channeler Jody",
+      "team": [
+        "Gastly"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "name": "Channeler Paula",
+      "team": [
+        "Gastly"
+      ],
+      "levels": [
+        24
+      ]
+    },
+    {
+      "name": "Channeler Ruth",
+      "team": [
+        "Gastly"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "name": "Channeler Tammy",
+      "team": [
+        "Haunter"
+      ],
+      "levels": [
+        23
+      ]
+    },
+    {
+      "name": "Channeler Karina",
+      "team": [
+        "Gastly"
+      ],
+      "levels": [
+        24
+      ]
+    },
+    {
+      "name": "Channeler Janae",
+      "team": [
+        "Gastly"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "name": "Channeler Angelica",
+      "team": [
+        "Gastly",
+        "Gastly",
+        "Gastly"
+      ],
+      "levels": [
+        22,
+        22,
+        22
+      ]
+    },
+    {
+      "name": "Channeler Jennifer",
+      "team": [
+        "Gastly"
+      ],
+      "levels": [
+        24
+      ]
+    },
+    {
+      "name": "Channeler Emilia",
+      "team": [
+        "Gastly"
+      ],
+      "levels": [
+        24
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Zubat",
+        "Zubat",
+        "Golbat"
+      ],
+      "levels": [
+        25,
+        25,
+        25
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Koffing",
+        "Drowzee"
+      ],
+      "levels": [
+        26,
+        26
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Zubat",
+        "Rattata",
+        "Raticate",
+        "Zubat"
+      ],
+      "levels": [
+        23,
+        23,
+        23,
+        23
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": "lavendertown",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

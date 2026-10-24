@@ -1,0 +1,19 @@
+{
+  "id": "lavendertown",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/lavendertown.shtml",
+  "image": "/locations/lavendertown.png",
+  "images": [
+    "/locations/lavendertown.png"
+  ],
+  "encounters": [],
+  "trainers": [],
+  "connections": {
+    "north": "route10",
+    "south": "route12",
+    "east": null,
+    "west": "route8",
+    "inner": [
+      "pokemontower"
+    ]
+  }
+}

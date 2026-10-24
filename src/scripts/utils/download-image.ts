@@ -2,13 +2,14 @@ import * as fsp from 'fs/promises';
 import * as path from 'path';
 import axios from 'axios';
 
+/** Downloads an image to public/locations as `<name><ext>` and returns its public path. Throws if the download fails. */
 export async function downloadImage(
   imageUrl: string,
-  routeId: string,
+  name: string,
   force: boolean = false
 ): Promise<string> {
   const ext = path.extname(new URL(imageUrl).pathname);
-  const filename = `${routeId}${ext}`;
+  const filename = `${name}${ext}`;
   const destDir = path.join('public', 'locations');
   const destPath = path.join(destDir, filename);
 

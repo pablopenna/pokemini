@@ -1,0 +1,41 @@
+{
+  "id": "pewtercity",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/pewtercity.shtml",
+  "image": "/locations/pewtercity.png",
+  "images": [
+    "/locations/pewtercity.png",
+    "/locations/pewtercity-31-gym.png"
+  ],
+  "encounters": [],
+  "trainers": [
+    {
+      "name": "Camper Liam",
+      "team": [
+        "Geodude",
+        "Sandshrew"
+      ],
+      "levels": [
+        10,
+        11
+      ]
+    },
+    {
+      "name": "Leader Brock",
+      "team": [
+        "Geodude",
+        "Onix"
+      ],
+      "levels": [
+        12,
+        14
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": "route2",
+    "east": "route3",
+    "west": null,
+    "inner": []
+  }
+}

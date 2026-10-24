@@ -1,0 +1,160 @@
+{
+  "id": "ceruleancity",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/ceruleancity.shtml",
+  "image": "/locations/ceruleancity.png",
+  "images": [
+    "/locations/ceruleancity.png",
+    "/locations/ceruleancity-32-gym.png"
+  ],
+  "encounters": [
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 84
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 84
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Machop",
+        "Drowzee"
+      ],
+      "levels": [
+        17,
+        17
+      ]
+    },
+    {
+      "name": "Swimmer M Luis",
+      "team": [
+        "Horsea",
+        "Shellder"
+      ],
+      "levels": [
+        16,
+        16
+      ]
+    },
+    {
+      "name": "Picnicker Diana",
+      "team": [
+        "Goldeen"
+      ],
+      "levels": [
+        19
+      ]
+    },
+    {
+      "name": "Leader Misty",
+      "team": [
+        "Staryu",
+        "Starmie"
+      ],
+      "levels": [
+        18,
+        21
+      ]
+    }
+  ],
+  "connections": {
+    "north": "route24",
+    "south": "route5",
+    "east": "route9",
+    "west": "route4",
+    "inner": [
+      "ceruleancave"
+    ]
+  }
+}

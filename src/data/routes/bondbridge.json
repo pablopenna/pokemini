@@ -1,0 +1,319 @@
+{
+  "id": "bondbridge",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/bondbridge.shtml",
+  "image": "/locations/bondbridge.png",
+  "images": [
+    "/locations/bondbridge.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgey",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Oddish",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgeotto",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Gloom",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Meowth",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Venonat",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Persian",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgey",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Bellsprout",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgeotto",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Weepinbell",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Meowth",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Venonat",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Persian",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 95
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacruel",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 95
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacruel",
+      "rate": 5
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 80
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 80
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Seadra",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Kingler",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Twins Joy & Meg",
+      "team": [
+        "Clefairy",
+        "Clefairy"
+      ],
+      "levels": [
+        37,
+        37
+      ]
+    },
+    {
+      "name": "Twins Joy & Meg",
+      "team": [
+        "Clefairy",
+        "Clefairy"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    },
+    {
+      "name": "Aroma Lady Violet",
+      "team": [
+        "Bulbasaur",
+        "Ivysaur",
+        "Ivysaur"
+      ],
+      "levels": [
+        36,
+        36,
+        36
+      ]
+    },
+    {
+      "name": "Tuber Alexis",
+      "team": [
+        "Staryu",
+        "Staryu",
+        "Krabby",
+        "Krabby"
+      ],
+      "levels": [
+        34,
+        34,
+        34,
+        34
+      ]
+    },
+    {
+      "name": "Swimmer F Tisha",
+      "team": [
+        "Kingler"
+      ],
+      "levels": [
+        38
+      ]
+    },
+    {
+      "name": "Tuber Amira",
+      "team": [
+        "Poliwag",
+        "Poliwhirl",
+        "Poliwag"
+      ],
+      "levels": [
+        34,
+        35,
+        34
+      ]
+    },
+    {
+      "name": "Tuber Amira",
+      "team": [
+        "Poliwhirl",
+        "Poliwhirl",
+        "Poliwhirl"
+      ],
+      "levels": [
+        47,
+        47,
+        47
+      ]
+    },
+    {
+      "name": "Aroma Lady Nikki",
+      "team": [
+        "Bellsprout",
+        "Weepinbell"
+      ],
+      "levels": [
+        37,
+        37
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": null,
+    "east": "threeisland",
+    "west": "berryforest",
+    "inner": []
+  }
+}

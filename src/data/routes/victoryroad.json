@@ -1,0 +1,495 @@
+{
+  "id": "victoryroad",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/victoryroad.shtml",
+  "image": "/locations/victoryroad.png",
+  "images": [
+    "/locations/victoryroad.png",
+    "/locations/victoryroad-55-2f.png",
+    "/locations/victoryroad-55-3f.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Onix",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machop",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Zubat",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Arbok",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golbat",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machoke",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Marowak",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Onix",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machop",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Zubat",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Sandslash",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Golbat",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machoke",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Marowak",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machop",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Onix",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Zubat",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Primeape",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Arbok",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golbat",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machoke",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Marowak",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machop",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Onix",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Zubat",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Primeape",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Sandslash",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Golbat",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machoke",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Marowak",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Onix",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machop",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Zubat",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Arbok",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golbat",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machoke",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Marowak",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Onix",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machop",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Zubat",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Sandslash",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Golbat",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machoke",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Marowak",
+      "rate": 5
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Cooltrainer Naomi",
+      "team": [
+        "Persian",
+        "Ponyta",
+        "Rapidash",
+        "Vulpix",
+        "Ninetales"
+      ],
+      "levels": [
+        42,
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "name": "Cooltrainer Rolando",
+      "team": [
+        "Raticate",
+        "Ivysaur",
+        "Wartortle",
+        "Charmeleon",
+        "Charizard"
+      ],
+      "levels": [
+        42,
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "name": "Black Belt Daisuke",
+      "team": [
+        "Machoke",
+        "Machop",
+        "Machoke"
+      ],
+      "levels": [
+        43,
+        43,
+        43
+      ]
+    },
+    {
+      "name": "Juggler Nelson",
+      "team": [
+        "Drowzee",
+        "Hypno",
+        "Kadabra",
+        "Kadabra"
+      ],
+      "levels": [
+        41,
+        41,
+        41,
+        41
+      ]
+    },
+    {
+      "name": "Tamer Vincent",
+      "team": [
+        "Persian",
+        "Golduck"
+      ],
+      "levels": [
+        44,
+        44
+      ]
+    },
+    {
+      "name": "Juggler Gregory",
+      "team": [
+        "Mr. Mime"
+      ],
+      "levels": [
+        48
+      ]
+    },
+    {
+      "name": "Cooltrainer George",
+      "team": [
+        "Exeggutor",
+        "Sandslash",
+        "Cloyster",
+        "Electrode",
+        "Arcanine"
+      ],
+      "levels": [
+        42,
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "name": "Pokemaniac Dawson",
+      "team": [
+        "Charmeleon",
+        "Lapras",
+        "Lickitung"
+      ],
+      "levels": [
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "name": "Cooltrainer Alexa",
+      "team": [
+        "Clefairy",
+        "Jigglypuff",
+        "Persian",
+        "Dewgong",
+        "Chansey"
+      ],
+      "levels": [
+        42,
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "name": "Cooltrainer Colby",
+      "team": [
+        "Kingler",
+        "Poliwhirl",
+        "Tentacruel",
+        "Seadra",
+        "Blastoise"
+      ],
+      "levels": [
+        41,
+        42,
+        42,
+        42,
+        43
+      ]
+    },
+    {
+      "name": "Cooltrainer Caroline",
+      "team": [
+        "Bellsprout",
+        "Weepinbell",
+        "Victreebel",
+        "Paras",
+        "Parasect"
+      ],
+      "levels": [
+        42,
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "name": "Cool Couple Ray & Tyra",
+      "team": [
+        "Nidoqueen",
+        "Nidoking"
+      ],
+      "levels": [
+        45,
+        45
+      ]
+    }
+  ],
+  "connections": {
+    "north": "route23",
+    "south": "route23",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

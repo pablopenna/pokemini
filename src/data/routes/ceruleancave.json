@@ -1,0 +1,548 @@
+{
+  "id": "ceruleancave",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/ceruleancave.shtml",
+  "image": "/locations/ceruleancave.png",
+  "images": [
+    "/locations/ceruleancave.png",
+    "/locations/ceruleancave-43-2f.png",
+    "/locations/ceruleancave-43-b1f.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Parasect",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Magneton",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golbat",
+      "rate": 14
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Primeape",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Ditto",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machoke",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Electrode",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Wobbuffet",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Parasect",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Magneton",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Golbat",
+      "rate": 14
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Primeape",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Ditto",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machoke",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Electrode",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Wobbuffet",
+      "rate": 4
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 65
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Golduck",
+      "rate": 35
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 65
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowbro",
+      "rate": 35
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Poliwhirl",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 5
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Poliwhirl",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golbat",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machoke",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Parasect",
+      "rate": 14
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Kadabra",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Ditto",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Magneton",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Wobbuffet",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Electrode",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Golbat",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machoke",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Parasect",
+      "rate": 14
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Kadabra",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Ditto",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Magneton",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Wobbuffet",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Electrode",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Kadabra",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Ditto",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Parasect",
+      "rate": 14
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golbat",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Machoke",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Magneton",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Electrode",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Wobbuffet",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Kadabra",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Ditto",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Parasect",
+      "rate": 14
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Golbat",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Machoke",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Magneton",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Electrode",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Wobbuffet",
+      "rate": 1
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 65
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Golduck",
+      "rate": 35
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 65
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowbro",
+      "rate": 35
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Poliwhirl",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 5
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Poliwhirl",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 5
+    }
+  ],
+  "trainers": [],
+  "connections": {
+    "north": null,
+    "south": "ceruleancity",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

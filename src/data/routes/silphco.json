@@ -1,0 +1,460 @@
+{
+  "id": "silphco",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/silphco.shtml",
+  "image": "/locations/silphco.png",
+  "images": [
+    "/locations/silphco.png",
+    "/locations/silphco-50-2f.png",
+    "/locations/silphco-50-3f.png",
+    "/locations/silphco-50-4f.png",
+    "/locations/silphco-50-5f.png",
+    "/locations/silphco-50-6f.png",
+    "/locations/silphco-50-7f.png",
+    "/locations/silphco-50-8f.png",
+    "/locations/silphco-50-9f.png",
+    "/locations/silphco-50-10f.png",
+    "/locations/silphco-50-11f.png"
+  ],
+  "encounters": [
+    {
+      "method": "gift",
+      "version": "unknown",
+      "species": "Lapras",
+      "rate": 0
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Golbat",
+        "Zubat",
+        "Zubat",
+        "Raticate",
+        "Zubat"
+      ],
+      "levels": [
+        25,
+        25,
+        25,
+        25,
+        25
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Cubone",
+        "Zubat"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Scientist Jerry",
+      "team": [
+        "Magnemite",
+        "Voltorb",
+        "Magneton"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Raticate",
+        "Hypno",
+        "Raticate"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Scientist Jose",
+      "team": [
+        "Electrode",
+        "Weezing"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Ekans",
+        "Zubat",
+        "Cubone"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Machop",
+        "Drowzee"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Scientist Rodney",
+      "team": [
+        "Electrode"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "name": "Scientist Beau",
+      "team": [
+        "Magneton",
+        "Koffing",
+        "Weezing",
+        "Magnemite"
+      ],
+      "levels": [
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Arbok"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Hypno"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "name": "Juggler Dalton",
+      "team": [
+        "Kadabra",
+        "Mr. Mime"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Machop",
+        "Machoke"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Zubat",
+        "Zubat",
+        "Golbat"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Scientist Taylor",
+      "team": [
+        "Voltorb",
+        "Koffing",
+        "Magneton",
+        "Magnemite",
+        "Koffing"
+      ],
+      "levels": [
+        25,
+        25,
+        25,
+        25,
+        25
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Cubone",
+        "Cubone"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Sandshrew",
+        "Sandslash"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Raticate",
+        "Zubat",
+        "Golbat",
+        "Rattata"
+      ],
+      "levels": [
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    {
+      "name": "Scientist Joshua",
+      "team": [
+        "Electrode",
+        "Muk"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeot",
+        "Growlithe",
+        "Exeggcute",
+        "Alakazam",
+        "Blastoise"
+      ],
+      "levels": [
+        37,
+        38,
+        35,
+        35,
+        40
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeot",
+        "Gyarados",
+        "Growlithe",
+        "Alakazam",
+        "Venusaur"
+      ],
+      "levels": [
+        37,
+        38,
+        35,
+        35,
+        40
+      ]
+    },
+    {
+      "name": "Rival Blue",
+      "team": [
+        "Pidgeot",
+        "Exeggcute",
+        "Gyarados",
+        "Alakazam",
+        "Charizard"
+      ],
+      "levels": [
+        37,
+        38,
+        35,
+        35,
+        40
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Raticate",
+        "Arbok",
+        "Koffing",
+        "Golbat"
+      ],
+      "levels": [
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Weezing",
+        "Golbat",
+        "Koffing"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Scientist Parker",
+      "team": [
+        "Grimer",
+        "Electrode"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Golbat",
+        "Drowzee",
+        "Hypno"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Drowzee",
+        "Grimer",
+        "Machop"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Scientist Ed",
+      "team": [
+        "Voltorb",
+        "Koffing",
+        "Magneton"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Scientist Travis",
+      "team": [
+        "Magnemite",
+        "Koffing"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Machoke"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Rattata",
+        "Rattata",
+        "Zubat",
+        "Rattata",
+        "Ekans"
+      ],
+      "levels": [
+        25,
+        25,
+        25,
+        25,
+        25
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Cubone",
+        "Drowzee",
+        "Marowak"
+      ],
+      "levels": [
+        32,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "Boss Giovanni",
+      "team": [
+        "Nidorino",
+        "Kangaskhan",
+        "Rhyhorn",
+        "Nidoqueen"
+      ],
+      "levels": [
+        37,
+        35,
+        37,
+        41
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": "saffroncity",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "id": "route8",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route8.shtml",
+  "image": "/locations/route8.png",
+  "images": [
+    "/locations/route8.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgey",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Meowth",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Ekans",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Growlithe",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgey",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Meowth",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Sandshrew",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Vulpix",
+      "rate": 20
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Lass Julia",
+      "team": [
+        "Clefairy",
+        "Clefairy"
+      ],
+      "levels": [
+        22,
+        22
+      ]
+    },
+    {
+      "name": "Gamer Rich",
+      "team": [
+        "Growlithe",
+        "Vulpix"
+      ],
+      "levels": [
+        24,
+        24
+      ]
+    },
+    {
+      "name": "Gamer Rich",
+      "team": [
+        "Growlithe",
+        "Vulpix"
+      ],
+      "levels": [
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Super Nerd Glenn",
+      "team": [
+        "Grimer",
+        "Muk",
+        "Grimer"
+      ],
+      "levels": [
+        22,
+        22,
+        22
+      ]
+    },
+    {
+      "name": "Super Nerd Glenn",
+      "team": [
+        "Muk",
+        "Muk",
+        "Muk"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Twins Eli & Anne",
+      "team": [
+        "Clefairy",
+        "Jigglypuff"
+      ],
+      "levels": [
+        22,
+        22
+      ]
+    },
+    {
+      "name": "Twins Eli & Anne",
+      "team": [
+        "Clefairy",
+        "Jigglypuff"
+      ],
+      "levels": [
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Lass Megan",
+      "team": [
+        "Pidgey",
+        "Rattata",
+        "Nidoran♂",
+        "Meowth",
+        "Pikachu"
+      ],
+      "levels": [
+        19,
+        19,
+        19,
+        19,
+        19
+      ]
+    },
+    {
+      "name": "Lass Megan",
+      "team": [
+        "Pidgeotto",
+        "Raticate",
+        "Nidoran♂",
+        "Meowth",
+        "Pikachu"
+      ],
+      "levels": [
+        22,
+        22,
+        23,
+        21,
+        22
+      ]
+    },
+    {
+      "name": "Lass Megan",
+      "team": [
+        "Pidgeot",
+        "Raticate",
+        "Nidorino",
+        "Persian",
+        "Raichu"
+      ],
+      "levels": [
+        46,
+        47,
+        47,
+        47,
+        48
+      ]
+    },
+    {
+      "name": "Lass Andrea",
+      "team": [
+        "Meowth",
+        "Meowth",
+        "Meowth"
+      ],
+      "levels": [
+        24,
+        24,
+        24
+      ]
+    },
+    {
+      "name": "Super Nerd Leslie",
+      "team": [
+        "Koffing"
+      ],
+      "levels": [
+        26
+      ]
+    },
+    {
+      "name": "Lass Paige",
+      "team": [
+        "Nidoran♀",
+        "Nidorina"
+      ],
+      "levels": [
+        23,
+        23
+      ]
+    },
+    {
+      "name": "Biker Jaren",
+      "team": [
+        "Grimer",
+        "Grimer"
+      ],
+      "levels": [
+        24,
+        24
+      ]
+    },
+    {
+      "name": "Biker Jaren",
+      "team": [
+        "Muk",
+        "Muk"
+      ],
+      "levels": [
+        28,
+        30
+      ]
+    },
+    {
+      "name": "Biker Ricardo",
+      "team": [
+        "Koffing",
+        "Koffing",
+        "Grimer"
+      ],
+      "levels": [
+        22,
+        22,
+        23
+      ]
+    },
+    {
+      "name": "Super Nerd Aidan",
+      "team": [
+        "Voltorb",
+        "Koffing",
+        "Voltorb",
+        "Magnemite"
+      ],
+      "levels": [
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Gamer Stan",
+      "team": [
+        "Poliwag",
+        "Poliwag",
+        "Poliwhirl"
+      ],
+      "levels": [
+        22,
+        22,
+        22
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": null,
+    "east": "lavendertown",
+    "west": "saffroncity",
+    "inner": [
+      "undergroundpath7-8"
+    ]
+  }
+}

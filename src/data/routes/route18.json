@@ -1,0 +1,144 @@
+{
+  "id": "route18",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route18.shtml",
+  "image": "/locations/route18.png",
+  "images": [
+    "/locations/route18.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Doduo",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Spearow",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Raticate",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Fearow",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rattata",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Doduo",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Spearow",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Raticate",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Fearow",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rattata",
+      "rate": 5
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Bird Keeper Jacob",
+      "team": [
+        "Spearow",
+        "Spearow",
+        "Fearow",
+        "Spearow"
+      ],
+      "levels": [
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    {
+      "name": "Bird Keeper Jacob",
+      "team": [
+        "Fearow",
+        "Spearow",
+        "Fearow",
+        "Spearow"
+      ],
+      "levels": [
+        28,
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Bird Keeper Jacob",
+      "team": [
+        "Fearow",
+        "Fearow",
+        "Fearow",
+        "Fearow"
+      ],
+      "levels": [
+        47,
+        47,
+        47,
+        47
+      ]
+    },
+    {
+      "name": "Bird Keeper Wilton",
+      "team": [
+        "Spearow",
+        "Fearow"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Bird Keeper Ramiro",
+      "team": [
+        "Dodrio"
+      ],
+      "levels": [
+        34
+      ]
+    }
+  ],
+  "connections": {
+    "north": "route17",
+    "south": null,
+    "east": "fuchsiacity",
+    "west": null,
+    "inner": []
+  }
+}

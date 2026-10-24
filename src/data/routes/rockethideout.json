@@ -1,0 +1,186 @@
+{
+  "id": "rockethideout",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/rockethideout.shtml",
+  "image": "/locations/rockethideout.png",
+  "images": [
+    "/locations/rockethideout.png",
+    "/locations/rockethideout-49-entrance.png",
+    "/locations/rockethideout-49-b1f.png",
+    "/locations/rockethideout-49-b2f.png",
+    "/locations/rockethideout-49-b3f.png",
+    "/locations/rockethideout-49-b4f.png"
+  ],
+  "encounters": [],
+  "trainers": [
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Raticate",
+        "Zubat"
+      ],
+      "levels": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Raticate",
+        "Raticate"
+      ],
+      "levels": [
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Drowzee",
+        "Machop"
+      ],
+      "levels": [
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Rattata",
+        "Raticate",
+        "Raticate",
+        "Rattata"
+      ],
+      "levels": [
+        19,
+        19,
+        19,
+        19
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Grimer",
+        "Koffing",
+        "Koffing"
+      ],
+      "levels": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Grimer",
+        "Koffing"
+      ],
+      "levels": [
+        22,
+        22
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Zubat",
+        "Koffing",
+        "Grimer",
+        "Zubat",
+        "Raticate"
+      ],
+      "levels": [
+        17,
+        17,
+        17,
+        17,
+        17
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Machop",
+        "Machop"
+      ],
+      "levels": [
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Rattata",
+        "Raticate",
+        "Drowzee"
+      ],
+      "levels": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Koffing",
+        "Zubat"
+      ],
+      "levels": [
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Sandshrew",
+        "Ekans",
+        "Sandslash"
+      ],
+      "levels": [
+        23,
+        23,
+        23
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Ekans",
+        "Sandshrew",
+        "Arbok"
+      ],
+      "levels": [
+        23,
+        23,
+        23
+      ]
+    },
+    {
+      "name": "Boss Giovanni",
+      "team": [
+        "Onix",
+        "Rhyhorn",
+        "Kangaskhan"
+      ],
+      "levels": [
+        25,
+        24,
+        29
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": "celadoncity",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": "route16",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route16.shtml",
+  "image": "/locations/route16.png",
+  "images": [
+    "/locations/route16.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Doduo",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rattata",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Spearow",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Raticate",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Doduo",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rattata",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Spearow",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Raticate",
+      "rate": 5
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Young Couple Lea & Jed",
+      "team": [
+        "Rapidash",
+        "Ninetales"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Biker Lao",
+      "team": [
+        "Grimer",
+        "Koffing"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Cue Ball Luke",
+      "team": [
+        "Mankey",
+        "Machop"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Cue Ball Koji",
+      "team": [
+        "Machop",
+        "Mankey",
+        "Machop"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Biker Hideo",
+      "team": [
+        "Weezing"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "name": "Biker Ruben",
+      "team": [
+        "Weezing",
+        "Koffing",
+        "Weezing"
+      ],
+      "levels": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Biker Ruben",
+      "team": [
+        "Weezing",
+        "Weezing",
+        "Weezing"
+      ],
+      "levels": [
+        48,
+        48,
+        48
+      ]
+    },
+    {
+      "name": "Cue Ball Camron",
+      "team": [
+        "Mankey",
+        "Machop"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Cue Ball Camron",
+      "team": [
+        "Primeape",
+        "Machoke"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": "route17",
+    "east": "celadoncity",
+    "west": null,
+    "inner": []
+  }
+}

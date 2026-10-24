@@ -1,0 +1,58 @@
+{
+  "id": "threeisland",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/threeisland.shtml",
+  "image": "/locations/threeisland.png",
+  "images": [
+    "/locations/threeisland.png"
+  ],
+  "encounters": [],
+  "trainers": [
+    {
+      "name": "Biker Goon",
+      "team": [
+        "Koffing",
+        "Grimer"
+      ],
+      "levels": [
+        37,
+        37
+      ]
+    },
+    {
+      "name": "Biker Goon",
+      "team": [
+        "Koffing"
+      ],
+      "levels": [
+        38
+      ]
+    },
+    {
+      "name": "Biker Goon",
+      "team": [
+        "Grimer"
+      ],
+      "levels": [
+        38
+      ]
+    },
+    {
+      "name": "Cue Ball Paxton",
+      "team": [
+        "Weezing",
+        "Muk"
+      ],
+      "levels": [
+        39,
+        39
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": "threeisleport",
+    "east": null,
+    "west": "bondbridge",
+    "inner": []
+  }
+}

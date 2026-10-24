@@ -1,0 +1,488 @@
+{
+  "id": "kindleroad",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/kindleroad.shtml",
+  "image": "/locations/kindleroad.png",
+  "images": [
+    "/locations/kindleroad.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Ponyta",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Spearow",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Fearow",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Meowth",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Persian",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rapidash",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Ponyta",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Spearow",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Fearow",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Meowth",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Persian",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rapidash",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 95
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacruel",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 95
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacruel",
+      "rate": 5
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 80
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 80
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Seadra",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Kingler",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Swimmer F Abigail",
+      "team": [
+        "Psyduck",
+        "Psyduck",
+        "Golduck"
+      ],
+      "levels": [
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "name": "Picnicker Claire",
+      "team": [
+        "Meowth",
+        "Meowth",
+        "Pikachu",
+        "Clefairy"
+      ],
+      "levels": [
+        35,
+        35,
+        35,
+        35
+      ]
+    },
+    {
+      "name": "Camper Bryce",
+      "team": [
+        "Nidorino",
+        "Raticate",
+        "Sandslash"
+      ],
+      "levels": [
+        36,
+        36,
+        36
+      ]
+    },
+    {
+      "name": "Crush Girl Tanya",
+      "team": [
+        "Hitmonlee",
+        "Hitmonchan"
+      ],
+      "levels": [
+        38,
+        38
+      ]
+    },
+    {
+      "name": "Crush Girl Tanya",
+      "team": [
+        "Hitmonlee",
+        "Hitmonchan"
+      ],
+      "levels": [
+        50,
+        50
+      ]
+    },
+    {
+      "name": "Crush Girl Tanya",
+      "team": [
+        "Hitmonlee",
+        "Hitmonchan"
+      ],
+      "levels": [
+        55,
+        55
+      ]
+    },
+    {
+      "name": "Swimmer M Garrett",
+      "team": [
+        "Shellder",
+        "Cloyster",
+        "Wartortle"
+      ],
+      "levels": [
+        35,
+        35,
+        38
+      ]
+    },
+    {
+      "name": "Crush Kin Mik & Kia",
+      "team": [
+        "Machoke",
+        "Primeape"
+      ],
+      "levels": [
+        39,
+        39
+      ]
+    },
+    {
+      "name": "Crush Kin Mik & Kia",
+      "team": [
+        "Machoke",
+        "Primeape"
+      ],
+      "levels": [
+        51,
+        51
+      ]
+    },
+    {
+      "name": "Crush Kin Mik & Kia",
+      "team": [
+        "Machamp",
+        "Primeape"
+      ],
+      "levels": [
+        56,
+        56
+      ]
+    },
+    {
+      "name": "Black Belt Hugh",
+      "team": [
+        "Machop",
+        "Machoke"
+      ],
+      "levels": [
+        37,
+        37
+      ]
+    },
+    {
+      "name": "Black Belt Hugh",
+      "team": [
+        "Machoke",
+        "Machoke"
+      ],
+      "levels": [
+        50,
+        50
+      ]
+    },
+    {
+      "name": "Black Belt Hugh",
+      "team": [
+        "Machoke",
+        "Machamp"
+      ],
+      "levels": [
+        55,
+        55
+      ]
+    },
+    {
+      "name": "Black Belt Shea",
+      "team": [
+        "Machop",
+        "Machoke"
+      ],
+      "levels": [
+        38,
+        38
+      ]
+    },
+    {
+      "name": "Black Belt Shea",
+      "team": [
+        "Machoke",
+        "Machoke"
+      ],
+      "levels": [
+        50,
+        50
+      ]
+    },
+    {
+      "name": "Black Belt Shea",
+      "team": [
+        "Machoke",
+        "Machamp"
+      ],
+      "levels": [
+        55,
+        55
+      ]
+    },
+    {
+      "name": "Crush Girl Sharon",
+      "team": [
+        "Mankey",
+        "Primeape"
+      ],
+      "levels": [
+        37,
+        37
+      ]
+    },
+    {
+      "name": "Crush Girl Sharon",
+      "team": [
+        "Mankey",
+        "Primeape"
+      ],
+      "levels": [
+        50,
+        50
+      ]
+    },
+    {
+      "name": "Crush Girl Sharon",
+      "team": [
+        "Primeape",
+        "Primeape"
+      ],
+      "levels": [
+        55,
+        55
+      ]
+    },
+    {
+      "name": "Swimmer M Finn",
+      "team": [
+        "Starmie"
+      ],
+      "levels": [
+        38
+      ]
+    },
+    {
+      "name": "Swimmer M Finn",
+      "team": [
+        "Starmie"
+      ],
+      "levels": [
+        50
+      ]
+    },
+    {
+      "name": "Swimmer F Maria",
+      "team": [
+        "Seadra",
+        "Seadra"
+      ],
+      "levels": [
+        37,
+        37
+      ]
+    },
+    {
+      "name": "Fisherman Tommy",
+      "team": [
+        "Goldeen",
+        "Goldeen",
+        "Seaking",
+        "Seaking",
+        "Seaking"
+      ],
+      "levels": [
+        33,
+        33,
+        35,
+        35,
+        35
+      ]
+    }
+  ],
+  "connections": {
+    "north": "mt.ember",
+    "south": null,
+    "east": null,
+    "west": "oneisland",
+    "inner": []
+  }
+}

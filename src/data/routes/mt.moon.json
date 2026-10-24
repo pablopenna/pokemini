@@ -1,0 +1,269 @@
+{
+  "id": "mt.moon",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/mt.moon.shtml",
+  "image": "/locations/mt.moon.png",
+  "images": [
+    "/locations/mt.moon.png",
+    "/locations/mt.moon-42-b1f.png",
+    "/locations/mt.moon-42-b2f.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Zubat",
+      "rate": 69
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Paras",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Clefairy",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Zubat",
+      "rate": 69
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Paras",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Clefairy",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Paras",
+      "rate": 100
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Paras",
+      "rate": 100
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Zubat",
+      "rate": 49
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Paras",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Clefairy",
+      "rate": 6
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Zubat",
+      "rate": 49
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Paras",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Clefairy",
+      "rate": 6
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Bug Catcher Kent",
+      "team": [
+        "Weedle",
+        "Kakuna"
+      ],
+      "levels": [
+        11,
+        11
+      ]
+    },
+    {
+      "name": "Lass Iris",
+      "team": [
+        "Clefairy"
+      ],
+      "levels": [
+        14
+      ]
+    },
+    {
+      "name": "Super Nerd Jovan",
+      "team": [
+        "Magnemite",
+        "Voltorb"
+      ],
+      "levels": [
+        11,
+        11
+      ]
+    },
+    {
+      "name": "Bug Catcher Robby",
+      "team": [
+        "Caterpie",
+        "Metapod",
+        "Caterpie"
+      ],
+      "levels": [
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Lass Miriam",
+      "team": [
+        "Oddish",
+        "Bellsprout"
+      ],
+      "levels": [
+        11,
+        11
+      ]
+    },
+    {
+      "name": "Youngster Josh",
+      "team": [
+        "Rattata",
+        "Rattata",
+        "Zubat"
+      ],
+      "levels": [
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Hiker Marcos",
+      "team": [
+        "Geodude",
+        "Geodude",
+        "Onix"
+      ],
+      "levels": [
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Sandshrew",
+        "Rattata",
+        "Zubat"
+      ],
+      "levels": [
+        11,
+        11,
+        11
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Zubat",
+        "Ekans"
+      ],
+      "levels": [
+        11,
+        11
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Rattata",
+        "Sandshrew"
+      ],
+      "levels": [
+        13,
+        13
+      ]
+    },
+    {
+      "name": "Team Rocket Grunt",
+      "team": [
+        "Rattata",
+        "Zubat"
+      ],
+      "levels": [
+        13,
+        13
+      ]
+    },
+    {
+      "name": "Super Nerd Miguel",
+      "team": [
+        "Grimer",
+        "Voltorb",
+        "Koffing"
+      ],
+      "levels": [
+        12,
+        12,
+        12
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": null,
+    "east": "route4",
+    "west": "route4",
+    "inner": []
+  }
+}

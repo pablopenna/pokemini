@@ -1,0 +1,389 @@
+{
+  "id": "route25",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route25.shtml",
+  "image": "/locations/route25.png",
+  "images": [
+    "/locations/route25.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Oddish",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Caterpie",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Weedle",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgey",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Abra",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Kakuna",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Metapod",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Bellsprout",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Caterpie",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Weedle",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgey",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Abra",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Metapod",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Kakuna",
+      "rate": 1
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Goldeen",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Goldeen",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Poliwag",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Poliwhirl",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 5
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Poliwag",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Poliwhirl",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 5
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Hiker Franklin",
+      "team": [
+        "Machop",
+        "Geodude"
+      ],
+      "levels": [
+        15,
+        15
+      ]
+    },
+    {
+      "name": "Hiker Franklin",
+      "team": [
+        "Machoke",
+        "Graveler"
+      ],
+      "levels": [
+        25,
+        25
+      ]
+    },
+    {
+      "name": "Hiker Wayne",
+      "team": [
+        "Onix"
+      ],
+      "levels": [
+        17
+      ]
+    },
+    {
+      "name": "Youngster Joey",
+      "team": [
+        "Rattata",
+        "Spearow"
+      ],
+      "levels": [
+        15,
+        15
+      ]
+    },
+    {
+      "name": "Youngster Dan",
+      "team": [
+        "Slowpoke"
+      ],
+      "levels": [
+        17
+      ]
+    },
+    {
+      "name": "Picnicker Kelsey",
+      "team": [
+        "Nidoran♂",
+        "Nidoran♀"
+      ],
+      "levels": [
+        15,
+        15
+      ]
+    },
+    {
+      "name": "Picnicker Kelsey",
+      "team": [
+        "Nidoran♂",
+        "Nidoran♀"
+      ],
+      "levels": [
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Picnicker Kelsey",
+      "team": [
+        "Nidorino",
+        "Nidorina"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Picnicker Kelsey",
+      "team": [
+        "Nidorino",
+        "Nidorina"
+      ],
+      "levels": [
+        49,
+        49
+      ]
+    },
+    {
+      "name": "Hiker Nob",
+      "team": [
+        "Geodude",
+        "Geodude",
+        "Machop",
+        "Geodude"
+      ],
+      "levels": [
+        13,
+        13,
+        13,
+        13
+      ]
+    },
+    {
+      "name": "Camper Flint",
+      "team": [
+        "Rattata",
+        "Ekans"
+      ],
+      "levels": [
+        14,
+        14
+      ]
+    },
+    {
+      "name": "Youngster Chad",
+      "team": [
+        "Ekans",
+        "Sandshrew"
+      ],
+      "levels": [
+        14,
+        14
+      ]
+    },
+    {
+      "name": "Youngster Chad",
+      "team": [
+        "Ekans",
+        "Sandshrew"
+      ],
+      "levels": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Youngster Chad",
+      "team": [
+        "Arbok",
+        "Sandshrew"
+      ],
+      "levels": [
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Youngster Chad",
+      "team": [
+        "Arbok",
+        "Sandslash"
+      ],
+      "levels": [
+        48,
+        48
+      ]
+    },
+    {
+      "name": "Lass Haley",
+      "team": [
+        "Oddish",
+        "Pidgey",
+        "Oddish"
+      ],
+      "levels": [
+        13,
+        13,
+        13
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": null,
+    "east": null,
+    "west": "route24",
+    "inner": []
+  }
+}

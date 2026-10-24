@@ -1,0 +1,275 @@
+{
+  "id": "route3",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route3.shtml",
+  "image": "/locations/route3.png",
+  "images": [
+    "/locations/route3.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Spearow",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgey",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidoran♂",
+      "rate": 14
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Jigglypuff",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Mankey",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Nidoran♀",
+      "rate": 1
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Spearow",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgey",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidoran♀",
+      "rate": 14
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Jigglypuff",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Mankey",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Nidoran♂",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Lass Janice",
+      "team": [
+        "Pidgey",
+        "Pidgey"
+      ],
+      "levels": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Lass Janice",
+      "team": [
+        "Pidgeotto",
+        "Pidgeotto"
+      ],
+      "levels": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Lass Janice",
+      "team": [
+        "Pidgeotto",
+        "Pidgeotto"
+      ],
+      "levels": [
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Bug Catcher Colton",
+      "team": [
+        "Caterpie",
+        "Weedle",
+        "Caterpie"
+      ],
+      "levels": [
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Bug Catcher Colton",
+      "team": [
+        "Metapod",
+        "Weedle",
+        "Metapod"
+      ],
+      "levels": [
+        19,
+        19,
+        19
+      ]
+    },
+    {
+      "name": "Bug Catcher Colton",
+      "team": [
+        "Butterfree",
+        "Kakuna",
+        "Butterfree"
+      ],
+      "levels": [
+        27,
+        27,
+        27
+      ]
+    },
+    {
+      "name": "Bug Catcher Colton",
+      "team": [
+        "Butterfree",
+        "Beedrill",
+        "Butterfree"
+      ],
+      "levels": [
+        51,
+        54,
+        51
+      ]
+    },
+    {
+      "name": "Youngster Ben",
+      "team": [
+        "Rattata",
+        "Ekans"
+      ],
+      "levels": [
+        11,
+        11
+      ]
+    },
+    {
+      "name": "Youngster Ben",
+      "team": [
+        "Rattata",
+        "Ekans"
+      ],
+      "levels": [
+        17,
+        17
+      ]
+    },
+    {
+      "name": "Youngster Ben",
+      "team": [
+        "Raticate",
+        "Ekans"
+      ],
+      "levels": [
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Youngster Ben",
+      "team": [
+        "Raticate",
+        "Arbok"
+      ],
+      "levels": [
+        48,
+        48
+      ]
+    },
+    {
+      "name": "Bug Catcher Greg",
+      "team": [
+        "Weedle",
+        "Kakuna",
+        "Caterpie",
+        "Metapod"
+      ],
+      "levels": [
+        9,
+        9,
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Lass Sally",
+      "team": [
+        "Rattata",
+        "Nidoran♀"
+      ],
+      "levels": [
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Bug Catcher James",
+      "team": [
+        "Caterpie",
+        "Metapod"
+      ],
+      "levels": [
+        11,
+        11
+      ]
+    },
+    {
+      "name": "Youngster Calvin",
+      "team": [
+        "Spearow"
+      ],
+      "levels": [
+        14
+      ]
+    },
+    {
+      "name": "Lass Robin",
+      "team": [
+        "Jigglypuff"
+      ],
+      "levels": [
+        14
+      ]
+    }
+  ],
+  "connections": {
+    "north": "route4",
+    "south": null,
+    "east": null,
+    "west": "pewtercity",
+    "inner": []
+  }
+}

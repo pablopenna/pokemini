@@ -1,0 +1,303 @@
+{
+  "id": "route12",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route12.shtml",
+  "image": "/locations/route12.png",
+  "images": [
+    "/locations/route12.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Oddish",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pidgey",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Venonat",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Gloom",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Bellsprout",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pidgey",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Venonat",
+      "rate": 30
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Weepinbell",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 84
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 84
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Fisherman Ned",
+      "team": [
+        "Goldeen",
+        "Poliwag",
+        "Goldeen"
+      ],
+      "levels": [
+        22,
+        22,
+        22
+      ]
+    },
+    {
+      "name": "Fisherman Chip",
+      "team": [
+        "Tentacool",
+        "Goldeen"
+      ],
+      "levels": [
+        24,
+        24
+      ]
+    },
+    {
+      "name": "Fisherman Hank",
+      "team": [
+        "Goldeen"
+      ],
+      "levels": [
+        27
+      ]
+    },
+    {
+      "name": "Fisherman Elliot",
+      "team": [
+        "Poliwag",
+        "Shellder",
+        "Goldeen",
+        "Horsea"
+      ],
+      "levels": [
+        21,
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Fisherman Elliot",
+      "team": [
+        "Poliwhirl",
+        "Cloyster",
+        "Seaking",
+        "Seadra"
+      ],
+      "levels": [
+        28,
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "name": "Young Couple Gia & Jes",
+      "team": [
+        "Nidoran♂",
+        "Nidoran♀"
+      ],
+      "levels": [
+        24,
+        24
+      ]
+    },
+    {
+      "name": "Young Couple Gia & Jes",
+      "team": [
+        "Nidorina",
+        "Nidorino"
+      ],
+      "levels": [
+        30,
+        30
+      ]
+    },
+    {
+      "name": "Young Couple Gia & Jes",
+      "team": [
+        "Nidoking",
+        "Nidoqueen"
+      ],
+      "levels": [
+        55,
+        55
+      ]
+    },
+    {
+      "name": "Rocker Luca",
+      "team": [
+        "Voltorb",
+        "Electrode"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Rocker Luca",
+      "team": [
+        "Electrode",
+        "Electrode"
+      ],
+      "levels": [
+        33,
+        33
+      ]
+    },
+    {
+      "name": "Camper Justin",
+      "team": [
+        "Nidoran♂",
+        "Nidorino"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Fisherman Andrew",
+      "team": [
+        "Magikarp",
+        "Magikarp"
+      ],
+      "levels": [
+        24,
+        24
+      ]
+    }
+  ],
+  "connections": {
+    "north": "lavendertown",
+    "south": "route13",
+    "east": null,
+    "west": "route11",
+    "inner": []
+  }
+}

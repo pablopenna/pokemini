@@ -1,0 +1,235 @@
+{
+  "id": "route9",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/route9.shtml",
+  "image": "/locations/route9.png",
+  "images": [
+    "/locations/route9.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Rattata",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Spearow",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Ekans",
+      "rate": 25
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Rattata",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Spearow",
+      "rate": 35
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Sandshrew",
+      "rate": 25
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Picnicker Alicia",
+      "team": [
+        "Oddish",
+        "Bellsprout",
+        "Oddish",
+        "Bellsprout"
+      ],
+      "levels": [
+        18,
+        18,
+        18,
+        18
+      ]
+    },
+    {
+      "name": "Picnicker Alicia",
+      "team": [
+        "Meowth"
+      ],
+      "levels": [
+        25
+      ]
+    },
+    {
+      "name": "Picnicker Alicia",
+      "team": [
+        "Persian"
+      ],
+      "levels": [
+        30
+      ]
+    },
+    {
+      "name": "Picnicker Alicia",
+      "team": [
+        "Persian"
+      ],
+      "levels": [
+        55
+      ]
+    },
+    {
+      "name": "Hiker Jeremy",
+      "team": [
+        "Machop",
+        "Onix"
+      ],
+      "levels": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Hiker Jeremy",
+      "team": [
+        "Machoke",
+        "Onix"
+      ],
+      "levels": [
+        30,
+        28
+      ]
+    },
+    {
+      "name": "Camper Chris",
+      "team": [
+        "Growlithe",
+        "Charmander"
+      ],
+      "levels": [
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Camper Chris",
+      "team": [
+        "Growlithe",
+        "Charmander"
+      ],
+      "levels": [
+        24,
+        24
+      ]
+    },
+    {
+      "name": "Camper Chris",
+      "team": [
+        "Growlithe",
+        "Charmeleon"
+      ],
+      "levels": [
+        29,
+        29
+      ]
+    },
+    {
+      "name": "Camper Chris",
+      "team": [
+        "Arcanine",
+        "Charmeleon"
+      ],
+      "levels": [
+        54,
+        54
+      ]
+    },
+    {
+      "name": "Bug Catcher Brent",
+      "team": [
+        "Beedrill",
+        "Beedrill"
+      ],
+      "levels": [
+        19,
+        19
+      ]
+    },
+    {
+      "name": "Bug Catcher Conner",
+      "team": [
+        "Caterpie",
+        "Weedle",
+        "Venonat"
+      ],
+      "levels": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Camper Drew",
+      "team": [
+        "Rattata",
+        "Sandshrew",
+        "Ekans",
+        "Sandshrew"
+      ],
+      "levels": [
+        19,
+        19,
+        19,
+        19
+      ]
+    },
+    {
+      "name": "Hiker Alan",
+      "team": [
+        "Geodude",
+        "Onix"
+      ],
+      "levels": [
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Hiker Brice",
+      "team": [
+        "Geodude",
+        "Machop",
+        "Geodude"
+      ],
+      "levels": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Picnicker Caitlin",
+      "team": [
+        "Meowth"
+      ],
+      "levels": [
+        23
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": null,
+    "east": "route10",
+    "west": "ceruleancity",
+    "inner": []
+  }
+}

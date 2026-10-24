@@ -1,0 +1,136 @@
+{
+  "id": "viridianforest",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/viridianforest.shtml",
+  "image": "/locations/viridianforest.png",
+  "images": [
+    "/locations/viridianforest.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Caterpie",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Weedle",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Kakuna",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Metapod",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Pikachu",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Caterpie",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Weedle",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Metapod",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Kakuna",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Pikachu",
+      "rate": 5
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Bug Catcher Rick",
+      "team": [
+        "Weedle",
+        "Caterpie"
+      ],
+      "levels": [
+        6,
+        6
+      ]
+    },
+    {
+      "name": "Bug Catcher Doug",
+      "team": [
+        "Weedle",
+        "Kakuna",
+        "Weedle"
+      ],
+      "levels": [
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Bug Catcher Anthony",
+      "team": [
+        "Caterpie",
+        "Caterpie"
+      ],
+      "levels": [
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Bug Catcher Charlie",
+      "team": [
+        "Metapod",
+        "Caterpie",
+        "Metapod"
+      ],
+      "levels": [
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Bug Catcher Sammy",
+      "team": [
+        "Weedle"
+      ],
+      "levels": [
+        9
+      ]
+    }
+  ],
+  "connections": {
+    "north": "route2",
+    "south": "route2",
+    "east": null,
+    "west": null,
+    "inner": []
+  }
+}

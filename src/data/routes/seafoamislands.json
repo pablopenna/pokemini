@@ -1,0 +1,598 @@
+{
+  "id": "seafoamislands",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/seafoamislands.shtml",
+  "image": "/locations/seafoamislands.png",
+  "images": [
+    "/locations/seafoamislands.png",
+    "/locations/seafoamislands-53-b1f.png",
+    "/locations/seafoamislands-53-b2f.png",
+    "/locations/seafoamislands-53-b3f.png",
+    "/locations/seafoamislands-53-b4f.png"
+  ],
+  "encounters": [
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 55
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Zubat",
+      "rate": 34
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golbat",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 55
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Zubat",
+      "rate": 34
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Golbat",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Zubat",
+      "rate": 34
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golbat",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Seel",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golduck",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Zubat",
+      "rate": 34
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Golbat",
+      "rate": 11
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Seel",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowbro",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Zubat",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Seel",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golbat",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golduck",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Zubat",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Seel",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Golbat",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowbro",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Seel",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golduck",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Zubat",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golbat",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Dewgong",
+      "rate": 5
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Seel",
+      "rate": 40
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 20
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowbro",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Zubat",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Golbat",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Dewgong",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Seel",
+      "rate": 60
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 30
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Dewgong",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 4
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Golduck",
+      "rate": 1
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Seel",
+      "rate": 60
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 30
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Dewgong",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 4
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowbro",
+      "rate": 1
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 16
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 16
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 4
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Seel",
+      "rate": 50
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golbat",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Golduck",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "firered",
+      "species": "Dewgong",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Seel",
+      "rate": 50
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Golbat",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowbro",
+      "rate": 15
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 10
+    },
+    {
+      "method": "grass",
+      "version": "leafgreen",
+      "species": "Dewgong",
+      "rate": 10
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Seel",
+      "rate": 60
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 30
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Dewgong",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 4
+    },
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Golduck",
+      "rate": 1
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Seel",
+      "rate": 60
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 30
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Dewgong",
+      "rate": 5
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 4
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Slowbro",
+      "rate": 1
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 16
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 80
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 16
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 4
+    }
+  ],
+  "trainers": [],
+  "connections": {
+    "north": null,
+    "south": null,
+    "east": "route20",
+    "west": "route20",
+    "inner": []
+  }
+}

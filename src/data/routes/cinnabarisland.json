@@ -1,0 +1,256 @@
+{
+  "id": "cinnabarisland",
+  "url": "https://www.serebii.net/pokearth/kanto/3rd/cinnabarisland.shtml",
+  "image": "/locations/cinnabarisland.png",
+  "images": [
+    "/locations/cinnabarisland.png",
+    "/locations/cinnabarisland-38-gym.png"
+  ],
+  "encounters": [
+    {
+      "method": "surf",
+      "version": "firered",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "surf",
+      "version": "leafgreen",
+      "species": "Tentacool",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "oldrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 100
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Krabby",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "firered",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 60
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Horsea",
+      "rate": 20
+    },
+    {
+      "method": "goodrod",
+      "version": "leafgreen",
+      "species": "Magikarp",
+      "rate": 20
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Shellder",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Horsea",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Seadra",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "firered",
+      "species": "Psyduck",
+      "rate": 1
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Staryu",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Krabby",
+      "rate": 40
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Gyarados",
+      "rate": 15
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowbro",
+      "rate": 4
+    },
+    {
+      "method": "superrod",
+      "version": "leafgreen",
+      "species": "Slowpoke",
+      "rate": 1
+    },
+    {
+      "method": "gift",
+      "version": "unknown",
+      "species": "Omanyte",
+      "rate": 0
+    },
+    {
+      "method": "gift",
+      "version": "unknown",
+      "species": "Kabuto",
+      "rate": 0
+    },
+    {
+      "method": "gift",
+      "version": "unknown",
+      "species": "Aerodactyl",
+      "rate": 0
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Burglar Quinn",
+      "team": [
+        "Growlithe",
+        "Vulpix",
+        "Ninetales"
+      ],
+      "levels": [
+        36,
+        36,
+        36
+      ]
+    },
+    {
+      "name": "Super Nerd Erik",
+      "team": [
+        "Vulpix",
+        "Vulpix",
+        "Ninetales"
+      ],
+      "levels": [
+        36,
+        36,
+        36
+      ]
+    },
+    {
+      "name": "Super Nerd Avery",
+      "team": [
+        "Ponyta",
+        "Charmander",
+        "Vulpix",
+        "Growlithe"
+      ],
+      "levels": [
+        34,
+        34,
+        34,
+        34
+      ]
+    },
+    {
+      "name": "Burglar Ramon",
+      "team": [
+        "Ponyta"
+      ],
+      "levels": [
+        41
+      ]
+    },
+    {
+      "name": "Super Nerd Derek",
+      "team": [
+        "Rapidash"
+      ],
+      "levels": [
+        41
+      ]
+    },
+    {
+      "name": "Burglar Dusty",
+      "team": [
+        "Vulpix",
+        "Growlithe"
+      ],
+      "levels": [
+        37,
+        37
+      ]
+    },
+    {
+      "name": "Super Nerd Zac",
+      "team": [
+        "Growlithe",
+        "Vulpix"
+      ],
+      "levels": [
+        37,
+        37
+      ]
+    },
+    {
+      "name": "Leader Blaine",
+      "team": [
+        "Growlithe",
+        "Ponyta",
+        "Rapidash",
+        "Arcanine"
+      ],
+      "levels": [
+        42,
+        40,
+        42,
+        47
+      ]
+    }
+  ],
+  "connections": {
+    "north": null,
+    "south": "route21",
+    "east": "route20",
+    "west": null,
+    "inner": [
+      "pokemonmansion"
+    ]
+  }
+}
