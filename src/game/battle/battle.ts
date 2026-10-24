@@ -8,6 +8,7 @@ import { Sprites } from '@pkmn/img';
 import { Protocol } from '@pkmn/protocol';
 import { ChoiceBuilder } from '@pkmn/view';
 import { UIPlayer, type ChoiceRequest } from '#/game/battle/ui-player';
+import { playEffect } from '#/game/battle/battle-animations';
 import type { BattleResult } from '#/types/battle/battle-result';
 import type { BattleOptions } from '#/types/battle/battle-options';
 
@@ -15,6 +16,7 @@ import type { BattleOptions } from '#/types/battle/battle-options';
 const initialState = () => ({
     p1Sprite: null as string | null,
     p2Sprite: null as string | null,
+    blink: { p1: false, p2: false },
     moves: [] as { label: string; choice: string; disabled: boolean }[],
     switches: [] as { label: string; choice: string }[],
     log: ''
@@ -144,6 +146,8 @@ export async function main(options: BattleOptions): Promise<BattleResult> {
                 clientBattle.add(args, kwArgs);
                 if (html) battleState.update(s => ({ ...s, log: s.log + html }));
                 updateSprites(clientBattle);
+                await playEffect(args, (side, on) =>
+                    battleState.update(s => ({ ...s, blink: { ...s.blink, [side]: on } })));
                 if (args[0] === 'tie') return 'tie';
                 if (args[0] === 'win') return args[1] === p1spec.name ? 'p1' : 'p2';
             }
