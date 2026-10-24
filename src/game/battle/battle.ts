@@ -1,6 +1,5 @@
 import { writable } from 'svelte/store';
 import { BattleStreams, RandomPlayerAI, Teams } from '@pkmn/sim';
-import { TeamGenerators } from '@pkmn/randoms';
 import { Battle } from '@pkmn/client';
 import { Generations } from '@pkmn/data';
 import { Dex } from '@pkmn/dex';
@@ -10,6 +9,7 @@ import { Protocol } from '@pkmn/protocol';
 import { ChoiceBuilder } from '@pkmn/view';
 import { UIPlayer, type ChoiceRequest } from '#/game/battle/ui-player';
 import type { BattleResult } from '#/types/battle-result.ts';
+import type { BattleOptions } from '#/types/battle-options.ts';
 
 // ---- reactive state -------------------------------------------------
 const initialState = () => ({
@@ -28,7 +28,7 @@ export function resetBattleState() {
 }
 
 let currentBuilder: ChoiceBuilder | null = null;
-let player1: UIPlayer;
+let uiPlayer: UIPlayer | null = null;
 
 // ---- UI helpers (update the store, not the DOM) ----------------------
 function clearChoices() {
@@ -54,10 +54,12 @@ function renderSwitches(request: ChoiceRequest & { side: any }, _forced: boolean
     battleState.update(s => ({ ...s, switches }));
 }
 
-function renderTeamPreview(_request: ChoiceRequest) {
+function renderTeamPreview(request: ChoiceRequest) {
+    const size = (request as any).side?.pokemon?.length ?? 6;
+    const order = Array.from({ length: size }, (_, i) => i + 1).join('');
     battleState.update(s => ({
         ...s,
-        switches: [{ label: 'Start Battle', choice: 'team 123456' }]
+        switches: [{ label: 'Start Battle', choice: `team ${order}` }]
     }));
 }
 
@@ -84,6 +86,12 @@ function handleRequest(request: ChoiceRequest) {
 // ---- public API for the UI ------------------------------------------
 export function submitChoice(choice: string) {
     console.log('SUB', choice, 'builder=', currentBuilder? JSON.stringify(currentBuilder) : 'null');
+    // Team preview has no ChoiceBuilder; the choice is already a complete command.
+    if (!currentBuilder && choice.startsWith('team ')) {
+        uiPlayer?.submitChoice(choice);
+        clearChoices();
+        return;
+    }
     if (!currentBuilder) return;
     const error = currentBuilder.addChoice(choice);
     if (error) {
@@ -91,7 +99,7 @@ export function submitChoice(choice: string) {
         return;
     }
     if (currentBuilder.isDone()) {
-        player1.submitChoice(currentBuilder.toString());
+        uiPlayer?.submitChoice(currentBuilder.toString());
         clearChoices();
         currentBuilder = null;
     }
@@ -108,18 +116,21 @@ function updateSprites(clientBattle: Battle) {
 }
 
 // ---- main battle loop ------------------------------------------------
-export async function main(): Promise<BattleResult> {
-    Teams.setGeneratorFactory(TeamGenerators);
+export async function main(options: BattleOptions): Promise<BattleResult> {
+    const { team1, team2, player1Control = 'ui' } = options;
     const gens = new Generations(Dex);
     const clientBattle = new Battle(gens);
     const formatter = new LogFormatter('p1', clientBattle);
 
     const streams = BattleStreams.getPlayerStreams(new BattleStreams.BattleStream());
-    const spec = { formatid: 'gen9randombattle' };
-    const p1spec = { name: 'Player', team: Teams.pack(Teams.generate(spec.formatid)) };
-    const p2spec = { name: 'Bot', team: Teams.pack(Teams.generate(spec.formatid)) };
+    const spec = { formatid: 'gen9customgame' };
+    const p1spec = { name: 'Player', team: Teams.pack(team1) };
+    const p2spec = { name: 'Bot', team: Teams.pack(team2) };
 
-    player1 = new UIPlayer(streams.p1, handleRequest);
+    currentBuilder = null;
+    const player1 = player1Control === 'ui'
+        ? (uiPlayer = new UIPlayer(streams.p1, handleRequest))
+        : (uiPlayer = null, new RandomPlayerAI(streams.p1));
     const player2 = new RandomPlayerAI(streams.p2);
 
     const battleLoop = async (): Promise<BattleResult> => {

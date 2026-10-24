@@ -2,20 +2,24 @@
   import { onMount } from 'svelte';
   import { main as doBattle, submitChoice, resetBattleState } from '#/game/battle/battle.ts';
   import { type BattleResult } from '#/types/battle-result';
+  import type { PlayerControl, Team } from '#/types/battle-options';
   import SpriteRenderer from '#/components/SpriteRenderer.svelte';
   import ButtonPanel from '#/components/ButtonPanel.svelte';
   import BattleLog from '#/components/BattleLog.svelte';
 
   type Props = {
+    team1: Team;
+    team2: Team;
+    player1Control?: PlayerControl;
     onFinish: (result: BattleResult) => void;
   };
 
-  let { onFinish }: Props = $props();
+  let { team1, team2, player1Control = 'ui', onFinish }: Props = $props();
   let result = $state<BattleResult | null>(null);
 
   onMount(() => {
     resetBattleState();
-    doBattle().then(r => (result = r));
+    doBattle({ team1, team2, player1Control }).then(r => (result = r));
   });
 </script>
 
