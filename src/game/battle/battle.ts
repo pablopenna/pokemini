@@ -9,6 +9,7 @@ import { Sprites } from '@pkmn/img';
 import { Protocol } from '@pkmn/protocol';
 import { ChoiceBuilder } from '@pkmn/view';
 import { UIPlayer, type ChoiceRequest } from '#/game/battle/ui-player';
+import type { BattleResult } from '#/types/battle-result.ts';
 
 // ---- reactive state -------------------------------------------------
 const initialState = () => ({
@@ -107,7 +108,7 @@ function updateSprites(clientBattle: Battle) {
 }
 
 // ---- main battle loop ------------------------------------------------
-export async function main() {
+export async function main(): Promise<BattleResult> {
     Teams.setGeneratorFactory(TeamGenerators);
     const gens = new Generations(Dex);
     const clientBattle = new Battle(gens);
@@ -121,7 +122,7 @@ export async function main() {
     player1 = new UIPlayer(streams.p1, handleRequest);
     const player2 = new RandomPlayerAI(streams.p2);
 
-    const battleLoop = async () => {
+    const battleLoop = async (): Promise<BattleResult> => {
         for await (const chunk of streams.omniscient) {
             console.log('RAW CHUNK', JSON.stringify(chunk));
             for (const line of chunk.split('\n')) {
@@ -132,9 +133,11 @@ export async function main() {
                 clientBattle.add(args, kwArgs);
                 if (html) battleState.update(s => ({ ...s, log: s.log + html }));
                 updateSprites(clientBattle);
-                if (args[0] === 'win' || args[0] === 'tie') return;
+                if (args[0] === 'tie') return 'tie';
+                if (args[0] === 'win') return args[1] === p1spec.name ? 'p1' : 'p2';
             }
         }
+        return 'tie';
     };
 
     player1.start().catch(err => console.error('p1 start failed', err));
@@ -144,5 +147,5 @@ export async function main() {
         `>player p1 ${JSON.stringify(p1spec)}\n` +
         `>player p2 ${JSON.stringify(p2spec)}\n`
     );
-    await battleLoop();
+    return battleLoop();
 }

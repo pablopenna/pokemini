@@ -1,20 +1,21 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { main as doBattle, submitChoice, resetBattleState } from '#/game/battle/battle.ts';
+  import { type BattleResult } from '#/types/battle-result';
   import SpriteRenderer from '#/components/SpriteRenderer.svelte';
   import ButtonPanel from '#/components/ButtonPanel.svelte';
   import BattleLog from '#/components/BattleLog.svelte';
 
   type Props = {
-    onFinish: () => void;
+    onFinish: (result: BattleResult) => void;
   };
 
   let { onFinish }: Props = $props();
-  let finished = $state(false);
+  let result = $state<BattleResult | null>(null);
 
   onMount(() => {
     resetBattleState();
-    doBattle().then(() => (finished = true));
+    doBattle().then(r => (result = r));
   });
 </script>
 
@@ -22,8 +23,8 @@
   <BattleLog />
   <div class="sprites"><SpriteRenderer /></div>
   <ButtonPanel onChoice={submitChoice} />
-  {#if finished}
-    <button class="continue" onclick={onFinish}>Continue</button>
+  {#if result}
+    <button class="continue" onclick={() => onFinish(result!)}>Continue</button>
   {/if}
 </div>
 
