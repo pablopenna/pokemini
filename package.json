@@ -6,7 +6,7 @@
     "#/*": "./src/*"
   },
   "scripts": {
-    "dev": "vite",
+    "dev": "GAME_DEBUG_MENU=true vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "scraperoute": "node src/scripts/scrape-routes.ts",

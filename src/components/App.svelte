@@ -2,6 +2,7 @@
   import { Teams } from '@pkmn/sim';
   import { TeamGenerators } from '@pkmn/randoms';
   import Battle from '#/components/Battle.svelte';
+  import DebugMenu from '#/components/DebugMenu.svelte';
   import LocationView from '#/components/LocationView.svelte';
     import type { BattleResult } from '#/types/battle/battle-result';
   import { Location } from '#/types/overworld/location';
@@ -13,6 +14,8 @@
 
   let player = $state<Player>({ team: randomTeam(), location: Location.PalletTown, gameFlags: { canSurf: false } });
   let opponentTeam = $state(randomTeam());
+
+  const showDebugMenu = import.meta.env.GAME_DEBUG_MENU === 'true';
 
   // Main-screen state lives here and is untouched while the battle view is shown.
   let view = $state<'main' | 'battle'>('main');
@@ -33,6 +36,9 @@
   <Battle team1={player.team} team2={opponentTeam} player1Control="ai" onFinish={onBattleFinish} />
 {:else}
   <main>
+    {#if showDebugMenu}
+      <DebugMenu bind:gameFlags={player.gameFlags} />
+    {/if}
     <h1>PokéMini</h1>
     <p>Current location: {player.location}</p>
     {#if lastResult}

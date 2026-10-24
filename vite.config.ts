@@ -4,6 +4,8 @@ import { svelte } from '@sveltejs/vite-plugin-svelte';
 
 export default defineConfig({
   base: '/pokemini/',
+  // Expose GAME_* env vars to client code (Vite only exposes VITE_* by default).
+  envPrefix: ['VITE_', 'GAME_'],
   resolve: {
     alias: {
       '#': resolve(import.meta.dirname, './src'),
