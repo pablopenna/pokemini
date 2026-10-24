@@ -1,6 +1,4 @@
-import type { Teams } from '@pkmn/sim';
-
-export type Team = NonNullable<Parameters<typeof Teams.pack>[0]>;
+import { Team } from '#/types/pokemon';
 
 export type PlayerControl = 'ui' | 'ai';
 

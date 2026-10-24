@@ -3,19 +3,21 @@
   import { TeamGenerators } from '@pkmn/randoms';
   import Battle from '#/components/Battle.svelte';
     import type { BattleResult } from '#/types/battle/battle-result';
-  import type { BattleOptions } from '#/types/battle/battle-options';
+  import type { Player } from '#/types/player';
 
   // Placeholder teams until the main page has real ones.
   Teams.setGeneratorFactory(TeamGenerators);
   const randomTeam = () => Teams.generate('gen9randombattle');
-  let teams = $state<BattleOptions>({ team1: randomTeam(), team2: randomTeam(), player1Control: 'ui' });
+
+  let player = $state<Player>({ team: randomTeam() });
+  let opponentTeam = $state(randomTeam());
 
   // Main-screen state lives here and is untouched while the battle view is shown.
   let view = $state<'main' | 'battle'>('main');
   let lastResult = $state<BattleResult | null>(null);
 
   function startBattle() {
-    teams = { team1: randomTeam(), team2: randomTeam(), player1Control: 'ai' };
+    opponentTeam = randomTeam();
     view = 'battle';
   }
 
@@ -26,7 +28,7 @@
 </script>
 
 {#if view === 'battle'}
-  <Battle {...teams} onFinish={onBattleFinish} />
+  <Battle team1={player.team} team2={opponentTeam} player1Control="ai" onFinish={onBattleFinish} />
 {:else}
   <main>
     <h1>PokéMini</h1>
