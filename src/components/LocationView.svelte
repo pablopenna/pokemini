@@ -1,29 +1,34 @@
 <script lang="ts">
   import type { Snippet } from 'svelte';
-  import { getRouteData, toLocation } from '#/game/overworld/location.ts';
+  import { canTravel, getRouteData } from '#/game/overworld/location.ts';
   import { DIRECTIONS } from '#/types/overworld/route-connections.ts';
+  import { toConnection, type Connection } from '#/types/overworld/connection.ts';
+  import type { GameFlags } from '#/types/game-flags.ts';
   import type { Location } from '#/types/overworld/location.ts';
   import { getAsset } from '#/utils/get-asset.ts';
 
   type Props = {
     location: Location;
+    gameFlags: GameFlags;
     onTravel: (location: Location) => void;
     /** Extra sections rendered below the connections. */
     children?: Snippet;
   };
 
-  let { location, onTravel, children }: Props = $props();
+  let { location, gameFlags, onTravel, children }: Props = $props();
 
   let route = $derived(getRouteData(location));
 
   // Exits first (north/south/east/west), then inner areas.
-  let connections = $derived([
+  let connections = $derived<Connection[]>([
     ...DIRECTIONS.flatMap(d => {
       const id = route.connections[d];
-      return id ? [{ label: `${d[0].toUpperCase()}${d.slice(1)}: ${id}`, target: toLocation(id) }] : [];
+      return id ? [toConnection(location, `${d[0].toUpperCase()}${d.slice(1)}`, id)] : [];
     }),
-    ...route.connections.inner.map(id => ({ label: `Inside: ${id}`, target: toLocation(id) })),
+    ...route.connections.inner.map(id => toConnection(location, 'Inside', id)),
   ]);
+
+  const isEnabled = (c: Connection) => !!c.target && canTravel(location, c.target, gameFlags);
 </script>
 
 <div class="layout">
@@ -36,7 +41,9 @@
       <h2>Connections</h2>
       <div class="connections">
         {#each connections as c}
-          <button disabled={!c.target} onclick={() => c.target && onTravel(c.target)}>{c.label}</button>
+          <button disabled={!isEnabled(c)} onclick={() => c.target && onTravel(c.target)}>
+            {c.label}
+          </button>
         {:else}
           <p>None</p>
         {/each}

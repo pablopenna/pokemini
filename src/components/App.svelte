@@ -11,7 +11,7 @@
   Teams.setGeneratorFactory(TeamGenerators);
   const randomTeam = () => Teams.generate('gen9randombattle');
 
-  let player = $state<Player>({ team: randomTeam(), location: Location.PalletTown });
+  let player = $state<Player>({ team: randomTeam(), location: Location.PalletTown, gameFlags: { canSurf: false } });
   let opponentTeam = $state(randomTeam());
 
   // Main-screen state lives here and is untouched while the battle view is shown.
@@ -38,7 +38,7 @@
     {#if lastResult}
       <p>Last battle: {lastResult === 'p1' ? 'you won' : lastResult === 'p2' ? 'you lost' : 'tie'}</p>
     {/if}
-    <LocationView location={player.location} onTravel={loc => (player.location = loc)}>
+    <LocationView location={player.location} gameFlags={player.gameFlags} onTravel={loc => (player.location = loc)}>
       <section>
         <h2>Battle</h2>
         <button onclick={startBattle}>Battle</button>
