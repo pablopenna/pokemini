@@ -38,10 +38,15 @@
     {#if lastResult}
       <p>Last battle: {lastResult === 'p1' ? 'you won' : lastResult === 'p2' ? 'you lost' : 'tie'}</p>
     {/if}
-    <LocationView location={player.location} onTravel={loc => (player.location = loc)} />
-    <section>
-      <h2>Battle</h2>
-      <button onclick={startBattle}>Battle</button>
-    </section>
+    <LocationView location={player.location} onTravel={loc => (player.location = loc)}>
+      <section>
+        <h2>Battle</h2>
+        <button onclick={startBattle}>Battle</button>
+      </section>
+    </LocationView>
   </main>
 {/if}
+
+<style>
+  main { text-align: center; }
+</style>

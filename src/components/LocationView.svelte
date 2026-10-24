@@ -1,4 +1,5 @@
 <script lang="ts">
+  import type { Snippet } from 'svelte';
   import { getRouteData, toLocation } from '#/game/overworld/location.ts';
   import { DIRECTIONS } from '#/types/overworld/route-connections.ts';
   import type { Location } from '#/types/overworld/location.ts';
@@ -7,9 +8,11 @@
   type Props = {
     location: Location;
     onTravel: (location: Location) => void;
+    /** Extra sections rendered below the connections. */
+    children?: Snippet;
   };
 
-  let { location, onTravel }: Props = $props();
+  let { location, onTravel, children }: Props = $props();
 
   let route = $derived(getRouteData(location));
 
@@ -23,22 +26,37 @@
   ]);
 </script>
 
-{#if route.image}
-  <img class="map" src={getAsset(route.image)} alt={location} />
-{/if}
+<div class="layout">
+  {#if route.image}
+    <img class="map" src={getAsset(route.image)} alt={location} />
+  {/if}
 
-<section>
-  <h2>Connections</h2>
-  <div class="connections">
-    {#each connections as c}
-      <button disabled={!c.target} onclick={() => c.target && onTravel(c.target)}>{c.label}</button>
-    {:else}
-      <p>None</p>
-    {/each}
+  <div class="panels">
+    <section>
+      <h2>Connections</h2>
+      <div class="connections">
+        {#each connections as c}
+          <button disabled={!c.target} onclick={() => c.target && onTravel(c.target)}>{c.label}</button>
+        {:else}
+          <p>None</p>
+        {/each}
+      </div>
+    </section>
+    {@render children?.()}
   </div>
-</section>
+</div>
 
 <style>
+  /* Phones / vertical screens: single column, image on top. */
+  .layout { display: flex; flex-direction: column; align-items: center; gap: 1rem; text-align: center; }
   .map { max-width: 100%; height: auto; }
-  .connections { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .panels { display: flex; flex-direction: column; align-items: center; gap: 1rem; }
+  .connections { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem; }
+
+  /* Wide screens: image on the left, sections on the right. */
+  @media (min-width: 900px) {
+    .layout { flex-direction: row; align-items: center; justify-content: center; }
+    .map { flex: 1 1 50%; min-width: 0; }
+    .panels { flex: 1 1 50%; min-width: 0; }
+  }
 </style>
