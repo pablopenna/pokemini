@@ -16,6 +16,8 @@ import type { BattleOptions } from '#/types/battle/battle-options';
 const initialState = () => ({
     p1Sprite: null as string | null,
     p2Sprite: null as string | null,
+    p1Hp: 100,
+    p2Hp: 100,
     blink: { p1: false, p2: false },
     moves: [] as { label: string; choice: string; disabled: boolean }[],
     switches: [] as { label: string; choice: string }[],
@@ -107,13 +109,18 @@ export function submitChoice(choice: string) {
     }
 }
 
+const hpPercent = (p: { hp: number; maxhp: number } | null) =>
+    p && p.maxhp ? (p.hp / p.maxhp) * 100 : 0;
+
 function updateSprites(clientBattle: Battle) {
     const p1 = clientBattle.p1.active[0];
     const p2 = clientBattle.p2.active[0];
     battleState.update(s => ({
         ...s,
         p1Sprite: p1 ? Sprites.getPokemon(p1.species.id, { gen: 'gen5' }).url : null,
-        p2Sprite: p2 ? Sprites.getPokemon(p2.species.id, { gen: 'gen5' }).url : null
+        p2Sprite: p2 ? Sprites.getPokemon(p2.species.id, { gen: 'gen5' }).url : null,
+        p1Hp: hpPercent(p1),
+        p2Hp: hpPercent(p2)
     }));
 }
 
