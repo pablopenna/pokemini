@@ -9,7 +9,10 @@
       <img class:blink={$battleState.blink.p1} src={$battleState.p1Sprite} alt="Player Pokémon" />
       <!-- keyed on the sprite so a switch-in starts at its own HP instead of animating from the previous one -->
       {#key $battleState.p1Sprite}
-        <div class="hp-bar"><div class="hp-fill" class:low={$battleState.p1Hp <= 50} class:critical={$battleState.p1Hp <= 20} style:width="{$battleState.p1Hp}%"></div></div>
+        <div class="hp-row">
+          <span class="level">Lv{$battleState.p1Level}</span>
+          <div class="hp-bar"><div class="hp-fill" class:low={$battleState.p1Hp <= 50} class:critical={$battleState.p1Hp <= 20} style:width="{$battleState.p1Hp}%"></div></div>
+        </div>
       {/key}
     {/if}
   </div>
@@ -18,7 +21,10 @@
       <img class:blink={$battleState.blink.p2} src={$battleState.p2Sprite} alt="Opponent Pokémon" />
       <!-- keyed on the sprite so a switch-in starts at its own HP instead of animating from the previous one -->
       {#key $battleState.p2Sprite}
-        <div class="hp-bar"><div class="hp-fill" class:low={$battleState.p2Hp <= 50} class:critical={$battleState.p2Hp <= 20} style:width="{$battleState.p2Hp}%"></div></div>
+        <div class="hp-row">
+          <span class="level">Lv{$battleState.p2Level}</span>
+          <div class="hp-bar"><div class="hp-fill" class:low={$battleState.p2Hp <= 50} class:critical={$battleState.p2Hp <= 20} style:width="{$battleState.p2Hp}%"></div></div>
+        </div>
       {/key}
     {/if}
   </div>
@@ -31,7 +37,9 @@
   .sprite-slot:first-child img { transform: scaleX(-1); }
   .sprite-slot img.blink { animation: blink 0.2s ease-in-out 2; }
   @keyframes blink { 0% { opacity: 0.2; } 50% { opacity: 1; } }
-  .hp-bar { height: 8px; margin-top: 4px; background: #333; border-radius: 4px; overflow: hidden; }
+  .hp-row { display: flex; align-items: center; gap: 4px; margin-top: 4px; }
+  .level { font-size: 10px; font-weight: bold; color: #fff; text-shadow: 1px 1px 1px #000; }
+  .hp-bar { flex: 1; height: 8px; background: #333; border-radius: 4px; overflow: hidden; }
   /* Duration matches BLINK_MS in battle-animations.ts so the bar finishes with the hit. */
   .hp-fill { height: 100%; background: #4c4; transition: width 0.4s linear, background-color 0.4s; }
   .hp-fill.low { background: #ec3; }

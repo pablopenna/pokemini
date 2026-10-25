@@ -20,6 +20,8 @@ import type { BattleOptions } from '#/types/battle/battle-options';
 const initialState = () => ({
     p1Sprite: null as string | null,
     p2Sprite: null as string | null,
+    p1Level: -1,
+    p2Level: -1,
     p1Hp: 100,
     p2Hp: 100,
     blink: { p1: false, p2: false },
@@ -123,6 +125,8 @@ function updateSprites(clientBattle: Battle) {
         ...s,
         p1Sprite: p1 ? Sprites.getPokemon(p1.species.id, { gen: 'gen5' }).url : null,
         p2Sprite: p2 ? Sprites.getPokemon(p2.species.id, { gen: 'gen5' }).url : null,
+        p1Level: p1?.level ?? 1,
+        p2Level: p2?.level ?? 1,
         p1Hp: hpPercent(p1),
         p2Hp: hpPercent(p2)
     }));
