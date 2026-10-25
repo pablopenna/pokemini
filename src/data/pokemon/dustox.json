@@ -4,6 +4,7 @@
   "name": "Dustox",
   "url": "https://pokeapi.co/api/v2/pokemon/269",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 173,
   "evYield": {
     "spd": 3

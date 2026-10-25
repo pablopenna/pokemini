@@ -4,6 +4,7 @@
   "name": "Vulpix",
   "url": "https://pokeapi.co/api/v2/pokemon/37",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 60,
   "evYield": {
     "spe": 1

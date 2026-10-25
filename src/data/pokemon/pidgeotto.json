@@ -4,6 +4,7 @@
   "name": "Pidgeotto",
   "url": "https://pokeapi.co/api/v2/pokemon/17",
   "catchRate": 120,
+  "growthRate": "medium-slow",
   "expYield": 122,
   "evYield": {
     "spe": 2

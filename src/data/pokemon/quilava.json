@@ -4,6 +4,7 @@
   "name": "Quilava",
   "url": "https://pokeapi.co/api/v2/pokemon/156",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 142,
   "evYield": {
     "spa": 1,

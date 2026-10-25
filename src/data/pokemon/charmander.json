@@ -4,6 +4,7 @@
   "name": "Charmander",
   "url": "https://pokeapi.co/api/v2/pokemon/4",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 62,
   "evYield": {
     "spe": 1

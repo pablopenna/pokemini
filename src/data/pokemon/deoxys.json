@@ -4,6 +4,7 @@
   "name": "Deoxys",
   "url": "https://pokeapi.co/api/v2/pokemon/386",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 270,
   "evYield": {
     "atk": 1,

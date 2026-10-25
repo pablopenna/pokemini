@@ -4,6 +4,7 @@
   "name": "Oddish",
   "url": "https://pokeapi.co/api/v2/pokemon/43",
   "catchRate": 255,
+  "growthRate": "medium-slow",
   "expYield": 64,
   "evYield": {
     "spa": 1

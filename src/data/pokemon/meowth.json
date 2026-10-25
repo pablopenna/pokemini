@@ -4,6 +4,7 @@
   "name": "Meowth",
   "url": "https://pokeapi.co/api/v2/pokemon/52",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 58,
   "evYield": {
     "spe": 1

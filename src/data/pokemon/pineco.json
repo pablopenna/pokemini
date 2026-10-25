@@ -4,6 +4,7 @@
   "name": "Pineco",
   "url": "https://pokeapi.co/api/v2/pokemon/204",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 58,
   "evYield": {
     "def": 1

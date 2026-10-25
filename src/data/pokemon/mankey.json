@@ -4,6 +4,7 @@
   "name": "Mankey",
   "url": "https://pokeapi.co/api/v2/pokemon/56",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 61,
   "evYield": {
     "atk": 1

@@ -4,6 +4,7 @@
   "name": "Moltres",
   "url": "https://pokeapi.co/api/v2/pokemon/146",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 261,
   "evYield": {
     "spa": 3

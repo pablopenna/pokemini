@@ -4,6 +4,7 @@
   "name": "Geodude",
   "url": "https://pokeapi.co/api/v2/pokemon/74",
   "catchRate": 255,
+  "growthRate": "medium-slow",
   "expYield": 60,
   "evYield": {
     "def": 1

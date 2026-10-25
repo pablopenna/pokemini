@@ -4,6 +4,7 @@
   "name": "Jynx",
   "url": "https://pokeapi.co/api/v2/pokemon/124",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 159,
   "evYield": {
     "spa": 2

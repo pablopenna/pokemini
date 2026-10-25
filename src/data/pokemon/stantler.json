@@ -4,6 +4,7 @@
   "name": "Stantler",
   "url": "https://pokeapi.co/api/v2/pokemon/234",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 163,
   "evYield": {
     "atk": 1

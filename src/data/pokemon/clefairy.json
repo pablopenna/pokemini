@@ -4,6 +4,7 @@
   "name": "Clefairy",
   "url": "https://pokeapi.co/api/v2/pokemon/35",
   "catchRate": 150,
+  "growthRate": "fast",
   "expYield": 113,
   "evYield": {
     "hp": 2

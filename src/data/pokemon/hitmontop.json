@@ -4,6 +4,7 @@
   "name": "Hitmontop",
   "url": "https://pokeapi.co/api/v2/pokemon/237",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 159,
   "evYield": {
     "spd": 2

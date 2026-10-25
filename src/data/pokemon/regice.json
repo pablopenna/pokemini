@@ -4,6 +4,7 @@
   "name": "Regice",
   "url": "https://pokeapi.co/api/v2/pokemon/378",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 261,
   "evYield": {
     "spd": 3

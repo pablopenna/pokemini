@@ -4,6 +4,7 @@
   "name": "Ho-Oh",
   "url": "https://pokeapi.co/api/v2/pokemon/250",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 306,
   "evYield": {
     "spd": 3

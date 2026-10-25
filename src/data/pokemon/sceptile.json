@@ -4,6 +4,7 @@
   "name": "Sceptile",
   "url": "https://pokeapi.co/api/v2/pokemon/254",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 239,
   "evYield": {
     "spe": 3

@@ -4,6 +4,7 @@
   "name": "Drowzee",
   "url": "https://pokeapi.co/api/v2/pokemon/96",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 66,
   "evYield": {
     "spd": 1

@@ -4,6 +4,7 @@
   "name": "Feebas",
   "url": "https://pokeapi.co/api/v2/pokemon/349",
   "catchRate": 255,
+  "growthRate": "slow-then-very-fast",
   "expYield": 40,
   "evYield": {
     "spe": 1

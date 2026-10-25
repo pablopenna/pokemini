@@ -4,6 +4,7 @@
   "name": "Zigzagoon",
   "url": "https://pokeapi.co/api/v2/pokemon/263",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 56,
   "evYield": {
     "spe": 1

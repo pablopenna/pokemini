@@ -4,6 +4,7 @@
   "name": "Primeape",
   "url": "https://pokeapi.co/api/v2/pokemon/57",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 159,
   "evYield": {
     "atk": 2

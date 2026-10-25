@@ -4,6 +4,7 @@
   "name": "Goldeen",
   "url": "https://pokeapi.co/api/v2/pokemon/118",
   "catchRate": 225,
+  "growthRate": "medium",
   "expYield": 64,
   "evYield": {
     "atk": 1

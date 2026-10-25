@@ -4,6 +4,7 @@
   "name": "Sneasel",
   "url": "https://pokeapi.co/api/v2/pokemon/215",
   "catchRate": 60,
+  "growthRate": "medium-slow",
   "expYield": 86,
   "evYield": {
     "spe": 1

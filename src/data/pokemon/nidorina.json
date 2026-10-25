@@ -4,6 +4,7 @@
   "name": "Nidorina",
   "url": "https://pokeapi.co/api/v2/pokemon/30",
   "catchRate": 120,
+  "growthRate": "medium-slow",
   "expYield": 128,
   "evYield": {
     "hp": 2

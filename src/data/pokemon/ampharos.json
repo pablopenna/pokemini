@@ -4,6 +4,7 @@
   "name": "Ampharos",
   "url": "https://pokeapi.co/api/v2/pokemon/181",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 230,
   "evYield": {
     "spa": 3

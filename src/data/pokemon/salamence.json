@@ -4,6 +4,7 @@
   "name": "Salamence",
   "url": "https://pokeapi.co/api/v2/pokemon/373",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 270,
   "evYield": {
     "atk": 3

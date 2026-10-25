@@ -4,6 +4,7 @@
   "name": "Slaking",
   "url": "https://pokeapi.co/api/v2/pokemon/289",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 252,
   "evYield": {
     "hp": 3

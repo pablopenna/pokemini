@@ -4,6 +4,7 @@
   "name": "Starmie",
   "url": "https://pokeapi.co/api/v2/pokemon/121",
   "catchRate": 60,
+  "growthRate": "slow",
   "expYield": 182,
   "evYield": {
     "spe": 2

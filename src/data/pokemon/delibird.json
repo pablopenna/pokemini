@@ -4,6 +4,7 @@
   "name": "Delibird",
   "url": "https://pokeapi.co/api/v2/pokemon/225",
   "catchRate": 45,
+  "growthRate": "fast",
   "expYield": 116,
   "evYield": {
     "spe": 1

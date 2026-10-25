@@ -4,6 +4,7 @@
   "name": "Magnemite",
   "url": "https://pokeapi.co/api/v2/pokemon/81",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 65,
   "evYield": {
     "spa": 1

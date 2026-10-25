@@ -10,9 +10,9 @@ export const canBattle = (party: Party) => party.some(p => !isFainted(p));
 export const healParty = (party: Party): Party =>
   party.map(p => ({ ...p, hp: null, pp: null, status: '' }));
 
-/** A freshly obtained Pokémon: full HP and PP, no status. Experience is not tracked yet. */
-export const toPartyPokemon = (p: Pokemon): PartyPokemon =>
-  ({ ...p, exp: 0, hp: null, status: '', pp: null });
+/** A freshly obtained Pokémon: full HP and PP, no status. */
+export const toPartyPokemon = (p: Pokemon, exp: number): PartyPokemon =>
+  ({ ...p, exp, hp: null, status: '', pp: null });
 
 /** Order the party is sent to the sim: fainted last, so they are never the lead. Holds indexes into `party`. */
 export const battleOrder = (party: Party): number[] =>

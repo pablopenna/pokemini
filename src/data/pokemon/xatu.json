@@ -4,6 +4,7 @@
   "name": "Xatu",
   "url": "https://pokeapi.co/api/v2/pokemon/178",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 165,
   "evYield": {
     "spa": 1,

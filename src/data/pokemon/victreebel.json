@@ -4,6 +4,7 @@
   "name": "Victreebel",
   "url": "https://pokeapi.co/api/v2/pokemon/71",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 221,
   "evYield": {
     "atk": 3

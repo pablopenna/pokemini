@@ -4,6 +4,7 @@
   "name": "Espeon",
   "url": "https://pokeapi.co/api/v2/pokemon/196",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 184,
   "evYield": {
     "spa": 2

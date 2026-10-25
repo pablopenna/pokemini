@@ -4,6 +4,7 @@
   "name": "Bellsprout",
   "url": "https://pokeapi.co/api/v2/pokemon/69",
   "catchRate": 255,
+  "growthRate": "medium-slow",
   "expYield": 60,
   "evYield": {
     "atk": 1

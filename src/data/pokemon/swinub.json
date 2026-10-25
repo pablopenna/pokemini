@@ -4,6 +4,7 @@
   "name": "Swinub",
   "url": "https://pokeapi.co/api/v2/pokemon/220",
   "catchRate": 225,
+  "growthRate": "slow",
   "expYield": 50,
   "evYield": {
     "atk": 1

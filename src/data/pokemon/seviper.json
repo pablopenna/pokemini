@@ -4,6 +4,7 @@
   "name": "Seviper",
   "url": "https://pokeapi.co/api/v2/pokemon/336",
   "catchRate": 90,
+  "growthRate": "fast-then-very-slow",
   "expYield": 160,
   "evYield": {
     "atk": 1,

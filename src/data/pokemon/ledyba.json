@@ -4,6 +4,7 @@
   "name": "Ledyba",
   "url": "https://pokeapi.co/api/v2/pokemon/165",
   "catchRate": 255,
+  "growthRate": "fast",
   "expYield": 53,
   "evYield": {
     "spd": 1

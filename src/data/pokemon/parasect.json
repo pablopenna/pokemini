@@ -4,6 +4,7 @@
   "name": "Parasect",
   "url": "https://pokeapi.co/api/v2/pokemon/47",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 142,
   "evYield": {
     "atk": 2,

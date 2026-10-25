@@ -4,6 +4,7 @@
   "name": "Wigglytuff",
   "url": "https://pokeapi.co/api/v2/pokemon/40",
   "catchRate": 50,
+  "growthRate": "fast",
   "expYield": 196,
   "evYield": {
     "hp": 3

@@ -4,6 +4,7 @@
   "name": "Ludicolo",
   "url": "https://pokeapi.co/api/v2/pokemon/272",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 216,
   "evYield": {
     "spd": 3

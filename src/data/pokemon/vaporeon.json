@@ -4,6 +4,7 @@
   "name": "Vaporeon",
   "url": "https://pokeapi.co/api/v2/pokemon/134",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 184,
   "evYield": {
     "hp": 2

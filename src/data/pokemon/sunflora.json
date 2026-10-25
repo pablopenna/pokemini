@@ -4,6 +4,7 @@
   "name": "Sunflora",
   "url": "https://pokeapi.co/api/v2/pokemon/192",
   "catchRate": 120,
+  "growthRate": "medium-slow",
   "expYield": 149,
   "evYield": {
     "spa": 2

@@ -4,6 +4,7 @@
   "name": "Swampert",
   "url": "https://pokeapi.co/api/v2/pokemon/260",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 241,
   "evYield": {
     "atk": 3

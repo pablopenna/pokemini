@@ -4,6 +4,7 @@
   "name": "Anorith",
   "url": "https://pokeapi.co/api/v2/pokemon/347",
   "catchRate": 45,
+  "growthRate": "slow-then-very-fast",
   "expYield": 71,
   "evYield": {
     "atk": 1

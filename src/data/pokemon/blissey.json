@@ -4,6 +4,7 @@
   "name": "Blissey",
   "url": "https://pokeapi.co/api/v2/pokemon/242",
   "catchRate": 30,
+  "growthRate": "fast",
   "expYield": 608,
   "evYield": {
     "hp": 3

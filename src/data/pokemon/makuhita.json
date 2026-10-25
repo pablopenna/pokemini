@@ -4,6 +4,7 @@
   "name": "Makuhita",
   "url": "https://pokeapi.co/api/v2/pokemon/296",
   "catchRate": 180,
+  "growthRate": "fast-then-very-slow",
   "expYield": 47,
   "evYield": {
     "hp": 1

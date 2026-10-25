@@ -4,6 +4,7 @@
   "name": "Mewtwo",
   "url": "https://pokeapi.co/api/v2/pokemon/150",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 306,
   "evYield": {
     "spa": 3

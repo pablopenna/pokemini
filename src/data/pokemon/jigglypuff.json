@@ -4,6 +4,7 @@
   "name": "Jigglypuff",
   "url": "https://pokeapi.co/api/v2/pokemon/39",
   "catchRate": 170,
+  "growthRate": "fast",
   "expYield": 95,
   "evYield": {
     "hp": 2

@@ -4,6 +4,7 @@
   "name": "Electrode",
   "url": "https://pokeapi.co/api/v2/pokemon/101",
   "catchRate": 60,
+  "growthRate": "medium",
   "expYield": 172,
   "evYield": {
     "spe": 2

@@ -4,6 +4,7 @@
   "name": "Piloswine",
   "url": "https://pokeapi.co/api/v2/pokemon/221",
   "catchRate": 75,
+  "growthRate": "slow",
   "expYield": 158,
   "evYield": {
     "hp": 1,

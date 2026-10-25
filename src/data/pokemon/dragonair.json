@@ -4,6 +4,7 @@
   "name": "Dragonair",
   "url": "https://pokeapi.co/api/v2/pokemon/148",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 147,
   "evYield": {
     "atk": 2

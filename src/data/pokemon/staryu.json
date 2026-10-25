@@ -4,6 +4,7 @@
   "name": "Staryu",
   "url": "https://pokeapi.co/api/v2/pokemon/120",
   "catchRate": 225,
+  "growthRate": "slow",
   "expYield": 68,
   "evYield": {
     "spe": 1

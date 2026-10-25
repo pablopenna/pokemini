@@ -4,6 +4,7 @@
   "name": "Snubbull",
   "url": "https://pokeapi.co/api/v2/pokemon/209",
   "catchRate": 190,
+  "growthRate": "fast",
   "expYield": 60,
   "evYield": {
     "atk": 1

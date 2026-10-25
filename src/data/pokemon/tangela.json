@@ -4,6 +4,7 @@
   "name": "Tangela",
   "url": "https://pokeapi.co/api/v2/pokemon/114",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 87,
   "evYield": {
     "def": 1

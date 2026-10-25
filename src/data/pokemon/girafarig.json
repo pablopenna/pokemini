@@ -4,6 +4,7 @@
   "name": "Girafarig",
   "url": "https://pokeapi.co/api/v2/pokemon/203",
   "catchRate": 60,
+  "growthRate": "medium",
   "expYield": 159,
   "evYield": {
     "spa": 2

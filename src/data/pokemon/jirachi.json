@@ -4,6 +4,7 @@
   "name": "Jirachi",
   "url": "https://pokeapi.co/api/v2/pokemon/385",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 270,
   "evYield": {
     "hp": 3

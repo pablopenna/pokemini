@@ -4,6 +4,7 @@
   "name": "Sentret",
   "url": "https://pokeapi.co/api/v2/pokemon/161",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 43,
   "evYield": {
     "atk": 1

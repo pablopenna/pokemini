@@ -4,6 +4,7 @@
   "name": "Rhyhorn",
   "url": "https://pokeapi.co/api/v2/pokemon/111",
   "catchRate": 120,
+  "growthRate": "slow",
   "expYield": 69,
   "evYield": {
     "def": 1

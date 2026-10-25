@@ -4,6 +4,7 @@
   "name": "Crobat",
   "url": "https://pokeapi.co/api/v2/pokemon/169",
   "catchRate": 90,
+  "growthRate": "medium",
   "expYield": 241,
   "evYield": {
     "spe": 3

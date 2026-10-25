@@ -4,6 +4,7 @@
   "name": "Metagross",
   "url": "https://pokeapi.co/api/v2/pokemon/376",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 270,
   "evYield": {
     "def": 3

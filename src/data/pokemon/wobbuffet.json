@@ -4,6 +4,7 @@
   "name": "Wobbuffet",
   "url": "https://pokeapi.co/api/v2/pokemon/202",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 142,
   "evYield": {
     "hp": 2

@@ -4,6 +4,7 @@
   "name": "Politoed",
   "url": "https://pokeapi.co/api/v2/pokemon/186",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 225,
   "evYield": {
     "spd": 3

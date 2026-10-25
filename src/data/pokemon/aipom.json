@@ -4,6 +4,7 @@
   "name": "Aipom",
   "url": "https://pokeapi.co/api/v2/pokemon/190",
   "catchRate": 45,
+  "growthRate": "fast",
   "expYield": 72,
   "evYield": {
     "spe": 1

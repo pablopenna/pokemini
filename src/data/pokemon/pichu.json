@@ -4,6 +4,7 @@
   "name": "Pichu",
   "url": "https://pokeapi.co/api/v2/pokemon/172",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 41,
   "evYield": {
     "spe": 1

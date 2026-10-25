@@ -4,6 +4,7 @@
   "name": "Igglybuff",
   "url": "https://pokeapi.co/api/v2/pokemon/174",
   "catchRate": 170,
+  "growthRate": "fast",
   "expYield": 42,
   "evYield": {
     "hp": 1

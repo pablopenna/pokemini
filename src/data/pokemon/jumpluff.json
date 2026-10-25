@@ -4,6 +4,7 @@
   "name": "Jumpluff",
   "url": "https://pokeapi.co/api/v2/pokemon/189",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 207,
   "evYield": {
     "spe": 3

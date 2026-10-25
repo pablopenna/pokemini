@@ -4,6 +4,7 @@
   "name": "Pinsir",
   "url": "https://pokeapi.co/api/v2/pokemon/127",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 175,
   "evYield": {
     "atk": 2

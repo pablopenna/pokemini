@@ -4,6 +4,7 @@
   "name": "Huntail",
   "url": "https://pokeapi.co/api/v2/pokemon/367",
   "catchRate": 60,
+  "growthRate": "slow-then-very-fast",
   "expYield": 170,
   "evYield": {
     "atk": 1,

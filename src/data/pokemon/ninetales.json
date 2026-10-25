@@ -4,6 +4,7 @@
   "name": "Ninetales",
   "url": "https://pokeapi.co/api/v2/pokemon/38",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 177,
   "evYield": {
     "spd": 1,

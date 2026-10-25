@@ -4,6 +4,7 @@
   "name": "Totodile",
   "url": "https://pokeapi.co/api/v2/pokemon/158",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 63,
   "evYield": {
     "atk": 1

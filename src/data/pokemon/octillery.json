@@ -4,6 +4,7 @@
   "name": "Octillery",
   "url": "https://pokeapi.co/api/v2/pokemon/224",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 168,
   "evYield": {
     "atk": 1,

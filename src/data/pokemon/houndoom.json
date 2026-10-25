@@ -4,6 +4,7 @@
   "name": "Houndoom",
   "url": "https://pokeapi.co/api/v2/pokemon/229",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 175,
   "evYield": {
     "spa": 2

@@ -4,6 +4,7 @@
   "name": "Marowak",
   "url": "https://pokeapi.co/api/v2/pokemon/105",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 149,
   "evYield": {
     "def": 2

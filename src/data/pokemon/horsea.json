@@ -4,6 +4,7 @@
   "name": "Horsea",
   "url": "https://pokeapi.co/api/v2/pokemon/116",
   "catchRate": 225,
+  "growthRate": "medium",
   "expYield": 59,
   "evYield": {
     "spa": 1

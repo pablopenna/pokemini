@@ -1,7 +1,9 @@
 import { Dex } from '@pkmn/dex';
+import { getPokemonData } from '#/game/pokemon-data.ts';
 import { getRouteData } from '#/game/overworld/location.ts';
 import type { Location } from '#/types/overworld/location.ts';
 import type { EncounterMethod, EncounterVersion } from '#/types/overworld/route-encounter.ts';
+import { expForLevel } from '#/game/battle/experience.ts';
 import { toPartyPokemon } from '#/game/battle/party-state.ts';
 import type { PartyPokemon, Pokemon, Team } from '#/types/pokemon.ts';
 
@@ -37,7 +39,17 @@ async function defaultMoves(species: string, level: number): Promise<string[]> {
 
 /** A Pokémon received at a fixed level (e.g. a gift), with the moves it would know by level up in gen 3. */
 export async function buildLeveledPokemon(species: string, level: number): Promise<PartyPokemon> {
-  return toPartyPokemon(buildPokemon(species, level, { moves: await defaultMoves(toSimSpecies(species), level) }));
+  const pokemon = buildPokemon(species, level, { moves: await defaultMoves(toSimSpecies(species), level) });
+  return toPartyPokemon(pokemon, expForLevel(getPokemonData(species).growthRate, level));
+}
+
+/** Moves a species learns by level up at exactly `level` in gen 3, with the PP they have in battle (max PP Ups). */
+export async function movesLearnedAt(species: string, level: number): Promise<{ name: string; pp: number }[]> {
+  const learnset = await gen3.learnsets.get(toSimSpecies(species));
+  return Object.entries(learnset?.learnset ?? {})
+    .filter(([, sources]) => sources.includes(`3L${level}`))
+    .map(([id]) => gen3.moves.get(id))
+    .map(m => ({ name: m.name, pp: m.pp * 8 / 5 }));
 }
 
 /** Builds a set the sim can use (see `Teams.pack`) with neutral nature, no EVs and perfect IVs. */

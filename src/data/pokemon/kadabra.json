@@ -4,6 +4,7 @@
   "name": "Kadabra",
   "url": "https://pokeapi.co/api/v2/pokemon/64",
   "catchRate": 100,
+  "growthRate": "medium-slow",
   "expYield": 140,
   "evYield": {
     "spa": 2

@@ -9,6 +9,9 @@ import { Protocol } from '@pkmn/protocol';
 import { ChoiceBuilder } from '@pkmn/view';
 import { UIPlayer, type ChoiceRequest } from '#/game/battle/ui-player';
 import { playEffect } from '#/game/battle/battle-animations';
+import { gainExperience, trackExperience } from '#/game/battle/experience';
+import { movesLearnedAt } from '#/game/battle/team-builder';
+import { getPokemonData } from '#/game/pokemon-data';
 import { applyPartyState, battleOrder, readPartyState, restoreOrder } from '#/game/battle/party-state';
 import type { BattleOutcome, BattleResult } from '#/types/battle/battle-result';
 import type { BattleOptions } from '#/types/battle/battle-options';
@@ -179,7 +182,23 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
     const sim = simStream.battle!;
     const sentSim = [...sim.sides[0].pokemon];
     applyPartyState(sim.sides[0], sentParty);
+    const earned = trackExperience(sim, foe => getPokemonData(foe.species.id).expYield);
 
     const result = await battleLoop();
-    return { result, party: restoreOrder(readPartyState(sentParty, sentSim), order) };
+    const party = readPartyState(sentParty, sentSim);
+    for (const [i, simMon] of sentSim.entries()) {
+        const gained = earned.get(simMon);
+        if (!gained) continue;
+        const { species } = party[i];
+        const data = getPokemonData(species);
+        const gain = await gainExperience(party[i], gained, {
+            growthRate: data.growthRate,
+            baseHp: Dex.forGen(3).species.get(species).baseStats.hp,
+            movesAt: level => movesLearnedAt(species, level),
+        });
+        party[i] = gain.pokemon;
+        const html = gain.messages.map(m => `<div>${m}</div>`).join('');
+        battleState.update(s => ({ ...s, log: s.log + html }));
+    }
+    return { result, party: restoreOrder(party, order) };
 }

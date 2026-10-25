@@ -4,6 +4,7 @@
   "name": "Onix",
   "url": "https://pokeapi.co/api/v2/pokemon/95",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 77,
   "evYield": {
     "def": 1

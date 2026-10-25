@@ -4,6 +4,7 @@
   "name": "Solrock",
   "url": "https://pokeapi.co/api/v2/pokemon/338",
   "catchRate": 45,
+  "growthRate": "fast",
   "expYield": 161,
   "evYield": {
     "atk": 2

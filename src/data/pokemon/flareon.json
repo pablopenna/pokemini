@@ -4,6 +4,7 @@
   "name": "Flareon",
   "url": "https://pokeapi.co/api/v2/pokemon/136",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 184,
   "evYield": {
     "atk": 2

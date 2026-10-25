@@ -4,6 +4,7 @@
   "name": "Quagsire",
   "url": "https://pokeapi.co/api/v2/pokemon/195",
   "catchRate": 90,
+  "growthRate": "medium",
   "expYield": 151,
   "evYield": {
     "hp": 2

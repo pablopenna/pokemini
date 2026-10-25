@@ -4,6 +4,7 @@
   "name": "Magcargo",
   "url": "https://pokeapi.co/api/v2/pokemon/219",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 151,
   "evYield": {
     "def": 2

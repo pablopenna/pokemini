@@ -4,6 +4,7 @@
   "name": "Numel",
   "url": "https://pokeapi.co/api/v2/pokemon/322",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 61,
   "evYield": {
     "spa": 1

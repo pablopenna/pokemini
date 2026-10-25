@@ -4,6 +4,7 @@
   "name": "Noctowl",
   "url": "https://pokeapi.co/api/v2/pokemon/164",
   "catchRate": 90,
+  "growthRate": "medium",
   "expYield": 158,
   "evYield": {
     "hp": 2

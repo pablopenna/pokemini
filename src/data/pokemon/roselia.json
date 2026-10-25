@@ -4,6 +4,7 @@
   "name": "Roselia",
   "url": "https://pokeapi.co/api/v2/pokemon/315",
   "catchRate": 150,
+  "growthRate": "medium-slow",
   "expYield": 140,
   "evYield": {
     "spa": 2

@@ -4,6 +4,7 @@
   "name": "Latios",
   "url": "https://pokeapi.co/api/v2/pokemon/381",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 270,
   "evYield": {
     "spa": 3

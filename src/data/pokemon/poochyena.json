@@ -4,6 +4,7 @@
   "name": "Poochyena",
   "url": "https://pokeapi.co/api/v2/pokemon/261",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 56,
   "evYield": {
     "atk": 1

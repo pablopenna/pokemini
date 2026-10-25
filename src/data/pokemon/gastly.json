@@ -4,6 +4,7 @@
   "name": "Gastly",
   "url": "https://pokeapi.co/api/v2/pokemon/92",
   "catchRate": 190,
+  "growthRate": "medium-slow",
   "expYield": 62,
   "evYield": {
     "spa": 1

@@ -4,6 +4,7 @@
   "name": "Groudon",
   "url": "https://pokeapi.co/api/v2/pokemon/383",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 302,
   "evYield": {
     "atk": 3

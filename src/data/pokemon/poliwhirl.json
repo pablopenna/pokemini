@@ -4,6 +4,7 @@
   "name": "Poliwhirl",
   "url": "https://pokeapi.co/api/v2/pokemon/61",
   "catchRate": 120,
+  "growthRate": "medium-slow",
   "expYield": 135,
   "evYield": {
     "spe": 2

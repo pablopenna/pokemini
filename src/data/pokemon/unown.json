@@ -4,6 +4,7 @@
   "name": "Unown",
   "url": "https://pokeapi.co/api/v2/pokemon/201",
   "catchRate": 225,
+  "growthRate": "medium",
   "expYield": 118,
   "evYield": {
     "atk": 1,

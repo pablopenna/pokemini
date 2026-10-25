@@ -4,6 +4,7 @@
   "name": "Delcatty",
   "url": "https://pokeapi.co/api/v2/pokemon/301",
   "catchRate": 60,
+  "growthRate": "fast",
   "expYield": 140,
   "evYield": {
     "hp": 1,

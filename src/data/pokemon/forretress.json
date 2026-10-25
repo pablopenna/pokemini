@@ -4,6 +4,7 @@
   "name": "Forretress",
   "url": "https://pokeapi.co/api/v2/pokemon/205",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 163,
   "evYield": {
     "def": 2

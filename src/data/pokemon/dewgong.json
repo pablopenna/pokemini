@@ -4,6 +4,7 @@
   "name": "Dewgong",
   "url": "https://pokeapi.co/api/v2/pokemon/87",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 166,
   "evYield": {
     "spd": 2

@@ -4,6 +4,7 @@
   "name": "Magneton",
   "url": "https://pokeapi.co/api/v2/pokemon/82",
   "catchRate": 60,
+  "growthRate": "medium",
   "expYield": 163,
   "evYield": {
     "spa": 2

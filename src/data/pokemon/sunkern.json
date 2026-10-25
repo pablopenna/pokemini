@@ -4,6 +4,7 @@
   "name": "Sunkern",
   "url": "https://pokeapi.co/api/v2/pokemon/191",
   "catchRate": 235,
+  "growthRate": "medium-slow",
   "expYield": 36,
   "evYield": {
     "spa": 1

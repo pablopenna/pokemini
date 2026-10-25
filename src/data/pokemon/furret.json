@@ -4,6 +4,7 @@
   "name": "Furret",
   "url": "https://pokeapi.co/api/v2/pokemon/162",
   "catchRate": 90,
+  "growthRate": "medium",
   "expYield": 145,
   "evYield": {
     "spe": 2

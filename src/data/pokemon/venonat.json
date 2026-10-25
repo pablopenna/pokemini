@@ -4,6 +4,7 @@
   "name": "Venonat",
   "url": "https://pokeapi.co/api/v2/pokemon/48",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 61,
   "evYield": {
     "spd": 1

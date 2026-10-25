@@ -4,6 +4,7 @@
   "name": "Sandshrew",
   "url": "https://pokeapi.co/api/v2/pokemon/27",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 60,
   "evYield": {
     "def": 1

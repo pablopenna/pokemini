@@ -4,6 +4,7 @@
   "name": "Tentacool",
   "url": "https://pokeapi.co/api/v2/pokemon/72",
   "catchRate": 190,
+  "growthRate": "slow",
   "expYield": 67,
   "evYield": {
     "spd": 1

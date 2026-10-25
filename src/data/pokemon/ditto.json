@@ -4,6 +4,7 @@
   "name": "Ditto",
   "url": "https://pokeapi.co/api/v2/pokemon/132",
   "catchRate": 35,
+  "growthRate": "medium",
   "expYield": 101,
   "evYield": {
     "hp": 1

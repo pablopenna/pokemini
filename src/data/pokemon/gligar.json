@@ -4,6 +4,7 @@
   "name": "Gligar",
   "url": "https://pokeapi.co/api/v2/pokemon/207",
   "catchRate": 60,
+  "growthRate": "medium-slow",
   "expYield": 86,
   "evYield": {
     "def": 1

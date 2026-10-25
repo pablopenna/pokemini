@@ -4,6 +4,7 @@
   "name": "Wooper",
   "url": "https://pokeapi.co/api/v2/pokemon/194",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 42,
   "evYield": {
     "hp": 1

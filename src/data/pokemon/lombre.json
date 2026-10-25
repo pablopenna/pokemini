@@ -4,6 +4,7 @@
   "name": "Lombre",
   "url": "https://pokeapi.co/api/v2/pokemon/271",
   "catchRate": 120,
+  "growthRate": "medium-slow",
   "expYield": 119,
   "evYield": {
     "spd": 2

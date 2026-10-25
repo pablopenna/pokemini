@@ -4,6 +4,7 @@
   "name": "Dodrio",
   "url": "https://pokeapi.co/api/v2/pokemon/85",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 165,
   "evYield": {
     "atk": 2

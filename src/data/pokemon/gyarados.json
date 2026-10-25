@@ -4,6 +4,7 @@
   "name": "Gyarados",
   "url": "https://pokeapi.co/api/v2/pokemon/130",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 189,
   "evYield": {
     "atk": 2

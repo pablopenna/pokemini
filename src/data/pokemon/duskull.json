@@ -4,6 +4,7 @@
   "name": "Duskull",
   "url": "https://pokeapi.co/api/v2/pokemon/355",
   "catchRate": 190,
+  "growthRate": "fast",
   "expYield": 59,
   "evYield": {
     "spd": 1

@@ -4,6 +4,7 @@
   "name": "Chimecho",
   "url": "https://pokeapi.co/api/v2/pokemon/358",
   "catchRate": 45,
+  "growthRate": "fast",
   "expYield": 159,
   "evYield": {
     "spa": 1,

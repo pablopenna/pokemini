@@ -4,6 +4,7 @@
   "name": "Porygon",
   "url": "https://pokeapi.co/api/v2/pokemon/137",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 79,
   "evYield": {
     "spa": 1

@@ -4,6 +4,7 @@
   "name": "Cleffa",
   "url": "https://pokeapi.co/api/v2/pokemon/173",
   "catchRate": 150,
+  "growthRate": "fast",
   "expYield": 44,
   "evYield": {
     "spd": 1

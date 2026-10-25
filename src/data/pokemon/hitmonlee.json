@@ -4,6 +4,7 @@
   "name": "Hitmonlee",
   "url": "https://pokeapi.co/api/v2/pokemon/106",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 159,
   "evYield": {
     "atk": 2

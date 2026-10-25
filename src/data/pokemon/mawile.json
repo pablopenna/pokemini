@@ -4,6 +4,7 @@
   "name": "Mawile",
   "url": "https://pokeapi.co/api/v2/pokemon/303",
   "catchRate": 45,
+  "growthRate": "fast",
   "expYield": 133,
   "evYield": {
     "atk": 1,

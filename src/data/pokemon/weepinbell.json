@@ -4,6 +4,7 @@
   "name": "Weepinbell",
   "url": "https://pokeapi.co/api/v2/pokemon/70",
   "catchRate": 120,
+  "growthRate": "medium-slow",
   "expYield": 137,
   "evYield": {
     "atk": 2

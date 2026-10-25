@@ -4,6 +4,7 @@
   "name": "Grovyle",
   "url": "https://pokeapi.co/api/v2/pokemon/253",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 142,
   "evYield": {
     "spe": 2

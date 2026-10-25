@@ -4,6 +4,7 @@
   "name": "Slowking",
   "url": "https://pokeapi.co/api/v2/pokemon/199",
   "catchRate": 70,
+  "growthRate": "medium",
   "expYield": 172,
   "evYield": {
     "spd": 2

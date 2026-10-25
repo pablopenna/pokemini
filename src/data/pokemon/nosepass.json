@@ -4,6 +4,7 @@
   "name": "Nosepass",
   "url": "https://pokeapi.co/api/v2/pokemon/299",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 75,
   "evYield": {
     "def": 1

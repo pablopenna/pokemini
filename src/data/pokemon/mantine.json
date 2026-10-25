@@ -4,6 +4,7 @@
   "name": "Mantine",
   "url": "https://pokeapi.co/api/v2/pokemon/226",
   "catchRate": 25,
+  "growthRate": "slow",
   "expYield": 170,
   "evYield": {
     "spd": 2

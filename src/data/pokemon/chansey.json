@@ -4,6 +4,7 @@
   "name": "Chansey",
   "url": "https://pokeapi.co/api/v2/pokemon/113",
   "catchRate": 30,
+  "growthRate": "fast",
   "expYield": 395,
   "evYield": {
     "hp": 2

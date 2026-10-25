@@ -4,6 +4,7 @@
   "name": "Haunter",
   "url": "https://pokeapi.co/api/v2/pokemon/93",
   "catchRate": 90,
+  "growthRate": "medium-slow",
   "expYield": 142,
   "evYield": {
     "spa": 2

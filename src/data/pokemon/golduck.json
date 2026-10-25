@@ -4,6 +4,7 @@
   "name": "Golduck",
   "url": "https://pokeapi.co/api/v2/pokemon/55",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 175,
   "evYield": {
     "spa": 2

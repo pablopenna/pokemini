@@ -4,6 +4,7 @@
   "name": "Togetic",
   "url": "https://pokeapi.co/api/v2/pokemon/176",
   "catchRate": 75,
+  "growthRate": "fast",
   "expYield": 142,
   "evYield": {
     "spd": 2

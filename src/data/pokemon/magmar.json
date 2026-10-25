@@ -4,6 +4,7 @@
   "name": "Magmar",
   "url": "https://pokeapi.co/api/v2/pokemon/126",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 173,
   "evYield": {
     "spa": 2

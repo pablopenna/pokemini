@@ -4,6 +4,7 @@
   "name": "Weezing",
   "url": "https://pokeapi.co/api/v2/pokemon/110",
   "catchRate": 60,
+  "growthRate": "medium",
   "expYield": 172,
   "evYield": {
     "def": 2

@@ -4,6 +4,7 @@
   "name": "Remoraid",
   "url": "https://pokeapi.co/api/v2/pokemon/223",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 60,
   "evYield": {
     "spa": 1

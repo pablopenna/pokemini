@@ -4,6 +4,7 @@
   "name": "Krabby",
   "url": "https://pokeapi.co/api/v2/pokemon/98",
   "catchRate": 225,
+  "growthRate": "medium",
   "expYield": 65,
   "evYield": {
     "atk": 1

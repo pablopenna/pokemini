@@ -4,6 +4,7 @@
   "name": "Breloom",
   "url": "https://pokeapi.co/api/v2/pokemon/286",
   "catchRate": 90,
+  "growthRate": "fast-then-very-slow",
   "expYield": 161,
   "evYield": {
     "atk": 2

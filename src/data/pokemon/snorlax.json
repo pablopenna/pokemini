@@ -4,6 +4,7 @@
   "name": "Snorlax",
   "url": "https://pokeapi.co/api/v2/pokemon/143",
   "catchRate": 25,
+  "growthRate": "slow",
   "expYield": 189,
   "evYield": {
     "hp": 2

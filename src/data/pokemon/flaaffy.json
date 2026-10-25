@@ -4,6 +4,7 @@
   "name": "Flaaffy",
   "url": "https://pokeapi.co/api/v2/pokemon/180",
   "catchRate": 120,
+  "growthRate": "medium-slow",
   "expYield": 128,
   "evYield": {
     "spa": 2

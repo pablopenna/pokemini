@@ -4,6 +4,7 @@
   "name": "Whismur",
   "url": "https://pokeapi.co/api/v2/pokemon/293",
   "catchRate": 190,
+  "growthRate": "medium-slow",
   "expYield": 48,
   "evYield": {
     "hp": 1

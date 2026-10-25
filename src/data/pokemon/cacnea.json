@@ -4,6 +4,7 @@
   "name": "Cacnea",
   "url": "https://pokeapi.co/api/v2/pokemon/331",
   "catchRate": 190,
+  "growthRate": "medium-slow",
   "expYield": 67,
   "evYield": {
     "spa": 1

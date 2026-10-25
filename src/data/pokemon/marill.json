@@ -4,6 +4,7 @@
   "name": "Marill",
   "url": "https://pokeapi.co/api/v2/pokemon/183",
   "catchRate": 190,
+  "growthRate": "fast",
   "expYield": 88,
   "evYield": {
     "hp": 2

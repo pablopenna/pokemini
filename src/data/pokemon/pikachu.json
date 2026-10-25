@@ -4,6 +4,7 @@
   "name": "Pikachu",
   "url": "https://pokeapi.co/api/v2/pokemon/25",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 112,
   "evYield": {
     "spe": 2

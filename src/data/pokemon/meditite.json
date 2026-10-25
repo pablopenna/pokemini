@@ -4,6 +4,7 @@
   "name": "Meditite",
   "url": "https://pokeapi.co/api/v2/pokemon/307",
   "catchRate": 180,
+  "growthRate": "medium",
   "expYield": 56,
   "evYield": {
     "spe": 1

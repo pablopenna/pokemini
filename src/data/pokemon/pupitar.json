@@ -4,6 +4,7 @@
   "name": "Pupitar",
   "url": "https://pokeapi.co/api/v2/pokemon/247",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 144,
   "evYield": {
     "atk": 2

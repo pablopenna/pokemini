@@ -4,6 +4,7 @@
   "name": "Scizor",
   "url": "https://pokeapi.co/api/v2/pokemon/212",
   "catchRate": 25,
+  "growthRate": "medium",
   "expYield": 175,
   "evYield": {
     "atk": 2

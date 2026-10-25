@@ -4,6 +4,7 @@
   "name": "Lairon",
   "url": "https://pokeapi.co/api/v2/pokemon/305",
   "catchRate": 90,
+  "growthRate": "slow",
   "expYield": 151,
   "evYield": {
     "def": 2

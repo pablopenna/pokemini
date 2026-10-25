@@ -4,6 +4,7 @@
   "name": "Psyduck",
   "url": "https://pokeapi.co/api/v2/pokemon/54",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 64,
   "evYield": {
     "spa": 1

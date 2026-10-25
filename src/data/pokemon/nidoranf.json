@@ -4,6 +4,7 @@
   "name": "Nidoran-F",
   "url": "https://pokeapi.co/api/v2/pokemon/29",
   "catchRate": 235,
+  "growthRate": "medium-slow",
   "expYield": 55,
   "evYield": {
     "hp": 1

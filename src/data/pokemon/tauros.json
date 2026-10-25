@@ -4,6 +4,7 @@
   "name": "Tauros",
   "url": "https://pokeapi.co/api/v2/pokemon/128",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 172,
   "evYield": {
     "atk": 1,

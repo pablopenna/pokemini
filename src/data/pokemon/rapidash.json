@@ -4,6 +4,7 @@
   "name": "Rapidash",
   "url": "https://pokeapi.co/api/v2/pokemon/78",
   "catchRate": 60,
+  "growthRate": "medium",
   "expYield": 175,
   "evYield": {
     "spe": 2

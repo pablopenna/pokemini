@@ -4,6 +4,7 @@
   "name": "Celebi",
   "url": "https://pokeapi.co/api/v2/pokemon/251",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 270,
   "evYield": {
     "hp": 3

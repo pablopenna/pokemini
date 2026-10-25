@@ -4,6 +4,7 @@
   "name": "Skiploom",
   "url": "https://pokeapi.co/api/v2/pokemon/188",
   "catchRate": 120,
+  "growthRate": "medium-slow",
   "expYield": 119,
   "evYield": {
     "spe": 2

@@ -4,6 +4,7 @@
   "name": "Skitty",
   "url": "https://pokeapi.co/api/v2/pokemon/300",
   "catchRate": 255,
+  "growthRate": "fast",
   "expYield": 52,
   "evYield": {
     "spe": 1

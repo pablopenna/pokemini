@@ -4,6 +4,7 @@
   "name": "Arbok",
   "url": "https://pokeapi.co/api/v2/pokemon/24",
   "catchRate": 90,
+  "growthRate": "medium",
   "expYield": 157,
   "evYield": {
     "atk": 2

@@ -4,6 +4,7 @@
   "name": "Charizard",
   "url": "https://pokeapi.co/api/v2/pokemon/6",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 240,
   "evYield": {
     "spa": 3

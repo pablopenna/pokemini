@@ -4,6 +4,7 @@
   "name": "Donphan",
   "url": "https://pokeapi.co/api/v2/pokemon/232",
   "catchRate": 60,
+  "growthRate": "medium",
   "expYield": 175,
   "evYield": {
     "atk": 1,

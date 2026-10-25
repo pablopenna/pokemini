@@ -4,6 +4,7 @@
   "name": "Wailord",
   "url": "https://pokeapi.co/api/v2/pokemon/321",
   "catchRate": 60,
+  "growthRate": "fast-then-very-slow",
   "expYield": 175,
   "evYield": {
     "hp": 2

@@ -4,6 +4,7 @@
   "name": "Kangaskhan",
   "url": "https://pokeapi.co/api/v2/pokemon/115",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 172,
   "evYield": {
     "hp": 2

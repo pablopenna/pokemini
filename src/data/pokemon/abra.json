@@ -4,6 +4,7 @@
   "name": "Abra",
   "url": "https://pokeapi.co/api/v2/pokemon/63",
   "catchRate": 200,
+  "growthRate": "medium-slow",
   "expYield": 62,
   "evYield": {
     "spa": 1

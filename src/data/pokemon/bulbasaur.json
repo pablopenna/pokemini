@@ -4,6 +4,7 @@
   "name": "Bulbasaur",
   "url": "https://pokeapi.co/api/v2/pokemon/1",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 64,
   "evYield": {
     "spa": 1

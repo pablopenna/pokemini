@@ -4,6 +4,7 @@
   "name": "Bellossom",
   "url": "https://pokeapi.co/api/v2/pokemon/182",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 221,
   "evYield": {
     "spd": 3

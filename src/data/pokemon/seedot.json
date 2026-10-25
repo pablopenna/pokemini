@@ -4,6 +4,7 @@
   "name": "Seedot",
   "url": "https://pokeapi.co/api/v2/pokemon/273",
   "catchRate": 255,
+  "growthRate": "medium-slow",
   "expYield": 44,
   "evYield": {
     "def": 1

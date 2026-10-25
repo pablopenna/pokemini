@@ -4,6 +4,7 @@
   "name": "Illumise",
   "url": "https://pokeapi.co/api/v2/pokemon/314",
   "catchRate": 150,
+  "growthRate": "fast-then-very-slow",
   "expYield": 151,
   "evYield": {
     "spe": 1

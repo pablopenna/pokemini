@@ -4,6 +4,7 @@
   "name": "Mightyena",
   "url": "https://pokeapi.co/api/v2/pokemon/262",
   "catchRate": 127,
+  "growthRate": "medium",
   "expYield": 147,
   "evYield": {
     "atk": 2

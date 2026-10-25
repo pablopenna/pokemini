@@ -4,6 +4,7 @@
   "name": "Gorebyss",
   "url": "https://pokeapi.co/api/v2/pokemon/368",
   "catchRate": 60,
+  "growthRate": "slow-then-very-fast",
   "expYield": 170,
   "evYield": {
     "spa": 2

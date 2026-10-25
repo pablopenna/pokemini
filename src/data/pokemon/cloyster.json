@@ -4,6 +4,7 @@
   "name": "Cloyster",
   "url": "https://pokeapi.co/api/v2/pokemon/91",
   "catchRate": 60,
+  "growthRate": "slow",
   "expYield": 184,
   "evYield": {
     "def": 2

@@ -4,6 +4,7 @@
   "name": "Cubone",
   "url": "https://pokeapi.co/api/v2/pokemon/104",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 64,
   "evYield": {
     "def": 1

@@ -4,6 +4,7 @@
   "name": "Miltank",
   "url": "https://pokeapi.co/api/v2/pokemon/241",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 172,
   "evYield": {
     "def": 2

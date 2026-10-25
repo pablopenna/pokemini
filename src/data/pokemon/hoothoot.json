@@ -4,6 +4,7 @@
   "name": "Hoothoot",
   "url": "https://pokeapi.co/api/v2/pokemon/163",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 52,
   "evYield": {
     "hp": 1

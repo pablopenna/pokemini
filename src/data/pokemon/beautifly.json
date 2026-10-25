@@ -4,6 +4,7 @@
   "name": "Beautifly",
   "url": "https://pokeapi.co/api/v2/pokemon/267",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 178,
   "evYield": {
     "spa": 3

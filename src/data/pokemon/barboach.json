@@ -4,6 +4,7 @@
   "name": "Barboach",
   "url": "https://pokeapi.co/api/v2/pokemon/339",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 58,
   "evYield": {
     "hp": 1

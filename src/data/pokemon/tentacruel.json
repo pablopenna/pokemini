@@ -4,6 +4,7 @@
   "name": "Tentacruel",
   "url": "https://pokeapi.co/api/v2/pokemon/73",
   "catchRate": 60,
+  "growthRate": "slow",
   "expYield": 180,
   "evYield": {
     "spd": 2

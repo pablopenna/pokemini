@@ -4,6 +4,7 @@
   "name": "Machamp",
   "url": "https://pokeapi.co/api/v2/pokemon/68",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 227,
   "evYield": {
     "atk": 3

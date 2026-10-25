@@ -4,6 +4,7 @@
   "name": "Venomoth",
   "url": "https://pokeapi.co/api/v2/pokemon/49",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 158,
   "evYield": {
     "spa": 1,

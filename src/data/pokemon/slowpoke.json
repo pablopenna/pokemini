@@ -4,6 +4,7 @@
   "name": "Slowpoke",
   "url": "https://pokeapi.co/api/v2/pokemon/79",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 63,
   "evYield": {
     "hp": 1

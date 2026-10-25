@@ -4,6 +4,7 @@
   "name": "Clamperl",
   "url": "https://pokeapi.co/api/v2/pokemon/366",
   "catchRate": 255,
+  "growthRate": "slow-then-very-fast",
   "expYield": 69,
   "evYield": {
     "def": 1

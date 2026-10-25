@@ -4,6 +4,7 @@
   "name": "Golbat",
   "url": "https://pokeapi.co/api/v2/pokemon/42",
   "catchRate": 90,
+  "growthRate": "medium",
   "expYield": 159,
   "evYield": {
     "spe": 2

@@ -4,6 +4,7 @@
   "name": "Shuppet",
   "url": "https://pokeapi.co/api/v2/pokemon/353",
   "catchRate": 225,
+  "growthRate": "fast",
   "expYield": 59,
   "evYield": {
     "atk": 1

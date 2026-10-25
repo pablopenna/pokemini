@@ -4,6 +4,7 @@
   "name": "Spinda",
   "url": "https://pokeapi.co/api/v2/pokemon/327",
   "catchRate": 255,
+  "growthRate": "fast",
   "expYield": 126,
   "evYield": {
     "spa": 1

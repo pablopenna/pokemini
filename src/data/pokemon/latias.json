@@ -4,6 +4,7 @@
   "name": "Latias",
   "url": "https://pokeapi.co/api/v2/pokemon/380",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 270,
   "evYield": {
     "spd": 3

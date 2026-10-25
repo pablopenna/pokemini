@@ -4,6 +4,7 @@
   "name": "Dunsparce",
   "url": "https://pokeapi.co/api/v2/pokemon/206",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 145,
   "evYield": {
     "hp": 1

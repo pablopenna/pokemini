@@ -4,6 +4,7 @@
   "name": "Volbeat",
   "url": "https://pokeapi.co/api/v2/pokemon/313",
   "catchRate": 150,
+  "growthRate": "slow-then-very-fast",
   "expYield": 151,
   "evYield": {
     "spe": 1

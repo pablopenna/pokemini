@@ -4,6 +4,7 @@
   "name": "Minun",
   "url": "https://pokeapi.co/api/v2/pokemon/312",
   "catchRate": 200,
+  "growthRate": "medium",
   "expYield": 142,
   "evYield": {
     "spe": 1

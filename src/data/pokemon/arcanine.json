@@ -4,6 +4,7 @@
   "name": "Arcanine",
   "url": "https://pokeapi.co/api/v2/pokemon/59",
   "catchRate": 75,
+  "growthRate": "slow",
   "expYield": 194,
   "evYield": {
     "atk": 2

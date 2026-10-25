@@ -4,6 +4,7 @@
   "name": "Murkrow",
   "url": "https://pokeapi.co/api/v2/pokemon/198",
   "catchRate": 30,
+  "growthRate": "medium-slow",
   "expYield": 81,
   "evYield": {
     "spe": 1

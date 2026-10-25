@@ -4,6 +4,7 @@
   "name": "Diglett",
   "url": "https://pokeapi.co/api/v2/pokemon/50",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 53,
   "evYield": {
     "spe": 1

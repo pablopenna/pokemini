@@ -4,6 +4,7 @@
   "name": "Carvanha",
   "url": "https://pokeapi.co/api/v2/pokemon/318",
   "catchRate": 225,
+  "growthRate": "slow",
   "expYield": 61,
   "evYield": {
     "atk": 1

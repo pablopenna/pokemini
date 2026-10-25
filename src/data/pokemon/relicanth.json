@@ -4,6 +4,7 @@
   "name": "Relicanth",
   "url": "https://pokeapi.co/api/v2/pokemon/369",
   "catchRate": 25,
+  "growthRate": "slow",
   "expYield": 170,
   "evYield": {
     "hp": 1,

@@ -4,6 +4,7 @@
   "name": "Aggron",
   "url": "https://pokeapi.co/api/v2/pokemon/306",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 239,
   "evYield": {
     "def": 3

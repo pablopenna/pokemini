@@ -4,6 +4,7 @@
   "name": "Hypno",
   "url": "https://pokeapi.co/api/v2/pokemon/97",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 169,
   "evYield": {
     "spd": 2

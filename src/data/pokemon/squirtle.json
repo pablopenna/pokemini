@@ -4,6 +4,7 @@
   "name": "Squirtle",
   "url": "https://pokeapi.co/api/v2/pokemon/7",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 63,
   "evYield": {
     "def": 1

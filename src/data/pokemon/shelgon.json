@@ -4,6 +4,7 @@
   "name": "Shelgon",
   "url": "https://pokeapi.co/api/v2/pokemon/372",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 147,
   "evYield": {
     "def": 2

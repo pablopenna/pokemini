@@ -3,7 +3,7 @@ import * as fsp from 'fs/promises';
 import * as path from 'path';
 import { Dex } from '@pkmn/dex';
 
-import type { PokemonData, StatKey } from '#/types/pokemon-data.ts';
+import type { GrowthRate, PokemonData, StatKey } from '#/types/pokemon-data.ts';
 
 const FORCE = process.argv.includes('--force');
 const ALL = process.argv.includes('--all');
@@ -61,10 +61,13 @@ async function scrapePokemon(species: { id: string; num: number; name: string },
   const url = `${API}/pokemon/${species.num}`;
   let pokemon: ApiPokemon;
   let catchRate: number;
+  let growthRate: GrowthRate;
   try {
     console.log(`Scraping ${species.id} from ${url}...`);
     pokemon = (await axios.get<ApiPokemon>(url)).data;
-    catchRate = (await axios.get<{ capture_rate: number }>(`${API}/pokemon-species/${species.num}`)).data.capture_rate;
+    const speciesData = (await axios.get<{ capture_rate: number; growth_rate: { name: GrowthRate } }>(`${API}/pokemon-species/${species.num}`)).data;
+    catchRate = speciesData.capture_rate;
+    growthRate = speciesData.growth_rate.name;
   } catch (e: unknown) {
     console.error(`Error fetching ${url}. Code: ${(e as any).status}`);
     return;
@@ -86,6 +89,7 @@ async function scrapePokemon(species: { id: string; num: number; name: string },
     name: species.name,
     url,
     catchRate,
+    growthRate,
     expYield: pokemon.base_experience,
     evYield,
     heldItems,

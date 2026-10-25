@@ -4,6 +4,7 @@
   "name": "Spearow",
   "url": "https://pokeapi.co/api/v2/pokemon/21",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 52,
   "evYield": {
     "spe": 1

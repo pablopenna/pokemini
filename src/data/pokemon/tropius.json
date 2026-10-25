@@ -4,6 +4,7 @@
   "name": "Tropius",
   "url": "https://pokeapi.co/api/v2/pokemon/357",
   "catchRate": 200,
+  "growthRate": "slow",
   "expYield": 161,
   "evYield": {
     "hp": 2

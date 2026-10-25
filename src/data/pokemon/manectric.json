@@ -4,6 +4,7 @@
   "name": "Manectric",
   "url": "https://pokeapi.co/api/v2/pokemon/310",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 166,
   "evYield": {
     "spe": 2

@@ -4,6 +4,7 @@
   "name": "Ledian",
   "url": "https://pokeapi.co/api/v2/pokemon/166",
   "catchRate": 90,
+  "growthRate": "fast",
   "expYield": 137,
   "evYield": {
     "spd": 2

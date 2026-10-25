@@ -4,6 +4,7 @@
   "name": "Larvitar",
   "url": "https://pokeapi.co/api/v2/pokemon/246",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 60,
   "evYield": {
     "atk": 1

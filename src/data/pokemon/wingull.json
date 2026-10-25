@@ -4,6 +4,7 @@
   "name": "Wingull",
   "url": "https://pokeapi.co/api/v2/pokemon/278",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 54,
   "evYield": {
     "spe": 1

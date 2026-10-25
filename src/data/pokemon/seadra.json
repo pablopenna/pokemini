@@ -4,6 +4,7 @@
   "name": "Seadra",
   "url": "https://pokeapi.co/api/v2/pokemon/117",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 154,
   "evYield": {
     "def": 1,

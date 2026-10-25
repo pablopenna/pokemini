@@ -4,6 +4,7 @@
   "name": "Baltoy",
   "url": "https://pokeapi.co/api/v2/pokemon/343",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 60,
   "evYield": {
     "spd": 1

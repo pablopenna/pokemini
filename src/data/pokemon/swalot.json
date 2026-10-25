@@ -4,6 +4,7 @@
   "name": "Swalot",
   "url": "https://pokeapi.co/api/v2/pokemon/317",
   "catchRate": 75,
+  "growthRate": "fast-then-very-slow",
   "expYield": 163,
   "evYield": {
     "hp": 2

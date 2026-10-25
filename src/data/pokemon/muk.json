@@ -4,6 +4,7 @@
   "name": "Muk",
   "url": "https://pokeapi.co/api/v2/pokemon/89",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 175,
   "evYield": {
     "hp": 1,

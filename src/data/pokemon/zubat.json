@@ -4,6 +4,7 @@
   "name": "Zubat",
   "url": "https://pokeapi.co/api/v2/pokemon/41",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 49,
   "evYield": {
     "spe": 1

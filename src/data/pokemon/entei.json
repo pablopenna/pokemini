@@ -4,6 +4,7 @@
   "name": "Entei",
   "url": "https://pokeapi.co/api/v2/pokemon/244",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 261,
   "evYield": {
     "hp": 1,

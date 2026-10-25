@@ -4,6 +4,7 @@
   "name": "Claydol",
   "url": "https://pokeapi.co/api/v2/pokemon/344",
   "catchRate": 90,
+  "growthRate": "medium",
   "expYield": 175,
   "evYield": {
     "spd": 2

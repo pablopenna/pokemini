@@ -4,6 +4,7 @@
   "name": "Kabuto",
   "url": "https://pokeapi.co/api/v2/pokemon/140",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 71,
   "evYield": {
     "def": 1

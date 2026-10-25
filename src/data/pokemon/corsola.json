@@ -4,6 +4,7 @@
   "name": "Corsola",
   "url": "https://pokeapi.co/api/v2/pokemon/222",
   "catchRate": 60,
+  "growthRate": "fast",
   "expYield": 144,
   "evYield": {
     "def": 1,

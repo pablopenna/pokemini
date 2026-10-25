@@ -4,6 +4,7 @@
   "name": "Altaria",
   "url": "https://pokeapi.co/api/v2/pokemon/334",
   "catchRate": 45,
+  "growthRate": "slow-then-very-fast",
   "expYield": 172,
   "evYield": {
     "spd": 2

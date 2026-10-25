@@ -4,6 +4,7 @@
   "name": "Wailmer",
   "url": "https://pokeapi.co/api/v2/pokemon/320",
   "catchRate": 125,
+  "growthRate": "fast-then-very-slow",
   "expYield": 80,
   "evYield": {
     "hp": 1

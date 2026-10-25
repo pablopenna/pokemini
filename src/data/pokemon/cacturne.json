@@ -4,6 +4,7 @@
   "name": "Cacturne",
   "url": "https://pokeapi.co/api/v2/pokemon/332",
   "catchRate": 60,
+  "growthRate": "medium-slow",
   "expYield": 166,
   "evYield": {
     "atk": 1,

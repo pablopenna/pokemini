@@ -4,6 +4,7 @@
   "name": "Seaking",
   "url": "https://pokeapi.co/api/v2/pokemon/119",
   "catchRate": 60,
+  "growthRate": "medium",
   "expYield": 158,
   "evYield": {
     "atk": 2

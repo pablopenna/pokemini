@@ -4,6 +4,7 @@
   "name": "Zapdos",
   "url": "https://pokeapi.co/api/v2/pokemon/145",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 261,
   "evYield": {
     "spa": 3

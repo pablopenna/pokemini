@@ -4,6 +4,7 @@
   "name": "Golem",
   "url": "https://pokeapi.co/api/v2/pokemon/76",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 223,
   "evYield": {
     "def": 3

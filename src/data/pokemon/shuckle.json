@@ -4,6 +4,7 @@
   "name": "Shuckle",
   "url": "https://pokeapi.co/api/v2/pokemon/213",
   "catchRate": 190,
+  "growthRate": "medium-slow",
   "expYield": 177,
   "evYield": {
     "def": 1,

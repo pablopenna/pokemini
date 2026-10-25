@@ -4,6 +4,7 @@
   "name": "Typhlosion",
   "url": "https://pokeapi.co/api/v2/pokemon/157",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 240,
   "evYield": {
     "spa": 3

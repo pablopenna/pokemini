@@ -4,6 +4,7 @@
   "name": "Azumarill",
   "url": "https://pokeapi.co/api/v2/pokemon/184",
   "catchRate": 75,
+  "growthRate": "fast",
   "expYield": 189,
   "evYield": {
     "hp": 3

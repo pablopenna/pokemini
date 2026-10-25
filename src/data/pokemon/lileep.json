@@ -4,6 +4,7 @@
   "name": "Lileep",
   "url": "https://pokeapi.co/api/v2/pokemon/345",
   "catchRate": 45,
+  "growthRate": "slow-then-very-fast",
   "expYield": 71,
   "evYield": {
     "spd": 1

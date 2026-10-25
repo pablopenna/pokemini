@@ -4,6 +4,7 @@
   "name": "Cyndaquil",
   "url": "https://pokeapi.co/api/v2/pokemon/155",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 62,
   "evYield": {
     "spe": 1

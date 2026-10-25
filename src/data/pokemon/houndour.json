@@ -4,6 +4,7 @@
   "name": "Houndour",
   "url": "https://pokeapi.co/api/v2/pokemon/228",
   "catchRate": 120,
+  "growthRate": "slow",
   "expYield": 66,
   "evYield": {
     "spa": 1

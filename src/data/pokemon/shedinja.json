@@ -4,6 +4,7 @@
   "name": "Shedinja",
   "url": "https://pokeapi.co/api/v2/pokemon/292",
   "catchRate": 45,
+  "growthRate": "slow-then-very-fast",
   "expYield": 83,
   "evYield": {
     "hp": 2

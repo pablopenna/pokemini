@@ -4,6 +4,7 @@
   "name": "Poliwag",
   "url": "https://pokeapi.co/api/v2/pokemon/60",
   "catchRate": 255,
+  "growthRate": "medium-slow",
   "expYield": 60,
   "evYield": {
     "spe": 1

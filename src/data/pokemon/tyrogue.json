@@ -4,6 +4,7 @@
   "name": "Tyrogue",
   "url": "https://pokeapi.co/api/v2/pokemon/236",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 42,
   "evYield": {
     "atk": 1

@@ -4,6 +4,7 @@
   "name": "Lanturn",
   "url": "https://pokeapi.co/api/v2/pokemon/171",
   "catchRate": 75,
+  "growthRate": "slow",
   "expYield": 161,
   "evYield": {
     "hp": 2

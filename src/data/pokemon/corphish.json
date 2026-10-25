@@ -4,6 +4,7 @@
   "name": "Corphish",
   "url": "https://pokeapi.co/api/v2/pokemon/341",
   "catchRate": 205,
+  "growthRate": "fast-then-very-slow",
   "expYield": 62,
   "evYield": {
     "atk": 1

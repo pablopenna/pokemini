@@ -4,6 +4,7 @@
   "name": "Lickitung",
   "url": "https://pokeapi.co/api/v2/pokemon/108",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 77,
   "evYield": {
     "hp": 2

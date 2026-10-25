@@ -4,6 +4,7 @@
   "name": "Meganium",
   "url": "https://pokeapi.co/api/v2/pokemon/154",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 236,
   "evYield": {
     "def": 1,

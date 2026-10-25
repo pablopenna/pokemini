@@ -4,6 +4,7 @@
   "name": "Nincada",
   "url": "https://pokeapi.co/api/v2/pokemon/290",
   "catchRate": 255,
+  "growthRate": "slow-then-very-fast",
   "expYield": 53,
   "evYield": {
     "def": 1

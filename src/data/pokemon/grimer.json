@@ -4,6 +4,7 @@
   "name": "Grimer",
   "url": "https://pokeapi.co/api/v2/pokemon/88",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 65,
   "evYield": {
     "hp": 1

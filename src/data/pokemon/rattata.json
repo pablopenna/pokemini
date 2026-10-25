@@ -4,6 +4,7 @@
   "name": "Rattata",
   "url": "https://pokeapi.co/api/v2/pokemon/19",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 51,
   "evYield": {
     "spe": 1

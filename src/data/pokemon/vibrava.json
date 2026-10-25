@@ -4,6 +4,7 @@
   "name": "Vibrava",
   "url": "https://pokeapi.co/api/v2/pokemon/329",
   "catchRate": 120,
+  "growthRate": "medium-slow",
   "expYield": 119,
   "evYield": {
     "atk": 1,

@@ -4,6 +4,7 @@
   "name": "Fearow",
   "url": "https://pokeapi.co/api/v2/pokemon/22",
   "catchRate": 90,
+  "growthRate": "medium",
   "expYield": 155,
   "evYield": {
     "spe": 2

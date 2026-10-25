@@ -4,6 +4,7 @@
   "name": "Blastoise",
   "url": "https://pokeapi.co/api/v2/pokemon/9",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 239,
   "evYield": {
     "spd": 3

@@ -4,6 +4,7 @@
   "name": "Absol",
   "url": "https://pokeapi.co/api/v2/pokemon/359",
   "catchRate": 30,
+  "growthRate": "medium-slow",
   "expYield": 163,
   "evYield": {
     "atk": 2

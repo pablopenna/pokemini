@@ -4,6 +4,7 @@
   "name": "Wynaut",
   "url": "https://pokeapi.co/api/v2/pokemon/360",
   "catchRate": 125,
+  "growthRate": "medium",
   "expYield": 52,
   "evYield": {
     "hp": 1

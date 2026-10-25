@@ -4,6 +4,7 @@
   "name": "Yanma",
   "url": "https://pokeapi.co/api/v2/pokemon/193",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 78,
   "evYield": {
     "spe": 1

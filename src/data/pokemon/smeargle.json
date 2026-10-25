@@ -4,6 +4,7 @@
   "name": "Smeargle",
   "url": "https://pokeapi.co/api/v2/pokemon/235",
   "catchRate": 45,
+  "growthRate": "fast",
   "expYield": 88,
   "evYield": {
     "spe": 1

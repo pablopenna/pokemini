@@ -4,6 +4,7 @@
   "name": "Scyther",
   "url": "https://pokeapi.co/api/v2/pokemon/123",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 100,
   "evYield": {
     "atk": 1

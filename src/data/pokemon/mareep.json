@@ -4,6 +4,7 @@
   "name": "Mareep",
   "url": "https://pokeapi.co/api/v2/pokemon/179",
   "catchRate": 235,
+  "growthRate": "medium-slow",
   "expYield": 56,
   "evYield": {
     "spa": 1

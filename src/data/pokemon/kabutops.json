@@ -4,6 +4,7 @@
   "name": "Kabutops",
   "url": "https://pokeapi.co/api/v2/pokemon/141",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 173,
   "evYield": {
     "atk": 2

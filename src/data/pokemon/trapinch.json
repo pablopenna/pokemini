@@ -4,6 +4,7 @@
   "name": "Trapinch",
   "url": "https://pokeapi.co/api/v2/pokemon/328",
   "catchRate": 255,
+  "growthRate": "medium-slow",
   "expYield": 58,
   "evYield": {
     "atk": 1

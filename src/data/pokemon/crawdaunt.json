@@ -4,6 +4,7 @@
   "name": "Crawdaunt",
   "url": "https://pokeapi.co/api/v2/pokemon/342",
   "catchRate": 155,
+  "growthRate": "fast-then-very-slow",
   "expYield": 164,
   "evYield": {
     "atk": 2

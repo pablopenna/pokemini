@@ -4,6 +4,7 @@
   "name": "Shiftry",
   "url": "https://pokeapi.co/api/v2/pokemon/275",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 216,
   "evYield": {
     "atk": 3

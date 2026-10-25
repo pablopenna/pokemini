@@ -4,6 +4,7 @@
   "name": "Paras",
   "url": "https://pokeapi.co/api/v2/pokemon/46",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 57,
   "evYield": {
     "atk": 1

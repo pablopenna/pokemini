@@ -4,6 +4,7 @@
   "name": "Ursaring",
   "url": "https://pokeapi.co/api/v2/pokemon/217",
   "catchRate": 60,
+  "growthRate": "medium",
   "expYield": 175,
   "evYield": {
     "atk": 2

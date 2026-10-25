@@ -4,6 +4,7 @@
   "name": "Castform",
   "url": "https://pokeapi.co/api/v2/pokemon/351",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 147,
   "evYield": {
     "hp": 1

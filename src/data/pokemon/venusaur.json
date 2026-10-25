@@ -4,6 +4,7 @@
   "name": "Venusaur",
   "url": "https://pokeapi.co/api/v2/pokemon/3",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 236,
   "evYield": {
     "spa": 2,

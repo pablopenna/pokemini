@@ -4,6 +4,7 @@
   "name": "Gulpin",
   "url": "https://pokeapi.co/api/v2/pokemon/316",
   "catchRate": 225,
+  "growthRate": "fast-then-very-slow",
   "expYield": 60,
   "evYield": {
     "hp": 1

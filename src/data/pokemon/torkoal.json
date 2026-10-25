@@ -4,6 +4,7 @@
   "name": "Torkoal",
   "url": "https://pokeapi.co/api/v2/pokemon/324",
   "catchRate": 90,
+  "growthRate": "medium",
   "expYield": 165,
   "evYield": {
     "def": 2

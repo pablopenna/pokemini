@@ -4,6 +4,7 @@
   "name": "Regirock",
   "url": "https://pokeapi.co/api/v2/pokemon/377",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 261,
   "evYield": {
     "def": 3

@@ -4,6 +4,7 @@
   "name": "Electabuzz",
   "url": "https://pokeapi.co/api/v2/pokemon/125",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 172,
   "evYield": {
     "spe": 2

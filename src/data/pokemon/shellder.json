@@ -4,6 +4,7 @@
   "name": "Shellder",
   "url": "https://pokeapi.co/api/v2/pokemon/90",
   "catchRate": 190,
+  "growthRate": "slow",
   "expYield": 61,
   "evYield": {
     "def": 1

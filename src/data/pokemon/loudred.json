@@ -4,6 +4,7 @@
   "name": "Loudred",
   "url": "https://pokeapi.co/api/v2/pokemon/294",
   "catchRate": 120,
+  "growthRate": "medium-slow",
   "expYield": 126,
   "evYield": {
     "hp": 2

@@ -4,6 +4,7 @@
   "name": "Natu",
   "url": "https://pokeapi.co/api/v2/pokemon/177",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 64,
   "evYield": {
     "spa": 1

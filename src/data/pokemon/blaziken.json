@@ -4,6 +4,7 @@
   "name": "Blaziken",
   "url": "https://pokeapi.co/api/v2/pokemon/257",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 239,
   "evYield": {
     "atk": 3

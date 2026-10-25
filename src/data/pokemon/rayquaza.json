@@ -4,6 +4,7 @@
   "name": "Rayquaza",
   "url": "https://pokeapi.co/api/v2/pokemon/384",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 306,
   "evYield": {
     "atk": 2,

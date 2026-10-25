@@ -4,6 +4,7 @@
   "name": "Aron",
   "url": "https://pokeapi.co/api/v2/pokemon/304",
   "catchRate": 180,
+  "growthRate": "slow",
   "expYield": 66,
   "evYield": {
     "def": 1

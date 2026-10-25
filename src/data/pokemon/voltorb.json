@@ -4,6 +4,7 @@
   "name": "Voltorb",
   "url": "https://pokeapi.co/api/v2/pokemon/100",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 66,
   "evYield": {
     "spe": 1

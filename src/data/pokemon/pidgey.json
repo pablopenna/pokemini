@@ -4,6 +4,7 @@
   "name": "Pidgey",
   "url": "https://pokeapi.co/api/v2/pokemon/16",
   "catchRate": 255,
+  "growthRate": "medium-slow",
   "expYield": 50,
   "evYield": {
     "spe": 1

@@ -4,6 +4,7 @@
   "name": "Pidgeot",
   "url": "https://pokeapi.co/api/v2/pokemon/18",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 216,
   "evYield": {
     "spe": 3

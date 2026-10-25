@@ -4,6 +4,7 @@
   "name": "Poliwrath",
   "url": "https://pokeapi.co/api/v2/pokemon/62",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 230,
   "evYield": {
     "def": 3

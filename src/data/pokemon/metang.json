@@ -4,6 +4,7 @@
   "name": "Metang",
   "url": "https://pokeapi.co/api/v2/pokemon/375",
   "catchRate": 3,
+  "growthRate": "slow",
   "expYield": 147,
   "evYield": {
     "def": 2

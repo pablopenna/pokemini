@@ -4,6 +4,7 @@
   "name": "Beedrill",
   "url": "https://pokeapi.co/api/v2/pokemon/15",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 178,
   "evYield": {
     "atk": 2,

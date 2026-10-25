@@ -4,6 +4,7 @@
   "name": "Bayleef",
   "url": "https://pokeapi.co/api/v2/pokemon/153",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 142,
   "evYield": {
     "def": 1,

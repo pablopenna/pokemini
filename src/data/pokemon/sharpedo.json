@@ -4,6 +4,7 @@
   "name": "Sharpedo",
   "url": "https://pokeapi.co/api/v2/pokemon/319",
   "catchRate": 60,
+  "growthRate": "slow",
   "expYield": 161,
   "evYield": {
     "atk": 2

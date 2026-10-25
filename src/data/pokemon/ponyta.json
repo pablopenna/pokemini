@@ -4,6 +4,7 @@
   "name": "Ponyta",
   "url": "https://pokeapi.co/api/v2/pokemon/77",
   "catchRate": 190,
+  "growthRate": "medium",
   "expYield": 82,
   "evYield": {
     "spe": 1

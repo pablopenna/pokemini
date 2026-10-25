@@ -4,6 +4,7 @@
   "name": "Aerodactyl",
   "url": "https://pokeapi.co/api/v2/pokemon/142",
   "catchRate": 45,
+  "growthRate": "slow",
   "expYield": 180,
   "evYield": {
     "spe": 2

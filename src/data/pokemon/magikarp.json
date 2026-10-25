@@ -4,6 +4,7 @@
   "name": "Magikarp",
   "url": "https://pokeapi.co/api/v2/pokemon/129",
   "catchRate": 255,
+  "growthRate": "slow",
   "expYield": 40,
   "evYield": {
     "spe": 1

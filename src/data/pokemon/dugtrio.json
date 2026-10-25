@@ -4,6 +4,7 @@
   "name": "Dugtrio",
   "url": "https://pokeapi.co/api/v2/pokemon/51",
   "catchRate": 50,
+  "growthRate": "medium",
   "expYield": 149,
   "evYield": {
     "spe": 2

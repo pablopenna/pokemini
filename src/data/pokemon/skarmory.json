@@ -4,6 +4,7 @@
   "name": "Skarmory",
   "url": "https://pokeapi.co/api/v2/pokemon/227",
   "catchRate": 25,
+  "growthRate": "slow",
   "expYield": 163,
   "evYield": {
     "def": 2

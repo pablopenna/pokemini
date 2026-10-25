@@ -4,6 +4,7 @@
   "name": "Swablu",
   "url": "https://pokeapi.co/api/v2/pokemon/333",
   "catchRate": 255,
+  "growthRate": "slow-then-very-fast",
   "expYield": 62,
   "evYield": {
     "spd": 1

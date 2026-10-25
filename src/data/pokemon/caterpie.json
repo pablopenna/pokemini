@@ -4,6 +4,7 @@
   "name": "Caterpie",
   "url": "https://pokeapi.co/api/v2/pokemon/10",
   "catchRate": 255,
+  "growthRate": "medium",
   "expYield": 39,
   "evYield": {
     "hp": 1

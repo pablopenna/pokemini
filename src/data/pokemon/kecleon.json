@@ -4,6 +4,7 @@
   "name": "Kecleon",
   "url": "https://pokeapi.co/api/v2/pokemon/352",
   "catchRate": 200,
+  "growthRate": "medium-slow",
   "expYield": 154,
   "evYield": {
     "spd": 1

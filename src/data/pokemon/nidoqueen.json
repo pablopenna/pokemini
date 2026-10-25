@@ -4,6 +4,7 @@
   "name": "Nidoqueen",
   "url": "https://pokeapi.co/api/v2/pokemon/31",
   "catchRate": 45,
+  "growthRate": "medium-slow",
   "expYield": 227,
   "evYield": {
     "hp": 3

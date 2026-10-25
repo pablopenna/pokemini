@@ -4,6 +4,7 @@
   "name": "Kingler",
   "url": "https://pokeapi.co/api/v2/pokemon/99",
   "catchRate": 60,
+  "growthRate": "medium",
   "expYield": 166,
   "evYield": {
     "atk": 2

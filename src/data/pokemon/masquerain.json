@@ -4,6 +4,7 @@
   "name": "Masquerain",
   "url": "https://pokeapi.co/api/v2/pokemon/284",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 159,
   "evYield": {
     "spa": 1,

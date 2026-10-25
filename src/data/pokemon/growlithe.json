@@ -4,6 +4,7 @@
   "name": "Growlithe",
   "url": "https://pokeapi.co/api/v2/pokemon/58",
   "catchRate": 190,
+  "growthRate": "slow",
   "expYield": 70,
   "evYield": {
     "atk": 1

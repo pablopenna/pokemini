@@ -4,6 +4,7 @@
   "name": "Chinchou",
   "url": "https://pokeapi.co/api/v2/pokemon/170",
   "catchRate": 190,
+  "growthRate": "slow",
   "expYield": 66,
   "evYield": {
     "hp": 1

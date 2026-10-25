@@ -4,6 +4,7 @@
   "name": "Armaldo",
   "url": "https://pokeapi.co/api/v2/pokemon/348",
   "catchRate": 45,
+  "growthRate": "slow-then-very-fast",
   "expYield": 173,
   "evYield": {
     "atk": 2

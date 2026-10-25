@@ -4,6 +4,7 @@
   "name": "Nidoran-M",
   "url": "https://pokeapi.co/api/v2/pokemon/32",
   "catchRate": 235,
+  "growthRate": "medium-slow",
   "expYield": 55,
   "evYield": {
     "atk": 1

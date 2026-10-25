@@ -4,6 +4,7 @@
   "name": "Ariados",
   "url": "https://pokeapi.co/api/v2/pokemon/168",
   "catchRate": 90,
+  "growthRate": "fast",
   "expYield": 140,
   "evYield": {
     "atk": 2

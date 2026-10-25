@@ -4,6 +4,7 @@
   "name": "Farfetch’d",
   "url": "https://pokeapi.co/api/v2/pokemon/83",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 132,
   "evYield": {
     "atk": 1

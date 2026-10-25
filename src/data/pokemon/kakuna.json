@@ -4,6 +4,7 @@
   "name": "Kakuna",
   "url": "https://pokeapi.co/api/v2/pokemon/14",
   "catchRate": 120,
+  "growthRate": "medium",
   "expYield": 72,
   "evYield": {
     "def": 2

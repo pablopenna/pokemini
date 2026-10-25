@@ -4,6 +4,7 @@
   "name": "Alakazam",
   "url": "https://pokeapi.co/api/v2/pokemon/65",
   "catchRate": 50,
+  "growthRate": "medium-slow",
   "expYield": 225,
   "evYield": {
     "spa": 3

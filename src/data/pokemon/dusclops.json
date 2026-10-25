@@ -4,6 +4,7 @@
   "name": "Dusclops",
   "url": "https://pokeapi.co/api/v2/pokemon/356",
   "catchRate": 90,
+  "growthRate": "fast",
   "expYield": 159,
   "evYield": {
     "def": 1,

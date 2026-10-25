@@ -4,6 +4,7 @@
   "name": "Spheal",
   "url": "https://pokeapi.co/api/v2/pokemon/363",
   "catchRate": 255,
+  "growthRate": "medium-slow",
   "expYield": 58,
   "evYield": {
     "hp": 1

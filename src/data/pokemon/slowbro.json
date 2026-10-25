@@ -4,6 +4,7 @@
   "name": "Slowbro",
   "url": "https://pokeapi.co/api/v2/pokemon/80",
   "catchRate": 75,
+  "growthRate": "medium",
   "expYield": 172,
   "evYield": {
     "def": 2

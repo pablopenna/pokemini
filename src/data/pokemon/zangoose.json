@@ -4,6 +4,7 @@
   "name": "Zangoose",
   "url": "https://pokeapi.co/api/v2/pokemon/335",
   "catchRate": 90,
+  "growthRate": "slow-then-very-fast",
   "expYield": 160,
   "evYield": {
     "atk": 2

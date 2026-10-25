@@ -4,6 +4,7 @@
   "name": "Shroomish",
   "url": "https://pokeapi.co/api/v2/pokemon/285",
   "catchRate": 255,
+  "growthRate": "fast-then-very-slow",
   "expYield": 59,
   "evYield": {
     "hp": 1

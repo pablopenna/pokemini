@@ -4,6 +4,7 @@
   "name": "Omastar",
   "url": "https://pokeapi.co/api/v2/pokemon/139",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 173,
   "evYield": {
     "def": 2

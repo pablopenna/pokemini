@@ -4,6 +4,7 @@
   "name": "Umbreon",
   "url": "https://pokeapi.co/api/v2/pokemon/197",
   "catchRate": 45,
+  "growthRate": "medium",
   "expYield": 184,
   "evYield": {
     "spd": 2

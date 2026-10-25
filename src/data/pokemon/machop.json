@@ -4,6 +4,7 @@
   "name": "Machop",
   "url": "https://pokeapi.co/api/v2/pokemon/66",
   "catchRate": 180,
+  "growthRate": "medium-slow",
   "expYield": 61,
   "evYield": {
     "atk": 1

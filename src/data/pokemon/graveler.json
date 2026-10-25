@@ -4,6 +4,7 @@
   "name": "Graveler",
   "url": "https://pokeapi.co/api/v2/pokemon/75",
   "catchRate": 120,
+  "growthRate": "medium-slow",
   "expYield": 137,
   "evYield": {
     "def": 2
