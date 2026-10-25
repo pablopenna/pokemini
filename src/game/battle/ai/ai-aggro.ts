@@ -65,18 +65,25 @@ export class AiAggro extends BattleStreams.BattlePlayer {
         const moves = active.moves || [];
         let bestMoveIndex = -1;
         let bestPower = -1;
+
+        // Get the species for the Pokémon choosing this move
+        const activePokemon = pokemon[i];
+        // details is usually "SpeciesName, L##" 
+        const speciesName = activePokemon.details?.split(',')[0].trim() ?? null;
+        const speciesData = speciesName ? Dex.species.get(speciesName) : null;
+        const attackerTypes: readonly string[] = (speciesData?.types as readonly string[]) ?? [];
+
         for (let j = 0; j < moves.length; j++) {
           const move = moves[j];
           if (move.disabled) continue;
           if (move.pp === 0 && move.maxpp && move.maxpp > 0) continue;
           const moveData = Dex.moves.get(move.move);
           const power = typeof moveData?.basePower === 'number' ? moveData.basePower : 0;
-          if (power > bestPower) {
+          const isStab = moveData?.type && attackerTypes.includes(moveData?.type as string);
+          // You can use isStab here for scoring (e.g. multiply effective power)
+          if (power >= bestPower || (isStab && power * 1.5 >= bestPower)) {
             bestPower = power;
             bestMoveIndex = j;
-            if (bestPower === 0) {
-              // Still could be a status move, but prefer damaging
-            }
           }
         }
         if (bestMoveIndex === -1) {
