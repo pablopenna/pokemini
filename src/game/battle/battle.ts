@@ -13,7 +13,7 @@ import { gainExperience, trackExperience } from '#/game/battle/experience';
 import { movesLearnedAt } from '#/game/battle/team-builder';
 import { getPokemonData } from '#/game/pokemon-data';
 import { applyPartyState, battleOrder, readPartyState, restoreOrder } from '#/game/battle/party-state';
-import type { BattleOutcome, BattleResult } from '#/types/battle/battle-result';
+import type { BattleOutcome, BattleResult, PendingMove } from '#/types/battle/battle-result';
 import type { BattleOptions } from '#/types/battle/battle-options';
 
 // ---- reactive state -------------------------------------------------
@@ -186,6 +186,7 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
 
     const result = await battleLoop();
     const party = readPartyState(sentParty, sentSim);
+    const pending: PendingMove[] = [];
     for (const [i, simMon] of sentSim.entries()) {
         const gained = earned.get(simMon);
         if (!gained) continue;
@@ -197,8 +198,9 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
             movesAt: level => movesLearnedAt(species, level),
         });
         party[i] = gain.pokemon;
+        pending.push(...gain.pendingMoves.map(move => ({ index: order[i], move })));
         const html = gain.messages.map(m => `<div>${m}</div>`).join('');
         battleState.update(s => ({ ...s, log: s.log + html }));
     }
-    return { result, party: restoreOrder(party, order) };
+    return { result, party: restoreOrder(party, order), pendingMoves: pending };
 }

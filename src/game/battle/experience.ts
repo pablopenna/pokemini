@@ -80,17 +80,21 @@ export type LevelUpData = {
 
 export type ExpGain = {
   pokemon: PartyPokemon;
+  /** Moves it could learn but has no room for. */
+  pendingMoves: { name: string; pp: number }[];
   /** What to tell the player. */
   messages: string[];
 };
 
 /**
  * Adds experience to a Pokémon and levels it up as far as it reaches: HP grows with the max HP,
- * and moves learned at the new levels are added while there is room (it never forgets one).
+ * and moves learned at the new levels are added while there is room. The rest are returned as
+ * `pendingMoves`, since forgetting a move is the player's call (see `learnMove`).
  */
 export async function gainExperience(pokemon: PartyPokemon, gained: number, data: LevelUpData): Promise<ExpGain> {
   const name = pokemon.name || pokemon.species;
   const messages = [`${name} gained ${gained} Exp. Points!`];
+  const pendingMoves: ExpGain['pendingMoves'] = [];
   const next: PartyPokemon = {
     ...pokemon,
     exp: Math.min(pokemon.exp + gained, expForLevel(data.growthRate, MAX_LEVEL)),
@@ -105,12 +109,25 @@ export async function gainExperience(pokemon: PartyPokemon, gained: number, data
     messages.push(`${name} grew to Lv. ${next.level}!`);
 
     for (const move of await data.movesAt(next.level)) {
-      if (next.moves.includes(move.name) || next.moves.length >= MAX_MOVES) continue;
+      if (next.moves.includes(move.name)) continue;
+      if (next.moves.length >= MAX_MOVES) {
+        pendingMoves.push(move);
+        continue;
+      }
       next.moves = [...next.moves, move.name];
       if (next.pp) next.pp = [...next.pp, move.pp];
       messages.push(`${name} learned ${move.name}!`);
     }
   }
 
-  return { pokemon: next, messages };
+  return { pokemon: next, pendingMoves, messages };
+}
+
+/** Teaches a move to a Pokémon, replacing the move at `forget`. */
+export function learnMove(pokemon: PartyPokemon, move: { name: string; pp: number }, forget: number): PartyPokemon {
+  return {
+    ...pokemon,
+    moves: pokemon.moves.map((m, i) => (i === forget ? move.name : m)),
+    pp: pokemon.pp && pokemon.pp.map((pp, i) => (i === forget ? move.pp : pp)),
+  };
 }
