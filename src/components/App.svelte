@@ -5,14 +5,17 @@
   import DebugMenu from '#/components/DebugMenu.svelte';
   import LocationView from '#/components/LocationView.svelte';
     import type { BattleResult } from '#/types/battle/battle-result';
+  import { getWildTeam, buildLeveledPokemon } from '#/game/battle/team-builder';
+  import { getRouteData } from '#/game/overworld/location';
   import { Location } from '#/types/overworld/location';
+  import type { RouteEncounter } from '#/types/overworld/route-encounter';
   import type { Player } from '#/types/player';
 
   // Placeholder teams until the main page has real ones.
   Teams.setGeneratorFactory(TeamGenerators);
   const randomTeam = () => Teams.generate('gen9randombattle');
 
-  let player = $state<Player>({ team: randomTeam(), location: Location.PalletTown, gameFlags: { canSurf: false } });
+  let player = $state<Player>({ team: [], location: Location.PalletTown, gameFlags: { canSurf: false } });
   let opponentTeam = $state(randomTeam());
 
   const showDebugMenu = import.meta.env.GAME_DEBUG_MENU === 'true';
@@ -23,8 +26,30 @@
   let inventoryDialog = $state<HTMLDialogElement>();
 
   function startBattle() {
-    opponentTeam = randomTeam();
     view = 'battle';
+  }
+
+  const MAX_TEAM_SIZE = 6;
+
+  let encounters = $derived(getRouteData(player.location).encounters.filter(e => e.version !== 'leafgreen'));
+  let wildEncounters = $derived(encounters.filter(e => e.method !== 'gift'));
+  let gifts = $derived(encounters.filter(e => e.method === 'gift'));
+  let receivedGifts = $state(new Set<string>());
+
+  const giftKey = (g: RouteEncounter) => `${player.location}:${g.section}:${g.species}`;
+
+  async function startWildEncounter() {
+    const { species, method } = wildEncounters[Math.floor(Math.random() * wildEncounters.length)];
+    opponentTeam = await getWildTeam(player.location, species, { method });
+    view = 'battle';
+  }
+
+  async function receiveGift(gift: RouteEncounter) {
+    if (player.team.length >= MAX_TEAM_SIZE) return;
+    const key = giftKey(gift);
+    if (receivedGifts.has(key)) return;
+    receivedGifts.add(key);
+    player.team.push(await buildLeveledPokemon(gift.species, gift.minLevel ?? 1));
   }
 
   function onBattleFinish(result: BattleResult) {
@@ -54,6 +79,22 @@
       <p>Last battle: {lastResult === 'p1' ? 'you won' : lastResult === 'p2' ? 'you lost' : 'tie'}</p>
     {/if}
     <LocationView location={player.location} gameFlags={player.gameFlags} onTravel={loc => (player.location = loc)}>
+      {#if wildEncounters.length || gifts.length}
+        <section>
+          <h2>Interact</h2>
+          {#if wildEncounters.length}
+            <button onclick={startWildEncounter}>Wild Encounter</button>
+          {/if}
+          {#each gifts as gift (giftKey(gift))}
+            <button
+              disabled={receivedGifts.has(giftKey(gift)) || player.team.length >= MAX_TEAM_SIZE}
+              onclick={() => receiveGift(gift)}
+            >
+              Receive {gift.species}
+            </button>
+          {/each}
+        </section>
+      {/if}
       <section>
         <h2>Battle</h2>
         <button onclick={startBattle}>Battle</button>

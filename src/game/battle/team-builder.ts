@@ -34,6 +34,11 @@ async function defaultMoves(species: string, level: number): Promise<string[]> {
     .map((m) => gen3.moves.get(m.move).name);
 }
 
+/** A Pokémon received at a fixed level (e.g. a gift), with the moves it would know by level up in gen 3. */
+export async function buildLeveledPokemon(species: string, level: number): Promise<Pokemon> {
+  return buildPokemon(species, level, { moves: await defaultMoves(toSimSpecies(species), level) });
+}
+
 /** Builds a set the sim can use (see `Teams.pack`) with neutral nature, no EVs and perfect IVs. */
 export function buildPokemon(species: string, level: number, { moves = [], item = null }: PokemonOptions = {}): Pokemon {
   const data = Dex.species.get(toSimSpecies(species));
