@@ -33,7 +33,8 @@ export function parseTrainers($: cheerio.CheerioAPI, sectionOf: Sections['sectio
       team.push({
         species,
         level: levels[i - 1] ?? null,
-        moves: $(moves[i - 1]).find('a').map((_, a) => $(a).text().trim()).get(),
+        // Unused move slots are empty links.
+        moves: $(moves[i - 1]).find('a').map((_, a) => $(a).text().trim()).get().filter(Boolean),
         heldItem: !heldItem || heldItem === 'No Item' ? null : heldItem,
       });
     }

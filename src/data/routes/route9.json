@@ -343,8 +343,7 @@
           "moves": [
             "Fury Attack",
             "Fury Attack",
-            "Focus Energy",
-            ""
+            "Focus Energy"
           ],
           "heldItem": null
         },
@@ -354,8 +353,7 @@
           "moves": [
             "Fury Attack",
             "Fury Attack",
-            "Focus Energy",
-            ""
+            "Focus Energy"
           ],
           "heldItem": null
         }
@@ -370,9 +368,7 @@
           "level": 20,
           "moves": [
             "Tackle",
-            "String Shot",
-            "",
-            ""
+            "String Shot"
           ],
           "heldItem": null
         },
@@ -381,9 +377,7 @@
           "level": 20,
           "moves": [
             "Poison Sting",
-            "String Shot",
-            "",
-            ""
+            "String Shot"
           ],
           "heldItem": null
         },

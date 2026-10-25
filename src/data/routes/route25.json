@@ -627,8 +627,7 @@
           "moves": [
             "Scratch",
             "Defense Curl",
-            "Sand-attack",
-            ""
+            "Sand-attack"
           ],
           "heldItem": null
         }
@@ -727,9 +726,7 @@
           "level": 13,
           "moves": [
             "Absorb",
-            "Sweet Scent",
-            "",
-            ""
+            "Sweet Scent"
           ],
           "heldItem": null
         },
@@ -749,9 +746,7 @@
           "level": 13,
           "moves": [
             "Absorb",
-            "Sweet Scent",
-            "",
-            ""
+            "Sweet Scent"
           ],
           "heldItem": null
         }

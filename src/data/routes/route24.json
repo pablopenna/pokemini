@@ -299,10 +299,7 @@
           "species": "Abra",
           "level": 16,
           "moves": [
-            "Teleport",
-            "",
-            "",
-            ""
+            "Teleport"
           ],
           "heldItem": null
         },
@@ -312,8 +309,7 @@
           "moves": [
             "Tackle",
             "Tail Whip",
-            "Quick Attack",
-            ""
+            "Quick Attack"
           ],
           "heldItem": null
         },
@@ -349,10 +345,7 @@
           "species": "Abra",
           "level": 16,
           "moves": [
-            "Teleport",
-            "",
-            "",
-            ""
+            "Teleport"
           ],
           "heldItem": null
         },
@@ -362,8 +355,7 @@
           "moves": [
             "Tackle",
             "Tail Whip",
-            "Quick Attack",
-            ""
+            "Quick Attack"
           ],
           "heldItem": null
         },
@@ -399,10 +391,7 @@
           "species": "Abra",
           "level": 16,
           "moves": [
-            "Teleport",
-            "",
-            "",
-            ""
+            "Teleport"
           ],
           "heldItem": null
         },
@@ -412,8 +401,7 @@
           "moves": [
             "Tackle",
             "Tail Whip",
-            "Quick Attack",
-            ""
+            "Quick Attack"
           ],
           "heldItem": null
         },
@@ -439,9 +427,7 @@
           "level": 10,
           "moves": [
             "Tackle",
-            "String Shot",
-            "",
-            ""
+            "String Shot"
           ],
           "heldItem": null
         },
@@ -450,9 +436,7 @@
           "level": 10,
           "moves": [
             "Poison Sting",
-            "String Shot",
-            "",
-            ""
+            "String Shot"
           ],
           "heldItem": null
         },
@@ -461,9 +445,7 @@
           "level": 10,
           "moves": [
             "Harden",
-            "Harden",
-            "",
-            ""
+            "Harden"
           ],
           "heldItem": null
         },
@@ -472,9 +454,7 @@
           "level": 10,
           "moves": [
             "Harden",
-            "Harden",
-            "",
-            ""
+            "Harden"
           ],
           "heldItem": null
         }
@@ -490,8 +470,7 @@
           "moves": [
             "Tackle",
             "Sand-attack",
-            "Gust",
-            ""
+            "Gust"
           ],
           "heldItem": null
         },
@@ -500,9 +479,7 @@
           "level": 12,
           "moves": [
             "Absorb",
-            "Sweet Scent",
-            "",
-            ""
+            "Sweet Scent"
           ],
           "heldItem": null
         },
@@ -512,8 +489,7 @@
           "moves": [
             "Vine Whip",
             "Growth",
-            "Wrap",
-            ""
+            "Wrap"
           ],
           "heldItem": null
         }
@@ -529,8 +505,7 @@
           "moves": [
             "Scratch",
             "Defense Curl",
-            "Sand-attack",
-            ""
+            "Sand-attack"
           ],
           "heldItem": null
         },
@@ -786,8 +761,7 @@
           "moves": [
             "Leech Life",
             "Astonish",
-            "Supersonic",
-            ""
+            "Supersonic"
           ],
           "heldItem": null
         }

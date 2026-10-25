@@ -373,8 +373,7 @@
           "moves": [
             "Bubble",
             "Smokescreen",
-            "Leer",
-            ""
+            "Leer"
           ],
           "heldItem": null
         }
@@ -607,9 +606,7 @@
           "level": 24,
           "moves": [
             "Splash",
-            "Tackle",
-            "",
-            ""
+            "Tackle"
           ],
           "heldItem": null
         },
@@ -618,9 +615,7 @@
           "level": 24,
           "moves": [
             "Splash",
-            "Tackle",
-            "",
-            ""
+            "Tackle"
           ],
           "heldItem": null
         }

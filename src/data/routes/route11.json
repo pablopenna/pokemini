@@ -235,8 +235,7 @@
           "moves": [
             "Bubble",
             "Hypnosis",
-            "Water Gun",
-            ""
+            "Water Gun"
           ],
           "heldItem": null
         },
@@ -246,8 +245,7 @@
           "moves": [
             "Bubble",
             "Smokescreen",
-            "Leer",
-            ""
+            "Leer"
           ],
           "heldItem": null
         }

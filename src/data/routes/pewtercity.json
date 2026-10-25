@@ -20,9 +20,7 @@
           "level": 10,
           "moves": [
             "Tackle",
-            "Defense Curl",
-            "",
-            ""
+            "Defense Curl"
           ],
           "heldItem": null
         },
@@ -32,8 +30,7 @@
           "moves": [
             "Scratch",
             "Defense Curl",
-            "Sand-attack",
-            ""
+            "Sand-attack"
           ],
           "heldItem": null
         }
@@ -48,9 +45,7 @@
           "level": 12,
           "moves": [
             "Tackle",
-            "Defense Curl",
-            "",
-            ""
+            "Defense Curl"
           ],
           "heldItem": null
         },
@@ -60,8 +55,7 @@
           "moves": [
             "Tackle",
             "Bind",
-            "Rock Tomb",
-            ""
+            "Rock Tomb"
           ],
           "heldItem": null
         }

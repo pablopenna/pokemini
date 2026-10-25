@@ -199,9 +199,7 @@
           "level": 27,
           "moves": [
             "Splash",
-            "Tackle",
-            "",
-            ""
+            "Tackle"
           ],
           "heldItem": null
         },
@@ -210,9 +208,7 @@
           "level": 27,
           "moves": [
             "Splash",
-            "Tackle",
-            "",
-            ""
+            "Tackle"
           ],
           "heldItem": null
         },
@@ -221,9 +217,7 @@
           "level": 27,
           "moves": [
             "Splash",
-            "Tackle",
-            "",
-            ""
+            "Tackle"
           ],
           "heldItem": null
         },
@@ -232,9 +226,7 @@
           "level": 27,
           "moves": [
             "Splash",
-            "Tackle",
-            "",
-            ""
+            "Tackle"
           ],
           "heldItem": null
         },
@@ -243,9 +235,7 @@
           "level": 27,
           "moves": [
             "Splash",
-            "Tackle",
-            "",
-            ""
+            "Tackle"
           ],
           "heldItem": null
         },
@@ -254,9 +244,7 @@
           "level": 27,
           "moves": [
             "Splash",
-            "Tackle",
-            "",
-            ""
+            "Tackle"
           ],
           "heldItem": null
         }
@@ -272,8 +260,7 @@
           "moves": [
             "Splash",
             "Tackle",
-            "Flail",
-            ""
+            "Flail"
           ],
           "heldItem": null
         },
@@ -283,8 +270,7 @@
           "moves": [
             "Splash",
             "Tackle",
-            "Flail",
-            ""
+            "Flail"
           ],
           "heldItem": null
         },
@@ -294,8 +280,7 @@
           "moves": [
             "Splash",
             "Tackle",
-            "Flail",
-            ""
+            "Flail"
           ],
           "heldItem": null
         },
@@ -305,8 +290,7 @@
           "moves": [
             "Splash",
             "Tackle",
-            "Flail",
-            ""
+            "Flail"
           ],
           "heldItem": null
         },
@@ -316,8 +300,7 @@
           "moves": [
             "Splash",
             "Tackle",
-            "Flail",
-            ""
+            "Flail"
           ],
           "heldItem": null
         },
@@ -327,8 +310,7 @@
           "moves": [
             "Splash",
             "Tackle",
-            "Flail",
-            ""
+            "Flail"
           ],
           "heldItem": null
         }

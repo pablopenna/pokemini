@@ -371,9 +371,7 @@
           "level": 23,
           "moves": [
             "Thrash",
-            "Bite",
-            "",
-            ""
+            "Bite"
           ],
           "heldItem": null
         },
@@ -443,9 +441,7 @@
           "level": 22,
           "moves": [
             "Thrash",
-            "Bite",
-            "",
-            ""
+            "Bite"
           ],
           "heldItem": null
         },

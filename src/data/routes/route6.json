@@ -235,9 +235,7 @@
           "level": 16,
           "moves": [
             "Poison Sting",
-            "String Shot",
-            "",
-            ""
+            "String Shot"
           ],
           "heldItem": null
         },
@@ -246,9 +244,7 @@
           "level": 16,
           "moves": [
             "Tackle",
-            "String Shot",
-            "",
-            ""
+            "String Shot"
           ],
           "heldItem": null
         },
@@ -257,9 +253,7 @@
           "level": 16,
           "moves": [
             "Poison Sting",
-            "String Shot",
-            "",
-            ""
+            "String Shot"
           ],
           "heldItem": null
         }

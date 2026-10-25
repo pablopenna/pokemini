@@ -226,9 +226,7 @@
           "level": 5,
           "moves": [
             "Tackle",
-            "Tail Whip",
-            "",
-            ""
+            "Tail Whip"
           ],
           "heldItem": null
         }
@@ -243,9 +241,7 @@
           "level": 5,
           "moves": [
             "Tackle",
-            "Growl",
-            "",
-            ""
+            "Growl"
           ],
           "heldItem": null
         }
@@ -260,9 +256,7 @@
           "level": 5,
           "moves": [
             "Scratch",
-            "Growl",
-            "",
-            ""
+            "Growl"
           ],
           "heldItem": null
         }

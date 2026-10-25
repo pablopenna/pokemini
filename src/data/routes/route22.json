@@ -235,9 +235,7 @@
           "level": 9,
           "moves": [
             "Tackle",
-            "Sand-attack",
-            "",
-            ""
+            "Sand-attack"
           ],
           "heldItem": null
         },
@@ -246,9 +244,7 @@
           "level": 9,
           "moves": [
             "Tackle",
-            "Tail Whip",
-            "",
-            ""
+            "Tail Whip"
           ],
           "heldItem": null
         }
@@ -263,9 +259,7 @@
           "level": 9,
           "moves": [
             "Tackle",
-            "Sand-attack",
-            "",
-            ""
+            "Sand-attack"
           ],
           "heldItem": null
         },
@@ -274,9 +268,7 @@
           "level": 9,
           "moves": [
             "Tackle",
-            "Growl",
-            "",
-            ""
+            "Growl"
           ],
           "heldItem": null
         }
@@ -291,9 +283,7 @@
           "level": 9,
           "moves": [
             "Tackle",
-            "Sand-attack",
-            "",
-            ""
+            "Sand-attack"
           ],
           "heldItem": null
         },
@@ -302,9 +292,7 @@
           "level": 9,
           "moves": [
             "Scratch",
-            "Growl",
-            "",
-            ""
+            "Growl"
           ],
           "heldItem": null
         }

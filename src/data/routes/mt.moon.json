@@ -185,9 +185,7 @@
           "level": 11,
           "moves": [
             "Poison Sting",
-            "String Shot",
-            "",
-            ""
+            "String Shot"
           ],
           "heldItem": null
         },
@@ -196,9 +194,7 @@
           "level": 11,
           "moves": [
             "Harden",
-            "Harden",
-            "",
-            ""
+            "Harden"
           ],
           "heldItem": null
         }
@@ -242,8 +238,7 @@
           "moves": [
             "Charge",
             "Tackle",
-            "Screech",
-            ""
+            "Screech"
           ],
           "heldItem": null
         }
@@ -258,9 +253,7 @@
           "level": 10,
           "moves": [
             "Tackle",
-            "String Shot",
-            "",
-            ""
+            "String Shot"
           ],
           "heldItem": null
         },
@@ -269,9 +262,7 @@
           "level": 10,
           "moves": [
             "Harden",
-            "Harden",
-            "",
-            ""
+            "Harden"
           ],
           "heldItem": null
         },
@@ -280,9 +271,7 @@
           "level": 10,
           "moves": [
             "Tackle",
-            "String Shot",
-            "",
-            ""
+            "String Shot"
           ],
           "heldItem": null
         }
@@ -297,9 +286,7 @@
           "level": 11,
           "moves": [
             "Absorb",
-            "Sweet Scent",
-            "",
-            ""
+            "Sweet Scent"
           ],
           "heldItem": null
         },
@@ -309,8 +296,7 @@
           "moves": [
             "Vine Whip",
             "Growth",
-            "Wrap",
-            ""
+            "Wrap"
           ],
           "heldItem": null
         }
@@ -326,8 +312,7 @@
           "moves": [
             "Tackle",
             "Tail Whip",
-            "Quick Attack",
-            ""
+            "Quick Attack"
           ],
           "heldItem": null
         },
@@ -337,8 +322,7 @@
           "moves": [
             "Tackle",
             "Tail Whip",
-            "Quick Attack",
-            ""
+            "Quick Attack"
           ],
           "heldItem": null
         },
@@ -347,9 +331,7 @@
           "level": 10,
           "moves": [
             "Leech Life",
-            "Astonish",
-            "",
-            ""
+            "Astonish"
           ],
           "heldItem": null
         }
@@ -365,8 +347,7 @@
           "moves": [
             "Tackle",
             "Defense Curl",
-            "Mud Sport",
-            ""
+            "Mud Sport"
           ],
           "heldItem": null
         },
@@ -376,8 +357,7 @@
           "moves": [
             "Tackle",
             "Defense Curl",
-            "Mud Sport",
-            ""
+            "Mud Sport"
           ],
           "heldItem": null
         },
@@ -387,8 +367,7 @@
           "moves": [
             "Tackle",
             "Screech",
-            "Bind",
-            ""
+            "Bind"
           ],
           "heldItem": null
         }
@@ -404,8 +383,7 @@
           "moves": [
             "Scratch",
             "Defense Curl",
-            "Sand-attack",
-            ""
+            "Sand-attack"
           ],
           "heldItem": null
         },
@@ -415,8 +393,7 @@
           "moves": [
             "Tackle",
             "Tail Whip",
-            "Quick Attack",
-            ""
+            "Quick Attack"
           ],
           "heldItem": null
         },
@@ -426,8 +403,7 @@
           "moves": [
             "Leech Life",
             "Astonish",
-            "Supersonic",
-            ""
+            "Supersonic"
           ],
           "heldItem": null
         }
@@ -443,8 +419,7 @@
           "moves": [
             "Leech Life",
             "Astonish",
-            "Supersonic",
-            ""
+            "Supersonic"
           ],
           "heldItem": null
         },
@@ -454,8 +429,7 @@
           "moves": [
             "Wrap",
             "Leer",
-            "Poison Sting",
-            ""
+            "Poison Sting"
           ],
           "heldItem": null
         }
@@ -482,8 +456,7 @@
           "moves": [
             "Scratch",
             "Defense Curl",
-            "Sand-attack",
-            ""
+            "Sand-attack"
           ],
           "heldItem": null
         }
@@ -510,8 +483,7 @@
           "moves": [
             "Leech Life",
             "Astonish",
-            "Supersonic",
-            ""
+            "Supersonic"
           ],
           "heldItem": null
         }
@@ -538,8 +510,7 @@
           "moves": [
             "Charge",
             "Tackle",
-            "Screech",
-            ""
+            "Screech"
           ],
           "heldItem": null
         },
@@ -549,8 +520,7 @@
           "moves": [
             "Poison Gas",
             "Tackle",
-            "Smog",
-            ""
+            "Smog"
           ],
           "heldItem": null
         }
