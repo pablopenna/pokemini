@@ -7,14 +7,15 @@ import { LogFormatter } from '@pkmn/view';
 import { Sprites } from '@pkmn/img';
 import { Protocol } from '@pkmn/protocol';
 import { ChoiceBuilder } from '@pkmn/view';
-import { UIPlayer, type ChoiceRequest } from '#/game/battle/ui-player';
+import { UIPlayer, type ChoiceRequest } from '#/game/battle/ai/ui-player';
 import { playEffect } from '#/game/battle/battle-animations';
 import { gainExperience, trackExperience } from '#/game/battle/experience';
 import { movesLearnedAt } from '#/game/battle/team-builder';
 import { getPokemonData } from '#/game/pokemon-data';
 import { applyPartyState, battleOrder, readPartyState, restoreOrder } from '#/game/battle/party-state';
 import type { BattleOutcome, BattleResult, PendingMove } from '#/types/battle/battle-result';
-import type { BattleOptions } from '#/types/battle/battle-options';
+import { PlayerControl, type BattleOptions } from '#/types/battle/battle-options';
+import { getBattlerImplementationFromOption } from '#/game/battle/ai/get-battler-from-option';
 
 // ---- reactive state -------------------------------------------------
 const initialState = () => ({
@@ -134,7 +135,7 @@ function updateSprites(clientBattle: Battle) {
 
 // ---- main battle loop ------------------------------------------------
 export async function main(options: BattleOptions): Promise<BattleOutcome> {
-    const { team1, team2, player1Control = 'ui' } = options;
+    const { team1, team2, player1Control = PlayerControl.UI } = options;
     // Accept everything: wild Pokémon like Pidgey are "Past" in gen 9, which the default filter hides.
     const gens = new Generations(Dex, () => true);
     const clientBattle = new Battle(gens);
@@ -150,9 +151,8 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
     const p2spec = { name: 'Bot', team: Teams.pack(team2) };
 
     currentBuilder = null;
-    const player1 = player1Control === 'ui'
-        ? (uiPlayer = new UIPlayer(streams.p1, handleRequest))
-        : (uiPlayer = null, new RandomPlayerAI(streams.p1));
+    const player1 = getBattlerImplementationFromOption(player1Control, streams.p1, handleRequest);
+    if(player1Control == PlayerControl.UI) uiPlayer = player1 as UIPlayer;
     const player2 = new RandomPlayerAI(streams.p2);
 
     const battleLoop = async (): Promise<BattleResult> => {

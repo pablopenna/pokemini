@@ -1,6 +1,10 @@
 import { Party, Team } from '#/types/pokemon';
 
-export type PlayerControl = 'ui' | 'ai';
+export enum PlayerControl {
+  UI = 'ui',
+  AI_RANDOM = 'ai',
+  AI_AGGRO = 'ai_aggro',
+}
 
 export type BattleOptions = {
   team1: Party;

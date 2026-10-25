@@ -3,7 +3,7 @@
   import { main as doBattle, submitChoice, resetBattleState, battleState } from '#/game/battle/battle.ts';
   import { learnMove } from '#/game/battle/experience.ts';
   import type { BattleOutcome } from '#/types/battle/battle-result';
-  import type { PlayerControl } from '#/types/battle/battle-options';
+  import { PlayerControl } from '#/types/battle/battle-options';
   import type { Party, Team } from '#/types/pokemon';
   import SpriteRenderer from '#/components/battle/SpriteRenderer.svelte';
   import ButtonPanel from '#/components/battle/ButtonPanel.svelte';
@@ -17,7 +17,7 @@
     onFinish: (outcome: BattleOutcome) => void;
   };
 
-  let { team1, team2, player1Control = 'ui', onFinish }: Props = $props();
+  let { team1, team2, player1Control, onFinish }: Props = $props();
   let outcome = $state<BattleOutcome | null>(null);
 
   // Moves waiting for the player to decide whether to forget another one.

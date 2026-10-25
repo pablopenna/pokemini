@@ -13,6 +13,7 @@
   import { Location } from '#/types/overworld/location';
   import type { Player } from '#/types/player';
   import type { Team } from '#/types/pokemon';
+  import { PlayerControl } from '#/types/battle/battle-options';
 
   // Placeholder teams until the main page has real ones.
   Teams.setGeneratorFactory(TeamGenerators);
@@ -56,7 +57,7 @@
 </script>
 
 {#if view === 'battle'}
-  <Battle team1={player.team} team2={opponentTeam} player1Control="ai" onFinish={onBattleFinish} />
+  <Battle team1={player.team} team2={opponentTeam} player1Control={PlayerControl.AI_AGGRO} onFinish={onBattleFinish} />
 {:else}
   <main>
     {#if showDebugMenu}

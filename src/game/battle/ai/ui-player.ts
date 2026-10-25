@@ -1,5 +1,4 @@
 import { BattleStreams } from '@pkmn/sim';
-import type { Streams } from '@pkmn/sim';
 
 // ChoiceRequest isn't publicly exported — derive it from the method signature.
 export type ChoiceRequest = Parameters<BattleStreams.BattlePlayer['receiveRequest']>[0];
@@ -9,7 +8,7 @@ export class UIPlayer extends BattleStreams.BattlePlayer {
   private onRequest: RequestHandler;
 
   constructor(
-    playerStream: Streams.ObjectReadWriteStream<string>,
+    playerStream: any,
     onRequest: RequestHandler,
     debug = false,
   ) {
