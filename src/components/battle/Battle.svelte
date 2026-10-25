@@ -4,9 +4,9 @@
   import { type BattleResult } from '#/types/battle/battle-result';
   import type { PlayerControl } from '#/types/battle/battle-options';
   import type { Team } from '#/types/pokemon';
-  import SpriteRenderer from '#/components/SpriteRenderer.svelte';
-  import ButtonPanel from '#/components/ButtonPanel.svelte';
-  import BattleLog from '#/components/BattleLog.svelte';
+  import SpriteRenderer from '#/components/battle/SpriteRenderer.svelte';
+  import ButtonPanel from '#/components/battle/ButtonPanel.svelte';
+  import BattleLog from '#/components/battle/BattleLog.svelte';
 
   type Props = {
     team1: Team;

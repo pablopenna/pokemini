@@ -127,7 +127,8 @@ function updateSprites(clientBattle: Battle) {
 // ---- main battle loop ------------------------------------------------
 export async function main(options: BattleOptions): Promise<BattleResult> {
     const { team1, team2, player1Control = 'ui' } = options;
-    const gens = new Generations(Dex);
+    // Accept everything: wild Pokémon like Pidgey are "Past" in gen 9, which the default filter hides.
+    const gens = new Generations(Dex, () => true);
     const clientBattle = new Battle(gens);
     const formatter = new LogFormatter('p1', clientBattle);
 

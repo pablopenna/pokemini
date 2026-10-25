@@ -1,6 +1,7 @@
 import { CONNECTION_CONDITIONS } from '#/data/connection-conditions.ts';
 import type { GameFlag, GameFlags } from '#/types/game-flags.ts';
 import { Location } from '#/types/overworld/location.ts';
+import type { RouteEncounter } from '#/types/overworld/route-encounter.ts';
 import { asRouteData, type RouteData } from '#/types/overworld/route.ts';
 
 const routes = import.meta.glob('/src/data/routes/*.json', { eager: true, import: 'default' });
@@ -25,4 +26,9 @@ export function getConnectionRequirements(from: Location, to: Location): GameFla
 /** Whether the player's flags satisfy every requirement to travel between two locations. */
 export function canTravel(from: Location, to: Location, flags: GameFlags): boolean {
   return getConnectionRequirements(from, to).every(flag => flags[flag]);
+}
+
+/** Encounters of a location that can happen in FireRed (the version the game is based on). */
+export function getEncounters(location: Location): RouteEncounter[] {
+  return getRouteData(location).encounters.filter(e => e.version !== 'leafgreen');
 }
