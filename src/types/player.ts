@@ -5,6 +5,8 @@ import type { Party } from '#/types/pokemon';
 export type Player = {
   team: Party;
   location: Location;
+  /** Area of the location (e.g. Main Area, Gym). */
+  section: string;
   gameFlags: GameFlags;
   /** Locations where the player already picked their gift. */
   claimedGifts: Location[];

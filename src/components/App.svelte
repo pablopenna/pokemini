@@ -5,8 +5,10 @@
   import DebugMenu from '#/components/overworld/DebugMenu.svelte';
   import LocationView from '#/components/overworld/LocationView.svelte';
   import PlayerInfo from '#/components/overworld/PlayerInfo.svelte';
+  import TrainerBattle from '#/components/overworld/TrainerBattle.svelte';
   import WildEncounter from '#/components/overworld/WildEncounter.svelte';
   import { canBattle } from '#/game/battle/party-state';
+  import { getRouteData } from '#/game/overworld/location';
   import type { BattleOutcome, BattleResult } from '#/types/battle/battle-result';
   import { Location } from '#/types/overworld/location';
   import type { Player } from '#/types/player';
@@ -17,6 +19,7 @@
   let player = $state<Player>({
     team: [],
     location: Location.PalletTown,
+    section: getRouteData(Location.PalletTown).sections[0],
     gameFlags: {
       canSurf: false,
       hasOldRod: false,
@@ -39,6 +42,12 @@
     view = 'battle';
   }
 
+  // Every location starts in its first section.
+  function travel(location: Location) {
+    player.location = location;
+    player.section = getRouteData(location).sections[0];
+  }
+
   function onBattleFinish({ result, party }: BattleOutcome) {
     player.team = party;
     lastResult = result;
@@ -58,8 +67,15 @@
     {#if lastResult}
       <p>Last battle: {lastResult === 'p1' ? 'you won' : lastResult === 'p2' ? 'you lost' : 'tie'}</p>
     {/if}
-    <LocationView location={player.location} gameFlags={player.gameFlags} onTravel={loc => (player.location = loc)}>
+    <LocationView
+      location={player.location}
+      section={player.section}
+      gameFlags={player.gameFlags}
+      onTravel={travel}
+      onSectionChange={section => (player.section = section)}
+    >
       <WildEncounter bind:player disabled={!canBattle(player.team)} onEncounter={startBattle} />
+      <TrainerBattle {player} disabled={!canBattle(player.team)} onBattle={startBattle} />
     </LocationView>
   </main>
 {/if}

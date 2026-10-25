@@ -9,13 +9,15 @@
 
   type Props = {
     location: Location;
+    section: string;
     gameFlags: GameFlags;
     onTravel: (location: Location) => void;
+    onSectionChange: (section: string) => void;
     /** Extra sections rendered below the connections. */
     children?: Snippet;
   };
 
-  let { location, gameFlags, onTravel, children }: Props = $props();
+  let { location, section, gameFlags, onTravel, onSectionChange, children }: Props = $props();
 
   let route = $derived(getRouteData(location));
 
@@ -49,6 +51,16 @@
         {/each}
       </div>
     </section>
+    {#if route.sections.length > 1}
+      <section>
+        <h2>Sections</h2>
+        <div class="connections">
+          {#each route.sections as s}
+            <button disabled={s === section} onclick={() => onSectionChange(s)}>{s}</button>
+          {/each}
+        </div>
+      </section>
+    {/if}
     {@render children?.()}
   </div>
 </div>

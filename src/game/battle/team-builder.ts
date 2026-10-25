@@ -2,6 +2,7 @@ import { Dex } from '@pkmn/dex';
 import { getPokemonData } from '#/game/pokemon-data.ts';
 import { getRouteData } from '#/game/overworld/location.ts';
 import type { Location } from '#/types/overworld/location.ts';
+import type { RouteTrainer } from '#/types/overworld/route-trainer.ts';
 import type { EncounterMethod, EncounterVersion } from '#/types/overworld/route-encounter.ts';
 import { expForLevel } from '#/game/battle/experience.ts';
 import { toPartyPokemon } from '#/game/battle/party-state.ts';
@@ -83,6 +84,11 @@ export function getTrainerTeam(location: Location, trainerName: string, occurren
     throw new Error(`No trainer "${trainerName}" (occurrence ${occurrence}) in "${location}"`);
   }
 
+  return buildTrainerTeam(trainer);
+}
+
+/** Team of a trainer, with the moves and held items from the page. */
+export function buildTrainerTeam(trainer: RouteTrainer): Team {
   return trainer.team.map((p) => buildPokemon(p.species, p.level ?? 1, { moves: p.moves, item: p.heldItem }));
 }
 
