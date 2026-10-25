@@ -1,11 +1,11 @@
 import { PlayerControl } from "#/types/battle/battle-options";
-import { BattleStreams, RandomPlayerAI } from "@pkmn/sim";
+import { BattleStreams, RandomPlayerAI, Streams } from "@pkmn/sim";
 import { ChoiceRequest, UIPlayer } from "#/game/battle/ai/ui-player";
 import { AiAggro } from "#/game/battle/ai/ai-aggro";
 
 export function getBattlerImplementationFromOption(
     option: PlayerControl, 
-    playerStream: any, // ObjectReadWriteStream<string>,
+    playerStream: Streams.ObjectReadWriteStream<string>,
     handleRequest: (request: ChoiceRequest) => void,
 ): BattleStreams.BattlePlayer {
     switch(option) {
