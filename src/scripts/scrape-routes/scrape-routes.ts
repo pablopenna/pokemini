@@ -5,12 +5,12 @@ import * as path from 'path';
 
 import type { RouteData } from '#/types/overworld/route.ts';
 
-import { downloadImage } from '#/scripts/utils/download-image.ts'
-import { parseEncounters } from '#/scripts/utils/parse-encounters.ts';
-import { parseItems } from '#/scripts/utils/parse-items.ts';
-import { parseSections } from '#/scripts/utils/parse-sections.ts';
-import { parseTrades } from '#/scripts/utils/parse-trades.ts';
-import { parseTrainers } from '#/scripts/utils/parse-trainers.ts';
+import { downloadImage } from '#/scripts/scrape-routes/utils/download-image.ts'
+import { parseEncounters } from '#/scripts/scrape-routes/utils/parse-encounters.ts';
+import { parseItems } from '#/scripts/scrape-routes/utils/parse-items.ts';
+import { parseSections } from '#/scripts/scrape-routes/utils/parse-sections.ts';
+import { parseTrades } from '#/scripts/scrape-routes/utils/parse-trades.ts';
+import { parseTrainers } from '#/scripts/scrape-routes/utils/parse-trainers.ts';
 import { parseConnections } from './utils/parse-connections.ts';
 
 const FORCE = process.argv.includes('--force');

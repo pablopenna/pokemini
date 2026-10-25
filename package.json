@@ -9,9 +9,11 @@
     "dev": "GAME_DEBUG_MENU=true vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "scraperoute": "node src/scripts/scrape-routes.ts",
-    "scrapeall": "node src/scripts/scrape-routes.ts --id route1 --crawl",
-    "rescraperoutes": "for f in src/data/routes/*.json; do node src/scripts/scrape-routes.ts --id \"$(basename \"$f\" .json)\" --force; done"
+    "scraperoute": "node src/scripts/scrape-routes/scrape-routes.ts",
+    "scrapeall": "node src/scripts/scrape-routes/scrape-routes.ts --id route1 --crawl",
+    "scrapepkmn": "node src/scripts/scrape-pkmn/scrape-pkmn.ts",
+    "scrapeallpkmn": "node src/scripts/scrape-pkmn/scrape-pkmn.ts --all",
+    "rescraperoutes": "for f in src/data/routes/*.json; do node src/scripts/scrape-routes/scrape-routes.ts --id \"$(basename \"$f\" .json)\" --force; done"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^7.3.1",

@@ -1,7 +1,7 @@
 import * as cheerio from 'cheerio';
 import { Dex } from '@pkmn/dex';
 import type { RouteTrade } from "#/types/overworld/route-trade.ts";
-import type { Sections } from '#/scripts/utils/parse-sections.ts';
+import type { Sections } from '#/scripts/scrape-routes/utils/parse-sections.ts';
 
 // The page only shows a sprite for the received species, named after its dex number.
 // Names are spelled as Serebii does so they match the rest of the data.

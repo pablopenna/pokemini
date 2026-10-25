@@ -1,6 +1,6 @@
 import * as cheerio from 'cheerio';
 import type { ItemMethod, RouteItem, RouteMart } from "#/types/overworld/route-item.ts";
-import type { Sections } from '#/scripts/utils/parse-sections.ts';
+import type { Sections } from '#/scripts/scrape-routes/utils/parse-sections.ts';
 
 // Prefix of the "Method" cell -> method. Whatever follows is the note.
 const METHOD_PREFIXES: [string, ItemMethod][] = [

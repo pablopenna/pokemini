@@ -1,6 +1,6 @@
 import * as cheerio from 'cheerio';
 import type { RouteTrainer, RouteTrainerPokemon } from "#/types/overworld/route-trainer.ts";
-import type { Sections } from '#/scripts/utils/parse-sections.ts';
+import type { Sections } from '#/scripts/scrape-routes/utils/parse-sections.ts';
 
 export function parseTrainers($: cheerio.CheerioAPI, sectionOf: Sections['sectionOf']): RouteTrainer[] {
   const trainers: RouteTrainer[] = [];

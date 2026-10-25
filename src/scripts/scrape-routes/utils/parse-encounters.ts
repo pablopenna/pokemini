@@ -1,7 +1,7 @@
 import * as cheerio from 'cheerio';
 import type { RouteEncounter, EncounterMethod, StaticCategory } from "#/types/overworld/route-encounter.ts";
 import { isEncounterMethod } from "#/types/overworld/route-encounter.ts";
-import type { Sections } from '#/scripts/utils/parse-sections.ts';
+import type { Sections } from '#/scripts/scrape-routes/utils/parse-sections.ts';
 
 // Anchors that do not match the method name.
 const ANCHOR_ALIASES: Record<string, EncounterMethod> = {
