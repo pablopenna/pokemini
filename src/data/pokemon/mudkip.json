@@ -1,0 +1,12 @@
+{
+  "id": "mudkip",
+  "num": 258,
+  "name": "Mudkip",
+  "url": "https://pokeapi.co/api/v2/pokemon/258",
+  "catchRate": 45,
+  "expYield": 62,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

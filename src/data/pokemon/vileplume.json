@@ -1,0 +1,12 @@
+{
+  "id": "vileplume",
+  "num": 45,
+  "name": "Vileplume",
+  "url": "https://pokeapi.co/api/v2/pokemon/45",
+  "catchRate": 45,
+  "expYield": 221,
+  "evYield": {
+    "spa": 3
+  },
+  "heldItems": []
+}

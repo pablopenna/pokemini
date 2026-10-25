@@ -1,0 +1,12 @@
+{
+  "id": "magikarp",
+  "num": 129,
+  "name": "Magikarp",
+  "url": "https://pokeapi.co/api/v2/pokemon/129",
+  "catchRate": 255,
+  "expYield": 40,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

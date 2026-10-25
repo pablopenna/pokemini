@@ -1,0 +1,12 @@
+{
+  "id": "azumarill",
+  "num": 184,
+  "name": "Azumarill",
+  "url": "https://pokeapi.co/api/v2/pokemon/184",
+  "catchRate": 75,
+  "expYield": 189,
+  "evYield": {
+    "hp": 3
+  },
+  "heldItems": []
+}

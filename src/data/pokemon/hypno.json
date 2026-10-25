@@ -1,0 +1,12 @@
+{
+  "id": "hypno",
+  "num": 97,
+  "name": "Hypno",
+  "url": "https://pokeapi.co/api/v2/pokemon/97",
+  "catchRate": 75,
+  "expYield": 169,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": []
+}

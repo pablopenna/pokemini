@@ -1,0 +1,12 @@
+{
+  "id": "electrike",
+  "num": 309,
+  "name": "Electrike",
+  "url": "https://pokeapi.co/api/v2/pokemon/309",
+  "catchRate": 120,
+  "expYield": 59,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

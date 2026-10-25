@@ -1,0 +1,12 @@
+{
+  "id": "magcargo",
+  "num": 219,
+  "name": "Magcargo",
+  "url": "https://pokeapi.co/api/v2/pokemon/219",
+  "catchRate": 75,
+  "expYield": 151,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": []
+}

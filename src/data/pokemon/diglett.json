@@ -1,0 +1,12 @@
+{
+  "id": "diglett",
+  "num": 50,
+  "name": "Diglett",
+  "url": "https://pokeapi.co/api/v2/pokemon/50",
+  "catchRate": 255,
+  "expYield": 53,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

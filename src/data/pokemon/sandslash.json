@@ -1,0 +1,17 @@
+{
+  "id": "sandslash",
+  "num": 28,
+  "name": "Sandslash",
+  "url": "https://pokeapi.co/api/v2/pokemon/28",
+  "catchRate": 90,
+  "expYield": 158,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": [
+    {
+      "item": "Soft Sand",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blissey",
+  "num": 242,
+  "name": "Blissey",
+  "url": "https://pokeapi.co/api/v2/pokemon/242",
+  "catchRate": 30,
+  "expYield": 608,
+  "evYield": {
+    "hp": 3
+  },
+  "heldItems": [
+    {
+      "item": "Lucky Egg",
+      "rate": 5
+    }
+  ]
+}

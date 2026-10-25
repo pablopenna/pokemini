@@ -1,0 +1,12 @@
+{
+  "id": "rhyhorn",
+  "num": 111,
+  "name": "Rhyhorn",
+  "url": "https://pokeapi.co/api/v2/pokemon/111",
+  "catchRate": 120,
+  "expYield": 69,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": []
+}

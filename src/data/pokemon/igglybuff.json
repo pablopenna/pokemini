@@ -1,0 +1,17 @@
+{
+  "id": "igglybuff",
+  "num": 174,
+  "name": "Igglybuff",
+  "url": "https://pokeapi.co/api/v2/pokemon/174",
+  "catchRate": 170,
+  "expYield": 42,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": [
+    {
+      "item": "Oran Berry",
+      "rate": 50
+    }
+  ]
+}

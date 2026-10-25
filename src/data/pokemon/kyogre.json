@@ -1,0 +1,12 @@
+{
+  "id": "kyogre",
+  "num": 382,
+  "name": "Kyogre",
+  "url": "https://pokeapi.co/api/v2/pokemon/382",
+  "catchRate": 3,
+  "expYield": 302,
+  "evYield": {
+    "spa": 3
+  },
+  "heldItems": []
+}

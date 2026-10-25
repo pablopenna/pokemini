@@ -1,0 +1,13 @@
+{
+  "id": "chimecho",
+  "num": 358,
+  "name": "Chimecho",
+  "url": "https://pokeapi.co/api/v2/pokemon/358",
+  "catchRate": 45,
+  "expYield": 159,
+  "evYield": {
+    "spa": 1,
+    "spd": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sealeo",
+  "num": 364,
+  "name": "Sealeo",
+  "url": "https://pokeapi.co/api/v2/pokemon/364",
+  "catchRate": 120,
+  "expYield": 144,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": []
+}

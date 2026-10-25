@@ -1,0 +1,14 @@
+{
+  "id": "deoxys",
+  "num": 386,
+  "name": "Deoxys",
+  "url": "https://pokeapi.co/api/v2/pokemon/386",
+  "catchRate": 3,
+  "expYield": 270,
+  "evYield": {
+    "atk": 1,
+    "spa": 1,
+    "spe": 1
+  },
+  "heldItems": []
+}

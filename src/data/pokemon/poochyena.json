@@ -1,0 +1,17 @@
+{
+  "id": "poochyena",
+  "num": 261,
+  "name": "Poochyena",
+  "url": "https://pokeapi.co/api/v2/pokemon/261",
+  "catchRate": 255,
+  "expYield": 56,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": [
+    {
+      "item": "Pecha Berry",
+      "rate": 5
+    }
+  ]
+}

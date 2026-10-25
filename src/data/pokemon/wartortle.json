@@ -1,0 +1,13 @@
+{
+  "id": "wartortle",
+  "num": 8,
+  "name": "Wartortle",
+  "url": "https://pokeapi.co/api/v2/pokemon/8",
+  "catchRate": 45,
+  "expYield": 142,
+  "evYield": {
+    "def": 1,
+    "spd": 1
+  },
+  "heldItems": []
+}

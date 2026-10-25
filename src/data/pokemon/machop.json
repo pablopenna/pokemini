@@ -1,0 +1,12 @@
+{
+  "id": "machop",
+  "num": 66,
+  "name": "Machop",
+  "url": "https://pokeapi.co/api/v2/pokemon/66",
+  "catchRate": 180,
+  "expYield": 61,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

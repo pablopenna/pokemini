@@ -1,0 +1,12 @@
+{
+  "id": "bellossom",
+  "num": 182,
+  "name": "Bellossom",
+  "url": "https://pokeapi.co/api/v2/pokemon/182",
+  "catchRate": 45,
+  "expYield": 221,
+  "evYield": {
+    "spd": 3
+  },
+  "heldItems": []
+}

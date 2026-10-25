@@ -1,0 +1,12 @@
+{
+  "id": "totodile",
+  "num": 158,
+  "name": "Totodile",
+  "url": "https://pokeapi.co/api/v2/pokemon/158",
+  "catchRate": 45,
+  "expYield": 63,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

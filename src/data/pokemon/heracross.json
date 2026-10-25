@@ -1,0 +1,12 @@
+{
+  "id": "heracross",
+  "num": 214,
+  "name": "Heracross",
+  "url": "https://pokeapi.co/api/v2/pokemon/214",
+  "catchRate": 45,
+  "expYield": 175,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

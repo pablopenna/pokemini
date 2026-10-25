@@ -1,0 +1,12 @@
+{
+  "id": "persian",
+  "num": 53,
+  "name": "Persian",
+  "url": "https://pokeapi.co/api/v2/pokemon/53",
+  "catchRate": 90,
+  "expYield": 154,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

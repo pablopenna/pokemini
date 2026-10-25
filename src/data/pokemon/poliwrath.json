@@ -1,0 +1,12 @@
+{
+  "id": "poliwrath",
+  "num": 62,
+  "name": "Poliwrath",
+  "url": "https://pokeapi.co/api/v2/pokemon/62",
+  "catchRate": 45,
+  "expYield": 230,
+  "evYield": {
+    "def": 3
+  },
+  "heldItems": []
+}

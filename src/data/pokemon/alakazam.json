@@ -1,0 +1,17 @@
+{
+  "id": "alakazam",
+  "num": 65,
+  "name": "Alakazam",
+  "url": "https://pokeapi.co/api/v2/pokemon/65",
+  "catchRate": 50,
+  "expYield": 225,
+  "evYield": {
+    "spa": 3
+  },
+  "heldItems": [
+    {
+      "item": "Twisted Spoon",
+      "rate": 5
+    }
+  ]
+}

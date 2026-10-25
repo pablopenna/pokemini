@@ -1,0 +1,12 @@
+{
+  "id": "sunkern",
+  "num": 191,
+  "name": "Sunkern",
+  "url": "https://pokeapi.co/api/v2/pokemon/191",
+  "catchRate": 235,
+  "expYield": 36,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "linoone",
+  "num": 264,
+  "name": "Linoone",
+  "url": "https://pokeapi.co/api/v2/pokemon/264",
+  "catchRate": 90,
+  "expYield": 147,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": [
+    {
+      "item": "Oran Berry",
+      "rate": 50
+    },
+    {
+      "item": "Sitrus Berry",
+      "rate": 5
+    }
+  ]
+}

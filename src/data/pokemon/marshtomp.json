@@ -1,0 +1,12 @@
+{
+  "id": "marshtomp",
+  "num": 259,
+  "name": "Marshtomp",
+  "url": "https://pokeapi.co/api/v2/pokemon/259",
+  "catchRate": 45,
+  "expYield": 142,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

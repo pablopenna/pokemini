@@ -1,0 +1,12 @@
+{
+  "id": "slugma",
+  "num": 218,
+  "name": "Slugma",
+  "url": "https://pokeapi.co/api/v2/pokemon/218",
+  "catchRate": 190,
+  "expYield": 50,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

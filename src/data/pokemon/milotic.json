@@ -1,0 +1,12 @@
+{
+  "id": "milotic",
+  "num": 350,
+  "name": "Milotic",
+  "url": "https://pokeapi.co/api/v2/pokemon/350",
+  "catchRate": 60,
+  "expYield": 189,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": []
+}

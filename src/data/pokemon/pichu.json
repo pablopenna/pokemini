@@ -1,0 +1,12 @@
+{
+  "id": "pichu",
+  "num": 172,
+  "name": "Pichu",
+  "url": "https://pokeapi.co/api/v2/pokemon/172",
+  "catchRate": 190,
+  "expYield": 41,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

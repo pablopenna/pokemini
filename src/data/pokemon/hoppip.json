@@ -1,0 +1,12 @@
+{
+  "id": "hoppip",
+  "num": 187,
+  "name": "Hoppip",
+  "url": "https://pokeapi.co/api/v2/pokemon/187",
+  "catchRate": 255,
+  "expYield": 50,
+  "evYield": {
+    "spd": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "miltank",
+  "num": 241,
+  "name": "Miltank",
+  "url": "https://pokeapi.co/api/v2/pokemon/241",
+  "catchRate": 45,
+  "expYield": 172,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": [
+    {
+      "item": "Moomoo Milk",
+      "rate": 100
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "nidorina",
+  "num": 30,
+  "name": "Nidorina",
+  "url": "https://pokeapi.co/api/v2/pokemon/30",
+  "catchRate": 120,
+  "expYield": 128,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": []
+}

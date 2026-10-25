@@ -1,0 +1,12 @@
+{
+  "id": "aerodactyl",
+  "num": 142,
+  "name": "Aerodactyl",
+  "url": "https://pokeapi.co/api/v2/pokemon/142",
+  "catchRate": 45,
+  "expYield": 180,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

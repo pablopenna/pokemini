@@ -1,0 +1,12 @@
+{
+  "id": "magby",
+  "num": 240,
+  "name": "Magby",
+  "url": "https://pokeapi.co/api/v2/pokemon/240",
+  "catchRate": 45,
+  "expYield": 73,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

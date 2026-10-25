@@ -1,0 +1,12 @@
+{
+  "id": "crobat",
+  "num": 169,
+  "name": "Crobat",
+  "url": "https://pokeapi.co/api/v2/pokemon/169",
+  "catchRate": 90,
+  "expYield": 241,
+  "evYield": {
+    "spe": 3
+  },
+  "heldItems": []
+}

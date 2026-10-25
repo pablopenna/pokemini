@@ -1,0 +1,12 @@
+{
+  "id": "lickitung",
+  "num": 108,
+  "name": "Lickitung",
+  "url": "https://pokeapi.co/api/v2/pokemon/108",
+  "catchRate": 45,
+  "expYield": 77,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": []
+}

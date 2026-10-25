@@ -1,0 +1,12 @@
+{
+  "id": "golbat",
+  "num": 42,
+  "name": "Golbat",
+  "url": "https://pokeapi.co/api/v2/pokemon/42",
+  "catchRate": 90,
+  "expYield": 159,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

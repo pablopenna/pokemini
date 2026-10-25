@@ -1,0 +1,21 @@
+{
+  "id": "ursaring",
+  "num": 217,
+  "name": "Ursaring",
+  "url": "https://pokeapi.co/api/v2/pokemon/217",
+  "catchRate": 60,
+  "expYield": 175,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": [
+    {
+      "item": "Oran Berry",
+      "rate": 50
+    },
+    {
+      "item": "Sitrus Berry",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "spearow",
+  "num": 21,
+  "name": "Spearow",
+  "url": "https://pokeapi.co/api/v2/pokemon/21",
+  "catchRate": 255,
+  "expYield": 52,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

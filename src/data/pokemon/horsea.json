@@ -1,0 +1,12 @@
+{
+  "id": "horsea",
+  "num": 116,
+  "name": "Horsea",
+  "url": "https://pokeapi.co/api/v2/pokemon/116",
+  "catchRate": 225,
+  "expYield": 59,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

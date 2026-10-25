@@ -1,0 +1,12 @@
+{
+  "id": "ledyba",
+  "num": 165,
+  "name": "Ledyba",
+  "url": "https://pokeapi.co/api/v2/pokemon/165",
+  "catchRate": 255,
+  "expYield": 53,
+  "evYield": {
+    "spd": 1
+  },
+  "heldItems": []
+}

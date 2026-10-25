@@ -1,0 +1,17 @@
+{
+  "id": "lanturn",
+  "num": 171,
+  "name": "Lanturn",
+  "url": "https://pokeapi.co/api/v2/pokemon/171",
+  "catchRate": 75,
+  "expYield": 161,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": [
+    {
+      "item": "Yellow Shard",
+      "rate": 5
+    }
+  ]
+}

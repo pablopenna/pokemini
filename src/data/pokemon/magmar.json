@@ -1,0 +1,12 @@
+{
+  "id": "magmar",
+  "num": 126,
+  "name": "Magmar",
+  "url": "https://pokeapi.co/api/v2/pokemon/126",
+  "catchRate": 45,
+  "expYield": 173,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": []
+}

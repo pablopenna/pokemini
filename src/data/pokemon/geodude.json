@@ -1,0 +1,12 @@
+{
+  "id": "geodude",
+  "num": 74,
+  "name": "Geodude",
+  "url": "https://pokeapi.co/api/v2/pokemon/74",
+  "catchRate": 255,
+  "expYield": 60,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": []
+}

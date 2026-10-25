@@ -1,0 +1,12 @@
+{
+  "id": "typhlosion",
+  "num": 157,
+  "name": "Typhlosion",
+  "url": "https://pokeapi.co/api/v2/pokemon/157",
+  "catchRate": 45,
+  "expYield": 240,
+  "evYield": {
+    "spa": 3
+  },
+  "heldItems": []
+}

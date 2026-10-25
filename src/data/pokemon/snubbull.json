@@ -1,0 +1,12 @@
+{
+  "id": "snubbull",
+  "num": 209,
+  "name": "Snubbull",
+  "url": "https://pokeapi.co/api/v2/pokemon/209",
+  "catchRate": 190,
+  "expYield": 60,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

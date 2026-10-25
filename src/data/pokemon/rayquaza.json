@@ -1,0 +1,13 @@
+{
+  "id": "rayquaza",
+  "num": 384,
+  "name": "Rayquaza",
+  "url": "https://pokeapi.co/api/v2/pokemon/384",
+  "catchRate": 45,
+  "expYield": 306,
+  "evYield": {
+    "atk": 2,
+    "spa": 1
+  },
+  "heldItems": []
+}

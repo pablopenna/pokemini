@@ -1,0 +1,12 @@
+{
+  "id": "omanyte",
+  "num": 138,
+  "name": "Omanyte",
+  "url": "https://pokeapi.co/api/v2/pokemon/138",
+  "catchRate": 45,
+  "expYield": 71,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": []
+}

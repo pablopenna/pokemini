@@ -1,0 +1,21 @@
+{
+  "id": "shellder",
+  "num": 90,
+  "name": "Shellder",
+  "url": "https://pokeapi.co/api/v2/pokemon/90",
+  "catchRate": 190,
+  "expYield": 61,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": [
+    {
+      "item": "Pearl",
+      "rate": 50
+    },
+    {
+      "item": "Big Pearl",
+      "rate": 5
+    }
+  ]
+}

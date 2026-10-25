@@ -1,0 +1,12 @@
+{
+  "id": "walrein",
+  "num": 365,
+  "name": "Walrein",
+  "url": "https://pokeapi.co/api/v2/pokemon/365",
+  "catchRate": 45,
+  "expYield": 239,
+  "evYield": {
+    "hp": 3
+  },
+  "heldItems": []
+}

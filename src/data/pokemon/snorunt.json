@@ -1,0 +1,12 @@
+{
+  "id": "snorunt",
+  "num": 361,
+  "name": "Snorunt",
+  "url": "https://pokeapi.co/api/v2/pokemon/361",
+  "catchRate": 190,
+  "expYield": 60,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

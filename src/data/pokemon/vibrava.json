@@ -1,0 +1,13 @@
+{
+  "id": "vibrava",
+  "num": 329,
+  "name": "Vibrava",
+  "url": "https://pokeapi.co/api/v2/pokemon/329",
+  "catchRate": 120,
+  "expYield": 119,
+  "evYield": {
+    "atk": 1,
+    "spe": 1
+  },
+  "heldItems": []
+}

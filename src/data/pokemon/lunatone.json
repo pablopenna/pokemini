@@ -1,0 +1,17 @@
+{
+  "id": "lunatone",
+  "num": 337,
+  "name": "Lunatone",
+  "url": "https://pokeapi.co/api/v2/pokemon/337",
+  "catchRate": 45,
+  "expYield": 161,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": [
+    {
+      "item": "Moon Stone",
+      "rate": 5
+    }
+  ]
+}

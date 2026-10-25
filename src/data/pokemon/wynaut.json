@@ -1,0 +1,12 @@
+{
+  "id": "wynaut",
+  "num": 360,
+  "name": "Wynaut",
+  "url": "https://pokeapi.co/api/v2/pokemon/360",
+  "catchRate": 125,
+  "expYield": 52,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

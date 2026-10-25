@@ -1,0 +1,12 @@
+{
+  "id": "phanpy",
+  "num": 231,
+  "name": "Phanpy",
+  "url": "https://pokeapi.co/api/v2/pokemon/231",
+  "catchRate": 120,
+  "expYield": 66,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

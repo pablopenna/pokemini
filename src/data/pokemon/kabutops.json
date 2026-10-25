@@ -1,0 +1,12 @@
+{
+  "id": "kabutops",
+  "num": 141,
+  "name": "Kabutops",
+  "url": "https://pokeapi.co/api/v2/pokemon/141",
+  "catchRate": 45,
+  "expYield": 173,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

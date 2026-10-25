@@ -1,0 +1,12 @@
+{
+  "id": "slowbro",
+  "num": 80,
+  "name": "Slowbro",
+  "url": "https://pokeapi.co/api/v2/pokemon/80",
+  "catchRate": 75,
+  "expYield": 172,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "mightyena",
+  "num": 262,
+  "name": "Mightyena",
+  "url": "https://pokeapi.co/api/v2/pokemon/262",
+  "catchRate": 127,
+  "expYield": 147,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": [
+    {
+      "item": "Pecha Berry",
+      "rate": 5
+    }
+  ]
+}

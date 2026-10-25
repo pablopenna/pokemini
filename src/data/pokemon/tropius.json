@@ -1,0 +1,12 @@
+{
+  "id": "tropius",
+  "num": 357,
+  "name": "Tropius",
+  "url": "https://pokeapi.co/api/v2/pokemon/357",
+  "catchRate": 200,
+  "expYield": 161,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": []
+}

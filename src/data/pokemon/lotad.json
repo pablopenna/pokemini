@@ -1,0 +1,12 @@
+{
+  "id": "lotad",
+  "num": 270,
+  "name": "Lotad",
+  "url": "https://pokeapi.co/api/v2/pokemon/270",
+  "catchRate": 255,
+  "expYield": 44,
+  "evYield": {
+    "spd": 1
+  },
+  "heldItems": []
+}

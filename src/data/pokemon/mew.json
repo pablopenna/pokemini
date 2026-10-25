@@ -1,0 +1,12 @@
+{
+  "id": "mew",
+  "num": 151,
+  "name": "Mew",
+  "url": "https://pokeapi.co/api/v2/pokemon/151",
+  "catchRate": 45,
+  "expYield": 270,
+  "evYield": {
+    "hp": 3
+  },
+  "heldItems": []
+}

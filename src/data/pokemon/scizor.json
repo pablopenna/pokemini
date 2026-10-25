@@ -1,0 +1,12 @@
+{
+  "id": "scizor",
+  "num": 212,
+  "name": "Scizor",
+  "url": "https://pokeapi.co/api/v2/pokemon/212",
+  "catchRate": 25,
+  "expYield": 175,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

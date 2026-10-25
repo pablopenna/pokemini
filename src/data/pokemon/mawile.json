@@ -1,0 +1,13 @@
+{
+  "id": "mawile",
+  "num": 303,
+  "name": "Mawile",
+  "url": "https://pokeapi.co/api/v2/pokemon/303",
+  "catchRate": 45,
+  "expYield": 133,
+  "evYield": {
+    "atk": 1,
+    "def": 1
+  },
+  "heldItems": []
+}

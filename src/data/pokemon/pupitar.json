@@ -1,0 +1,12 @@
+{
+  "id": "pupitar",
+  "num": 247,
+  "name": "Pupitar",
+  "url": "https://pokeapi.co/api/v2/pokemon/247",
+  "catchRate": 45,
+  "expYield": 144,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

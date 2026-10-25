@@ -1,0 +1,18 @@
+{
+  "id": "camerupt",
+  "num": 323,
+  "name": "Camerupt",
+  "url": "https://pokeapi.co/api/v2/pokemon/323",
+  "catchRate": 150,
+  "expYield": 161,
+  "evYield": {
+    "atk": 1,
+    "spa": 1
+  },
+  "heldItems": [
+    {
+      "item": "Rawst Berry",
+      "rate": 100
+    }
+  ]
+}

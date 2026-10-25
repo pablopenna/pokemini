@@ -1,0 +1,12 @@
+{
+  "id": "porygon",
+  "num": 137,
+  "name": "Porygon",
+  "url": "https://pokeapi.co/api/v2/pokemon/137",
+  "catchRate": 45,
+  "expYield": 79,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

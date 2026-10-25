@@ -1,0 +1,21 @@
+{
+  "id": "starmie",
+  "num": 121,
+  "name": "Starmie",
+  "url": "https://pokeapi.co/api/v2/pokemon/121",
+  "catchRate": 60,
+  "expYield": 182,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": [
+    {
+      "item": "Stardust",
+      "rate": 50
+    },
+    {
+      "item": "Star Piece",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "metang",
+  "num": 375,
+  "name": "Metang",
+  "url": "https://pokeapi.co/api/v2/pokemon/375",
+  "catchRate": 3,
+  "expYield": 147,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": [
+    {
+      "item": "Metal Coat",
+      "rate": 5
+    }
+  ]
+}

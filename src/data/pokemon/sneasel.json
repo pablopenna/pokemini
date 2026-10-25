@@ -1,0 +1,12 @@
+{
+  "id": "sneasel",
+  "num": 215,
+  "name": "Sneasel",
+  "url": "https://pokeapi.co/api/v2/pokemon/215",
+  "catchRate": 60,
+  "expYield": 86,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

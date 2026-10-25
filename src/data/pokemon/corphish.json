@@ -1,0 +1,12 @@
+{
+  "id": "corphish",
+  "num": 341,
+  "name": "Corphish",
+  "url": "https://pokeapi.co/api/v2/pokemon/341",
+  "catchRate": 205,
+  "expYield": 62,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

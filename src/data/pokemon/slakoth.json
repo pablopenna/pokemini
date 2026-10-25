@@ -1,0 +1,12 @@
+{
+  "id": "slakoth",
+  "num": 287,
+  "name": "Slakoth",
+  "url": "https://pokeapi.co/api/v2/pokemon/287",
+  "catchRate": 255,
+  "expYield": 56,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

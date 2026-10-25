@@ -1,0 +1,12 @@
+{
+  "id": "exeggcute",
+  "num": 102,
+  "name": "Exeggcute",
+  "url": "https://pokeapi.co/api/v2/pokemon/102",
+  "catchRate": 90,
+  "expYield": 65,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": []
+}

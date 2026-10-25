@@ -1,0 +1,12 @@
+{
+  "id": "cyndaquil",
+  "num": 155,
+  "name": "Cyndaquil",
+  "url": "https://pokeapi.co/api/v2/pokemon/155",
+  "catchRate": 45,
+  "expYield": 62,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

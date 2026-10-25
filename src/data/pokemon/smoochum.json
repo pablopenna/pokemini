@@ -1,0 +1,12 @@
+{
+  "id": "smoochum",
+  "num": 238,
+  "name": "Smoochum",
+  "url": "https://pokeapi.co/api/v2/pokemon/238",
+  "catchRate": 45,
+  "expYield": 61,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

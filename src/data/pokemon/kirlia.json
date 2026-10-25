@@ -1,0 +1,12 @@
+{
+  "id": "kirlia",
+  "num": 281,
+  "name": "Kirlia",
+  "url": "https://pokeapi.co/api/v2/pokemon/281",
+  "catchRate": 120,
+  "expYield": 97,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": []
+}

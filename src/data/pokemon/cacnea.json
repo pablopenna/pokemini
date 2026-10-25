@@ -1,0 +1,17 @@
+{
+  "id": "cacnea",
+  "num": 331,
+  "name": "Cacnea",
+  "url": "https://pokeapi.co/api/v2/pokemon/331",
+  "catchRate": 190,
+  "expYield": 67,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": [
+    {
+      "item": "Poison Barb",
+      "rate": 5
+    }
+  ]
+}

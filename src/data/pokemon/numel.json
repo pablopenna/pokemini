@@ -1,0 +1,17 @@
+{
+  "id": "numel",
+  "num": 322,
+  "name": "Numel",
+  "url": "https://pokeapi.co/api/v2/pokemon/322",
+  "catchRate": 255,
+  "expYield": 61,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": [
+    {
+      "item": "Rawst Berry",
+      "rate": 100
+    }
+  ]
+}

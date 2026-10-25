@@ -1,0 +1,17 @@
+{
+  "id": "farfetchd",
+  "num": 83,
+  "name": "Farfetch’d",
+  "url": "https://pokeapi.co/api/v2/pokemon/83",
+  "catchRate": 45,
+  "expYield": 132,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": [
+    {
+      "item": "Stick",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "trapinch",
+  "num": 328,
+  "name": "Trapinch",
+  "url": "https://pokeapi.co/api/v2/pokemon/328",
+  "catchRate": 255,
+  "expYield": 58,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": [
+    {
+      "item": "Soft Sand",
+      "rate": 5
+    }
+  ]
+}

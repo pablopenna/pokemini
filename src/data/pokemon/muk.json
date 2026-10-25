@@ -1,0 +1,13 @@
+{
+  "id": "muk",
+  "num": 89,
+  "name": "Muk",
+  "url": "https://pokeapi.co/api/v2/pokemon/89",
+  "catchRate": 75,
+  "expYield": 175,
+  "evYield": {
+    "hp": 1,
+    "atk": 1
+  },
+  "heldItems": []
+}

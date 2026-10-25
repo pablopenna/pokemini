@@ -1,0 +1,12 @@
+{
+  "id": "surskit",
+  "num": 283,
+  "name": "Surskit",
+  "url": "https://pokeapi.co/api/v2/pokemon/283",
+  "catchRate": 200,
+  "expYield": 54,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

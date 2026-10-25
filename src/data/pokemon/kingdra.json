@@ -1,0 +1,19 @@
+{
+  "id": "kingdra",
+  "num": 230,
+  "name": "Kingdra",
+  "url": "https://pokeapi.co/api/v2/pokemon/230",
+  "catchRate": 45,
+  "expYield": 243,
+  "evYield": {
+    "atk": 1,
+    "spa": 1,
+    "spd": 1
+  },
+  "heldItems": [
+    {
+      "item": "Dragon Scale",
+      "rate": 5
+    }
+  ]
+}

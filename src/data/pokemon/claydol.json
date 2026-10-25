@@ -1,0 +1,12 @@
+{
+  "id": "claydol",
+  "num": 344,
+  "name": "Claydol",
+  "url": "https://pokeapi.co/api/v2/pokemon/344",
+  "catchRate": 90,
+  "expYield": 175,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": []
+}

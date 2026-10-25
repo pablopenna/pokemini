@@ -1,0 +1,12 @@
+{
+  "id": "mrmime",
+  "num": 122,
+  "name": "Mr. Mime",
+  "url": "https://pokeapi.co/api/v2/pokemon/122",
+  "catchRate": 45,
+  "expYield": 161,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "slowking",
+  "num": 199,
+  "name": "Slowking",
+  "url": "https://pokeapi.co/api/v2/pokemon/199",
+  "catchRate": 70,
+  "expYield": 172,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": [
+    {
+      "item": "Kings Rock",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "elekid",
+  "num": 239,
+  "name": "Elekid",
+  "url": "https://pokeapi.co/api/v2/pokemon/239",
+  "catchRate": 45,
+  "expYield": 72,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

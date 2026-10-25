@@ -1,0 +1,12 @@
+{
+  "id": "quagsire",
+  "num": 195,
+  "name": "Quagsire",
+  "url": "https://pokeapi.co/api/v2/pokemon/195",
+  "catchRate": 90,
+  "expYield": 151,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": []
+}

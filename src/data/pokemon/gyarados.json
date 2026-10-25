@@ -1,0 +1,12 @@
+{
+  "id": "gyarados",
+  "num": 130,
+  "name": "Gyarados",
+  "url": "https://pokeapi.co/api/v2/pokemon/130",
+  "catchRate": 45,
+  "expYield": 189,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

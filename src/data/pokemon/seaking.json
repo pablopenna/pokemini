@@ -1,0 +1,12 @@
+{
+  "id": "seaking",
+  "num": 119,
+  "name": "Seaking",
+  "url": "https://pokeapi.co/api/v2/pokemon/119",
+  "catchRate": 60,
+  "expYield": 158,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

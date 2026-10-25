@@ -1,0 +1,12 @@
+{
+  "id": "crawdaunt",
+  "num": 342,
+  "name": "Crawdaunt",
+  "url": "https://pokeapi.co/api/v2/pokemon/342",
+  "catchRate": 155,
+  "expYield": 164,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "forretress",
+  "num": 205,
+  "name": "Forretress",
+  "url": "https://pokeapi.co/api/v2/pokemon/205",
+  "catchRate": 75,
+  "expYield": 163,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": []
+}

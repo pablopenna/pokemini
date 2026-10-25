@@ -1,0 +1,12 @@
+{
+  "id": "electabuzz",
+  "num": 125,
+  "name": "Electabuzz",
+  "url": "https://pokeapi.co/api/v2/pokemon/125",
+  "catchRate": 45,
+  "expYield": 172,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

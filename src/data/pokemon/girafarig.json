@@ -1,0 +1,17 @@
+{
+  "id": "girafarig",
+  "num": 203,
+  "name": "Girafarig",
+  "url": "https://pokeapi.co/api/v2/pokemon/203",
+  "catchRate": 60,
+  "expYield": 159,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": [
+    {
+      "item": "Persim Berry",
+      "rate": 5
+    }
+  ]
+}

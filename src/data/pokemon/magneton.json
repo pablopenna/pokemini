@@ -1,0 +1,17 @@
+{
+  "id": "magneton",
+  "num": 82,
+  "name": "Magneton",
+  "url": "https://pokeapi.co/api/v2/pokemon/82",
+  "catchRate": 60,
+  "expYield": 163,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": [
+    {
+      "item": "Magnet",
+      "rate": 5
+    }
+  ]
+}

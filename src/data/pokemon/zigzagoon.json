@@ -1,0 +1,17 @@
+{
+  "id": "zigzagoon",
+  "num": 263,
+  "name": "Zigzagoon",
+  "url": "https://pokeapi.co/api/v2/pokemon/263",
+  "catchRate": 255,
+  "expYield": 56,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": [
+    {
+      "item": "Oran Berry",
+      "rate": 5
+    }
+  ]
+}

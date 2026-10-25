@@ -1,0 +1,12 @@
+{
+  "id": "voltorb",
+  "num": 100,
+  "name": "Voltorb",
+  "url": "https://pokeapi.co/api/v2/pokemon/100",
+  "catchRate": 190,
+  "expYield": 66,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

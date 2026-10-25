@@ -1,0 +1,17 @@
+{
+  "id": "seel",
+  "num": 86,
+  "name": "Seel",
+  "url": "https://pokeapi.co/api/v2/pokemon/86",
+  "catchRate": 190,
+  "expYield": 65,
+  "evYield": {
+    "spd": 1
+  },
+  "heldItems": [
+    {
+      "item": "Aspear Berry",
+      "rate": 50
+    }
+  ]
+}

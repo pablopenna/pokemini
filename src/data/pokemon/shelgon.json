@@ -1,0 +1,17 @@
+{
+  "id": "shelgon",
+  "num": 372,
+  "name": "Shelgon",
+  "url": "https://pokeapi.co/api/v2/pokemon/372",
+  "catchRate": 45,
+  "expYield": 147,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": [
+    {
+      "item": "Dragon Scale",
+      "rate": 5
+    }
+  ]
+}

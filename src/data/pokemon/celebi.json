@@ -1,0 +1,17 @@
+{
+  "id": "celebi",
+  "num": 251,
+  "name": "Celebi",
+  "url": "https://pokeapi.co/api/v2/pokemon/251",
+  "catchRate": 45,
+  "expYield": 270,
+  "evYield": {
+    "hp": 3
+  },
+  "heldItems": [
+    {
+      "item": "Lum Berry",
+      "rate": 100
+    }
+  ]
+}

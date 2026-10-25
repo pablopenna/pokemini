@@ -1,0 +1,12 @@
+{
+  "id": "omastar",
+  "num": 139,
+  "name": "Omastar",
+  "url": "https://pokeapi.co/api/v2/pokemon/139",
+  "catchRate": 45,
+  "expYield": 173,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": []
+}

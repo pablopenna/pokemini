@@ -1,0 +1,13 @@
+{
+  "id": "charmeleon",
+  "num": 5,
+  "name": "Charmeleon",
+  "url": "https://pokeapi.co/api/v2/pokemon/5",
+  "catchRate": 45,
+  "expYield": 142,
+  "evYield": {
+    "spa": 1,
+    "spe": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "xatu",
+  "num": 178,
+  "name": "Xatu",
+  "url": "https://pokeapi.co/api/v2/pokemon/178",
+  "catchRate": 75,
+  "expYield": 165,
+  "evYield": {
+    "spa": 1,
+    "spe": 1
+  },
+  "heldItems": []
+}

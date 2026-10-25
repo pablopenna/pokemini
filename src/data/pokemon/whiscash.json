@@ -1,0 +1,12 @@
+{
+  "id": "whiscash",
+  "num": 340,
+  "name": "Whiscash",
+  "url": "https://pokeapi.co/api/v2/pokemon/340",
+  "catchRate": 75,
+  "expYield": 164,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": []
+}

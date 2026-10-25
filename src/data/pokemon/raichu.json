@@ -1,0 +1,12 @@
+{
+  "id": "raichu",
+  "num": 26,
+  "name": "Raichu",
+  "url": "https://pokeapi.co/api/v2/pokemon/26",
+  "catchRate": 75,
+  "expYield": 218,
+  "evYield": {
+    "spe": 3
+  },
+  "heldItems": []
+}

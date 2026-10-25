@@ -1,0 +1,17 @@
+{
+  "id": "sentret",
+  "num": 161,
+  "name": "Sentret",
+  "url": "https://pokeapi.co/api/v2/pokemon/161",
+  "catchRate": 255,
+  "expYield": 43,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": [
+    {
+      "item": "Oran Berry",
+      "rate": 5
+    }
+  ]
+}

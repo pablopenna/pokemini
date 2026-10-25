@@ -1,0 +1,12 @@
+{
+  "id": "azurill",
+  "num": 298,
+  "name": "Azurill",
+  "url": "https://pokeapi.co/api/v2/pokemon/298",
+  "catchRate": 150,
+  "expYield": 38,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

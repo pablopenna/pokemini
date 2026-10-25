@@ -1,0 +1,12 @@
+{
+  "id": "weedle",
+  "num": 13,
+  "name": "Weedle",
+  "url": "https://pokeapi.co/api/v2/pokemon/13",
+  "catchRate": 255,
+  "expYield": 39,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

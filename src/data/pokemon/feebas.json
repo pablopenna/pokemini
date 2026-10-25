@@ -1,0 +1,12 @@
+{
+  "id": "feebas",
+  "num": 349,
+  "name": "Feebas",
+  "url": "https://pokeapi.co/api/v2/pokemon/349",
+  "catchRate": 255,
+  "expYield": 40,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

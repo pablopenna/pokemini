@@ -1,0 +1,17 @@
+{
+  "id": "jirachi",
+  "num": 385,
+  "name": "Jirachi",
+  "url": "https://pokeapi.co/api/v2/pokemon/385",
+  "catchRate": 3,
+  "expYield": 270,
+  "evYield": {
+    "hp": 3
+  },
+  "heldItems": [
+    {
+      "item": "Star Piece",
+      "rate": 100
+    }
+  ]
+}

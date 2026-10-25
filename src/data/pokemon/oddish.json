@@ -1,0 +1,12 @@
+{
+  "id": "oddish",
+  "num": 43,
+  "name": "Oddish",
+  "url": "https://pokeapi.co/api/v2/pokemon/43",
+  "catchRate": 255,
+  "expYield": 64,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

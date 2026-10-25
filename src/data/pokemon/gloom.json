@@ -1,0 +1,12 @@
+{
+  "id": "gloom",
+  "num": 44,
+  "name": "Gloom",
+  "url": "https://pokeapi.co/api/v2/pokemon/44",
+  "catchRate": 120,
+  "expYield": 138,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": []
+}

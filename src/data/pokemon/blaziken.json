@@ -1,0 +1,12 @@
+{
+  "id": "blaziken",
+  "num": 257,
+  "name": "Blaziken",
+  "url": "https://pokeapi.co/api/v2/pokemon/257",
+  "catchRate": 45,
+  "expYield": 239,
+  "evYield": {
+    "atk": 3
+  },
+  "heldItems": []
+}

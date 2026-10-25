@@ -1,0 +1,12 @@
+{
+  "id": "hitmonchan",
+  "num": 107,
+  "name": "Hitmonchan",
+  "url": "https://pokeapi.co/api/v2/pokemon/107",
+  "catchRate": 45,
+  "expYield": 159,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "wailord",
+  "num": 321,
+  "name": "Wailord",
+  "url": "https://pokeapi.co/api/v2/pokemon/321",
+  "catchRate": 60,
+  "expYield": 175,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": []
+}

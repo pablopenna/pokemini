@@ -1,0 +1,12 @@
+{
+  "id": "sandshrew",
+  "num": 27,
+  "name": "Sandshrew",
+  "url": "https://pokeapi.co/api/v2/pokemon/27",
+  "catchRate": 255,
+  "expYield": 60,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": []
+}

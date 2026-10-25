@@ -1,0 +1,17 @@
+{
+  "id": "metagross",
+  "num": 376,
+  "name": "Metagross",
+  "url": "https://pokeapi.co/api/v2/pokemon/376",
+  "catchRate": 3,
+  "expYield": 270,
+  "evYield": {
+    "def": 3
+  },
+  "heldItems": [
+    {
+      "item": "Metal Coat",
+      "rate": 5
+    }
+  ]
+}

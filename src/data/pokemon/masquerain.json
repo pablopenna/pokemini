@@ -1,0 +1,18 @@
+{
+  "id": "masquerain",
+  "num": 284,
+  "name": "Masquerain",
+  "url": "https://pokeapi.co/api/v2/pokemon/284",
+  "catchRate": 75,
+  "expYield": 159,
+  "evYield": {
+    "spa": 1,
+    "spd": 1
+  },
+  "heldItems": [
+    {
+      "item": "Silver Powder",
+      "rate": 5
+    }
+  ]
+}

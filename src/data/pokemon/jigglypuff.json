@@ -1,0 +1,17 @@
+{
+  "id": "jigglypuff",
+  "num": 39,
+  "name": "Jigglypuff",
+  "url": "https://pokeapi.co/api/v2/pokemon/39",
+  "catchRate": 170,
+  "expYield": 95,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": [
+    {
+      "item": "Oran Berry",
+      "rate": 50
+    }
+  ]
+}

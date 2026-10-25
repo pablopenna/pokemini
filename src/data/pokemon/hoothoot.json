@@ -1,0 +1,12 @@
+{
+  "id": "hoothoot",
+  "num": 163,
+  "name": "Hoothoot",
+  "url": "https://pokeapi.co/api/v2/pokemon/163",
+  "catchRate": 255,
+  "expYield": 52,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

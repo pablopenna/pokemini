@@ -1,0 +1,18 @@
+{
+  "id": "dusclops",
+  "num": 356,
+  "name": "Dusclops",
+  "url": "https://pokeapi.co/api/v2/pokemon/356",
+  "catchRate": 90,
+  "expYield": 159,
+  "evYield": {
+    "def": 1,
+    "spd": 1
+  },
+  "heldItems": [
+    {
+      "item": "Spell Tag",
+      "rate": 5
+    }
+  ]
+}

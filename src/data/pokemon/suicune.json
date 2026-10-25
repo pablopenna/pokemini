@@ -1,0 +1,13 @@
+{
+  "id": "suicune",
+  "num": 245,
+  "name": "Suicune",
+  "url": "https://pokeapi.co/api/v2/pokemon/245",
+  "catchRate": 3,
+  "expYield": 261,
+  "evYield": {
+    "def": 1,
+    "spd": 2
+  },
+  "heldItems": []
+}

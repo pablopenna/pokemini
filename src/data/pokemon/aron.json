@@ -1,0 +1,17 @@
+{
+  "id": "aron",
+  "num": 304,
+  "name": "Aron",
+  "url": "https://pokeapi.co/api/v2/pokemon/304",
+  "catchRate": 180,
+  "expYield": 66,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": [
+    {
+      "item": "Hard Stone",
+      "rate": 5
+    }
+  ]
+}

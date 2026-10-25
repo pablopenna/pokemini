@@ -1,0 +1,12 @@
+{
+  "id": "mareep",
+  "num": 179,
+  "name": "Mareep",
+  "url": "https://pokeapi.co/api/v2/pokemon/179",
+  "catchRate": 235,
+  "expYield": 56,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bagon",
+  "num": 371,
+  "name": "Bagon",
+  "url": "https://pokeapi.co/api/v2/pokemon/371",
+  "catchRate": 45,
+  "expYield": 60,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": [
+    {
+      "item": "Dragon Scale",
+      "rate": 5
+    }
+  ]
+}

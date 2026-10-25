@@ -1,0 +1,12 @@
+{
+  "id": "ariados",
+  "num": 168,
+  "name": "Ariados",
+  "url": "https://pokeapi.co/api/v2/pokemon/168",
+  "catchRate": 90,
+  "expYield": 140,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hitmonlee",
+  "num": 106,
+  "name": "Hitmonlee",
+  "url": "https://pokeapi.co/api/v2/pokemon/106",
+  "catchRate": 45,
+  "expYield": 159,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

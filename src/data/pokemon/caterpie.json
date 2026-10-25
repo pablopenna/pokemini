@@ -1,0 +1,12 @@
+{
+  "id": "caterpie",
+  "num": 10,
+  "name": "Caterpie",
+  "url": "https://pokeapi.co/api/v2/pokemon/10",
+  "catchRate": 255,
+  "expYield": 39,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gulpin",
+  "num": 316,
+  "name": "Gulpin",
+  "url": "https://pokeapi.co/api/v2/pokemon/316",
+  "catchRate": 225,
+  "expYield": 60,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": [
+    {
+      "item": "Big Pearl",
+      "rate": 5
+    }
+  ]
+}

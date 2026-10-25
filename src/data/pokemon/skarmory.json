@@ -1,0 +1,17 @@
+{
+  "id": "skarmory",
+  "num": 227,
+  "name": "Skarmory",
+  "url": "https://pokeapi.co/api/v2/pokemon/227",
+  "catchRate": 25,
+  "expYield": 163,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": [
+    {
+      "item": "Sharp Beak",
+      "rate": 5
+    }
+  ]
+}

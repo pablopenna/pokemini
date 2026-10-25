@@ -1,0 +1,12 @@
+{
+  "id": "ralts",
+  "num": 280,
+  "name": "Ralts",
+  "url": "https://pokeapi.co/api/v2/pokemon/280",
+  "catchRate": 235,
+  "expYield": 40,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

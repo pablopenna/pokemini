@@ -1,0 +1,12 @@
+{
+  "id": "cascoon",
+  "num": 268,
+  "name": "Cascoon",
+  "url": "https://pokeapi.co/api/v2/pokemon/268",
+  "catchRate": 120,
+  "expYield": 72,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": []
+}

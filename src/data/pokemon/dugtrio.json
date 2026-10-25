@@ -1,0 +1,12 @@
+{
+  "id": "dugtrio",
+  "num": 51,
+  "name": "Dugtrio",
+  "url": "https://pokeapi.co/api/v2/pokemon/51",
+  "catchRate": 50,
+  "expYield": 149,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

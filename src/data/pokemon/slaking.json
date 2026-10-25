@@ -1,0 +1,12 @@
+{
+  "id": "slaking",
+  "num": 289,
+  "name": "Slaking",
+  "url": "https://pokeapi.co/api/v2/pokemon/289",
+  "catchRate": 45,
+  "expYield": 252,
+  "evYield": {
+    "hp": 3
+  },
+  "heldItems": []
+}

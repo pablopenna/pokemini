@@ -1,0 +1,12 @@
+{
+  "id": "spinarak",
+  "num": 167,
+  "name": "Spinarak",
+  "url": "https://pokeapi.co/api/v2/pokemon/167",
+  "catchRate": 255,
+  "expYield": 50,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tyranitar",
+  "num": 248,
+  "name": "Tyranitar",
+  "url": "https://pokeapi.co/api/v2/pokemon/248",
+  "catchRate": 45,
+  "expYield": 270,
+  "evYield": {
+    "atk": 3
+  },
+  "heldItems": []
+}

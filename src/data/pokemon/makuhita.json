@@ -1,0 +1,12 @@
+{
+  "id": "makuhita",
+  "num": 296,
+  "name": "Makuhita",
+  "url": "https://pokeapi.co/api/v2/pokemon/296",
+  "catchRate": 180,
+  "expYield": 47,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

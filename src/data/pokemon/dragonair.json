@@ -1,0 +1,17 @@
+{
+  "id": "dragonair",
+  "num": 148,
+  "name": "Dragonair",
+  "url": "https://pokeapi.co/api/v2/pokemon/148",
+  "catchRate": 45,
+  "expYield": 147,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": [
+    {
+      "item": "Dragon Fang",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "taillow",
+  "num": 276,
+  "name": "Taillow",
+  "url": "https://pokeapi.co/api/v2/pokemon/276",
+  "catchRate": 200,
+  "expYield": 54,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

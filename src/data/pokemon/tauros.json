@@ -1,0 +1,13 @@
+{
+  "id": "tauros",
+  "num": 128,
+  "name": "Tauros",
+  "url": "https://pokeapi.co/api/v2/pokemon/128",
+  "catchRate": 45,
+  "expYield": 172,
+  "evYield": {
+    "atk": 1,
+    "spe": 1
+  },
+  "heldItems": []
+}

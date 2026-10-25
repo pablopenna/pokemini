@@ -1,0 +1,12 @@
+{
+  "id": "granbull",
+  "num": 210,
+  "name": "Granbull",
+  "url": "https://pokeapi.co/api/v2/pokemon/210",
+  "catchRate": 75,
+  "expYield": 158,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

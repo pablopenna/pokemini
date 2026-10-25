@@ -1,0 +1,13 @@
+{
+  "id": "feraligatr",
+  "num": 160,
+  "name": "Feraligatr",
+  "url": "https://pokeapi.co/api/v2/pokemon/160",
+  "catchRate": 45,
+  "expYield": 239,
+  "evYield": {
+    "atk": 2,
+    "def": 1
+  },
+  "heldItems": []
+}

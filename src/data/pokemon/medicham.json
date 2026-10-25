@@ -1,0 +1,12 @@
+{
+  "id": "medicham",
+  "num": 308,
+  "name": "Medicham",
+  "url": "https://pokeapi.co/api/v2/pokemon/308",
+  "catchRate": 90,
+  "expYield": 144,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dratini",
+  "num": 147,
+  "name": "Dratini",
+  "url": "https://pokeapi.co/api/v2/pokemon/147",
+  "catchRate": 45,
+  "expYield": 60,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

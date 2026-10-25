@@ -1,0 +1,17 @@
+{
+  "id": "meowth",
+  "num": 52,
+  "name": "Meowth",
+  "url": "https://pokeapi.co/api/v2/pokemon/52",
+  "catchRate": 255,
+  "expYield": 58,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": [
+    {
+      "item": "Nugget",
+      "rate": 5
+    }
+  ]
+}

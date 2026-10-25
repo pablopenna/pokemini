@@ -1,0 +1,22 @@
+{
+  "id": "piloswine",
+  "num": 221,
+  "name": "Piloswine",
+  "url": "https://pokeapi.co/api/v2/pokemon/221",
+  "catchRate": 75,
+  "expYield": 158,
+  "evYield": {
+    "hp": 1,
+    "atk": 1
+  },
+  "heldItems": [
+    {
+      "item": "Aspear Berry",
+      "rate": 50
+    },
+    {
+      "item": "Never Melt Ice",
+      "rate": 5
+    }
+  ]
+}

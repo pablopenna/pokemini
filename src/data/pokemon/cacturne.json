@@ -1,0 +1,18 @@
+{
+  "id": "cacturne",
+  "num": 332,
+  "name": "Cacturne",
+  "url": "https://pokeapi.co/api/v2/pokemon/332",
+  "catchRate": 60,
+  "expYield": 166,
+  "evYield": {
+    "atk": 1,
+    "spa": 1
+  },
+  "heldItems": [
+    {
+      "item": "Poison Barb",
+      "rate": 5
+    }
+  ]
+}

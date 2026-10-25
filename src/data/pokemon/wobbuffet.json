@@ -1,0 +1,12 @@
+{
+  "id": "wobbuffet",
+  "num": 202,
+  "name": "Wobbuffet",
+  "url": "https://pokeapi.co/api/v2/pokemon/202",
+  "catchRate": 45,
+  "expYield": 142,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": []
+}

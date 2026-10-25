@@ -1,0 +1,12 @@
+{
+  "id": "yanma",
+  "num": 193,
+  "name": "Yanma",
+  "url": "https://pokeapi.co/api/v2/pokemon/193",
+  "catchRate": 75,
+  "expYield": 78,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

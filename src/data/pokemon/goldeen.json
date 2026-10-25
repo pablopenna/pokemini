@@ -1,0 +1,12 @@
+{
+  "id": "goldeen",
+  "num": 118,
+  "name": "Goldeen",
+  "url": "https://pokeapi.co/api/v2/pokemon/118",
+  "catchRate": 225,
+  "expYield": 64,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

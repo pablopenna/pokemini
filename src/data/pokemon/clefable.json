@@ -1,0 +1,17 @@
+{
+  "id": "clefable",
+  "num": 36,
+  "name": "Clefable",
+  "url": "https://pokeapi.co/api/v2/pokemon/36",
+  "catchRate": 25,
+  "expYield": 217,
+  "evYield": {
+    "hp": 3
+  },
+  "heldItems": [
+    {
+      "item": "Moon Stone",
+      "rate": 5
+    }
+  ]
+}

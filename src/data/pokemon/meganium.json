@@ -1,0 +1,13 @@
+{
+  "id": "meganium",
+  "num": 154,
+  "name": "Meganium",
+  "url": "https://pokeapi.co/api/v2/pokemon/154",
+  "catchRate": 45,
+  "expYield": 236,
+  "evYield": {
+    "def": 1,
+    "spd": 2
+  },
+  "heldItems": []
+}

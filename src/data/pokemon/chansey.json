@@ -1,0 +1,17 @@
+{
+  "id": "chansey",
+  "num": 113,
+  "name": "Chansey",
+  "url": "https://pokeapi.co/api/v2/pokemon/113",
+  "catchRate": 30,
+  "expYield": 395,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": [
+    {
+      "item": "Lucky Egg",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "chikorita",
+  "num": 152,
+  "name": "Chikorita",
+  "url": "https://pokeapi.co/api/v2/pokemon/152",
+  "catchRate": 45,
+  "expYield": 64,
+  "evYield": {
+    "spd": 1
+  },
+  "heldItems": [
+    {
+      "item": "Lum Berry",
+      "rate": 100
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "golem",
+  "num": 76,
+  "name": "Golem",
+  "url": "https://pokeapi.co/api/v2/pokemon/76",
+  "catchRate": 45,
+  "expYield": 223,
+  "evYield": {
+    "def": 3
+  },
+  "heldItems": [
+    {
+      "item": "Hard Stone",
+      "rate": 5
+    }
+  ]
+}

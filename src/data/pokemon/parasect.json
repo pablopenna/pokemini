@@ -1,0 +1,22 @@
+{
+  "id": "parasect",
+  "num": 47,
+  "name": "Parasect",
+  "url": "https://pokeapi.co/api/v2/pokemon/47",
+  "catchRate": 75,
+  "expYield": 142,
+  "evYield": {
+    "atk": 2,
+    "def": 1
+  },
+  "heldItems": [
+    {
+      "item": "Tiny Mushroom",
+      "rate": 50
+    },
+    {
+      "item": "Big Mushroom",
+      "rate": 5
+    }
+  ]
+}

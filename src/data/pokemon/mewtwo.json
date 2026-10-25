@@ -1,0 +1,12 @@
+{
+  "id": "mewtwo",
+  "num": 150,
+  "name": "Mewtwo",
+  "url": "https://pokeapi.co/api/v2/pokemon/150",
+  "catchRate": 3,
+  "expYield": 306,
+  "evYield": {
+    "spa": 3
+  },
+  "heldItems": []
+}

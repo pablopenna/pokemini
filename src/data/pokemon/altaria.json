@@ -1,0 +1,12 @@
+{
+  "id": "altaria",
+  "num": 334,
+  "name": "Altaria",
+  "url": "https://pokeapi.co/api/v2/pokemon/334",
+  "catchRate": 45,
+  "expYield": 172,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": []
+}

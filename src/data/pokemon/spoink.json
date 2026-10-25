@@ -1,0 +1,12 @@
+{
+  "id": "spoink",
+  "num": 325,
+  "name": "Spoink",
+  "url": "https://pokeapi.co/api/v2/pokemon/325",
+  "catchRate": 255,
+  "expYield": 66,
+  "evYield": {
+    "spd": 1
+  },
+  "heldItems": []
+}

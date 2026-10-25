@@ -1,0 +1,12 @@
+{
+  "id": "noctowl",
+  "num": 164,
+  "name": "Noctowl",
+  "url": "https://pokeapi.co/api/v2/pokemon/164",
+  "catchRate": 90,
+  "expYield": 158,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": []
+}

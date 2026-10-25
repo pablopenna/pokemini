@@ -1,0 +1,12 @@
+{
+  "id": "carvanha",
+  "num": 318,
+  "name": "Carvanha",
+  "url": "https://pokeapi.co/api/v2/pokemon/318",
+  "catchRate": 225,
+  "expYield": 61,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

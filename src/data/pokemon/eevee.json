@@ -1,0 +1,12 @@
+{
+  "id": "eevee",
+  "num": 133,
+  "name": "Eevee",
+  "url": "https://pokeapi.co/api/v2/pokemon/133",
+  "catchRate": 45,
+  "expYield": 65,
+  "evYield": {
+    "spd": 1
+  },
+  "heldItems": []
+}

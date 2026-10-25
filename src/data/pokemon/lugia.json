@@ -1,0 +1,12 @@
+{
+  "id": "lugia",
+  "num": 249,
+  "name": "Lugia",
+  "url": "https://pokeapi.co/api/v2/pokemon/249",
+  "catchRate": 3,
+  "expYield": 306,
+  "evYield": {
+    "spd": 3
+  },
+  "heldItems": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "butterfree",
+  "num": 12,
+  "name": "Butterfree",
+  "url": "https://pokeapi.co/api/v2/pokemon/12",
+  "catchRate": 45,
+  "expYield": 178,
+  "evYield": {
+    "spa": 2,
+    "spd": 1
+  },
+  "heldItems": [
+    {
+      "item": "Silver Powder",
+      "rate": 5
+    }
+  ]
+}

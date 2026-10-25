@@ -1,0 +1,12 @@
+{
+  "id": "barboach",
+  "num": 339,
+  "name": "Barboach",
+  "url": "https://pokeapi.co/api/v2/pokemon/339",
+  "catchRate": 190,
+  "expYield": 58,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

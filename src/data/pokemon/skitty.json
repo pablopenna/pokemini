@@ -1,0 +1,17 @@
+{
+  "id": "skitty",
+  "num": 300,
+  "name": "Skitty",
+  "url": "https://pokeapi.co/api/v2/pokemon/300",
+  "catchRate": 255,
+  "expYield": 52,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": [
+    {
+      "item": "Leppa Berry",
+      "rate": 5
+    }
+  ]
+}

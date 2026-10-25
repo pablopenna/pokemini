@@ -1,0 +1,12 @@
+{
+  "id": "mantine",
+  "num": 226,
+  "name": "Mantine",
+  "url": "https://pokeapi.co/api/v2/pokemon/226",
+  "catchRate": 25,
+  "expYield": 170,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": []
+}

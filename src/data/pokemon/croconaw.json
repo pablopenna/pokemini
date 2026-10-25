@@ -1,0 +1,13 @@
+{
+  "id": "croconaw",
+  "num": 159,
+  "name": "Croconaw",
+  "url": "https://pokeapi.co/api/v2/pokemon/159",
+  "catchRate": 45,
+  "expYield": 142,
+  "evYield": {
+    "atk": 1,
+    "def": 1
+  },
+  "heldItems": []
+}

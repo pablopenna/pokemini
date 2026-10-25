@@ -1,0 +1,17 @@
+{
+  "id": "cleffa",
+  "num": 173,
+  "name": "Cleffa",
+  "url": "https://pokeapi.co/api/v2/pokemon/173",
+  "catchRate": 150,
+  "expYield": 44,
+  "evYield": {
+    "spd": 1
+  },
+  "heldItems": [
+    {
+      "item": "Moon Stone",
+      "rate": 5
+    }
+  ]
+}

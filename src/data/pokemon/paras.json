@@ -1,0 +1,21 @@
+{
+  "id": "paras",
+  "num": 46,
+  "name": "Paras",
+  "url": "https://pokeapi.co/api/v2/pokemon/46",
+  "catchRate": 190,
+  "expYield": 57,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": [
+    {
+      "item": "Tiny Mushroom",
+      "rate": 50
+    },
+    {
+      "item": "Big Mushroom",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "abra",
+  "num": 63,
+  "name": "Abra",
+  "url": "https://pokeapi.co/api/v2/pokemon/63",
+  "catchRate": 200,
+  "expYield": 62,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": [
+    {
+      "item": "Twisted Spoon",
+      "rate": 5
+    }
+  ]
+}

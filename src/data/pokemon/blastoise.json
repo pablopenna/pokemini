@@ -1,0 +1,12 @@
+{
+  "id": "blastoise",
+  "num": 9,
+  "name": "Blastoise",
+  "url": "https://pokeapi.co/api/v2/pokemon/9",
+  "catchRate": 45,
+  "expYield": 239,
+  "evYield": {
+    "spd": 3
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "kingler",
+  "num": 99,
+  "name": "Kingler",
+  "url": "https://pokeapi.co/api/v2/pokemon/99",
+  "catchRate": 60,
+  "expYield": 166,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

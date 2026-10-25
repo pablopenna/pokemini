@@ -1,0 +1,13 @@
+{
+  "id": "combusken",
+  "num": 256,
+  "name": "Combusken",
+  "url": "https://pokeapi.co/api/v2/pokemon/256",
+  "catchRate": 45,
+  "expYield": 142,
+  "evYield": {
+    "atk": 1,
+    "spa": 1
+  },
+  "heldItems": []
+}

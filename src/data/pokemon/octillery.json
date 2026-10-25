@@ -1,0 +1,13 @@
+{
+  "id": "octillery",
+  "num": 224,
+  "name": "Octillery",
+  "url": "https://pokeapi.co/api/v2/pokemon/224",
+  "catchRate": 75,
+  "expYield": 168,
+  "evYield": {
+    "atk": 1,
+    "spa": 1
+  },
+  "heldItems": []
+}

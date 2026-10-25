@@ -1,0 +1,12 @@
+{
+  "id": "rhydon",
+  "num": 112,
+  "name": "Rhydon",
+  "url": "https://pokeapi.co/api/v2/pokemon/112",
+  "catchRate": 60,
+  "expYield": 170,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

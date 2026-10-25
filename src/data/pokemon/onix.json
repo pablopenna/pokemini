@@ -1,0 +1,17 @@
+{
+  "id": "onix",
+  "num": 95,
+  "name": "Onix",
+  "url": "https://pokeapi.co/api/v2/pokemon/95",
+  "catchRate": 45,
+  "expYield": 77,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": [
+    {
+      "item": "Hard Stone",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ninjask",
+  "num": 291,
+  "name": "Ninjask",
+  "url": "https://pokeapi.co/api/v2/pokemon/291",
+  "catchRate": 120,
+  "expYield": 160,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

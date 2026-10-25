@@ -1,0 +1,13 @@
+{
+  "id": "seviper",
+  "num": 336,
+  "name": "Seviper",
+  "url": "https://pokeapi.co/api/v2/pokemon/336",
+  "catchRate": 90,
+  "expYield": 160,
+  "evYield": {
+    "atk": 1,
+    "spa": 1
+  },
+  "heldItems": []
+}

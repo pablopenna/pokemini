@@ -1,0 +1,17 @@
+{
+  "id": "machamp",
+  "num": 68,
+  "name": "Machamp",
+  "url": "https://pokeapi.co/api/v2/pokemon/68",
+  "catchRate": 45,
+  "expYield": 227,
+  "evYield": {
+    "atk": 3
+  },
+  "heldItems": [
+    {
+      "item": "Focus Band",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "dodrio",
+  "num": 85,
+  "name": "Dodrio",
+  "url": "https://pokeapi.co/api/v2/pokemon/85",
+  "catchRate": 45,
+  "expYield": 165,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": [
+    {
+      "item": "Sharp Beak",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pidgeotto",
+  "num": 17,
+  "name": "Pidgeotto",
+  "url": "https://pokeapi.co/api/v2/pokemon/17",
+  "catchRate": 120,
+  "expYield": 122,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

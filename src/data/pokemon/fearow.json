@@ -1,0 +1,17 @@
+{
+  "id": "fearow",
+  "num": 22,
+  "name": "Fearow",
+  "url": "https://pokeapi.co/api/v2/pokemon/22",
+  "catchRate": 90,
+  "expYield": 155,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": [
+    {
+      "item": "Sharp Beak",
+      "rate": 5
+    }
+  ]
+}

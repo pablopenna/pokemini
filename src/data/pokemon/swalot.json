@@ -1,0 +1,17 @@
+{
+  "id": "swalot",
+  "num": 317,
+  "name": "Swalot",
+  "url": "https://pokeapi.co/api/v2/pokemon/317",
+  "catchRate": 75,
+  "expYield": 163,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": [
+    {
+      "item": "Big Pearl",
+      "rate": 5
+    }
+  ]
+}

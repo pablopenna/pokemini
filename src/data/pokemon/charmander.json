@@ -1,0 +1,12 @@
+{
+  "id": "charmander",
+  "num": 4,
+  "name": "Charmander",
+  "url": "https://pokeapi.co/api/v2/pokemon/4",
+  "catchRate": 45,
+  "expYield": 62,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

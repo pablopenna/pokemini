@@ -1,0 +1,12 @@
+{
+  "id": "silcoon",
+  "num": 266,
+  "name": "Silcoon",
+  "url": "https://pokeapi.co/api/v2/pokemon/266",
+  "catchRate": 120,
+  "expYield": 72,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": []
+}

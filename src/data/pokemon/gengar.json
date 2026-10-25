@@ -1,0 +1,17 @@
+{
+  "id": "gengar",
+  "num": 94,
+  "name": "Gengar",
+  "url": "https://pokeapi.co/api/v2/pokemon/94",
+  "catchRate": 45,
+  "expYield": 225,
+  "evYield": {
+    "spa": 3
+  },
+  "heldItems": [
+    {
+      "item": "Spell Tag",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "nosepass",
+  "num": 299,
+  "name": "Nosepass",
+  "url": "https://pokeapi.co/api/v2/pokemon/299",
+  "catchRate": 255,
+  "expYield": 75,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hitmontop",
+  "num": 237,
+  "name": "Hitmontop",
+  "url": "https://pokeapi.co/api/v2/pokemon/237",
+  "catchRate": 45,
+  "expYield": 159,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": []
+}

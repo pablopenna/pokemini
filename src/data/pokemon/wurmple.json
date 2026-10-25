@@ -1,0 +1,12 @@
+{
+  "id": "wurmple",
+  "num": 265,
+  "name": "Wurmple",
+  "url": "https://pokeapi.co/api/v2/pokemon/265",
+  "catchRate": 255,
+  "expYield": 56,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

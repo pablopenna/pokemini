@@ -1,0 +1,12 @@
+{
+  "id": "nidoqueen",
+  "num": 31,
+  "name": "Nidoqueen",
+  "url": "https://pokeapi.co/api/v2/pokemon/31",
+  "catchRate": 45,
+  "expYield": 227,
+  "evYield": {
+    "hp": 3
+  },
+  "heldItems": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "wigglytuff",
+  "num": 40,
+  "name": "Wigglytuff",
+  "url": "https://pokeapi.co/api/v2/pokemon/40",
+  "catchRate": 50,
+  "expYield": 196,
+  "evYield": {
+    "hp": 3
+  },
+  "heldItems": [
+    {
+      "item": "Oran Berry",
+      "rate": 50
+    }
+  ]
+}

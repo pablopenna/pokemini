@@ -1,0 +1,18 @@
+{
+  "id": "beedrill",
+  "num": 15,
+  "name": "Beedrill",
+  "url": "https://pokeapi.co/api/v2/pokemon/15",
+  "catchRate": 45,
+  "expYield": 178,
+  "evYield": {
+    "atk": 2,
+    "spd": 1
+  },
+  "heldItems": [
+    {
+      "item": "Poison Barb",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "castform",
+  "num": 351,
+  "name": "Castform",
+  "url": "https://pokeapi.co/api/v2/pokemon/351",
+  "catchRate": 45,
+  "expYield": 147,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": [
+    {
+      "item": "Mystic Water",
+      "rate": 100
+    }
+  ]
+}

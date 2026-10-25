@@ -1,0 +1,13 @@
+{
+  "id": "bayleef",
+  "num": 153,
+  "name": "Bayleef",
+  "url": "https://pokeapi.co/api/v2/pokemon/153",
+  "catchRate": 45,
+  "expYield": 142,
+  "evYield": {
+    "def": 1,
+    "spd": 1
+  },
+  "heldItems": []
+}

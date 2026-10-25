@@ -1,0 +1,12 @@
+{
+  "id": "hooh",
+  "num": 250,
+  "name": "Ho-Oh",
+  "url": "https://pokeapi.co/api/v2/pokemon/250",
+  "catchRate": 3,
+  "expYield": 306,
+  "evYield": {
+    "spd": 3
+  },
+  "heldItems": []
+}

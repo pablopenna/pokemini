@@ -1,0 +1,12 @@
+{
+  "id": "houndour",
+  "num": 228,
+  "name": "Houndour",
+  "url": "https://pokeapi.co/api/v2/pokemon/228",
+  "catchRate": 120,
+  "expYield": 66,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

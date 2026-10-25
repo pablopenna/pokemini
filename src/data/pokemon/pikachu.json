@@ -1,0 +1,12 @@
+{
+  "id": "pikachu",
+  "num": 25,
+  "name": "Pikachu",
+  "url": "https://pokeapi.co/api/v2/pokemon/25",
+  "catchRate": 190,
+  "expYield": 112,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

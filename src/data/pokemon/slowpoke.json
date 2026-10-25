@@ -1,0 +1,12 @@
+{
+  "id": "slowpoke",
+  "num": 79,
+  "name": "Slowpoke",
+  "url": "https://pokeapi.co/api/v2/pokemon/79",
+  "catchRate": 190,
+  "expYield": 63,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

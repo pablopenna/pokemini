@@ -1,0 +1,12 @@
+{
+  "id": "spheal",
+  "num": 363,
+  "name": "Spheal",
+  "url": "https://pokeapi.co/api/v2/pokemon/363",
+  "catchRate": 255,
+  "expYield": 58,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

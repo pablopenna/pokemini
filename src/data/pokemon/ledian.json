@@ -1,0 +1,12 @@
+{
+  "id": "ledian",
+  "num": 166,
+  "name": "Ledian",
+  "url": "https://pokeapi.co/api/v2/pokemon/166",
+  "catchRate": 90,
+  "expYield": 137,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": []
+}

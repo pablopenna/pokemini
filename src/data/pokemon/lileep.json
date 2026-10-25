@@ -1,0 +1,12 @@
+{
+  "id": "lileep",
+  "num": 345,
+  "name": "Lileep",
+  "url": "https://pokeapi.co/api/v2/pokemon/345",
+  "catchRate": 45,
+  "expYield": 71,
+  "evYield": {
+    "spd": 1
+  },
+  "heldItems": []
+}

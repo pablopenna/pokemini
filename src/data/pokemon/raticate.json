@@ -1,0 +1,21 @@
+{
+  "id": "raticate",
+  "num": 20,
+  "name": "Raticate",
+  "url": "https://pokeapi.co/api/v2/pokemon/20",
+  "catchRate": 127,
+  "expYield": 145,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": [
+    {
+      "item": "Oran Berry",
+      "rate": 50
+    },
+    {
+      "item": "Sitrus Berry",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lapras",
+  "num": 131,
+  "name": "Lapras",
+  "url": "https://pokeapi.co/api/v2/pokemon/131",
+  "catchRate": 45,
+  "expYield": 187,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": []
+}

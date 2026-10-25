@@ -1,0 +1,13 @@
+{
+  "id": "ivysaur",
+  "num": 2,
+  "name": "Ivysaur",
+  "url": "https://pokeapi.co/api/v2/pokemon/2",
+  "catchRate": 45,
+  "expYield": 142,
+  "evYield": {
+    "spa": 1,
+    "spd": 1
+  },
+  "heldItems": []
+}

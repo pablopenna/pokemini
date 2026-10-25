@@ -1,0 +1,12 @@
+{
+  "id": "tentacool",
+  "num": 72,
+  "name": "Tentacool",
+  "url": "https://pokeapi.co/api/v2/pokemon/72",
+  "catchRate": 190,
+  "expYield": 67,
+  "evYield": {
+    "spd": 1
+  },
+  "heldItems": []
+}

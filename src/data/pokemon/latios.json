@@ -1,0 +1,12 @@
+{
+  "id": "latios",
+  "num": 381,
+  "name": "Latios",
+  "url": "https://pokeapi.co/api/v2/pokemon/381",
+  "catchRate": 3,
+  "expYield": 270,
+  "evYield": {
+    "spa": 3
+  },
+  "heldItems": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "aggron",
+  "num": 306,
+  "name": "Aggron",
+  "url": "https://pokeapi.co/api/v2/pokemon/306",
+  "catchRate": 45,
+  "expYield": 239,
+  "evYield": {
+    "def": 3
+  },
+  "heldItems": [
+    {
+      "item": "Hard Stone",
+      "rate": 5
+    }
+  ]
+}

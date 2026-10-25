@@ -1,0 +1,12 @@
+{
+  "id": "qwilfish",
+  "num": 211,
+  "name": "Qwilfish",
+  "url": "https://pokeapi.co/api/v2/pokemon/211",
+  "catchRate": 45,
+  "expYield": 88,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

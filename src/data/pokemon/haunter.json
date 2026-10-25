@@ -1,0 +1,17 @@
+{
+  "id": "haunter",
+  "num": 93,
+  "name": "Haunter",
+  "url": "https://pokeapi.co/api/v2/pokemon/93",
+  "catchRate": 90,
+  "expYield": 142,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": [
+    {
+      "item": "Spell Tag",
+      "rate": 5
+    }
+  ]
+}

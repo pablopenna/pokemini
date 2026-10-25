@@ -1,0 +1,12 @@
+{
+  "id": "shiftry",
+  "num": 275,
+  "name": "Shiftry",
+  "url": "https://pokeapi.co/api/v2/pokemon/275",
+  "catchRate": 45,
+  "expYield": 216,
+  "evYield": {
+    "atk": 3
+  },
+  "heldItems": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "swinub",
+  "num": 220,
+  "name": "Swinub",
+  "url": "https://pokeapi.co/api/v2/pokemon/220",
+  "catchRate": 225,
+  "expYield": 50,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": [
+    {
+      "item": "Aspear Berry",
+      "rate": 50
+    }
+  ]
+}

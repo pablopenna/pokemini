@@ -1,0 +1,12 @@
+{
+  "id": "pidgey",
+  "num": 16,
+  "name": "Pidgey",
+  "url": "https://pokeapi.co/api/v2/pokemon/16",
+  "catchRate": 255,
+  "expYield": 50,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

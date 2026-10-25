@@ -1,0 +1,12 @@
+{
+  "id": "jynx",
+  "num": 124,
+  "name": "Jynx",
+  "url": "https://pokeapi.co/api/v2/pokemon/124",
+  "catchRate": 45,
+  "expYield": 159,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": []
+}

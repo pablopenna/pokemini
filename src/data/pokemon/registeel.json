@@ -1,0 +1,13 @@
+{
+  "id": "registeel",
+  "num": 379,
+  "name": "Registeel",
+  "url": "https://pokeapi.co/api/v2/pokemon/379",
+  "catchRate": 3,
+  "expYield": 261,
+  "evYield": {
+    "def": 2,
+    "spd": 1
+  },
+  "heldItems": []
+}

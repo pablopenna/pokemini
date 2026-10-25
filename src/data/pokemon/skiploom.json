@@ -1,0 +1,12 @@
+{
+  "id": "skiploom",
+  "num": 188,
+  "name": "Skiploom",
+  "url": "https://pokeapi.co/api/v2/pokemon/188",
+  "catchRate": 120,
+  "expYield": 119,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

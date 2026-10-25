@@ -1,0 +1,12 @@
+{
+  "id": "zubat",
+  "num": 41,
+  "name": "Zubat",
+  "url": "https://pokeapi.co/api/v2/pokemon/41",
+  "catchRate": 255,
+  "expYield": 49,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

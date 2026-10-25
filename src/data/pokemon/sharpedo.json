@@ -1,0 +1,12 @@
+{
+  "id": "sharpedo",
+  "num": 319,
+  "name": "Sharpedo",
+  "url": "https://pokeapi.co/api/v2/pokemon/319",
+  "catchRate": 60,
+  "expYield": 161,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

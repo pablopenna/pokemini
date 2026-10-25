@@ -1,0 +1,12 @@
+{
+  "id": "pelipper",
+  "num": 279,
+  "name": "Pelipper",
+  "url": "https://pokeapi.co/api/v2/pokemon/279",
+  "catchRate": 45,
+  "expYield": 154,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": []
+}

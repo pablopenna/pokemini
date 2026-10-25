@@ -1,0 +1,12 @@
+{
+  "id": "nidoking",
+  "num": 34,
+  "name": "Nidoking",
+  "url": "https://pokeapi.co/api/v2/pokemon/34",
+  "catchRate": 45,
+  "expYield": 227,
+  "evYield": {
+    "atk": 3
+  },
+  "heldItems": []
+}

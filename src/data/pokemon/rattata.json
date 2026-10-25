@@ -1,0 +1,12 @@
+{
+  "id": "rattata",
+  "num": 19,
+  "name": "Rattata",
+  "url": "https://pokeapi.co/api/v2/pokemon/19",
+  "catchRate": 255,
+  "expYield": 51,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

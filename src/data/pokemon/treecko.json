@@ -1,0 +1,12 @@
+{
+  "id": "treecko",
+  "num": 252,
+  "name": "Treecko",
+  "url": "https://pokeapi.co/api/v2/pokemon/252",
+  "catchRate": 45,
+  "expYield": 62,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "nuzleaf",
+  "num": 274,
+  "name": "Nuzleaf",
+  "url": "https://pokeapi.co/api/v2/pokemon/274",
+  "catchRate": 120,
+  "expYield": 119,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

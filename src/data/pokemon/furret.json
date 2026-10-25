@@ -1,0 +1,21 @@
+{
+  "id": "furret",
+  "num": 162,
+  "name": "Furret",
+  "url": "https://pokeapi.co/api/v2/pokemon/162",
+  "catchRate": 90,
+  "expYield": 145,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": [
+    {
+      "item": "Oran Berry",
+      "rate": 50
+    },
+    {
+      "item": "Sitrus Berry",
+      "rate": 5
+    }
+  ]
+}

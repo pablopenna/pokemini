@@ -1,0 +1,18 @@
+{
+  "id": "corsola",
+  "num": 222,
+  "name": "Corsola",
+  "url": "https://pokeapi.co/api/v2/pokemon/222",
+  "catchRate": 60,
+  "expYield": 144,
+  "evYield": {
+    "def": 1,
+    "spd": 1
+  },
+  "heldItems": [
+    {
+      "item": "Red Shard",
+      "rate": 5
+    }
+  ]
+}

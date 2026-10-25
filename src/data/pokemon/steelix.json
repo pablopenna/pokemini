@@ -1,0 +1,17 @@
+{
+  "id": "steelix",
+  "num": 208,
+  "name": "Steelix",
+  "url": "https://pokeapi.co/api/v2/pokemon/208",
+  "catchRate": 25,
+  "expYield": 179,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": [
+    {
+      "item": "Metal Coat",
+      "rate": 5
+    }
+  ]
+}

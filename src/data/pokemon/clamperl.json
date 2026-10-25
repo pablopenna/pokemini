@@ -1,0 +1,17 @@
+{
+  "id": "clamperl",
+  "num": 366,
+  "name": "Clamperl",
+  "url": "https://pokeapi.co/api/v2/pokemon/366",
+  "catchRate": 255,
+  "expYield": 69,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": [
+    {
+      "item": "Blue Shard",
+      "rate": 5
+    }
+  ]
+}

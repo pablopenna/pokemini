@@ -1,0 +1,12 @@
+{
+  "id": "squirtle",
+  "num": 7,
+  "name": "Squirtle",
+  "url": "https://pokeapi.co/api/v2/pokemon/7",
+  "catchRate": 45,
+  "expYield": 63,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": []
+}

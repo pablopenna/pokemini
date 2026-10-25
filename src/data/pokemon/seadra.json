@@ -1,0 +1,13 @@
+{
+  "id": "seadra",
+  "num": 117,
+  "name": "Seadra",
+  "url": "https://pokeapi.co/api/v2/pokemon/117",
+  "catchRate": 75,
+  "expYield": 154,
+  "evYield": {
+    "def": 1,
+    "spa": 1
+  },
+  "heldItems": []
+}

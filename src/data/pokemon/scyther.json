@@ -1,0 +1,12 @@
+{
+  "id": "scyther",
+  "num": 123,
+  "name": "Scyther",
+  "url": "https://pokeapi.co/api/v2/pokemon/123",
+  "catchRate": 45,
+  "expYield": 100,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "porygon2",
+  "num": 233,
+  "name": "Porygon2",
+  "url": "https://pokeapi.co/api/v2/pokemon/233",
+  "catchRate": 45,
+  "expYield": 180,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": [
+    {
+      "item": "Up Grade",
+      "rate": 100
+    }
+  ]
+}

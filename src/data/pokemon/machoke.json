@@ -1,0 +1,17 @@
+{
+  "id": "machoke",
+  "num": 67,
+  "name": "Machoke",
+  "url": "https://pokeapi.co/api/v2/pokemon/67",
+  "catchRate": 90,
+  "expYield": 142,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": [
+    {
+      "item": "Focus Band",
+      "rate": 5
+    }
+  ]
+}

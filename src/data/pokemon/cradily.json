@@ -1,0 +1,12 @@
+{
+  "id": "cradily",
+  "num": 346,
+  "name": "Cradily",
+  "url": "https://pokeapi.co/api/v2/pokemon/346",
+  "catchRate": 45,
+  "expYield": 173,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "nincada",
+  "num": 290,
+  "name": "Nincada",
+  "url": "https://pokeapi.co/api/v2/pokemon/290",
+  "catchRate": 255,
+  "expYield": 53,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": []
+}

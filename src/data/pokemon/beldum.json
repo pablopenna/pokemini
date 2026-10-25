@@ -1,0 +1,17 @@
+{
+  "id": "beldum",
+  "num": 374,
+  "name": "Beldum",
+  "url": "https://pokeapi.co/api/v2/pokemon/374",
+  "catchRate": 3,
+  "expYield": 60,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": [
+    {
+      "item": "Metal Coat",
+      "rate": 5
+    }
+  ]
+}

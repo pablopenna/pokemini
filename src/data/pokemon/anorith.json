@@ -1,0 +1,12 @@
+{
+  "id": "anorith",
+  "num": 347,
+  "name": "Anorith",
+  "url": "https://pokeapi.co/api/v2/pokemon/347",
+  "catchRate": 45,
+  "expYield": 71,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tangela",
+  "num": 114,
+  "name": "Tangela",
+  "url": "https://pokeapi.co/api/v2/pokemon/114",
+  "catchRate": 45,
+  "expYield": 87,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": []
+}

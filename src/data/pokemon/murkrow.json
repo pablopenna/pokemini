@@ -1,0 +1,12 @@
+{
+  "id": "murkrow",
+  "num": 198,
+  "name": "Murkrow",
+  "url": "https://pokeapi.co/api/v2/pokemon/198",
+  "catchRate": 30,
+  "expYield": 81,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

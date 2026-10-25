@@ -1,0 +1,12 @@
+{
+  "id": "gligar",
+  "num": 207,
+  "name": "Gligar",
+  "url": "https://pokeapi.co/api/v2/pokemon/207",
+  "catchRate": 60,
+  "expYield": 86,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "togepi",
+  "num": 175,
+  "name": "Togepi",
+  "url": "https://pokeapi.co/api/v2/pokemon/175",
+  "catchRate": 190,
+  "expYield": 49,
+  "evYield": {
+    "spd": 1
+  },
+  "heldItems": []
+}

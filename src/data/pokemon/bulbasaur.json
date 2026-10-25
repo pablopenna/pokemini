@@ -1,0 +1,12 @@
+{
+  "id": "bulbasaur",
+  "num": 1,
+  "name": "Bulbasaur",
+  "url": "https://pokeapi.co/api/v2/pokemon/1",
+  "catchRate": 45,
+  "expYield": 64,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

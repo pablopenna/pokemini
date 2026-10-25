@@ -1,0 +1,12 @@
+{
+  "id": "ekans",
+  "num": 23,
+  "name": "Ekans",
+  "url": "https://pokeapi.co/api/v2/pokemon/23",
+  "catchRate": 255,
+  "expYield": 58,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "articuno",
+  "num": 144,
+  "name": "Articuno",
+  "url": "https://pokeapi.co/api/v2/pokemon/144",
+  "catchRate": 3,
+  "expYield": 261,
+  "evYield": {
+    "spd": 3
+  },
+  "heldItems": []
+}

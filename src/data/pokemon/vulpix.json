@@ -1,0 +1,17 @@
+{
+  "id": "vulpix",
+  "num": 37,
+  "name": "Vulpix",
+  "url": "https://pokeapi.co/api/v2/pokemon/37",
+  "catchRate": 190,
+  "expYield": 60,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": [
+    {
+      "item": "Rawst Berry",
+      "rate": 50
+    }
+  ]
+}

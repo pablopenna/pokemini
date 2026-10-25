@@ -1,0 +1,21 @@
+{
+  "id": "dewgong",
+  "num": 87,
+  "name": "Dewgong",
+  "url": "https://pokeapi.co/api/v2/pokemon/87",
+  "catchRate": 75,
+  "expYield": 166,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": [
+    {
+      "item": "Aspear Berry",
+      "rate": 50
+    },
+    {
+      "item": "Never Melt Ice",
+      "rate": 5
+    }
+  ]
+}

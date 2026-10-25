@@ -1,0 +1,12 @@
+{
+  "id": "jolteon",
+  "num": 135,
+  "name": "Jolteon",
+  "url": "https://pokeapi.co/api/v2/pokemon/135",
+  "catchRate": 45,
+  "expYield": 184,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

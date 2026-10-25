@@ -1,0 +1,12 @@
+{
+  "id": "exeggutor",
+  "num": 103,
+  "name": "Exeggutor",
+  "url": "https://pokeapi.co/api/v2/pokemon/103",
+  "catchRate": 45,
+  "expYield": 186,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": []
+}

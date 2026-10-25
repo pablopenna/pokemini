@@ -1,0 +1,18 @@
+{
+  "id": "shuckle",
+  "num": 213,
+  "name": "Shuckle",
+  "url": "https://pokeapi.co/api/v2/pokemon/213",
+  "catchRate": 190,
+  "expYield": 177,
+  "evYield": {
+    "def": 1,
+    "spd": 1
+  },
+  "heldItems": [
+    {
+      "item": "Berry Juice",
+      "rate": 100
+    }
+  ]
+}

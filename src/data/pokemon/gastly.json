@@ -1,0 +1,12 @@
+{
+  "id": "gastly",
+  "num": 92,
+  "name": "Gastly",
+  "url": "https://pokeapi.co/api/v2/pokemon/92",
+  "catchRate": 190,
+  "expYield": 62,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "baltoy",
+  "num": 343,
+  "name": "Baltoy",
+  "url": "https://pokeapi.co/api/v2/pokemon/343",
+  "catchRate": 255,
+  "expYield": 60,
+  "evYield": {
+    "spd": 1
+  },
+  "heldItems": []
+}

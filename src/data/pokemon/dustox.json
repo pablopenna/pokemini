@@ -1,0 +1,17 @@
+{
+  "id": "dustox",
+  "num": 269,
+  "name": "Dustox",
+  "url": "https://pokeapi.co/api/v2/pokemon/269",
+  "catchRate": 45,
+  "expYield": 173,
+  "evYield": {
+    "spd": 3
+  },
+  "heldItems": [
+    {
+      "item": "Silver Powder",
+      "rate": 5
+    }
+  ]
+}

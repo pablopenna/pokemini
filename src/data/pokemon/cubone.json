@@ -1,0 +1,17 @@
+{
+  "id": "cubone",
+  "num": 104,
+  "name": "Cubone",
+  "url": "https://pokeapi.co/api/v2/pokemon/104",
+  "catchRate": 190,
+  "expYield": 64,
+  "evYield": {
+    "def": 1
+  },
+  "heldItems": [
+    {
+      "item": "Thick Club",
+      "rate": 5
+    }
+  ]
+}

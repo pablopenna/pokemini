@@ -1,0 +1,18 @@
+{
+  "id": "ninetales",
+  "num": 38,
+  "name": "Ninetales",
+  "url": "https://pokeapi.co/api/v2/pokemon/38",
+  "catchRate": 75,
+  "expYield": 177,
+  "evYield": {
+    "spd": 1,
+    "spe": 1
+  },
+  "heldItems": [
+    {
+      "item": "Rawst Berry",
+      "rate": 50
+    }
+  ]
+}

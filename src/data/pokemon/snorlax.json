@@ -1,0 +1,17 @@
+{
+  "id": "snorlax",
+  "num": 143,
+  "name": "Snorlax",
+  "url": "https://pokeapi.co/api/v2/pokemon/143",
+  "catchRate": 25,
+  "expYield": 189,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": [
+    {
+      "item": "Chesto Berry",
+      "rate": 100
+    }
+  ]
+}

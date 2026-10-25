@@ -1,0 +1,12 @@
+{
+  "id": "dunsparce",
+  "num": 206,
+  "name": "Dunsparce",
+  "url": "https://pokeapi.co/api/v2/pokemon/206",
+  "catchRate": 190,
+  "expYield": 145,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "spinda",
+  "num": 327,
+  "name": "Spinda",
+  "url": "https://pokeapi.co/api/v2/pokemon/327",
+  "catchRate": 255,
+  "expYield": 126,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": [
+    {
+      "item": "Chesto Berry",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "hariyama",
+  "num": 297,
+  "name": "Hariyama",
+  "url": "https://pokeapi.co/api/v2/pokemon/297",
+  "catchRate": 200,
+  "expYield": 166,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": [
+    {
+      "item": "Kings Rock",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "exploud",
+  "num": 295,
+  "name": "Exploud",
+  "url": "https://pokeapi.co/api/v2/pokemon/295",
+  "catchRate": 45,
+  "expYield": 221,
+  "evYield": {
+    "hp": 3
+  },
+  "heldItems": [
+    {
+      "item": "Chesto Berry",
+      "rate": 5
+    }
+  ]
+}

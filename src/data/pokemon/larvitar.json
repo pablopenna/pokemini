@@ -1,0 +1,12 @@
+{
+  "id": "larvitar",
+  "num": 246,
+  "name": "Larvitar",
+  "url": "https://pokeapi.co/api/v2/pokemon/246",
+  "catchRate": 45,
+  "expYield": 60,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

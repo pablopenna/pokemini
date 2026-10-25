@@ -1,0 +1,12 @@
+{
+  "id": "wooper",
+  "num": 194,
+  "name": "Wooper",
+  "url": "https://pokeapi.co/api/v2/pokemon/194",
+  "catchRate": 255,
+  "expYield": 42,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

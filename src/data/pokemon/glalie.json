@@ -1,0 +1,17 @@
+{
+  "id": "glalie",
+  "num": 362,
+  "name": "Glalie",
+  "url": "https://pokeapi.co/api/v2/pokemon/362",
+  "catchRate": 75,
+  "expYield": 168,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": [
+    {
+      "item": "Never Melt Ice",
+      "rate": 5
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "shuppet",
+  "num": 353,
+  "name": "Shuppet",
+  "url": "https://pokeapi.co/api/v2/pokemon/353",
+  "catchRate": 225,
+  "expYield": 59,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": [
+    {
+      "item": "Spell Tag",
+      "rate": 5
+    }
+  ]
+}

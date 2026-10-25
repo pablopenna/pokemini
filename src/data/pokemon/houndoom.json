@@ -1,0 +1,12 @@
+{
+  "id": "houndoom",
+  "num": 229,
+  "name": "Houndoom",
+  "url": "https://pokeapi.co/api/v2/pokemon/229",
+  "catchRate": 45,
+  "expYield": 175,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": []
+}

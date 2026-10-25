@@ -1,0 +1,12 @@
+{
+  "id": "wingull",
+  "num": 278,
+  "name": "Wingull",
+  "url": "https://pokeapi.co/api/v2/pokemon/278",
+  "catchRate": 190,
+  "expYield": 54,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

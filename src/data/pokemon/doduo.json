@@ -1,0 +1,12 @@
+{
+  "id": "doduo",
+  "num": 84,
+  "name": "Doduo",
+  "url": "https://pokeapi.co/api/v2/pokemon/84",
+  "catchRate": 190,
+  "expYield": 62,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

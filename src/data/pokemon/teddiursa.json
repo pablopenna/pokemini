@@ -1,0 +1,21 @@
+{
+  "id": "teddiursa",
+  "num": 216,
+  "name": "Teddiursa",
+  "url": "https://pokeapi.co/api/v2/pokemon/216",
+  "catchRate": 120,
+  "expYield": 66,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": [
+    {
+      "item": "Oran Berry",
+      "rate": 50
+    },
+    {
+      "item": "Sitrus Berry",
+      "rate": 5
+    }
+  ]
+}

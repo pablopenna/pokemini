@@ -1,0 +1,17 @@
+{
+  "id": "graveler",
+  "num": 75,
+  "name": "Graveler",
+  "url": "https://pokeapi.co/api/v2/pokemon/75",
+  "catchRate": 120,
+  "expYield": 137,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": [
+    {
+      "item": "Hard Stone",
+      "rate": 5
+    }
+  ]
+}

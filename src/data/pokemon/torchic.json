@@ -1,0 +1,12 @@
+{
+  "id": "torchic",
+  "num": 255,
+  "name": "Torchic",
+  "url": "https://pokeapi.co/api/v2/pokemon/255",
+  "catchRate": 45,
+  "expYield": 62,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

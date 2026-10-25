@@ -1,0 +1,12 @@
+{
+  "id": "victreebel",
+  "num": 71,
+  "name": "Victreebel",
+  "url": "https://pokeapi.co/api/v2/pokemon/71",
+  "catchRate": 45,
+  "expYield": 221,
+  "evYield": {
+    "atk": 3
+  },
+  "heldItems": []
+}

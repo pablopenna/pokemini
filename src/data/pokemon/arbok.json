@@ -1,0 +1,17 @@
+{
+  "id": "arbok",
+  "num": 24,
+  "name": "Arbok",
+  "url": "https://pokeapi.co/api/v2/pokemon/24",
+  "catchRate": 90,
+  "expYield": 157,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": [
+    {
+      "item": "Poison Barb",
+      "rate": 5
+    }
+  ]
+}

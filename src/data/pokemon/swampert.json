@@ -1,0 +1,12 @@
+{
+  "id": "swampert",
+  "num": 260,
+  "name": "Swampert",
+  "url": "https://pokeapi.co/api/v2/pokemon/260",
+  "catchRate": 45,
+  "expYield": 241,
+  "evYield": {
+    "atk": 3
+  },
+  "heldItems": []
+}

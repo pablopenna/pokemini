@@ -1,0 +1,12 @@
+{
+  "id": "sceptile",
+  "num": 254,
+  "name": "Sceptile",
+  "url": "https://pokeapi.co/api/v2/pokemon/254",
+  "catchRate": 45,
+  "expYield": 239,
+  "evYield": {
+    "spe": 3
+  },
+  "heldItems": []
+}

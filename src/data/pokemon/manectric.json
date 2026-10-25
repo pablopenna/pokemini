@@ -1,0 +1,12 @@
+{
+  "id": "manectric",
+  "num": 310,
+  "name": "Manectric",
+  "url": "https://pokeapi.co/api/v2/pokemon/310",
+  "catchRate": 45,
+  "expYield": 166,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

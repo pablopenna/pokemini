@@ -1,0 +1,17 @@
+{
+  "id": "growlithe",
+  "num": 58,
+  "name": "Growlithe",
+  "url": "https://pokeapi.co/api/v2/pokemon/58",
+  "catchRate": 190,
+  "expYield": 70,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": [
+    {
+      "item": "Rawst Berry",
+      "rate": 50
+    }
+  ]
+}

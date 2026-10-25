@@ -1,0 +1,12 @@
+{
+  "id": "delibird",
+  "num": 225,
+  "name": "Delibird",
+  "url": "https://pokeapi.co/api/v2/pokemon/225",
+  "catchRate": 45,
+  "expYield": 116,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

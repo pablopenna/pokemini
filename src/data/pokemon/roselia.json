@@ -1,0 +1,17 @@
+{
+  "id": "roselia",
+  "num": 315,
+  "name": "Roselia",
+  "url": "https://pokeapi.co/api/v2/pokemon/315",
+  "catchRate": 150,
+  "expYield": 140,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": [
+    {
+      "item": "Poison Barb",
+      "rate": 5
+    }
+  ]
+}

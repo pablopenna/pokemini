@@ -1,0 +1,12 @@
+{
+  "id": "psyduck",
+  "num": 54,
+  "name": "Psyduck",
+  "url": "https://pokeapi.co/api/v2/pokemon/54",
+  "catchRate": 190,
+  "expYield": 64,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

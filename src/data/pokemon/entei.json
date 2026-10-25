@@ -1,0 +1,13 @@
+{
+  "id": "entei",
+  "num": 244,
+  "name": "Entei",
+  "url": "https://pokeapi.co/api/v2/pokemon/244",
+  "catchRate": 3,
+  "expYield": 261,
+  "evYield": {
+    "hp": 1,
+    "atk": 2
+  },
+  "heldItems": []
+}

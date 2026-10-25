@@ -1,0 +1,12 @@
+{
+  "id": "regice",
+  "num": 378,
+  "name": "Regice",
+  "url": "https://pokeapi.co/api/v2/pokemon/378",
+  "catchRate": 3,
+  "expYield": 261,
+  "evYield": {
+    "spd": 3
+  },
+  "heldItems": []
+}

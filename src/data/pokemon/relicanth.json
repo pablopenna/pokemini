@@ -1,0 +1,18 @@
+{
+  "id": "relicanth",
+  "num": 369,
+  "name": "Relicanth",
+  "url": "https://pokeapi.co/api/v2/pokemon/369",
+  "catchRate": 25,
+  "expYield": 170,
+  "evYield": {
+    "hp": 1,
+    "def": 1
+  },
+  "heldItems": [
+    {
+      "item": "Green Shard",
+      "rate": 5
+    }
+  ]
+}

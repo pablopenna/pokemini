@@ -1,0 +1,17 @@
+{
+  "id": "dragonite",
+  "num": 149,
+  "name": "Dragonite",
+  "url": "https://pokeapi.co/api/v2/pokemon/149",
+  "catchRate": 45,
+  "expYield": 270,
+  "evYield": {
+    "atk": 3
+  },
+  "heldItems": [
+    {
+      "item": "Dragon Fang",
+      "rate": 5
+    }
+  ]
+}

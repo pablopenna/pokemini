@@ -1,0 +1,12 @@
+{
+  "id": "grumpig",
+  "num": 326,
+  "name": "Grumpig",
+  "url": "https://pokeapi.co/api/v2/pokemon/326",
+  "catchRate": 60,
+  "expYield": 165,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": []
+}

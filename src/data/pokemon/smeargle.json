@@ -1,0 +1,12 @@
+{
+  "id": "smeargle",
+  "num": 235,
+  "name": "Smeargle",
+  "url": "https://pokeapi.co/api/v2/pokemon/235",
+  "catchRate": 45,
+  "expYield": 88,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

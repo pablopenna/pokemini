@@ -1,0 +1,12 @@
+{
+  "id": "grovyle",
+  "num": 253,
+  "name": "Grovyle",
+  "url": "https://pokeapi.co/api/v2/pokemon/253",
+  "catchRate": 45,
+  "expYield": 142,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

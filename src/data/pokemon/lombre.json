@@ -1,0 +1,12 @@
+{
+  "id": "lombre",
+  "num": 271,
+  "name": "Lombre",
+  "url": "https://pokeapi.co/api/v2/pokemon/271",
+  "catchRate": 120,
+  "expYield": 119,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "salamence",
+  "num": 373,
+  "name": "Salamence",
+  "url": "https://pokeapi.co/api/v2/pokemon/373",
+  "catchRate": 45,
+  "expYield": 270,
+  "evYield": {
+    "atk": 3
+  },
+  "heldItems": [
+    {
+      "item": "Dragon Scale",
+      "rate": 5
+    }
+  ]
+}

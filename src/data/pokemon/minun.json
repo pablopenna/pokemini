@@ -1,0 +1,12 @@
+{
+  "id": "minun",
+  "num": 312,
+  "name": "Minun",
+  "url": "https://pokeapi.co/api/v2/pokemon/312",
+  "catchRate": 200,
+  "expYield": 142,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

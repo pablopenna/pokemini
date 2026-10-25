@@ -1,0 +1,12 @@
+{
+  "id": "gardevoir",
+  "num": 282,
+  "name": "Gardevoir",
+  "url": "https://pokeapi.co/api/v2/pokemon/282",
+  "catchRate": 45,
+  "expYield": 233,
+  "evYield": {
+    "spa": 3
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "grimer",
+  "num": 88,
+  "name": "Grimer",
+  "url": "https://pokeapi.co/api/v2/pokemon/88",
+  "catchRate": 190,
+  "expYield": 65,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

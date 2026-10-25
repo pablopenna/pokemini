@@ -1,0 +1,12 @@
+{
+  "id": "torkoal",
+  "num": 324,
+  "name": "Torkoal",
+  "url": "https://pokeapi.co/api/v2/pokemon/324",
+  "catchRate": 90,
+  "expYield": 165,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": []
+}

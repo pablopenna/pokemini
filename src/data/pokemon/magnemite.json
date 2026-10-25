@@ -1,0 +1,12 @@
+{
+  "id": "magnemite",
+  "num": 81,
+  "name": "Magnemite",
+  "url": "https://pokeapi.co/api/v2/pokemon/81",
+  "catchRate": 190,
+  "expYield": 65,
+  "evYield": {
+    "spa": 1
+  },
+  "heldItems": []
+}

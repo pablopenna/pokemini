@@ -1,0 +1,17 @@
+{
+  "id": "luvdisc",
+  "num": 370,
+  "name": "Luvdisc",
+  "url": "https://pokeapi.co/api/v2/pokemon/370",
+  "catchRate": 225,
+  "expYield": 116,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": [
+    {
+      "item": "Heart Scale",
+      "rate": 50
+    }
+  ]
+}

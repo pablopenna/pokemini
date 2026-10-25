@@ -1,0 +1,12 @@
+{
+  "id": "armaldo",
+  "num": 348,
+  "name": "Armaldo",
+  "url": "https://pokeapi.co/api/v2/pokemon/348",
+  "catchRate": 45,
+  "expYield": 173,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

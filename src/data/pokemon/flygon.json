@@ -1,0 +1,13 @@
+{
+  "id": "flygon",
+  "num": 330,
+  "name": "Flygon",
+  "url": "https://pokeapi.co/api/v2/pokemon/330",
+  "catchRate": 45,
+  "expYield": 234,
+  "evYield": {
+    "atk": 1,
+    "spe": 2
+  },
+  "heldItems": []
+}

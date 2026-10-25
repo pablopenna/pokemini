@@ -1,0 +1,12 @@
+{
+  "id": "weepinbell",
+  "num": 70,
+  "name": "Weepinbell",
+  "url": "https://pokeapi.co/api/v2/pokemon/70",
+  "catchRate": 120,
+  "expYield": 137,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": []
+}

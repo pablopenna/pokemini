@@ -1,0 +1,12 @@
+{
+  "id": "umbreon",
+  "num": 197,
+  "name": "Umbreon",
+  "url": "https://pokeapi.co/api/v2/pokemon/197",
+  "catchRate": 45,
+  "expYield": 184,
+  "evYield": {
+    "spd": 2
+  },
+  "heldItems": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "delcatty",
+  "num": 301,
+  "name": "Delcatty",
+  "url": "https://pokeapi.co/api/v2/pokemon/301",
+  "catchRate": 60,
+  "expYield": 140,
+  "evYield": {
+    "hp": 1,
+    "spe": 1
+  },
+  "heldItems": [
+    {
+      "item": "Leppa Berry",
+      "rate": 5
+    }
+  ]
+}

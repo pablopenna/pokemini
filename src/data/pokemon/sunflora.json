@@ -1,0 +1,12 @@
+{
+  "id": "sunflora",
+  "num": 192,
+  "name": "Sunflora",
+  "url": "https://pokeapi.co/api/v2/pokemon/192",
+  "catchRate": 120,
+  "expYield": 149,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": []
+}

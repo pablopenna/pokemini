@@ -1,0 +1,12 @@
+{
+  "id": "groudon",
+  "num": 383,
+  "name": "Groudon",
+  "url": "https://pokeapi.co/api/v2/pokemon/383",
+  "catchRate": 3,
+  "expYield": 302,
+  "evYield": {
+    "atk": 3
+  },
+  "heldItems": []
+}

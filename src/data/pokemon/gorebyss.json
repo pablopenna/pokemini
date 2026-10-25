@@ -1,0 +1,12 @@
+{
+  "id": "gorebyss",
+  "num": 368,
+  "name": "Gorebyss",
+  "url": "https://pokeapi.co/api/v2/pokemon/368",
+  "catchRate": 60,
+  "expYield": 170,
+  "evYield": {
+    "spa": 2
+  },
+  "heldItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "vigoroth",
+  "num": 288,
+  "name": "Vigoroth",
+  "url": "https://pokeapi.co/api/v2/pokemon/288",
+  "catchRate": 120,
+  "expYield": 154,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

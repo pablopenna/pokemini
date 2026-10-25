@@ -1,0 +1,12 @@
+{
+  "id": "zapdos",
+  "num": 145,
+  "name": "Zapdos",
+  "url": "https://pokeapi.co/api/v2/pokemon/145",
+  "catchRate": 3,
+  "expYield": 261,
+  "evYield": {
+    "spa": 3
+  },
+  "heldItems": []
+}

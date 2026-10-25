@@ -1,0 +1,12 @@
+{
+  "id": "swellow",
+  "num": 277,
+  "name": "Swellow",
+  "url": "https://pokeapi.co/api/v2/pokemon/277",
+  "catchRate": 45,
+  "expYield": 159,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

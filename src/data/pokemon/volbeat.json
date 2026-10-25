@@ -1,0 +1,12 @@
+{
+  "id": "volbeat",
+  "num": 313,
+  "name": "Volbeat",
+  "url": "https://pokeapi.co/api/v2/pokemon/313",
+  "catchRate": 150,
+  "expYield": 151,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": []
+}

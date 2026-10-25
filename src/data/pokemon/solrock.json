@@ -1,0 +1,17 @@
+{
+  "id": "solrock",
+  "num": 338,
+  "name": "Solrock",
+  "url": "https://pokeapi.co/api/v2/pokemon/338",
+  "catchRate": 45,
+  "expYield": 161,
+  "evYield": {
+    "atk": 2
+  },
+  "heldItems": [
+    {
+      "item": "Sun Stone",
+      "rate": 5
+    }
+  ]
+}

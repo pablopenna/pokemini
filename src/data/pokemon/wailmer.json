@@ -1,0 +1,12 @@
+{
+  "id": "wailmer",
+  "num": 320,
+  "name": "Wailmer",
+  "url": "https://pokeapi.co/api/v2/pokemon/320",
+  "catchRate": 125,
+  "expYield": 80,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": []
+}

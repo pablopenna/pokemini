@@ -1,0 +1,13 @@
+{
+  "id": "quilava",
+  "num": 156,
+  "name": "Quilava",
+  "url": "https://pokeapi.co/api/v2/pokemon/156",
+  "catchRate": 45,
+  "expYield": 142,
+  "evYield": {
+    "spa": 1,
+    "spe": 1
+  },
+  "heldItems": []
+}

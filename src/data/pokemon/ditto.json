@@ -1,0 +1,17 @@
+{
+  "id": "ditto",
+  "num": 132,
+  "name": "Ditto",
+  "url": "https://pokeapi.co/api/v2/pokemon/132",
+  "catchRate": 35,
+  "expYield": 101,
+  "evYield": {
+    "hp": 1
+  },
+  "heldItems": [
+    {
+      "item": "Metal Powder",
+      "rate": 5
+    }
+  ]
+}

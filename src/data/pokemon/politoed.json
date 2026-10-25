@@ -1,0 +1,17 @@
+{
+  "id": "politoed",
+  "num": 186,
+  "name": "Politoed",
+  "url": "https://pokeapi.co/api/v2/pokemon/186",
+  "catchRate": 45,
+  "expYield": 225,
+  "evYield": {
+    "spd": 3
+  },
+  "heldItems": [
+    {
+      "item": "Kings Rock",
+      "rate": 5
+    }
+  ]
+}

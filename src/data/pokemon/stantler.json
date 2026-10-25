@@ -1,0 +1,12 @@
+{
+  "id": "stantler",
+  "num": 234,
+  "name": "Stantler",
+  "url": "https://pokeapi.co/api/v2/pokemon/234",
+  "catchRate": 45,
+  "expYield": 163,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

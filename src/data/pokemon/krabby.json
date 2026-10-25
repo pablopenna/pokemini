@@ -1,0 +1,12 @@
+{
+  "id": "krabby",
+  "num": 98,
+  "name": "Krabby",
+  "url": "https://pokeapi.co/api/v2/pokemon/98",
+  "catchRate": 225,
+  "expYield": 65,
+  "evYield": {
+    "atk": 1
+  },
+  "heldItems": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kecleon",
+  "num": 352,
+  "name": "Kecleon",
+  "url": "https://pokeapi.co/api/v2/pokemon/352",
+  "catchRate": 200,
+  "expYield": 154,
+  "evYield": {
+    "spd": 1
+  },
+  "heldItems": [
+    {
+      "item": "Persim Berry",
+      "rate": 5
+    }
+  ]
+}

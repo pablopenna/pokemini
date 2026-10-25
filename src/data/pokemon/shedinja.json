@@ -1,0 +1,12 @@
+{
+  "id": "shedinja",
+  "num": 292,
+  "name": "Shedinja",
+  "url": "https://pokeapi.co/api/v2/pokemon/292",
+  "catchRate": 45,
+  "expYield": 83,
+  "evYield": {
+    "hp": 2
+  },
+  "heldItems": []
+}

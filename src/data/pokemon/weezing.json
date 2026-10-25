@@ -1,0 +1,12 @@
+{
+  "id": "weezing",
+  "num": 110,
+  "name": "Weezing",
+  "url": "https://pokeapi.co/api/v2/pokemon/110",
+  "catchRate": 60,
+  "expYield": 172,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": []
+}

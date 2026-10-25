@@ -1,0 +1,21 @@
+{
+  "id": "cloyster",
+  "num": 91,
+  "name": "Cloyster",
+  "url": "https://pokeapi.co/api/v2/pokemon/91",
+  "catchRate": 60,
+  "expYield": 184,
+  "evYield": {
+    "def": 2
+  },
+  "heldItems": [
+    {
+      "item": "Pearl",
+      "rate": 50
+    },
+    {
+      "item": "Big Pearl",
+      "rate": 5
+    }
+  ]
+}

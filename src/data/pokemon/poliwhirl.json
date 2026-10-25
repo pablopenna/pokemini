@@ -1,0 +1,12 @@
+{
+  "id": "poliwhirl",
+  "num": 61,
+  "name": "Poliwhirl",
+  "url": "https://pokeapi.co/api/v2/pokemon/61",
+  "catchRate": 120,
+  "expYield": 135,
+  "evYield": {
+    "spe": 2
+  },
+  "heldItems": []
+}

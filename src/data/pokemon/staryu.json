@@ -1,0 +1,21 @@
+{
+  "id": "staryu",
+  "num": 120,
+  "name": "Staryu",
+  "url": "https://pokeapi.co/api/v2/pokemon/120",
+  "catchRate": 225,
+  "expYield": 68,
+  "evYield": {
+    "spe": 1
+  },
+  "heldItems": [
+    {
+      "item": "Stardust",
+      "rate": 50
+    },
+    {
+      "item": "Star Piece",
+      "rate": 5
+    }
+  ]
+}
