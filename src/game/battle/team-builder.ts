@@ -2,7 +2,8 @@ import { Dex } from '@pkmn/dex';
 import { getRouteData } from '#/game/overworld/location.ts';
 import type { Location } from '#/types/overworld/location.ts';
 import type { EncounterMethod, EncounterVersion } from '#/types/overworld/route-encounter.ts';
-import type { Pokemon, Team } from '#/types/pokemon.ts';
+import { toPartyPokemon } from '#/game/battle/party-state.ts';
+import type { PartyPokemon, Pokemon, Team } from '#/types/pokemon.ts';
 
 const gen3 = Dex.forGen(3);
 
@@ -35,8 +36,8 @@ async function defaultMoves(species: string, level: number): Promise<string[]> {
 }
 
 /** A Pokémon received at a fixed level (e.g. a gift), with the moves it would know by level up in gen 3. */
-export async function buildLeveledPokemon(species: string, level: number): Promise<Pokemon> {
-  return buildPokemon(species, level, { moves: await defaultMoves(toSimSpecies(species), level) });
+export async function buildLeveledPokemon(species: string, level: number): Promise<PartyPokemon> {
+  return toPartyPokemon(buildPokemon(species, level, { moves: await defaultMoves(toSimSpecies(species), level) }));
 }
 
 /** Builds a set the sim can use (see `Teams.pack`) with neutral nature, no EVs and perfect IVs. */

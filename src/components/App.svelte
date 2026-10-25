@@ -6,7 +6,8 @@
   import LocationView from '#/components/overworld/LocationView.svelte';
   import PlayerInfo from '#/components/overworld/PlayerInfo.svelte';
   import WildEncounter from '#/components/overworld/WildEncounter.svelte';
-  import type { BattleResult } from '#/types/battle/battle-result';
+  import { canBattle } from '#/game/battle/party-state';
+  import type { BattleOutcome, BattleResult } from '#/types/battle/battle-result';
   import { Location } from '#/types/overworld/location';
   import type { Player } from '#/types/player';
   import type { Team } from '#/types/pokemon';
@@ -38,7 +39,8 @@
     view = 'battle';
   }
 
-  function onBattleFinish(result: BattleResult) {
+  function onBattleFinish({ result, party }: BattleOutcome) {
+    player.team = party;
     lastResult = result;
     view = 'main';
   }
@@ -52,12 +54,12 @@
       <DebugMenu bind:gameFlags={player.gameFlags} />
     {/if}
     <h1>PokéMini</h1>
-    <PlayerInfo {player} />
+    <PlayerInfo bind:player />
     {#if lastResult}
       <p>Last battle: {lastResult === 'p1' ? 'you won' : lastResult === 'p2' ? 'you lost' : 'tie'}</p>
     {/if}
     <LocationView location={player.location} gameFlags={player.gameFlags} onTravel={loc => (player.location = loc)}>
-      <WildEncounter bind:player onEncounter={startBattle} />
+      <WildEncounter bind:player disabled={!canBattle(player.team)} onEncounter={startBattle} />
     </LocationView>
   </main>
 {/if}

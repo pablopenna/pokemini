@@ -9,11 +9,13 @@
 
   type Props = {
     player: Player;
+    /** Encounters can't start (e.g. no Pokémon able to fight). */
+    disabled?: boolean;
     /** Called with the wild Pokémon's team when an encounter starts. */
     onEncounter: (team: Team) => void;
   };
 
-  let { player = $bindable(), onEncounter }: Props = $props();
+  let { player = $bindable(), disabled = false, onEncounter }: Props = $props();
 
   const METHOD_LABELS: Record<EncounterMethod, string> = {
     grass: 'Grass',
@@ -55,7 +57,7 @@
   <section>
     <h2>Wild Encounter</h2>
     {#each methods.filter(m => m !== 'gift') as method (method)}
-      <button onclick={() => start(method)}>{METHOD_LABELS[method]}</button>
+      <button {disabled} onclick={() => start(method)}>{METHOD_LABELS[method]}</button>
     {/each}
     <GiftEncounter bind:player />
   </section>

@@ -1,26 +1,26 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { main as doBattle, submitChoice, resetBattleState } from '#/game/battle/battle.ts';
-  import { type BattleResult } from '#/types/battle/battle-result';
+  import type { BattleOutcome } from '#/types/battle/battle-result';
   import type { PlayerControl } from '#/types/battle/battle-options';
-  import type { Team } from '#/types/pokemon';
+  import type { Party, Team } from '#/types/pokemon';
   import SpriteRenderer from '#/components/battle/SpriteRenderer.svelte';
   import ButtonPanel from '#/components/battle/ButtonPanel.svelte';
   import BattleLog from '#/components/battle/BattleLog.svelte';
 
   type Props = {
-    team1: Team;
+    team1: Party;
     team2: Team;
     player1Control?: PlayerControl;
-    onFinish: (result: BattleResult) => void;
+    onFinish: (outcome: BattleOutcome) => void;
   };
 
   let { team1, team2, player1Control = 'ui', onFinish }: Props = $props();
-  let result = $state<BattleResult | null>(null);
+  let outcome = $state<BattleOutcome | null>(null);
 
   onMount(() => {
     resetBattleState();
-    doBattle({ team1, team2, player1Control }).then(r => (result = r));
+    doBattle({ team1, team2, player1Control }).then(o => (outcome = o));
   });
 </script>
 
@@ -28,8 +28,8 @@
   <BattleLog />
   <div class="sprites"><SpriteRenderer /></div>
   <ButtonPanel onChoice={submitChoice} />
-  {#if result}
-    <button class="continue" onclick={() => onFinish(result!)}>Continue</button>
+  {#if outcome}
+    <button class="continue" onclick={() => onFinish(outcome!)}>Continue</button>
   {/if}
 </div>
 

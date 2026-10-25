@@ -9,7 +9,8 @@ import { Protocol } from '@pkmn/protocol';
 import { ChoiceBuilder } from '@pkmn/view';
 import { UIPlayer, type ChoiceRequest } from '#/game/battle/ui-player';
 import { playEffect } from '#/game/battle/battle-animations';
-import type { BattleResult } from '#/types/battle/battle-result';
+import { applyPartyState, battleOrder, readPartyState, restoreOrder } from '#/game/battle/party-state';
+import type { BattleOutcome, BattleResult } from '#/types/battle/battle-result';
 import type { BattleOptions } from '#/types/battle/battle-options';
 
 // ---- reactive state -------------------------------------------------
@@ -125,16 +126,20 @@ function updateSprites(clientBattle: Battle) {
 }
 
 // ---- main battle loop ------------------------------------------------
-export async function main(options: BattleOptions): Promise<BattleResult> {
+export async function main(options: BattleOptions): Promise<BattleOutcome> {
     const { team1, team2, player1Control = 'ui' } = options;
     // Accept everything: wild Pokémon like Pidgey are "Past" in gen 9, which the default filter hides.
     const gens = new Generations(Dex, () => true);
     const clientBattle = new Battle(gens);
     const formatter = new LogFormatter('p1', clientBattle);
 
-    const streams = BattleStreams.getPlayerStreams(new BattleStreams.BattleStream());
+    const simStream = new BattleStreams.BattleStream();
+    const streams = BattleStreams.getPlayerStreams(simStream);
     const spec = { formatid: 'gen9customgame' };
-    const p1spec = { name: 'Player', team: Teams.pack(team1) };
+    // Fainted Pokémon go last so the lead is able to fight.
+    const order = battleOrder(team1);
+    const sentParty = order.map(i => team1[i]);
+    const p1spec = { name: 'Player', team: Teams.pack(sentParty) };
     const p2spec = { name: 'Bot', team: Teams.pack(team2) };
 
     currentBuilder = null;
@@ -170,5 +175,11 @@ export async function main(options: BattleOptions): Promise<BattleResult> {
         `>player p1 ${JSON.stringify(p1spec)}\n` +
         `>player p2 ${JSON.stringify(p2spec)}\n`
     );
-    return battleLoop();
+    // The write is synchronous and the players only react to it later, so the saved state is in place before anyone switches in.
+    const sim = simStream.battle!;
+    const sentSim = [...sim.sides[0].pokemon];
+    applyPartyState(sim.sides[0], sentParty);
+
+    const result = await battleLoop();
+    return { result, party: restoreOrder(readPartyState(sentParty, sentSim), order) };
 }
