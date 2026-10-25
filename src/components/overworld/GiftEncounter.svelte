@@ -12,10 +12,11 @@
   let { player = $bindable() }: Props = $props();
 
   let gifts = $derived(getEncounters(player.location).filter(e => e.method === 'gift'));
+  let claimed = $derived(player.claimedGifts.includes(player.location));
   let dialog = $state<HTMLDialogElement>();
 
   async function choose(gift: RouteEncounter) {
-    if (player.claimedGifts.includes(player.location) || player.team.length >= MAX_TEAM_SIZE) return;
+    if (claimed || player.team.length >= MAX_TEAM_SIZE) return;
     player.claimedGifts.push(player.location);
     dialog?.close();
     player.team.push(await buildLeveledPokemon(gift.species, gift.minLevel ?? 1));
@@ -24,7 +25,8 @@
 
 {#if gifts.length}
   <button
-    disabled={player.claimedGifts.includes(player.location) || player.team.length >= MAX_TEAM_SIZE}
+    disabled={claimed || player.team.length >= MAX_TEAM_SIZE}
+    title={claimed ? 'Already received' : undefined}
     onclick={() => dialog?.showModal()}
   >
     Gift

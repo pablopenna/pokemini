@@ -16,7 +16,13 @@
   let player = $state<Player>({
     team: [],
     location: Location.PalletTown,
-    gameFlags: { canSurf: false },
+    gameFlags: {
+      canSurf: false,
+      hasOldRod: false,
+      hasGoodRod: false,
+      hasSuperRod: false,
+      canRockSmash: false,
+    },
     claimedGifts: [],
   });
   let opponentTeam = $state<Team>([]);
