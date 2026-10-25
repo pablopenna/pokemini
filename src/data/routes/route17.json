@@ -5,221 +5,540 @@
   "images": [
     "/locations/route17.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Doduo",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 24,
+      "maxLevel": 28,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Spearow",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 20,
+      "maxLevel": 22,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Raticate",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 25,
+      "maxLevel": 29,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Rattata",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 22,
+      "maxLevel": 22,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Fearow",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 25,
+      "maxLevel": 27,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Doduo",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 24,
+      "maxLevel": 28,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Spearow",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 20,
+      "maxLevel": 22,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Raticate",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 25,
+      "maxLevel": 29,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rattata",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 22,
+      "maxLevel": 22,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Fearow",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 25,
+      "maxLevel": 27,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Cue Ball Isaiah",
       "team": [
-        "Machop",
-        "Machamp"
+        {
+          "species": "Machop",
+          "level": 29,
+          "moves": [
+            "Karate Chop",
+            "Seismic Toss",
+            "Foresight",
+            "Revenge"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machamp",
+          "level": 29,
+          "moves": [
+            "Karate Chop",
+            "Seismic Toss",
+            "Foresight",
+            "Revenge"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Cue Ball Isaiah",
       "team": [
-        "Machoke",
-        "Machamp"
+        {
+          "species": "Machoke",
+          "level": 49,
+          "moves": [
+            "Revenge",
+            "Vital Throw",
+            "Submission",
+            "Cross Chop"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machamp",
+          "level": 49,
+          "moves": [
+            "Revenge",
+            "Vital Throw",
+            "Submission",
+            "Cross Chop"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        49,
-        49
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Virgil",
       "team": [
-        "Weezing",
-        "Koffing",
-        "Weezing"
+        {
+          "species": "Weezing",
+          "level": 28,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 28,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weezing",
+          "level": 28,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Cue Ball Raul",
       "team": [
-        "Mankey",
-        "Primeape"
+        {
+          "species": "Mankey",
+          "level": 29,
+          "moves": [
+            "Karate Chop",
+            "Fury Swipes",
+            "Focus Energy",
+            "Seismic Toss"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Primeape",
+          "level": 29,
+          "moves": [
+            "Fury Swipes",
+            "Focus Energy",
+            "Seismic Toss",
+            "Rage"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Billy",
       "team": [
-        "Muk"
+        {
+          "species": "Muk",
+          "level": 33,
+          "moves": [
+            "Disable",
+            "Sludge",
+            "Minimize",
+            "Screech"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Nikolas",
       "team": [
-        "Voltorb",
-        "Voltorb"
+        {
+          "species": "Voltorb",
+          "level": 29,
+          "moves": [
+            "Spark",
+            "Sonicboom",
+            "Screech",
+            "Charge"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Voltorb",
+          "level": 29,
+          "moves": [
+            "Spark",
+            "Sonicboom",
+            "Screech",
+            "Charge"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Cue Ball Zeek",
       "team": [
-        "Machoke"
+        {
+          "species": "Machoke",
+          "level": 33,
+          "moves": [
+            "Seismic Toss",
+            "Foresight",
+            "Revenge",
+            "Vital Throw"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Cue Ball Corey",
       "team": [
-        "Primeape",
-        "Machoke"
+        {
+          "species": "Primeape",
+          "level": 29,
+          "moves": [
+            "Fury Swipes",
+            "Focus Energy",
+            "Seismic Toss",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machoke",
+          "level": 29,
+          "moves": [
+            "Karate Chop",
+            "Seismic Toss",
+            "Foresight",
+            "Revenge"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Cue Ball Corey",
       "team": [
-        "Primeape",
-        "Machamp"
+        {
+          "species": "Primeape",
+          "level": 49,
+          "moves": [
+            "Seismic Toss",
+            "Rage",
+            "Cross Chop",
+            "Swagger"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machamp",
+          "level": 49,
+          "moves": [
+            "Revenge",
+            "Vital Throw",
+            "Submission",
+            "Cross Chop"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        49,
-        49
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Jaxon",
       "team": [
-        "Weezing",
-        "Muk"
+        {
+          "species": "Weezing",
+          "level": 29,
+          "moves": [
+            "Sludge",
+            "Smokescreen",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Muk",
+          "level": 29,
+          "moves": [
+            "Screech",
+            "Minimize",
+            "Sludge",
+            "Disable"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Jaxon",
       "team": [
-        "Weezing",
-        "Muk"
+        {
+          "species": "Weezing",
+          "level": 49,
+          "moves": [
+            "Sludge",
+            "Smokescreen",
+            "Haze",
+            "Explosion"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Muk",
+          "level": 49,
+          "moves": [
+            "Minimize",
+            "Screech",
+            "Acid Armor",
+            "Sludge Bomb"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        49,
-        49
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Cue Ball Jamal",
       "team": [
-        "Mankey",
-        "Mankey",
-        "Machamp",
-        "Machop"
+        {
+          "species": "Mankey",
+          "level": 26,
+          "moves": [
+            "Karate Chop",
+            "Fury Swipes",
+            "Focus Energy",
+            "Seismic Toss"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Mankey",
+          "level": 26,
+          "moves": [
+            "Karate Chop",
+            "Fury Swipes",
+            "Focus Energy",
+            "Seismic Toss"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machamp",
+          "level": 26,
+          "moves": [
+            "Karate Chop",
+            "Seismic Toss",
+            "Foresight",
+            "Revenge"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machop",
+          "level": 26,
+          "moves": [
+            "Karate Chop",
+            "Seismic Toss",
+            "Foresight",
+            "Revenge"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        26,
-        26,
-        26,
-        26
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker William",
       "team": [
-        "Koffing",
-        "Weezing",
-        "Koffing",
-        "Koffing",
-        "Weezing"
+        {
+          "species": "Koffing",
+          "level": 25,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weezing",
+          "level": 25,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 25,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 25,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weezing",
+          "level": 25,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Selfdestruct",
+            "Tackle"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        25,
-        25,
-        25,
-        25,
-        25
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "FULL RESTORE",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "PP UP",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "RARE CANDY",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "MAX REVIVE",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "MAX ELIXIR",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "route16",
     "south": "route18",

@@ -5,286 +5,788 @@
   "images": [
     "/locations/route8.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgey",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 18,
+      "maxLevel": 20,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Meowth",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 18,
+      "maxLevel": 20,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Ekans",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 17,
+      "maxLevel": 19,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Growlithe",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 15,
+      "maxLevel": 18,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgey",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 18,
+      "maxLevel": 20,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Meowth",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 18,
+      "maxLevel": 20,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Sandshrew",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 17,
+      "maxLevel": 19,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Vulpix",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 15,
+      "maxLevel": 18,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Lass Julia",
       "team": [
-        "Clefairy",
-        "Clefairy"
+        {
+          "species": "Clefairy",
+          "level": 22,
+          "moves": [
+            "Sing",
+            "Doubleslap",
+            "Follow Me",
+            "Minimize"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Clefairy",
+          "level": 22,
+          "moves": [
+            "Sing",
+            "Doubleslap",
+            "Follow Me",
+            "Minimize"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22,
-        22
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Gamer Rich",
       "team": [
-        "Growlithe",
-        "Vulpix"
+        {
+          "species": "Growlithe",
+          "level": 24,
+          "moves": [
+            "Roar",
+            "Ember",
+            "Leer",
+            "Odor Sleuth"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Vulpix",
+          "level": 24,
+          "moves": [
+            "Roar",
+            "Quick Attack",
+            "Will-o-wisp",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        24,
-        24
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Gamer Rich",
       "team": [
-        "Growlithe",
-        "Vulpix"
+        {
+          "species": "Growlithe",
+          "level": 30,
+          "moves": [
+            "Ember",
+            "Leer",
+            "Odor Sleuth",
+            "Take Down"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Vulpix",
+          "level": 30,
+          "moves": [
+            "Will-o-wisp",
+            "Confuse Ray",
+            "Imprison",
+            "Flamethrower"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        30,
-        30
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Super Nerd Glenn",
       "team": [
-        "Grimer",
-        "Muk",
-        "Grimer"
+        {
+          "species": "Grimer",
+          "level": 22,
+          "moves": [
+            "Harden",
+            "Disable",
+            "Sludge",
+            "Minimize"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Muk",
+          "level": 22,
+          "moves": [
+            "Harden",
+            "Disable",
+            "Sludge",
+            "Minimize"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Grimer",
+          "level": 22,
+          "moves": [
+            "Harden",
+            "Disable",
+            "Sludge",
+            "Minimize"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22,
-        22,
-        22
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Super Nerd Glenn",
       "team": [
-        "Muk",
-        "Muk",
-        "Muk"
+        {
+          "species": "Muk",
+          "level": 28,
+          "moves": [
+            "Disable",
+            "Sludge",
+            "Minimize",
+            "Screech"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Muk",
+          "level": 28,
+          "moves": [
+            "Disable",
+            "Sludge",
+            "Minimize",
+            "Screech"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Muk",
+          "level": 28,
+          "moves": [
+            "Disable",
+            "Sludge",
+            "Minimize",
+            "Screech"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Twins Eli & Anne",
       "team": [
-        "Clefairy",
-        "Jigglypuff"
+        {
+          "species": "Clefairy",
+          "level": 22,
+          "moves": [
+            "Sing",
+            "Doubleslap",
+            "Follow Me",
+            "Minimize"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Jigglypuff",
+          "level": 22,
+          "moves": [
+            "Defense Curl",
+            "Pound",
+            "Disable",
+            "Rollout"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22,
-        22
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Twins Eli & Anne",
       "team": [
-        "Clefairy",
-        "Jigglypuff"
+        {
+          "species": "Clefairy",
+          "level": 28,
+          "moves": [
+            "Doubleslap",
+            "Follow Me",
+            "Minimize",
+            "Defense Curl"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Jigglypuff",
+          "level": 28,
+          "moves": [
+            "Pound",
+            "Disable",
+            "Rollout",
+            "Doubleslap"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Lass Megan",
       "team": [
-        "Pidgey",
-        "Rattata",
-        "Nidoran♂",
-        "Meowth",
-        "Pikachu"
+        {
+          "species": "Pidgey",
+          "level": 19,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rattata",
+          "level": 19,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoran♂",
+          "level": 19,
+          "moves": [
+            "Peck",
+            "Focus Energy",
+            "Double Kick",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Meowth",
+          "level": 19,
+          "moves": [
+            "Scratch",
+            "Growl",
+            "Bite",
+            "Pay Day"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pikachu",
+          "level": 19,
+          "moves": [
+            "Tail Whip",
+            "Thunder Wave",
+            "Quick Attack",
+            "Double Team"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        19,
-        19,
-        19,
-        19,
-        19
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Lass Megan",
       "team": [
-        "Pidgeotto",
-        "Raticate",
-        "Nidoran♂",
-        "Meowth",
-        "Pikachu"
+        {
+          "species": "Pidgeotto",
+          "level": 22,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 22,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoran♂",
+          "level": 23,
+          "moves": [
+            "Double Kick",
+            "Poison Sting",
+            "Horn Attack",
+            "Helping Hand"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Meowth",
+          "level": 21,
+          "moves": [
+            "Scratch",
+            "Growl",
+            "Bite",
+            "Pay Day"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pikachu",
+          "level": 22,
+          "moves": [
+            "Thunder Wave",
+            "Quick Attack",
+            "Double Team",
+            "Slam"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22,
-        22,
-        23,
-        21,
-        22
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Lass Megan",
       "team": [
-        "Pidgeot",
-        "Raticate",
-        "Nidorino",
-        "Persian",
-        "Raichu"
+        {
+          "species": "Pidgeot",
+          "level": 46,
+          "moves": [
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack",
+            "Featherdance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 47,
+          "moves": [
+            "Hyper Fang",
+            "Scary Face",
+            "Pursuit",
+            "Super Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidorino",
+          "level": 47,
+          "moves": [
+            "Horn Attack",
+            "Helping Hand",
+            "Fury Attack",
+            "Flatter"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Persian",
+          "level": 47,
+          "moves": [
+            "Pay Day",
+            "Faint Attack",
+            "Screech",
+            "Fury Swipes"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raichu",
+          "level": 48,
+          "moves": [
+            "Thundershock",
+            "Tail Whip",
+            "Quick Attack",
+            "Thunderbolt"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        46,
-        47,
-        47,
-        47,
-        48
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Lass Andrea",
       "team": [
-        "Meowth",
-        "Meowth",
-        "Meowth"
+        {
+          "species": "Meowth",
+          "level": 24,
+          "moves": [
+            "Scratch",
+            "Growl",
+            "Bite",
+            "Pay Day"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Meowth",
+          "level": 24,
+          "moves": [
+            "Scratch",
+            "Growl",
+            "Bite",
+            "Pay Day"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Meowth",
+          "level": 24,
+          "moves": [
+            "Scratch",
+            "Growl",
+            "Bite",
+            "Pay Day"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        24,
-        24,
-        24
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Super Nerd Leslie",
       "team": [
-        "Koffing"
+        {
+          "species": "Koffing",
+          "level": 26,
+          "moves": [
+            "Sludge",
+            "Smokescreen",
+            "Smog",
+            "Selfdestruct"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        26
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Lass Paige",
       "team": [
-        "Nidoran♀",
-        "Nidorina"
+        {
+          "species": "Nidoran♀",
+          "level": 23,
+          "moves": [
+            "Double Kick",
+            "Poison Sting",
+            "Bite",
+            "Helping Hand"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidorina",
+          "level": 23,
+          "moves": [
+            "Tail Whip",
+            "Double Kick",
+            "Poison Sting",
+            "Bite"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        23,
-        23
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Jaren",
       "team": [
-        "Grimer",
-        "Grimer"
+        {
+          "species": "Grimer",
+          "level": 24,
+          "moves": [
+            "Harden",
+            "Disable",
+            "Sludge",
+            "Minimize"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Grimer",
+          "level": 24,
+          "moves": [
+            "Harden",
+            "Disable",
+            "Sludge",
+            "Minimize"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        24,
-        24
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Jaren",
       "team": [
-        "Muk",
-        "Muk"
+        {
+          "species": "Muk",
+          "level": 28,
+          "moves": [
+            "Disable",
+            "Sludge",
+            "Minimize",
+            "Screech"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Muk",
+          "level": 30,
+          "moves": [
+            "Disable",
+            "Sludge",
+            "Minimize",
+            "Screech"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        30
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Ricardo",
       "team": [
-        "Koffing",
-        "Koffing",
-        "Grimer"
+        {
+          "species": "Koffing",
+          "level": 22,
+          "moves": [
+            "Sludge",
+            "Smog",
+            "Tackle",
+            "Poison Gas"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 22,
+          "moves": [
+            "Sludge",
+            "Smog",
+            "Tackle",
+            "Poison Gas"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Grimer",
+          "level": 23,
+          "moves": [
+            "Minimize",
+            "Sludge",
+            "Disable",
+            "Pound"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22,
-        22,
-        23
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Super Nerd Aidan",
       "team": [
-        "Voltorb",
-        "Koffing",
-        "Voltorb",
-        "Magnemite"
+        {
+          "species": "Voltorb",
+          "level": 20,
+          "moves": [
+            "Sonicboom",
+            "Screech",
+            "Tackle",
+            "Charge"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 20,
+          "moves": [
+            "Sludge",
+            "Smog",
+            "Tackle",
+            "Poison Gas"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Voltorb",
+          "level": 20,
+          "moves": [
+            "Sonicboom",
+            "Screech",
+            "Tackle",
+            "Charge"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magnemite",
+          "level": 20,
+          "moves": [
+            "Sonicboom",
+            "Supersonic",
+            "Thundershock",
+            "Tackle"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20,
-        20,
-        20
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Gamer Stan",
       "team": [
-        "Poliwag",
-        "Poliwag",
-        "Poliwhirl"
+        {
+          "species": "Poliwag",
+          "level": 22,
+          "moves": [
+            "Bubble",
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Poliwag",
+          "level": 22,
+          "moves": [
+            "Bubble",
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Poliwhirl",
+          "level": 22,
+          "moves": [
+            "Water Gun",
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22,
-        22,
-        22
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "RAWST BERRY",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "LEPPA BERRY",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "LUM BERRY",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "LEPPA BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "RAWST BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "LUM BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": null,

@@ -7,175 +7,505 @@
     "/locations/saffroncity-36-gym.png",
     "/locations/saffroncity-36-fightingdojo.png"
   ],
+  "sections": [
+    "Main Area",
+    "Gym",
+    "Fighting Dojo"
+  ],
   "encounters": [
     {
       "method": "gift",
       "version": "unknown",
       "species": "Hitmonlee",
-      "rate": 0
+      "rate": null,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Fighting Dojo"
     },
     {
       "method": "gift",
       "version": "unknown",
       "species": "Hitmonchan",
-      "rate": 0
+      "rate": null,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Fighting Dojo"
     }
   ],
   "trainers": [
     {
       "name": "Psychic Cameron",
       "team": [
-        "Slowpoke",
-        "Slowpoke",
-        "Slowbro"
+        {
+          "species": "Slowpoke",
+          "level": 33,
+          "moves": [
+            "Water Gun",
+            "Confusion",
+            "Disable",
+            "Headbutt"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Slowpoke",
+          "level": 33,
+          "moves": [
+            "Water Gun",
+            "Confusion",
+            "Disable",
+            "Headbutt"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Slowbro",
+          "level": 33,
+          "moves": [
+            "Water Gun",
+            "Confusion",
+            "Disable",
+            "Headbutt"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33,
-        33,
-        33
-      ]
+      "section": "Gym"
     },
     {
       "name": "Channeler Tasha",
       "team": [
-        "Gastly",
-        "Gastly",
-        "Haunter"
+        {
+          "species": "Gastly",
+          "level": 33,
+          "moves": [
+            "Night Shade",
+            "Confuse Ray",
+            "Dream Eater",
+            "Destiny Bond"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Gastly",
+          "level": 33,
+          "moves": [
+            "Night Shade",
+            "Confuse Ray",
+            "Dream Eater",
+            "Destiny Bond"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Haunter",
+          "level": 33,
+          "moves": [
+            "Night Shade",
+            "Confuse Ray",
+            "Shadow Punch",
+            "Dream Eater"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33,
-        33,
-        33
-      ]
+      "section": "Gym"
     },
     {
       "name": "Psychic Johan",
       "team": [
-        "Kadabra",
-        "Slowpoke",
-        "Mr. Mime",
-        "Kadabra"
+        {
+          "species": "Kadabra",
+          "level": 31,
+          "moves": [
+            "Psybeam",
+            "Reflect",
+            "Recover",
+            "Future Sight"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Slowpoke",
+          "level": 31,
+          "moves": [
+            "Water Gun",
+            "Confusion",
+            "Disable",
+            "Headbutt"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Mr. Mime",
+          "level": 31,
+          "moves": [
+            "Reflect",
+            "Magical Leaf",
+            "Encore",
+            "Psybeam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kadabra",
+          "level": 31,
+          "moves": [
+            "Psybeam",
+            "Reflect",
+            "Recover",
+            "Future Sight"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        31,
-        31,
-        31,
-        31
-      ]
+      "section": "Gym"
     },
     {
       "name": "Psychic Tyron",
       "team": [
-        "Mr. Mime",
-        "Kadabra"
+        {
+          "species": "Mr. Mime",
+          "level": 34,
+          "moves": [
+            "Magical Leaf",
+            "Encore",
+            "Psybeam",
+            "Recycle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kadabra",
+          "level": 34,
+          "moves": [
+            "Reflect",
+            "Recover",
+            "Future Sight",
+            "Role Play"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        34,
-        34
-      ]
+      "section": "Gym"
     },
     {
       "name": "Channeler Stacy",
       "team": [
-        "Haunter"
+        {
+          "species": "Haunter",
+          "level": 38,
+          "moves": [
+            "Night Shade",
+            "Confuse Ray",
+            "Shadow Punch",
+            "Dream Eater"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        38
-      ]
+      "section": "Gym"
     },
     {
       "name": "Channeler Amanda",
       "team": [
-        "Gastly",
-        "Haunter"
+        {
+          "species": "Gastly",
+          "level": 34,
+          "moves": [
+            "Night Shade",
+            "Confuse Ray",
+            "Dream Eater",
+            "Destiny Bond"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Haunter",
+          "level": 34,
+          "moves": [
+            "Night Shade",
+            "Confuse Ray",
+            "Shadow Punch",
+            "Dream Eater"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        34,
-        34
-      ]
+      "section": "Gym"
     },
     {
       "name": "Psychic Preston",
       "team": [
-        "Slowbro"
+        {
+          "species": "Slowbro",
+          "level": 38,
+          "moves": [
+            "Disable",
+            "Headbutt",
+            "Amnesia",
+            "Withdraw"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        38
-      ]
+      "section": "Gym"
     },
     {
       "name": "Leader Sabrina",
       "team": [
-        "Kadabra",
-        "Mr. Mime",
-        "Venomoth",
-        "Alakazam"
+        {
+          "species": "Kadabra",
+          "level": 38,
+          "moves": [
+            "Psybeam",
+            "Reflect",
+            "Future Sight",
+            "Calm Mind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Mr. Mime",
+          "level": 37,
+          "moves": [
+            "Barrier",
+            "Psybeam",
+            "Baton Pass",
+            "Calm Mind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Venomoth",
+          "level": 38,
+          "moves": [
+            "Psybeam",
+            "Gust",
+            "Leech Life",
+            "Supersonic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Alakazam",
+          "level": 43,
+          "moves": [
+            "Psychic",
+            "Recover",
+            "Future Sight",
+            "Calm Mind"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        38,
-        37,
-        38,
-        43
-      ]
+      "section": "Gym"
     },
     {
       "name": "Black Belt Hitoshi",
       "team": [
-        "Machop",
-        "Mankey",
-        "Primeape"
+        {
+          "species": "Machop",
+          "level": 31,
+          "moves": [
+            "Seismic Toss",
+            "Foresight",
+            "Revenge",
+            "Vital Throw"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Mankey",
+          "level": 31,
+          "moves": [
+            "Fury Swipes",
+            "Focus Energy",
+            "Seismic Toss",
+            "Cross Chop"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Primeape",
+          "level": 31,
+          "moves": [
+            "Fury Swipes",
+            "Focus Energy",
+            "Seismic Toss",
+            "Rage"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        31,
-        31,
-        31
-      ]
+      "section": "Fighting Dojo"
     },
     {
       "name": "Black Belt Hideki",
       "team": [
-        "Machop",
-        "Machoke"
+        {
+          "species": "Machop",
+          "level": 32,
+          "moves": [
+            "Seismic Toss",
+            "Foresight",
+            "Revenge",
+            "Vital Throw"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Machoke",
+          "level": 32,
+          "moves": [
+            "Karate Chop",
+            "Seismic Toss",
+            "Foresight",
+            "Revenge"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        32,
-        32
-      ]
+      "section": "Fighting Dojo"
     },
     {
       "name": "Black Belt Aaron",
       "team": [
-        "Primeape"
+        {
+          "species": "Primeape",
+          "level": 36,
+          "moves": [
+            "Focus Energy",
+            "Seismic Toss",
+            "Rage",
+            "Cross Chop"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        36
-      ]
+      "section": "Fighting Dojo"
     },
     {
       "name": "Black Belt Mike",
       "team": [
-        "Mankey",
-        "Mankey",
-        "Primeape"
+        {
+          "species": "Mankey",
+          "level": 31,
+          "moves": [
+            "Fury Swipes",
+            "Focus Energy",
+            "Seismic Toss",
+            "Cross Chop"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Mankey",
+          "level": 31,
+          "moves": [
+            "Fury Swipes",
+            "Focus Energy",
+            "Seismic Toss",
+            "Cross Chop"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Primeape",
+          "level": 31,
+          "moves": [
+            "Fury Swipes",
+            "Focus Energy",
+            "Seismic Toss",
+            "Rage"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        31,
-        31,
-        31
-      ]
+      "section": "Fighting Dojo"
     },
     {
       "name": "Black Belt Koichi",
       "team": [
-        "Hitmonlee",
-        "Hitmonchan"
+        {
+          "species": "Hitmonlee",
+          "level": 37,
+          "moves": [
+            "Focus Energy",
+            "Hi Jump Kick",
+            "Mind Reader",
+            "Foresight"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Hitmonchan",
+          "level": 37,
+          "moves": [
+            "Thunderpunch",
+            "Ice Punch",
+            "Fire Punch",
+            "Sky Uppercut"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        37,
-        37
-      ]
+      "section": "Fighting Dojo"
     }
   ],
+  "items": [
+    {
+      "item": "NUGGET",
+      "method": "hidden",
+      "note": "next to Mimic Tutor's computer",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM29",
+      "method": "gift",
+      "note": "Mr. Psychic",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM04",
+      "method": "gift",
+      "note": "Defeat Sabrina",
+      "section": "Gym"
+    }
+  ],
+  "marts": [
+    {
+      "name": "PokéMart",
+      "stock": [
+        {
+          "item": "Great Ball",
+          "price": 600
+        },
+        {
+          "item": "Hyper Potion",
+          "price": 1200
+        },
+        {
+          "item": "Revive",
+          "price": 1500
+        },
+        {
+          "item": "Full Heal",
+          "price": 600
+        },
+        {
+          "item": "Escape Rope",
+          "price": 550
+        },
+        {
+          "item": "Max Repel",
+          "price": 700
+        }
+      ],
+      "section": "Main Area"
+    }
+  ],
+  "trades": [],
   "connections": {
     "north": "route5",
     "south": "route6",

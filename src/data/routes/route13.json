@@ -5,406 +5,1008 @@
   "images": [
     "/locations/route13.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Oddish",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Venonat",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 24,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgey",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 25,
+      "maxLevel": 27,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgeotto",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 29,
+      "maxLevel": 29,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Gloom",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Ditto",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Bellsprout",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Venonat",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 24,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgey",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 25,
+      "maxLevel": 27,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgeotto",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 29,
+      "maxLevel": 29,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Weepinbell",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Ditto",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 84
+      "rate": 84,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 84
+      "rate": 84,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Picnicker Alma",
       "team": [
-        "Goldeen",
-        "Poliwag",
-        "Horsea"
+        {
+          "species": "Goldeen",
+          "level": 28,
+          "moves": [
+            "Water Sport",
+            "Supersonic",
+            "Horn Attack",
+            "Flail"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Poliwag",
+          "level": 28,
+          "moves": [
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Horsea",
+          "level": 28,
+          "moves": [
+            "Bubble",
+            "Smokescreen",
+            "Leer",
+            "Water Gun"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Sebastian",
       "team": [
-        "Pidgey",
-        "Pidgeotto"
+        {
+          "species": "Pidgey",
+          "level": 29,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgeotto",
+          "level": 29,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Susie",
       "team": [
-        "Pidgey",
-        "Meowth",
-        "Rattata",
-        "Pikachu",
-        "Meowth"
+        {
+          "species": "Pidgey",
+          "level": 24,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Meowth",
+          "level": 24,
+          "moves": [
+            "Scratch",
+            "Growl",
+            "Bite",
+            "Pay Day"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rattata",
+          "level": 24,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang",
+            "Focus Energy"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pikachu",
+          "level": 24,
+          "moves": [
+            "Thunder Wave",
+            "Quick Attack",
+            "Double Team",
+            "Slam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Meowth",
+          "level": 24,
+          "moves": [
+            "Scratch",
+            "Growl",
+            "Bite",
+            "Pay Day"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        24,
-        24,
-        24,
-        24,
-        24
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Susie",
       "team": [
-        "Pidgeotto",
-        "Meowth",
-        "Raticate",
-        "Pikachu",
-        "Meowth"
+        {
+          "species": "Pidgeotto",
+          "level": 27,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Meowth",
+          "level": 27,
+          "moves": [
+            "Growl",
+            "Bite",
+            "Pay Day",
+            "Faint Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 27,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pikachu",
+          "level": 27,
+          "moves": [
+            "Quick Attack",
+            "Double Team",
+            "Slam",
+            "Thunderbolt"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Meowth",
+          "level": 27,
+          "moves": [
+            "Growl",
+            "Bite",
+            "Pay Day",
+            "Faint Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        27,
-        27,
-        27,
-        27,
-        27
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Susie",
       "team": [
-        "Pidgeotto",
-        "Persian",
-        "Raticate",
-        "Pikachu",
-        "Persian"
+        {
+          "species": "Pidgeotto",
+          "level": 47,
+          "moves": [
+            "Whirlwind",
+            "Wing Attack",
+            "Featherdance",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Persian",
+          "level": 47,
+          "moves": [
+            "Pay Day",
+            "Faint Attack",
+            "Screech",
+            "Fury Swipes"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 47,
+          "moves": [
+            "Hyper Fang",
+            "Scary Face",
+            "Pursuit",
+            "Super Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pikachu",
+          "level": 47,
+          "moves": [
+            "Slam",
+            "Thunderbolt",
+            "Agility",
+            "Thunder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Persian",
+          "level": 47,
+          "moves": [
+            "Pay Day",
+            "Faint Attack",
+            "Screech",
+            "Fury Swipes"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        47,
-        47,
-        47,
-        47,
-        47
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Susie",
       "team": [
-        "Pidgeot",
-        "Persian",
-        "Raticate",
-        "Raichu",
-        "Persian"
+        {
+          "species": "Pidgeot",
+          "level": 52,
+          "moves": [
+            "Whirlwind",
+            "Wing Attack",
+            "Featherdance",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Persian",
+          "level": 52,
+          "moves": [
+            "Faint Attack",
+            "Screech",
+            "Fury Swipes",
+            "Slash"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 52,
+          "moves": [
+            "Scary Face",
+            "Pursuit",
+            "Super Fang",
+            "Endeavor"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raichu",
+          "level": 52,
+          "moves": [
+            "Thundershock",
+            "Tail Whip",
+            "Quick Attack",
+            "Thunderbolt"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Persian",
+          "level": 52,
+          "moves": [
+            "Faint Attack",
+            "Screech",
+            "Fury Swipes",
+            "Slash"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        52,
-        52,
-        52,
-        52,
-        52
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Beauty Lola",
       "team": [
-        "Rattata",
-        "Pikachu",
-        "Rattata"
+        {
+          "species": "Rattata",
+          "level": 27,
+          "moves": [
+            "Quick Attack",
+            "Hyper Fang",
+            "Focus Energy",
+            "Pursuit"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pikachu",
+          "level": 27,
+          "moves": [
+            "Quick Attack",
+            "Double Team",
+            "Slam",
+            "Thunderbolt"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rattata",
+          "level": 27,
+          "moves": [
+            "Quick Attack",
+            "Hyper Fang",
+            "Focus Energy",
+            "Pursuit"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        27,
-        27,
-        27
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Beauty Sheila",
       "team": [
-        "Clefairy",
-        "Meowth"
+        {
+          "species": "Clefairy",
+          "level": 29,
+          "moves": [
+            "Follow Me",
+            "Minimize",
+            "Defense Curl",
+            "Metronome"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Meowth",
+          "level": 29,
+          "moves": [
+            "Growl",
+            "Bite",
+            "Pay Day",
+            "Faint Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Beauty Sheila",
       "team": [
-        "Clefairy",
-        "Persian"
+        {
+          "species": "Clefairy",
+          "level": 49,
+          "moves": [
+            "Cosmic Power",
+            "Moonlight",
+            "Light Screen",
+            "Meteor Mash"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Persian",
+          "level": 49,
+          "moves": [
+            "Faint Attack",
+            "Screech",
+            "Fury Swipes",
+            "Slash"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        49,
-        49
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Valerie",
       "team": [
-        "Poliwag",
-        "Poliwag"
+        {
+          "species": "Poliwag",
+          "level": 30,
+          "moves": [
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Poliwag",
+          "level": 30,
+          "moves": [
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        30,
-        30
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Gwen",
       "team": [
-        "Pidgey",
-        "Meowth",
-        "Pidgey",
-        "Pidgeotto"
+        {
+          "species": "Pidgey",
+          "level": 27,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Meowth",
+          "level": 27,
+          "moves": [
+            "Growl",
+            "Bite",
+            "Pay Day",
+            "Faint Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgey",
+          "level": 27,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgeotto",
+          "level": 27,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        27,
-        27,
-        27,
-        27
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Perry",
       "team": [
-        "Spearow",
-        "Pidgey",
-        "Pidgey",
-        "Spearow",
-        "Spearow"
+        {
+          "species": "Spearow",
+          "level": 25,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgey",
+          "level": 25,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgey",
+          "level": 25,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Spearow",
+          "level": 25,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Spearow",
+          "level": 25,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        25,
-        25,
-        25,
-        25,
-        25
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Jared",
       "team": [
-        "Koffing",
-        "Koffing",
-        "Koffing"
+        {
+          "species": "Koffing",
+          "level": 28,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Poison Gas"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 28,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 28,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Robert",
       "team": [
-        "Pidgey",
-        "Pidgeotto",
-        "Spearow",
-        "Fearow"
+        {
+          "species": "Pidgey",
+          "level": 26,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgeotto",
+          "level": 26,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Spearow",
+          "level": 26,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 26,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        26,
-        26,
-        26,
-        26
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Robert",
       "team": [
-        "Pidgeotto",
-        "Pidgeotto",
-        "Fearow",
-        "Fearow"
+        {
+          "species": "Pidgeotto",
+          "level": 28,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgeotto",
+          "level": 28,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 28,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 28,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Robert",
       "team": [
-        "Pidgeot",
-        "Pidgeot",
-        "Fearow",
-        "Fearow"
+        {
+          "species": "Pidgeot",
+          "level": 47,
+          "moves": [
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack",
+            "Featherdance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgeot",
+          "level": 47,
+          "moves": [
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack",
+            "Featherdance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 47,
+          "moves": [
+            "Pursuit",
+            "Mirror Move",
+            "Drill Peck",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 47,
+          "moves": [
+            "Pursuit",
+            "Mirror Move",
+            "Drill Peck",
+            "Agility"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        47,
-        47,
-        47,
-        47
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "PP UP",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "route12",
     "south": null,

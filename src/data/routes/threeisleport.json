@@ -5,21 +5,33 @@
   "images": [
     "/locations/threeisleport.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Dunsparce",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Dunsparce",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [],
+  "items": [],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "threeisland",
     "south": null,

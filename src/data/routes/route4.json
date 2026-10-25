@@ -5,173 +5,301 @@
   "images": [
     "/locations/route4.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Rattata",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 8,
+      "maxLevel": 12,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Spearow",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 8,
+      "maxLevel": 12,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Ekans",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 6,
+      "maxLevel": 12,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Mankey",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 10,
+      "maxLevel": 12,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rattata",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 8,
+      "maxLevel": 12,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Spearow",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 8,
+      "maxLevel": 12,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Sandshrew",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 6,
+      "maxLevel": 12,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Mankey",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 10,
+      "maxLevel": 12,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 84
+      "rate": 84,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 84
+      "rate": 84,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "gift",
       "version": "unknown",
       "species": "Magikarp",
-      "rate": 500
+      "rate": 500,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Lass Crissy",
       "team": [
-        "Paras",
-        "Paras",
-        "Parasect"
+        {
+          "species": "Paras",
+          "level": 31,
+          "moves": [
+            "Poisonpowder",
+            "Leech Life",
+            "Spore",
+            "Slash"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Paras",
+          "level": 31,
+          "moves": [
+            "Poisonpowder",
+            "Leech Life",
+            "Spore",
+            "Slash"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Parasect",
+          "level": 31,
+          "moves": [
+            "Stun Spore",
+            "Poisonpowder",
+            "Leech Life",
+            "Spore"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        31,
-        31,
-        31
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "TM05",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "PERSIM BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "GREAT BALL",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "RAZZ BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "route3",

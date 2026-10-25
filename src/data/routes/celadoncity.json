@@ -7,222 +7,697 @@
     "/locations/celadoncity-35-gym.png",
     "/locations/celadoncity-35-gamecorner.png"
   ],
+  "sections": [
+    "Main Area",
+    "Gym",
+    "Game Corner"
+  ],
   "encounters": [
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 99
+      "rate": 99,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Koffing",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 30,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 99
+      "rate": 99,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Koffing",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 30,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 99
+      "rate": 99,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Grimer",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 30,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 99
+      "rate": 99,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Grimer",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 30,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "gift",
       "version": "unknown",
       "species": "Eevee",
-      "rate": 0
+      "rate": null,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "gift",
       "version": "unknown",
       "species": "Abra",
-      "rate": 180
+      "rate": 180,
+      "minLevel": 9,
+      "maxLevel": 9,
+      "section": "Game Corner"
     },
     {
       "method": "gift",
       "version": "unknown",
       "species": "Clefairy",
-      "rate": 500
+      "rate": 500,
+      "minLevel": 8,
+      "maxLevel": 8,
+      "section": "Game Corner"
     },
     {
       "method": "gift",
       "version": "unknown",
       "species": "Scyther",
-      "rate": 5500
+      "rate": 5500,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Game Corner"
     },
     {
       "method": "gift",
       "version": "unknown",
       "species": "Pinsir",
-      "rate": 5500
+      "rate": 5500,
+      "minLevel": 18,
+      "maxLevel": 18,
+      "section": "Game Corner"
     },
     {
       "method": "gift",
       "version": "unknown",
       "species": "Dratini",
-      "rate": 2800
+      "rate": 2800,
+      "minLevel": 18,
+      "maxLevel": 18,
+      "section": "Game Corner"
     },
     {
       "method": "gift",
       "version": "unknown",
       "species": "Porygon",
-      "rate": 9999
+      "rate": 9999,
+      "minLevel": 26,
+      "maxLevel": 26,
+      "section": "Game Corner"
     }
   ],
   "trainers": [
     {
       "name": "Lass Kay",
       "team": [
-        "Bellsprout",
-        "Weepinbell"
+        {
+          "species": "Bellsprout",
+          "level": 23,
+          "moves": [
+            "Sleep Powder",
+            "Poisonpowder",
+            "Stun Spore",
+            "Acid"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weepinbell",
+          "level": 23,
+          "moves": [
+            "Wrap",
+            "Sleep Powder",
+            "Poisonpowder",
+            "Stun Spore"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        23,
-        23
-      ]
+      "section": "Gym"
     },
     {
       "name": "Beauty Bridget",
       "team": [
-        "Oddish",
-        "Bellsprout",
-        "Oddish",
-        "Bellsprout"
+        {
+          "species": "Oddish",
+          "level": 21,
+          "moves": [
+            "Sweet Scent",
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Bellsprout",
+          "level": 21,
+          "moves": [
+            "Wrap",
+            "Sleep Powder",
+            "Poisonpowder",
+            "Stun Spore"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Oddish",
+          "level": 21,
+          "moves": [
+            "Sweet Scent",
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Bellsprout",
+          "level": 21,
+          "moves": [
+            "Wrap",
+            "Sleep Powder",
+            "Poisonpowder",
+            "Stun Spore"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21,
-        21,
-        21
-      ]
+      "section": "Gym"
     },
     {
       "name": "Picnicker Tina",
       "team": [
-        "Bulbasaur",
-        "Ivysaur"
+        {
+          "species": "Bulbasaur",
+          "level": 24,
+          "moves": [
+            "Vine Whip",
+            "Poisonpowder",
+            "Sleep Powder",
+            "Razor Leaf"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ivysaur",
+          "level": 24,
+          "moves": [
+            "Vine Whip",
+            "Poisonpowder",
+            "Sleep Powder",
+            "Razor Leaf"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        24,
-        24
-      ]
+      "section": "Gym"
     },
     {
       "name": "Beauty Tamia",
       "team": [
-        "Bellsprout",
-        "Bellsprout"
+        {
+          "species": "Bellsprout",
+          "level": 24,
+          "moves": [
+            "Sleep Powder",
+            "Poisonpowder",
+            "Stun Spore",
+            "Acid"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Bellsprout",
+          "level": 24,
+          "moves": [
+            "Sleep Powder",
+            "Poisonpowder",
+            "Stun Spore",
+            "Acid"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        24,
-        24
-      ]
+      "section": "Gym"
     },
     {
       "name": "Beauty Lori",
       "team": [
-        "Exeggcute"
+        {
+          "species": "Exeggcute",
+          "level": 24,
+          "moves": [
+            "Hypnosis",
+            "Reflect",
+            "Leech Seed",
+            "Confusion"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        24
-      ]
+      "section": "Gym"
     },
     {
       "name": "Lass Lisa",
       "team": [
-        "Oddish",
-        "Gloom"
+        {
+          "species": "Oddish",
+          "level": 23,
+          "moves": [
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder",
+            "Acid"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Gloom",
+          "level": 23,
+          "moves": [
+            "Sweet Scent",
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        23,
-        23
-      ]
+      "section": "Gym"
     },
     {
       "name": "Cooltrainer Mary",
       "team": [
-        "Bellsprout",
-        "Oddish",
-        "Weepinbell",
-        "Gloom",
-        "Ivysaur"
+        {
+          "species": "Bellsprout",
+          "level": 22,
+          "moves": [
+            "Wrap",
+            "Stun Spore",
+            "Poisonpowder",
+            "Growth"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Oddish",
+          "level": 22,
+          "moves": [
+            "Poisonpowder",
+            "Stun Spore",
+            "Absorb",
+            "Sweet Scent"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weepinbell",
+          "level": 22,
+          "moves": [
+            "Vine Whip",
+            "Stun Spore",
+            "Poisonpowder",
+            "Growth"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Gloom",
+          "level": 22,
+          "moves": [
+            "Absorb",
+            "Stun Spore",
+            "Poisonpowder",
+            "Sweet Scent"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ivysaur",
+          "level": 22,
+          "moves": [
+            "Razor Leaf",
+            "Sleep Powder",
+            "Vine Whip",
+            "Leech Seed"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22,
-        22,
-        22,
-        22,
-        22
-      ]
+      "section": "Gym"
     },
     {
       "name": "Leader Erika",
       "team": [
-        "Victreebel",
-        "Tangela",
-        "Vileplume"
+        {
+          "species": "Victreebel",
+          "level": 29,
+          "moves": [
+            "Stun Spore",
+            "Acid",
+            "Poisonpowder",
+            "Giga Drain"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tangela",
+          "level": 24,
+          "moves": [
+            "Poisonpowder",
+            "Constrict",
+            "Ingrain",
+            "Giga Drain"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Vileplume",
+          "level": 29,
+          "moves": [
+            "Sleep Powder",
+            "Acid",
+            "Stun Spore",
+            "Giga Drain"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        24,
-        29
-      ]
+      "section": "Gym"
     }
   ],
+  "items": [
+    {
+      "item": "PP UP",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM19",
+      "method": "gift",
+      "note": "Defeat Erika",
+      "section": "Main Area"
+    },
+    {
+      "item": "TEA",
+      "method": "gift",
+      "note": "Old Lady in Celadon Mansion",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [
+    {
+      "name": "Dept. Store - 2F - Counter One",
+      "stock": [
+        {
+          "item": "Great Ball",
+          "price": 600
+        },
+        {
+          "item": "Super Potion",
+          "price": 700
+        },
+        {
+          "item": "Revive",
+          "price": 1500
+        },
+        {
+          "item": "Antidote",
+          "price": 100
+        },
+        {
+          "item": "Paralyz Heal",
+          "price": 200
+        },
+        {
+          "item": "Awakening",
+          "price": 250
+        },
+        {
+          "item": "Burn Heal",
+          "price": 250
+        },
+        {
+          "item": "Ice Heal",
+          "price": 250
+        },
+        {
+          "item": "Super Repel",
+          "price": 500
+        }
+      ],
+      "section": "Main Area"
+    },
+    {
+      "name": "Dept. Store - 2F - Counter Two",
+      "stock": [
+        {
+          "item": "TM05 - Roar",
+          "price": 1000
+        },
+        {
+          "item": "TM15 - Hyper Beam",
+          "price": 7500
+        },
+        {
+          "item": "TM28 - Dig",
+          "price": 2000
+        },
+        {
+          "item": "TM31 - Brick Break",
+          "price": 3000
+        },
+        {
+          "item": "TM43 - Secret Power",
+          "price": 3000
+        },
+        {
+          "item": "TM45 - Attract",
+          "price": 3000
+        }
+      ],
+      "section": "Main Area"
+    },
+    {
+      "name": "Dept. Store - 4F",
+      "stock": [
+        {
+          "item": "PokéDoll",
+          "price": 1000
+        },
+        {
+          "item": "Retro Mail",
+          "price": 50
+        },
+        {
+          "item": "Fire Stone",
+          "price": 2100
+        },
+        {
+          "item": "Thunderstone",
+          "price": 2100
+        },
+        {
+          "item": "Water Stone",
+          "price": 2100
+        },
+        {
+          "item": "Leaf Stone",
+          "price": 2100
+        }
+      ],
+      "section": "Main Area"
+    },
+    {
+      "name": "Dept. Store - 5F - Counter One",
+      "stock": [
+        {
+          "item": "HP Up",
+          "price": 9800
+        },
+        {
+          "item": "Protein",
+          "price": 9800
+        },
+        {
+          "item": "Iron",
+          "price": 9800
+        },
+        {
+          "item": "Calcium",
+          "price": 9800
+        },
+        {
+          "item": "Zinc",
+          "price": 9800
+        },
+        {
+          "item": "Carbos",
+          "price": 9800
+        }
+      ],
+      "section": "Main Area"
+    },
+    {
+      "name": "Dept. Store - 5F - Counter Two",
+      "stock": [
+        {
+          "item": "X Attack",
+          "price": 500
+        },
+        {
+          "item": "X Defend",
+          "price": 550
+        },
+        {
+          "item": "X Speed",
+          "price": 350
+        },
+        {
+          "item": "X Special",
+          "price": 350
+        },
+        {
+          "item": "X Accuracy",
+          "price": 950
+        },
+        {
+          "item": "Guard Spec.",
+          "price": 700
+        },
+        {
+          "item": "Dire. Hit",
+          "price": 650
+        }
+      ],
+      "section": "Main Area"
+    },
+    {
+      "name": "Dept. Store - Roof",
+      "stock": [
+        {
+          "item": "Fresh Water",
+          "price": 200
+        },
+        {
+          "item": "Soda Pop",
+          "price": 300
+        },
+        {
+          "item": "Lemonade",
+          "price": 350
+        }
+      ],
+      "section": "Main Area"
+    },
+    {
+      "name": "Right Window",
+      "stock": [
+        {
+          "item": "TM13 - Ice Beam",
+          "price": 4000
+        },
+        {
+          "item": "TM23 - Iron Tail",
+          "price": 3500
+        },
+        {
+          "item": "TM24 - Thunderbolt",
+          "price": 4000
+        },
+        {
+          "item": "TM30 - Shadow Ball",
+          "price": 4500
+        },
+        {
+          "item": "TM35 - Flamethrower",
+          "price": 4000
+        }
+      ],
+      "section": "Game Corner"
+    }
+  ],
+  "trades": [],
   "connections": {
     "north": null,
     "south": null,

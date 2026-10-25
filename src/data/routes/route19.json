@@ -5,294 +5,691 @@
   "images": [
     "/locations/route19.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Seadra",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Kingler",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Swimmer M Richard",
       "team": [
-        "Tentacool",
-        "Shellder"
+        {
+          "species": "Tentacool",
+          "level": 30,
+          "moves": [
+            "Constrict",
+            "Acid",
+            "Bubblebeam",
+            "Wrap"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Shellder",
+          "level": 30,
+          "moves": [
+            "Icicle Spear",
+            "Supersonic",
+            "Aurora Beam",
+            "Protect"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        30,
-        30
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Reece",
       "team": [
-        "Goldeen",
-        "Horsea",
-        "Staryu"
+        {
+          "species": "Goldeen",
+          "level": 29,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Horsea",
+          "level": 29,
+          "moves": [
+            "Smokescreen",
+            "Leer",
+            "Water Gun",
+            "Twister"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Staryu",
+          "level": 29,
+          "moves": [
+            "Recover",
+            "Camouflage",
+            "Swift",
+            "Bubblebeam"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Tony",
       "team": [
-        "Horsea",
-        "Horsea"
+        {
+          "species": "Horsea",
+          "level": 30,
+          "moves": [
+            "Smokescreen",
+            "Leer",
+            "Water Gun",
+            "Twister"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Horsea",
+          "level": 30,
+          "moves": [
+            "Smokescreen",
+            "Leer",
+            "Water Gun",
+            "Twister"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        30,
-        30
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Tony",
       "team": [
-        "Seadra",
-        "Seadra"
+        {
+          "species": "Seadra",
+          "level": 49,
+          "moves": [
+            "Leer",
+            "Water Gun",
+            "Twister",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seadra",
+          "level": 49,
+          "moves": [
+            "Leer",
+            "Water Gun",
+            "Twister",
+            "Agility"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        49,
-        49
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M David",
       "team": [
-        "Goldeen",
-        "Shellder",
-        "Seaking"
+        {
+          "species": "Goldeen",
+          "level": 29,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Shellder",
+          "level": 29,
+          "moves": [
+            "Icicle Spear",
+            "Supersonic",
+            "Aurora Beam",
+            "Protect"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seaking",
+          "level": 29,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Douglas",
       "team": [
-        "Horsea",
-        "Tentacool",
-        "Tentacool",
-        "Goldeen"
+        {
+          "species": "Horsea",
+          "level": 27,
+          "moves": [
+            "Bubble",
+            "Smokescreen",
+            "Leer",
+            "Water Gun"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tentacool",
+          "level": 27,
+          "moves": [
+            "Supersonic",
+            "Constrict",
+            "Acid",
+            "Bubblebeam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tentacool",
+          "level": 27,
+          "moves": [
+            "Supersonic",
+            "Constrict",
+            "Acid",
+            "Bubblebeam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Goldeen",
+          "level": 27,
+          "moves": [
+            "Water Sport",
+            "Supersonic",
+            "Horn Attack",
+            "Flail"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        27,
-        27,
-        27,
-        27
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Matthew",
       "team": [
-        "Poliwag",
-        "Poliwhirl"
+        {
+          "species": "Poliwag",
+          "level": 30,
+          "moves": [
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Poliwhirl",
+          "level": 30,
+          "moves": [
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        30,
-        30
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Matthew",
       "team": [
-        "Poliwhirl",
-        "Poliwrath"
+        {
+          "species": "Poliwhirl",
+          "level": 49,
+          "moves": [
+            "Doubleslap",
+            "Rain Dance",
+            "Body Slam",
+            "Belly Drum"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Poliwrath",
+          "level": 49,
+          "moves": [
+            "Hypnosis",
+            "Doubleslap",
+            "Submission",
+            "Submission"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        49,
-        49
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Sis And Bro Lia & Luc",
       "team": [
-        "Goldeen",
-        "Seaking"
+        {
+          "species": "Goldeen",
+          "level": 30,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seaking",
+          "level": 30,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        30,
-        30
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Axle",
       "team": [
-        "Tentacool",
-        "Tentacool",
-        "Staryu",
-        "Horsea",
-        "Tentacruel"
+        {
+          "species": "Tentacool",
+          "level": 27,
+          "moves": [
+            "Supersonic",
+            "Constrict",
+            "Acid",
+            "Bubblebeam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tentacool",
+          "level": 27,
+          "moves": [
+            "Supersonic",
+            "Constrict",
+            "Acid",
+            "Bubblebeam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Staryu",
+          "level": 27,
+          "moves": [
+            "Rapid Spin",
+            "Recover",
+            "Camouflage",
+            "Swift"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Horsea",
+          "level": 27,
+          "moves": [
+            "Bubble",
+            "Smokescreen",
+            "Leer",
+            "Water Gun"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tentacruel",
+          "level": 27,
+          "moves": [
+            "Supersonic",
+            "Constrict",
+            "Acid",
+            "Bubblebeam"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        27,
-        27,
-        27,
-        27,
-        27
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer F Alice",
       "team": [
-        "Goldeen",
-        "Seaking"
+        {
+          "species": "Goldeen",
+          "level": 30,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seaking",
+          "level": 30,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        30,
-        30
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer F Alice",
       "team": [
-        "Seaking",
-        "Seaking"
+        {
+          "species": "Seaking",
+          "level": 49,
+          "moves": [
+            "Flail",
+            "Fury Attack",
+            "Waterfall",
+            "Horn Drill"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seaking",
+          "level": 49,
+          "moves": [
+            "Flail",
+            "Fury Attack",
+            "Waterfall",
+            "Horn Drill"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        49,
-        49
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer F Connie",
       "team": [
-        "Staryu",
-        "Staryu",
-        "Staryu"
+        {
+          "species": "Staryu",
+          "level": 29,
+          "moves": [
+            "Recover",
+            "Camouflage",
+            "Swift",
+            "Bubblebeam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Staryu",
+          "level": 29,
+          "moves": [
+            "Recover",
+            "Camouflage",
+            "Swift",
+            "Bubblebeam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Staryu",
+          "level": 29,
+          "moves": [
+            "Recover",
+            "Camouflage",
+            "Swift",
+            "Bubblebeam"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer F Anya",
       "team": [
-        "Poliwag",
-        "Goldeen",
-        "Seaking",
-        "Goldeen",
-        "Poliwag"
+        {
+          "species": "Poliwag",
+          "level": 27,
+          "moves": [
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Goldeen",
+          "level": 27,
+          "moves": [
+            "Water Sport",
+            "Supersonic",
+            "Horn Attack",
+            "Flail"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seaking",
+          "level": 27,
+          "moves": [
+            "Supersonic",
+            "Supersonic",
+            "Horn Attack",
+            "Flail"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Goldeen",
+          "level": 27,
+          "moves": [
+            "Water Sport",
+            "Supersonic",
+            "Horn Attack",
+            "Flail"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Poliwag",
+          "level": 27,
+          "moves": [
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        27,
-        27,
-        27,
-        27,
-        27
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "fuchsiacity",
     "south": null,

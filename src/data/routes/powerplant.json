@@ -5,63 +5,172 @@
   "images": [
     "/locations/powerplant.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Magnemite",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 22,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Voltorb",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 22,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Pikachu",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Magneton",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 31,
+      "maxLevel": 34,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Electabuzz",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 32,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Magnemite",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 22,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Voltorb",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 22,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pikachu",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Magneton",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 31,
+      "maxLevel": 34,
+      "section": "Main Area"
+    },
+    {
+      "method": "static",
+      "version": "firered",
+      "species": "Zapdos",
+      "rate": null,
+      "minLevel": 50,
+      "maxLevel": 50,
+      "section": "Main Area",
+      "category": "legendary"
+    },
+    {
+      "method": "static",
+      "version": "firered",
+      "species": "Electrode",
+      "rate": null,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "Main Area",
+      "category": "other"
+    },
+    {
+      "method": "static",
+      "version": "leafgreen",
+      "species": "Zapdos",
+      "rate": null,
+      "minLevel": 50,
+      "maxLevel": 50,
+      "section": "Main Area",
+      "category": "legendary"
+    },
+    {
+      "method": "static",
+      "version": "leafgreen",
+      "species": "Electrode",
+      "rate": null,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "Main Area",
+      "category": "other"
     }
   ],
   "trainers": [],
+  "items": [
+    {
+      "item": "MAX POTION",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM25",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM17",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "THUNDERSTONE",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "ELIXIR",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "MAX ELIXIR",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "THUNDERSTONE",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "route10",

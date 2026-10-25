@@ -1,9 +1,31 @@
 import * as cheerio from 'cheerio';
-import type { RouteEncounter, EncounterMethod } from "#/types/overworld/route-encounter.ts";
+import type { RouteEncounter, EncounterMethod, StaticCategory } from "#/types/overworld/route-encounter.ts";
 import { isEncounterMethod } from "#/types/overworld/route-encounter.ts";
+import type { Sections } from '#/scripts/utils/parse-sections.ts';
 
+// Anchors that do not match the method name.
+const ANCHOR_ALIASES: Record<string, EncounterMethod> = {
+  interact: 'static',
+};
 
-export function parseEncounters($: cheerio.CheerioAPI): RouteEncounter[] {
+// Anchors of tables that are not encounters (parsed elsewhere).
+const IGNORED_ANCHORS = ['trade'];
+
+const LEGENDARIES = new Set([
+  'Articuno', 'Zapdos', 'Moltres', 'Mewtwo', 'Mew',
+  'Raikou', 'Entei', 'Suicune', 'Lugia', 'Ho-Oh', 'Celebi',
+  'Deoxys',
+]);
+
+// "2 - 5" -> 2..5, "30" -> 30..30
+const parseLevels = (text: string): { min: number | null; max: number | null } => {
+  const m = text.match(/(\d+)(?:\s*-\s*(\d+))?/);
+  if (!m) return { min: null, max: null };
+  const min = parseInt(m[1], 10);
+  return { min, max: m[2] ? parseInt(m[2], 10) : min };
+};
+
+export function parseEncounters($: cheerio.CheerioAPI, sectionOf: Sections['sectionOf']): RouteEncounter[] {
   const encounters: RouteEncounter[] = [];
   let currentMethod: EncounterMethod | null = null;
 
@@ -16,10 +38,13 @@ export function parseEncounters($: cheerio.CheerioAPI): RouteEncounter[] {
     const anchor = $(rows[0]).find('a[name]').first().attr('name');
     if (anchor) {
       const normalized = anchor.toLowerCase();
-      if (isEncounterMethod(normalized)) {
-        currentMethod = normalized;
+      const method = ANCHOR_ALIASES[normalized] ?? normalized;
+      if (isEncounterMethod(method)) {
+        currentMethod = method;
       } else {
-        console.warn(`Unknown encounter method "${anchor}" — skipping table group`);
+        if (!IGNORED_ANCHORS.includes(normalized)) {
+          console.warn(`Unknown encounter method "${anchor}" — skipping table group`);
+        }
         currentMethod = null;
       }
     }
@@ -36,18 +61,29 @@ export function parseEncounters($: cheerio.CheerioAPI): RouteEncounter[] {
           : 'unknown';
 
     const species = $(table).find('td.name').map((_, el) => $(el).text().trim()).get();
-    const rates = $(table).find('td.rate').map((_, el) => {
+    // Gift and static tables have no rate ("-%" or empty).
+    // (toArray: cheerio's map would drop the nulls and shift the indices)
+    const rates = $(table).find('td.rate').toArray().map((el) => {
       const n = parseInt($(el).text().replace('%', '').trim(), 10);
-      return Number.isNaN(n) ? 0 : n;
-    }).get();
+      return Number.isNaN(n) ? null : n;
+    });
+    const levels = $(table).find('td.level').toArray().map((el) => parseLevels($(el).text()));
 
     for (let i = 0; i < species.length; i++) {
       if (!species[i]) continue;
+      const { min: minLevel, max: maxLevel } = levels[i] ?? { min: null, max: null };
+      const category: StaticCategory | undefined = currentMethod === 'static'
+        ? (LEGENDARIES.has(species[i]) ? 'legendary' : 'other')
+        : undefined;
       encounters.push({
         method: currentMethod,
         version,
         species: species[i],
-        rate: rates[i] ?? 0,
+        rate: rates[i] ?? null,
+        minLevel,
+        maxLevel,
+        section: sectionOf(table),
+        ...(category && { category }),
       });
     }
   });

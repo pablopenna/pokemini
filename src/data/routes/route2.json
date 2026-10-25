@@ -5,57 +5,112 @@
   "images": [
     "/locations/route2.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgey",
-      "rate": 45
+      "rate": 45,
+      "minLevel": 2,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Rattata",
-      "rate": 45
+      "rate": 45,
+      "minLevel": 2,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Caterpie",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 4,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Weedle",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 4,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgey",
-      "rate": 45
+      "rate": 45,
+      "minLevel": 2,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rattata",
-      "rate": 45
+      "rate": 45,
+      "minLevel": 2,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Caterpie",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 4,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Weedle",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 4,
+      "maxLevel": 5,
+      "section": "Main Area"
     }
   ],
   "trainers": [],
+  "items": [
+    {
+      "item": "ETHER",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "HM05",
+      "method": "gift",
+      "note": "Professor Oak's Aide",
+      "section": "Main Area"
+    },
+    {
+      "item": "PARLYZ HEAL",
+      "method": "floor",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [
+    {
+      "received": "Mr. Mime",
+      "nickname": "MIMIEN",
+      "level": null,
+      "requested": "Abra",
+      "section": "Main Area"
+    }
+  ],
   "connections": {
     "north": "pewtercity",
     "south": "viridiancity",

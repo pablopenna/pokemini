@@ -3,259 +3,984 @@
   "url": "https://www.serebii.net/pokearth/kanto/3rd/indigoplateau.shtml",
   "image": null,
   "images": [],
+  "sections": [
+    "Main Area",
+    "Pokemon League"
+  ],
   "encounters": [],
   "trainers": [
     {
       "name": "Elite Four Lorelei",
       "team": [
-        "Dewgong",
-        "Cloyster",
-        "Slowbro",
-        "Jynx",
-        "Lapras"
+        {
+          "species": "Dewgong",
+          "level": 52,
+          "moves": [
+            "Ice Beam",
+            "Surf",
+            "Hail",
+            "Safeguard"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Cloyster",
+          "level": 51,
+          "moves": [
+            "Spikes",
+            "Protect",
+            "Hail",
+            "Dive"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Slowbro",
+          "level": 52,
+          "moves": [
+            "Ice Beam",
+            "Surf",
+            "Amnesia",
+            "Yawn"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Jynx",
+          "level": 54,
+          "moves": [
+            "Ice Punch",
+            "Doubleslap",
+            "Lovely Kiss",
+            "Attract"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Lapras",
+          "level": 54,
+          "moves": [
+            "Confuse Ray",
+            "Ice Beam",
+            "Surf",
+            "Body Slam"
+          ],
+          "heldItem": "Sitrus Berry"
+        }
       ],
-      "levels": [
-        52,
-        51,
-        52,
-        54,
-        54
-      ]
+      "section": "Pokemon League"
     },
     {
       "name": "Elite Four Bruno",
       "team": [
-        "Onix",
-        "Hitmonchan",
-        "Hitmonlee",
-        "Onix",
-        "Machamp"
+        {
+          "species": "Onix",
+          "level": 51,
+          "moves": [
+            "Earthquake",
+            "Rock Tomb",
+            "Iron Tail",
+            "Roar"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Hitmonchan",
+          "level": 53,
+          "moves": [
+            "Sky Uppercut",
+            "Mach Punch",
+            "Rock Tomb",
+            "Counter"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Hitmonlee",
+          "level": 53,
+          "moves": [
+            "Mega Kick",
+            "Foresight",
+            "Brick Break",
+            "Facade"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Onix",
+          "level": 54,
+          "moves": [
+            "Double-edge",
+            "Earthquake",
+            "Iron Tail",
+            "Sand Tomb"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machamp",
+          "level": 56,
+          "moves": [
+            "Cross Chop",
+            "Bulk Up",
+            "Scary Face",
+            "Rock Tomb"
+          ],
+          "heldItem": "Sitrus Berry"
+        }
       ],
-      "levels": [
-        51,
-        53,
-        53,
-        54,
-        56
-      ]
+      "section": "Pokemon League"
     },
     {
       "name": "Elite Four Agatha",
       "team": [
-        "Gengar",
-        "Golbat",
-        "Haunter",
-        "Arbok",
-        "Gengar"
+        {
+          "species": "Gengar",
+          "level": 54,
+          "moves": [
+            "Shadow Punch",
+            "Confuse Ray",
+            "Toxic",
+            "Double Team"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Golbat",
+          "level": 54,
+          "moves": [
+            "Confuse Ray",
+            "Poison Fang",
+            "Air Cutter",
+            "Bite"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Haunter",
+          "level": 53,
+          "moves": [
+            "Hypnosis",
+            "Dream Eater",
+            "Curse",
+            "Mean Look"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Arbok",
+          "level": 56,
+          "moves": [
+            "Sludge Bomb",
+            "Screech",
+            "Iron Tail",
+            "Bite"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Gengar",
+          "level": 58,
+          "moves": [
+            "Shadow Ball",
+            "Sludge Bomb",
+            "Hypnosis",
+            "Nightmare"
+          ],
+          "heldItem": "Sitrus Berry"
+        }
       ],
-      "levels": [
-        54,
-        54,
-        53,
-        56,
-        58
-      ]
+      "section": "Pokemon League"
     },
     {
       "name": "Elite Four Lance",
       "team": [
-        "Gyarados",
-        "Dragonair",
-        "Dragonair",
-        "Aerodactyl",
-        "Dragonite"
+        {
+          "species": "Gyarados",
+          "level": 56,
+          "moves": [
+            "Hyper Beam",
+            "Dragon Rage",
+            "Twister",
+            "Bite"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Dragonair",
+          "level": 54,
+          "moves": [
+            "Hyper Beam",
+            "Safeguard",
+            "Dragon Rage",
+            "Outrage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Dragonair",
+          "level": 54,
+          "moves": [
+            "Hyper Beam",
+            "Safeguard",
+            "Thunder Wave",
+            "Outrage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Aerodactyl",
+          "level": 58,
+          "moves": [
+            "Hyper Beam",
+            "Ancientpower",
+            "Wing Attack",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Dragonite",
+          "level": 60,
+          "moves": [
+            "Hyper Beam",
+            "Safeguard",
+            "Outrage",
+            "Wing Attack"
+          ],
+          "heldItem": "Sitrus Berry"
+        }
       ],
-      "levels": [
-        56,
-        54,
-        54,
-        58,
-        60
-      ]
+      "section": "Pokemon League"
     },
     {
       "name": "Champion Blue",
       "team": [
-        "Pidgeot",
-        "Alakazam",
-        "Rhydon",
-        "Arcanine",
-        "Exeggutor",
-        "Blastoise"
+        {
+          "species": "Pidgeot",
+          "level": 59,
+          "moves": [
+            "Aerial Ace",
+            "Featherdance",
+            "Sand-attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Alakazam",
+          "level": 57,
+          "moves": [
+            "Psychic",
+            "Future Sight",
+            "Recover",
+            "Reflect"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rhydon",
+          "level": 59,
+          "moves": [
+            "Take Down",
+            "Earthquake",
+            "Rock Tomb",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Arcanine",
+          "level": 59,
+          "moves": [
+            "Extremespeed",
+            "Flamethrower",
+            "Roar",
+            "Bite"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Exeggutor",
+          "level": 61,
+          "moves": [
+            "Giga Drain",
+            "Egg Bomb",
+            "Sleep Powder",
+            "Light Screen"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Blastoise",
+          "level": 63,
+          "moves": [
+            "Hydro Pump",
+            "Rain Dance",
+            "Skull Bash",
+            "Bite"
+          ],
+          "heldItem": "Sitrus Berry"
+        }
       ],
-      "levels": [
-        59,
-        57,
-        59,
-        59,
-        61,
-        63
-      ]
+      "section": "Pokemon League"
     },
     {
       "name": "Champion Blue",
       "team": [
-        "Pidgeot",
-        "Alakazam",
-        "Rhydon",
-        "Gyarados",
-        "Arcanine",
-        "Venusaur"
+        {
+          "species": "Pidgeot",
+          "level": 59,
+          "moves": [
+            "Aerial Ace",
+            "Featherdance",
+            "Sand-attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Alakazam",
+          "level": 57,
+          "moves": [
+            "Psychic",
+            "Future Sight",
+            "Recover",
+            "Reflect"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rhydon",
+          "level": 59,
+          "moves": [
+            "Take Down",
+            "Earthquake",
+            "Rock Tomb",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Gyarados",
+          "level": 59,
+          "moves": [
+            "Hydro Pump",
+            "Dragon Rage",
+            "Bite",
+            "Thrash"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Arcanine",
+          "level": 61,
+          "moves": [
+            "Extremespeed",
+            "Flamethrower",
+            "Roar",
+            "Bite"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Venusaur",
+          "level": 63,
+          "moves": [
+            "Solarbeam",
+            "Synthesis",
+            "Sunny Day",
+            "Growth"
+          ],
+          "heldItem": "Sitrus Berry"
+        }
       ],
-      "levels": [
-        59,
-        57,
-        59,
-        59,
-        61,
-        63
-      ]
+      "section": "Pokemon League"
     },
     {
       "name": "Champion Blue",
       "team": [
-        "Pidgeot",
-        "Alakazam",
-        "Rhydon",
-        "Exeggutor",
-        "Gyarados",
-        "Charizard"
+        {
+          "species": "Pidgeot",
+          "level": 59,
+          "moves": [
+            "Aerial Ace",
+            "Featherdance",
+            "Sand-attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Alakazam",
+          "level": 57,
+          "moves": [
+            "Psychic",
+            "Future Sight",
+            "Recover",
+            "Reflect"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rhydon",
+          "level": 59,
+          "moves": [
+            "Take Down",
+            "Earthquake",
+            "Rock Tomb",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Exeggutor",
+          "level": 59,
+          "moves": [
+            "Giga Drain",
+            "Egg Bomb",
+            "Sleep Powder",
+            "Light Screen"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Gyarados",
+          "level": 61,
+          "moves": [
+            "Hydro Pump",
+            "Dragon Rage",
+            "Bite",
+            "Thrash"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charizard",
+          "level": 63,
+          "moves": [
+            "Fire Blast",
+            "Aerial Ace",
+            "Slash",
+            "Fire Spin"
+          ],
+          "heldItem": "Sitrus Berry"
+        }
       ],
-      "levels": [
-        59,
-        57,
-        59,
-        59,
-        61,
-        63
-      ]
+      "section": "Pokemon League"
     },
     {
       "name": "Elite Four Lorelei",
       "team": [
-        "Dewgong",
-        "Cloyster",
-        "Piloswine",
-        "Jynx",
-        "Lapras"
+        {
+          "species": "Dewgong",
+          "level": 64,
+          "moves": [
+            "Ice Beam",
+            "Surf",
+            "Signal Beam",
+            "Double Team"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Cloyster",
+          "level": 63,
+          "moves": [
+            "Ice Beam",
+            "Surf",
+            "Supersonic",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Piloswine",
+          "level": 63,
+          "moves": [
+            "Blizzard",
+            "Earthquake",
+            "Double-edge",
+            "Rock Slide"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Jynx",
+          "level": 66,
+          "moves": [
+            "Ice Beam",
+            "Psychic",
+            "Lovely Kiss",
+            "Attract"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Lapras",
+          "level": 66,
+          "moves": [
+            "Ice Beam",
+            "Surf",
+            "Psychic",
+            "Thunder"
+          ],
+          "heldItem": "Cheri Berry"
+        }
       ],
-      "levels": [
-        64,
-        63,
-        63,
-        66,
-        66
-      ]
+      "section": "Pokemon League"
     },
     {
       "name": "Elite Four Bruno",
       "team": [
-        "Steelix",
-        "Hitmonchan",
-        "Hitmonlee",
-        "Steelix",
-        "Machamp"
+        {
+          "species": "Steelix",
+          "level": 65,
+          "moves": [
+            "Earthquake",
+            "Iron Tail",
+            "Crunch",
+            "Rock Tomb"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Hitmonchan",
+          "level": 65,
+          "moves": [
+            "Sky Uppercut",
+            "Mach Punch",
+            "Rock Slide",
+            "Counter"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Hitmonlee",
+          "level": 65,
+          "moves": [
+            "Mega Kick",
+            "Foresight",
+            "Earthquake",
+            "Rock Slide"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Steelix",
+          "level": 66,
+          "moves": [
+            "Earthquake",
+            "Iron Tail",
+            "Crunch",
+            "Dragonbreath"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machamp",
+          "level": 68,
+          "moves": [
+            "Cross Chop",
+            "Earthquake",
+            "Brick Break",
+            "Rock Slide"
+          ],
+          "heldItem": "Persim Berry"
+        }
       ],
-      "levels": [
-        65,
-        65,
-        65,
-        66,
-        68
-      ]
+      "section": "Pokemon League"
     },
     {
       "name": "Elite Four Agatha",
       "team": [
-        "Gengar",
-        "Crobat",
-        "Misdreavus",
-        "Arbok",
-        "Gengar"
+        {
+          "species": "Gengar",
+          "level": 66,
+          "moves": [
+            "Shadow Ball",
+            "Psychic",
+            "Confuse Ray",
+            "Hypnosis"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Crobat",
+          "level": 66,
+          "moves": [
+            "Sludge Bomb",
+            "Air Cutter",
+            "Shadow Ball",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Misdreavus",
+          "level": 65,
+          "moves": [
+            "Shadow Ball",
+            "Psychic",
+            "Thunderbolt",
+            "Attract"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Arbok",
+          "level": 68,
+          "moves": [
+            "Sludge Bomb",
+            "Earthquake",
+            "Giga Drain",
+            "Double Team"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Gengar",
+          "level": 70,
+          "moves": [
+            "Shadow Ball",
+            "Psychic",
+            "Thunderbolt",
+            "Sludge Bomb"
+          ],
+          "heldItem": "Chesto Berry"
+        }
       ],
-      "levels": [
-        66,
-        66,
-        65,
-        68,
-        70
-      ]
+      "section": "Pokemon League"
     },
     {
       "name": "Elite Four Lance",
       "team": [
-        "Gyarados",
-        "Dragonite",
-        "Kingdra",
-        "Aerodactyl",
-        "Dragonite"
+        {
+          "species": "Gyarados",
+          "level": 68,
+          "moves": [
+            "Hyper Beam",
+            "Dragon Dance",
+            "Earthquake",
+            "Thunder Wave"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Dragonite",
+          "level": 66,
+          "moves": [
+            "Hyper Beam",
+            "Earthquake",
+            "Dragon Claw",
+            "Flamethrower"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kingdra",
+          "level": 66,
+          "moves": [
+            "Hyper Beam",
+            "Dragon Dance",
+            "Surf",
+            "Ice Beam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Aerodactyl",
+          "level": 70,
+          "moves": [
+            "Hyper Beam",
+            "Ancientpower",
+            "Aerial Ace",
+            "Earthquake"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Dragonite",
+          "level": 72,
+          "moves": [
+            "Hyper Beam",
+            "Outrage",
+            "Thunderbolt",
+            "Ice Beam"
+          ],
+          "heldItem": "Persim Berry"
+        }
       ],
-      "levels": [
-        68,
-        66,
-        66,
-        70,
-        72
-      ]
+      "section": "Pokemon League"
     },
     {
       "name": "Champion Blue",
       "team": [
-        "Heracross",
-        "Alakazam",
-        "Tyranitar",
-        "Arcanine",
-        "Exeggutor",
-        "Blastoise"
+        {
+          "species": "Heracross",
+          "level": 72,
+          "moves": [
+            "Megahorn",
+            "Earthquake",
+            "Counter",
+            "Rock Tomb"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Alakazam",
+          "level": 73,
+          "moves": [
+            "Psychic",
+            "Shadow Ball",
+            "Calm Mind",
+            "Reflect"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tyranitar",
+          "level": 72,
+          "moves": [
+            "Crunch",
+            "Earthquake",
+            "Thunderbolt",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Arcanine",
+          "level": 73,
+          "moves": [
+            "Extremespeed",
+            "Overheat",
+            "Aerial Ace",
+            "Iron Tail"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Exeggutor",
+          "level": 73,
+          "moves": [
+            "Giga Drain",
+            "Psychic",
+            "Sleep Powder",
+            "Light Screen"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Blastoise",
+          "level": 75,
+          "moves": [
+            "Hydro Pump",
+            "Ice Beam",
+            "Earthquake",
+            "Rain Dance"
+          ],
+          "heldItem": "Sitrus Berry"
+        }
       ],
-      "levels": [
-        72,
-        73,
-        72,
-        73,
-        73,
-        75
-      ]
+      "section": "Pokemon League"
     },
     {
       "name": "Champion Blue",
       "team": [
-        "Heracross",
-        "Alakazam",
-        "Tyranitar",
-        "Gyarados",
-        "Arcanine",
-        "Venusaur"
+        {
+          "species": "Heracross",
+          "level": 72,
+          "moves": [
+            "Megahorn",
+            "Earthquake",
+            "Counter",
+            "Rock Tomb"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Alakazam",
+          "level": 73,
+          "moves": [
+            "Psychic",
+            "Shadow Ball",
+            "Calm Mind",
+            "Reflect"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tyranitar",
+          "level": 72,
+          "moves": [
+            "Crunch",
+            "Earthquake",
+            "Thunderbolt",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Gyarados",
+          "level": 73,
+          "moves": [
+            "Hydro Pump",
+            "Dragon Dance",
+            "Earthquake",
+            "Hyper Beam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Arcanine",
+          "level": 73,
+          "moves": [
+            "Extremespeed",
+            "Overheat",
+            "Aerial Ace",
+            "Iron Tail"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Venusaur",
+          "level": 75,
+          "moves": [
+            "Solarbeam",
+            "Sludge Bomb",
+            "Earthquake",
+            "Sunny Day"
+          ],
+          "heldItem": "Sitrus Berry"
+        }
       ],
-      "levels": [
-        72,
-        73,
-        72,
-        73,
-        73,
-        75
-      ]
+      "section": "Pokemon League"
     },
     {
       "name": "Champion Blue",
       "team": [
-        "Heracross",
-        "Alakazam",
-        "Tyranitar",
-        "Exeggutor",
-        "Gyarados",
-        "Charizard"
+        {
+          "species": "Heracross",
+          "level": 72,
+          "moves": [
+            "Megahorn",
+            "Earthquake",
+            "Counter",
+            "Rock Tomb"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Alakazam",
+          "level": 73,
+          "moves": [
+            "Psychic",
+            "Shadow Ball",
+            "Calm Mind",
+            "Reflect"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tyranitar",
+          "level": 72,
+          "moves": [
+            "Crunch",
+            "Earthquake",
+            "Thunderbolt",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Exeggutor",
+          "level": 73,
+          "moves": [
+            "Giga Drain",
+            "Psychic",
+            "Sleep Powder",
+            "Light Screen"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Gyarados",
+          "level": 73,
+          "moves": [
+            "Hydro Pump",
+            "Dragon Dance",
+            "Earthquake",
+            "Hyper Beam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charizard",
+          "level": 75,
+          "moves": [
+            "Fire Blast",
+            "Dragon Claw",
+            "Aerial Ace",
+            "Earthquake"
+          ],
+          "heldItem": "Sitrus Berry"
+        }
       ],
-      "levels": [
-        72,
-        73,
-        72,
-        73,
-        73,
-        75
-      ]
+      "section": "Pokemon League"
     }
   ],
+  "items": [
+    {
+      "item": "MYSTICTICKET",
+      "method": "gift",
+      "note": "Defeat Elite Four for the first time(Nintendo Switch Only)",
+      "section": "Main Area"
+    },
+    {
+      "item": "AURORATICKET",
+      "method": "gift",
+      "note": "Defeat Elite Four for the first time(Nintendo Switch Only)",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [
+    {
+      "name": "PokéMart",
+      "stock": [
+        {
+          "item": "Ultra Ball",
+          "price": 1200
+        },
+        {
+          "item": "Great Ball",
+          "price": 600
+        },
+        {
+          "item": "Full Restore",
+          "price": 3000
+        },
+        {
+          "item": "Max Potion",
+          "price": 2500
+        },
+        {
+          "item": "Revive",
+          "price": 1500
+        },
+        {
+          "item": "Full Heal",
+          "price": 600
+        },
+        {
+          "item": "Max Repel",
+          "price": 700
+        }
+      ],
+      "section": "Main Area"
+    }
+  ],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "route23",

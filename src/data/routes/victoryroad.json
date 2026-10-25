@@ -7,484 +7,1086 @@
     "/locations/victoryroad-55-2f.png",
     "/locations/victoryroad-55-3f.png"
   ],
+  "sections": [
+    "1F",
+    "2F",
+    "3F"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Onix",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 40,
+      "maxLevel": 46,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Machop",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Geodude",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Zubat",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Arbok",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 44,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golbat",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 44,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Machoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 46,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Marowak",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 46,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Onix",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 40,
+      "maxLevel": 46,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Machop",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Geodude",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Zubat",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Sandslash",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 44,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Golbat",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 44,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Machoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 46,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Marowak",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 46,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Machop",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Geodude",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Onix",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 45,
+      "maxLevel": 48,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Zubat",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Primeape",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 42,
+      "maxLevel": 42,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Arbok",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 46,
+      "maxLevel": 46,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golbat",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 46,
+      "maxLevel": 46,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Machoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 46,
+      "maxLevel": 48,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Marowak",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 46,
+      "maxLevel": 48,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Machop",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Geodude",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Onix",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 45,
+      "maxLevel": 48,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Zubat",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Primeape",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 42,
+      "maxLevel": 42,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Sandslash",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 46,
+      "maxLevel": 46,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Golbat",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 46,
+      "maxLevel": 46,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Machoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 46,
+      "maxLevel": 48,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Marowak",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 46,
+      "maxLevel": 48,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Onix",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 40,
+      "maxLevel": 46,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Machop",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Geodude",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Zubat",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Arbok",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 44,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golbat",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 44,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Machoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 46,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Marowak",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 46,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Onix",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 40,
+      "maxLevel": 46,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Machop",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Geodude",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Zubat",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Sandslash",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 44,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Golbat",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 44,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Machoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 46,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Marowak",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 44,
+      "maxLevel": 46,
+      "section": "3F"
     }
   ],
   "trainers": [
     {
       "name": "Cooltrainer Naomi",
       "team": [
-        "Persian",
-        "Ponyta",
-        "Rapidash",
-        "Vulpix",
-        "Ninetales"
+        {
+          "species": "Persian",
+          "level": 42,
+          "moves": [
+            "Fury Swipes",
+            "Screech",
+            "Faint Attack",
+            "Pay Day"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ponyta",
+          "level": 42,
+          "moves": [
+            "Agility",
+            "Take Down",
+            "Fire Spin",
+            "Stomp"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rapidash",
+          "level": 42,
+          "moves": [
+            "Fury Attack",
+            "Fire Spin",
+            "Stomp",
+            "Growl"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Vulpix",
+          "level": 42,
+          "moves": [
+            "Flamethrower",
+            "Confuse Ray",
+            "Quick Attack",
+            "Imprison"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ninetales",
+          "level": 42,
+          "moves": [
+            "Safeguard",
+            "Will-o-wisp",
+            "Confuse Ray",
+            "Fire Spin"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        42,
-        42,
-        42,
-        42,
-        42
-      ]
+      "section": "1F"
     },
     {
       "name": "Cooltrainer Rolando",
       "team": [
-        "Raticate",
-        "Ivysaur",
-        "Wartortle",
-        "Charmeleon",
-        "Charizard"
+        {
+          "species": "Raticate",
+          "level": 42,
+          "moves": [
+            "Super Fang",
+            "Pursuit",
+            "Scary Face",
+            "Quick Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ivysaur",
+          "level": 42,
+          "moves": [
+            "Razor Leaf",
+            "Sleep Powder",
+            "Sweet Scent",
+            "Synthesis"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Wartortle",
+          "level": 42,
+          "moves": [
+            "Water Gun",
+            "Bite",
+            "Rapid Spin",
+            "Tail Whip"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charmeleon",
+          "level": 42,
+          "moves": [
+            "Flamethrower",
+            "Slash",
+            "Smokescreen",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charizard",
+          "level": 42,
+          "moves": [
+            "Flamethrower",
+            "Wing Attack",
+            "Smokescreen",
+            "Scary Face"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        42,
-        42,
-        42,
-        42,
-        42
-      ]
+      "section": "1F"
     },
     {
       "name": "Black Belt Daisuke",
       "team": [
-        "Machoke",
-        "Machop",
-        "Machoke"
+        {
+          "species": "Machoke",
+          "level": 43,
+          "moves": [
+            "Foresight",
+            "Revenge",
+            "Vital Throw",
+            "Submission"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Machop",
+          "level": 43,
+          "moves": [
+            "Vital Throw",
+            "Submission",
+            "Cross Chop",
+            "Scary Face"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Machoke",
+          "level": 43,
+          "moves": [
+            "Foresight",
+            "Revenge",
+            "Vital Throw",
+            "Submission"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        43,
-        43,
-        43
-      ]
+      "section": "2F"
     },
     {
       "name": "Juggler Nelson",
       "team": [
-        "Drowzee",
-        "Hypno",
-        "Kadabra",
-        "Kadabra"
+        {
+          "species": "Drowzee",
+          "level": 41,
+          "moves": [
+            "Meditate",
+            "Psychic",
+            "Psych Up",
+            "Swagger"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Hypno",
+          "level": 41,
+          "moves": [
+            "Headbutt",
+            "Poison Gas",
+            "Meditate",
+            "Psychic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kadabra",
+          "level": 41,
+          "moves": [
+            "Recover",
+            "Future Sight",
+            "Role Play",
+            "Psychic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kadabra",
+          "level": 41,
+          "moves": [
+            "Recover",
+            "Future Sight",
+            "Role Play",
+            "Psychic"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        41,
-        41,
-        41,
-        41
-      ]
+      "section": "2F"
     },
     {
       "name": "Tamer Vincent",
       "team": [
-        "Persian",
-        "Golduck"
+        {
+          "species": "Persian",
+          "level": 44,
+          "moves": [
+            "Pay Day",
+            "Faint Attack",
+            "Screech",
+            "Fury Swipes"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Golduck",
+          "level": 44,
+          "moves": [
+            "Confusion",
+            "Screech",
+            "Psych Up",
+            "Fury Swipes"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        44,
-        44
-      ]
+      "section": "2F"
     },
     {
       "name": "Juggler Gregory",
       "team": [
-        "Mr. Mime"
+        {
+          "species": "Mr. Mime",
+          "level": 48,
+          "moves": [
+            "Psychic",
+            "Role Play",
+            "Doubleslap",
+            "Encore"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        48
-      ]
+      "section": "2F"
     },
     {
       "name": "Cooltrainer George",
       "team": [
-        "Exeggutor",
-        "Sandslash",
-        "Cloyster",
-        "Electrode",
-        "Arcanine"
+        {
+          "species": "Exeggutor",
+          "level": 42,
+          "moves": [
+            "Egg Bomb",
+            "Confusion",
+            "Stun Spore",
+            "Sleep Powder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandslash",
+          "level": 42,
+          "moves": [
+            "Fury Swipes",
+            "Swift",
+            "Poison Sting",
+            "Sand-attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Cloyster",
+          "level": 42,
+          "moves": [
+            "Spike Cannon",
+            "Spikes",
+            "Aurora Beam",
+            "Supersonic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Electrode",
+          "level": 42,
+          "moves": [
+            "Spark",
+            "Sonicboom",
+            "Screech",
+            "Light Screen"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Arcanine",
+          "level": 42,
+          "moves": [
+            "Flame Wheel",
+            "Roar",
+            "Bite",
+            "Take Down"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        42,
-        42,
-        42,
-        42,
-        42
-      ]
+      "section": "3F"
     },
     {
       "name": "Pokemaniac Dawson",
       "team": [
-        "Charmeleon",
-        "Lapras",
-        "Lickitung"
+        {
+          "species": "Charmeleon",
+          "level": 40,
+          "moves": [
+            "Metal Claw",
+            "Smokescreen",
+            "Scary Face",
+            "Flamethrower"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Lapras",
+          "level": 40,
+          "moves": [
+            "Confuse Ray",
+            "Perish Song",
+            "Ice Beam",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Lickitung",
+          "level": 40,
+          "moves": [
+            "Stomp",
+            "Wrap",
+            "Disable",
+            "Slam"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        40,
-        40,
-        40
-      ]
+      "section": "3F"
     },
     {
       "name": "Cooltrainer Alexa",
       "team": [
-        "Clefairy",
-        "Jigglypuff",
-        "Persian",
-        "Dewgong",
-        "Chansey"
+        {
+          "species": "Clefairy",
+          "level": 42,
+          "moves": [
+            "Light Screen",
+            "Cosmic Power",
+            "Doubleslap",
+            "Encore"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Jigglypuff",
+          "level": 42,
+          "moves": [
+            "Sing",
+            "Body Slam",
+            "Rollout",
+            "Disable"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Persian",
+          "level": 42,
+          "moves": [
+            "Pay Day",
+            "Faint Attack",
+            "Bite",
+            "Screech"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Dewgong",
+          "level": 42,
+          "moves": [
+            "Sheer Cold",
+            "Take Down",
+            "Rest",
+            "Aurora Beam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Chansey",
+          "level": 42,
+          "moves": [
+            "Sing",
+            "Egg Bomb",
+            "Softboiled",
+            "Minimize"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        42,
-        42,
-        42,
-        42,
-        42
-      ]
+      "section": "3F"
     },
     {
       "name": "Cooltrainer Colby",
       "team": [
-        "Kingler",
-        "Poliwhirl",
-        "Tentacruel",
-        "Seadra",
-        "Blastoise"
+        {
+          "species": "Kingler",
+          "level": 41,
+          "moves": [
+            "Guillotine",
+            "Stomp",
+            "Mud Shot",
+            "Bubble"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Poliwhirl",
+          "level": 42,
+          "moves": [
+            "Body Slam",
+            "Doubleslap",
+            "Water Gun",
+            "Hypnosis"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tentacruel",
+          "level": 42,
+          "moves": [
+            "Barrier",
+            "Wrap",
+            "Bubblebeam",
+            "Acid"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seadra",
+          "level": 42,
+          "moves": [
+            "Water Gun",
+            "Smokescreen",
+            "Twister",
+            "Leer"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Blastoise",
+          "level": 43,
+          "moves": [
+            "Water Gun",
+            "Bite",
+            "Rapid Spin",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        41,
-        42,
-        42,
-        42,
-        43
-      ]
+      "section": "3F"
     },
     {
       "name": "Cooltrainer Caroline",
       "team": [
-        "Bellsprout",
-        "Weepinbell",
-        "Victreebel",
-        "Paras",
-        "Parasect"
+        {
+          "species": "Bellsprout",
+          "level": 42,
+          "moves": [
+            "Razor Leaf",
+            "Acid",
+            "Stun Spore",
+            "Poisonpowder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weepinbell",
+          "level": 42,
+          "moves": [
+            "Razor Leaf",
+            "Acid",
+            "Sleep Powder",
+            "Poisonpowder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Victreebel",
+          "level": 42,
+          "moves": [
+            "Razor Leaf",
+            "Acid",
+            "Stun Spore",
+            "Sleep Powder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Paras",
+          "level": 42,
+          "moves": [
+            "Growth",
+            "Slash",
+            "Leech Life",
+            "Stun Spore"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Parasect",
+          "level": 42,
+          "moves": [
+            "Spore",
+            "Slash",
+            "Leech Life",
+            "Poisonpowder"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        42,
-        42,
-        42,
-        42,
-        42
-      ]
+      "section": "3F"
     },
     {
       "name": "Cool Couple Ray & Tyra",
       "team": [
-        "Nidoqueen",
-        "Nidoking"
+        {
+          "species": "Nidoqueen",
+          "level": 45,
+          "moves": [
+            "Superpower",
+            "Body Slam",
+            "Double Kick",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoking",
+          "level": 45,
+          "moves": [
+            "Megahorn",
+            "Thrash",
+            "Double Kick",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        45,
-        45
-      ]
+      "section": "3F"
     }
   ],
+  "items": [
+    {
+      "item": "TM02",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "RARE CANDY",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "FULL RESTORE",
+      "method": "hidden",
+      "section": "1F"
+    },
+    {
+      "item": "ULTRA BALL",
+      "method": "hidden",
+      "section": "1F"
+    },
+    {
+      "item": "TM37",
+      "method": "floor",
+      "section": "2F"
+    },
+    {
+      "item": "FULL HEAL",
+      "method": "floor",
+      "section": "2F"
+    },
+    {
+      "item": "TM07",
+      "method": "floor",
+      "section": "2F"
+    },
+    {
+      "item": "GUARD SPEC.",
+      "method": "floor",
+      "section": "2F"
+    },
+    {
+      "item": "MAX REVIVE",
+      "method": "floor",
+      "section": "3F"
+    },
+    {
+      "item": "TM50",
+      "method": "floor",
+      "section": "3F"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "route23",
     "south": "route23",

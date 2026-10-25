@@ -5,263 +5,548 @@
   "images": [
     "/locations/route10.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Voltorb",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 14,
+      "maxLevel": 17,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Spearow",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 13,
+      "maxLevel": 17,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Ekans",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 11,
+      "maxLevel": 17,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Voltorb",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 14,
+      "maxLevel": 17,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Spearow",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 13,
+      "maxLevel": 17,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Sandshrew",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 11,
+      "maxLevel": 17,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 84
+      "rate": 84,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 84
+      "rate": 84,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Picnicker Heidi",
       "team": [
-        "Pikachu",
-        "Clefairy"
+        {
+          "species": "Pikachu",
+          "level": 20,
+          "moves": [
+            "Thunder Wave",
+            "Quick Attack",
+            "Double Team",
+            "Slam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Clefairy",
+          "level": 20,
+          "moves": [
+            "Encore",
+            "Sing",
+            "Doubleslap",
+            "Follow Me"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Carol",
       "team": [
-        "Pidgey",
-        "Pidgeotto"
+        {
+          "species": "Pidgey",
+          "level": 21,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgeotto",
+          "level": 21,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Hiker Clark",
       "team": [
-        "Geodude",
-        "Onix"
+        {
+          "species": "Geodude",
+          "level": 21,
+          "moves": [
+            "Magnitude",
+            "Rock Throw",
+            "Mud Sport",
+            "Defense Curl"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Onix",
+          "level": 21,
+          "moves": [
+            "Harden",
+            "Rock Throw",
+            "Bind",
+            "Screech"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Hiker Trent",
       "team": [
-        "Onix",
-        "Graveler"
+        {
+          "species": "Onix",
+          "level": 19,
+          "moves": [
+            "Screech",
+            "Bind",
+            "Rock Throw",
+            "Harden"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Graveler",
+          "level": 19,
+          "moves": [
+            "Rock Throw",
+            "Mud Sport",
+            "Rock Throw",
+            "Magnitude"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        19,
-        19
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Hiker Trent",
       "team": [
-        "Onix",
-        "Graveler"
+        {
+          "species": "Onix",
+          "level": 31,
+          "moves": [
+            "Rock Throw",
+            "Harden",
+            "Rage",
+            "Dragonbreath"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Graveler",
+          "level": 31,
+          "moves": [
+            "Rock Throw",
+            "Magnitude",
+            "Selfdestruct",
+            "Rollout"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        31,
-        31
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Pokemaniac Herman",
       "team": [
-        "Cubone",
-        "Slowpoke"
+        {
+          "species": "Cubone",
+          "level": 20,
+          "moves": [
+            "Tail Whip",
+            "Bone Club",
+            "Headbutt",
+            "Leer"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Slowpoke",
+          "level": 20,
+          "moves": [
+            "Tackle",
+            "Growl",
+            "Water Gun",
+            "Confusion"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Pokemaniac Herman",
       "team": [
-        "Marowak",
-        "Slowbro"
+        {
+          "species": "Marowak",
+          "level": 29,
+          "moves": [
+            "Headbutt",
+            "Leer",
+            "Focus Energy",
+            "Bonemerang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Slowbro",
+          "level": 29,
+          "moves": [
+            "Water Gun",
+            "Confusion",
+            "Disable",
+            "Headbutt"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Pokemaniac Herman",
       "team": [
-        "Marowak",
-        "Slowbro"
+        {
+          "species": "Marowak",
+          "level": 54,
+          "moves": [
+            "Rage",
+            "False Swipe",
+            "Thrash",
+            "Bone Rush"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Slowbro",
+          "level": 54,
+          "moves": [
+            "Headbutt",
+            "Amnesia",
+            "Withdraw",
+            "Psychic"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        54,
-        54
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Pokemaniac Mark",
       "team": [
-        "Rhyhorn",
-        "Lickitung"
+        {
+          "species": "Rhyhorn",
+          "level": 29,
+          "moves": [
+            "Stomp",
+            "Fury Attack",
+            "Scary Face",
+            "Rock Blast"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Lickitung",
+          "level": 29,
+          "moves": [
+            "Defense Curl",
+            "Knock Off",
+            "Stomp",
+            "Wrap"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Pokemaniac Mark",
       "team": [
-        "Rhyhorn",
-        "Lickitung"
+        {
+          "species": "Rhyhorn",
+          "level": 33,
+          "moves": [
+            "Stomp",
+            "Fury Attack",
+            "Scary Face",
+            "Rock Blast"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Lickitung",
+          "level": 33,
+          "moves": [
+            "Defense Curl",
+            "Knock Off",
+            "Stomp",
+            "Wrap"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33,
-        33
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Pokemaniac Mark",
       "team": [
-        "Rhydon",
-        "Lickitung"
+        {
+          "species": "Rhydon",
+          "level": 54,
+          "moves": [
+            "Scary Face",
+            "Rock Blast",
+            "Horn Drill",
+            "Take Down"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Lickitung",
+          "level": 54,
+          "moves": [
+            "Disable",
+            "Slam",
+            "Screech",
+            "Refresh"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        54,
-        54
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "SUPER POTION",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "PERSIM BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "CHERI BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "NANAB BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "MAX ETHER",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "lavendertown",

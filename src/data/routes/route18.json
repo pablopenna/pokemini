@@ -5,133 +5,307 @@
   "images": [
     "/locations/route18.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Doduo",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 24,
+      "maxLevel": 28,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Spearow",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 20,
+      "maxLevel": 22,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Raticate",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 25,
+      "maxLevel": 29,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Fearow",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 25,
+      "maxLevel": 29,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Rattata",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 22,
+      "maxLevel": 22,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Doduo",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 24,
+      "maxLevel": 28,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Spearow",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 20,
+      "maxLevel": 22,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Raticate",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 25,
+      "maxLevel": 29,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Fearow",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 25,
+      "maxLevel": 29,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rattata",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 22,
+      "maxLevel": 22,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Bird Keeper Jacob",
       "team": [
-        "Spearow",
-        "Spearow",
-        "Fearow",
-        "Spearow"
+        {
+          "species": "Spearow",
+          "level": 26,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Spearow",
+          "level": 26,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 26,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Spearow",
+          "level": 26,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        26,
-        26,
-        26,
-        26
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Jacob",
       "team": [
-        "Fearow",
-        "Spearow",
-        "Fearow",
-        "Spearow"
+        {
+          "species": "Fearow",
+          "level": 28,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Spearow",
+          "level": 28,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 28,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Spearow",
+          "level": 28,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Jacob",
       "team": [
-        "Fearow",
-        "Fearow",
-        "Fearow",
-        "Fearow"
+        {
+          "species": "Fearow",
+          "level": 47,
+          "moves": [
+            "Pursuit",
+            "Mirror Move",
+            "Drill Peck",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 47,
+          "moves": [
+            "Pursuit",
+            "Mirror Move",
+            "Drill Peck",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 47,
+          "moves": [
+            "Pursuit",
+            "Mirror Move",
+            "Drill Peck",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 47,
+          "moves": [
+            "Pursuit",
+            "Mirror Move",
+            "Drill Peck",
+            "Agility"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        47,
-        47,
-        47,
-        47
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Wilton",
       "team": [
-        "Spearow",
-        "Fearow"
+        {
+          "species": "Spearow",
+          "level": 29,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 29,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Ramiro",
       "team": [
-        "Dodrio"
+        {
+          "species": "Dodrio",
+          "level": 34,
+          "moves": [
+            "Pursuit",
+            "Fury Attack",
+            "Tri Attack",
+            "Rage"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        34
-      ]
+      "section": "Main Area"
+    }
+  ],
+  "items": [],
+  "marts": [],
+  "trades": [
+    {
+      "received": "Lickitung",
+      "nickname": "MARC",
+      "level": null,
+      "requested": "Golduck",
+      "section": "Main Area"
     }
   ],
   "connections": {

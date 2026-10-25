@@ -5,294 +5,675 @@
   "images": [
     "/locations/route12.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Oddish",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgey",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 23,
+      "maxLevel": 27,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Venonat",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 24,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Gloom",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Bellsprout",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgey",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 23,
+      "maxLevel": 27,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Venonat",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 24,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Weepinbell",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 84
+      "rate": 84,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 84
+      "rate": 84,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
+    },
+    {
+      "method": "static",
+      "version": "firered",
+      "species": "Snorlax",
+      "rate": null,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Main Area",
+      "category": "other"
+    },
+    {
+      "method": "static",
+      "version": "leafgreen",
+      "species": "Snorlax",
+      "rate": null,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Main Area",
+      "category": "other"
     }
   ],
   "trainers": [
     {
       "name": "Fisherman Ned",
       "team": [
-        "Goldeen",
-        "Poliwag",
-        "Goldeen"
+        {
+          "species": "Goldeen",
+          "level": 22,
+          "moves": [
+            "Tail Whip",
+            "Water Sport",
+            "Supersonic",
+            "Horn Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Poliwag",
+          "level": 22,
+          "moves": [
+            "Bubble",
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Goldeen",
+          "level": 22,
+          "moves": [
+            "Tail Whip",
+            "Water Sport",
+            "Supersonic",
+            "Horn Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22,
-        22,
-        22
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Fisherman Chip",
       "team": [
-        "Tentacool",
-        "Goldeen"
+        {
+          "species": "Tentacool",
+          "level": 24,
+          "moves": [
+            "Poison Sting",
+            "Supersonic",
+            "Constrict",
+            "Acid"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Goldeen",
+          "level": 24,
+          "moves": [
+            "Water Sport",
+            "Supersonic",
+            "Horn Attack",
+            "Flail"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        24,
-        24
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Fisherman Hank",
       "team": [
-        "Goldeen"
+        {
+          "species": "Goldeen",
+          "level": 27,
+          "moves": [
+            "Water Sport",
+            "Supersonic",
+            "Horn Attack",
+            "Flail"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        27
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Fisherman Elliot",
       "team": [
-        "Poliwag",
-        "Shellder",
-        "Goldeen",
-        "Horsea"
+        {
+          "species": "Poliwag",
+          "level": 21,
+          "moves": [
+            "Bubble",
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Shellder",
+          "level": 21,
+          "moves": [
+            "Tackle",
+            "Withdraw",
+            "Icicle Spear",
+            "Supersonic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Goldeen",
+          "level": 21,
+          "moves": [
+            "Tail Whip",
+            "Water Sport",
+            "Supersonic",
+            "Horn Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Horsea",
+          "level": 21,
+          "moves": [
+            "Bubble",
+            "Smokescreen",
+            "Leer",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21,
-        21,
-        21
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Fisherman Elliot",
       "team": [
-        "Poliwhirl",
-        "Cloyster",
-        "Seaking",
-        "Seadra"
+        {
+          "species": "Poliwhirl",
+          "level": 28,
+          "moves": [
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Cloyster",
+          "level": 28,
+          "moves": [
+            "Withdraw",
+            "Supersonic",
+            "Aurora Beam",
+            "Protect"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seaking",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Supersonic",
+            "Horn Attack",
+            "Flail"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seadra",
+          "level": 28,
+          "moves": [
+            "Water Gun",
+            "Smokescreen",
+            "Leer",
+            "Water Gun"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Young Couple Gia & Jes",
       "team": [
-        "Nidoran♂",
-        "Nidoran♀"
+        {
+          "species": "Nidoran♂",
+          "level": 24,
+          "moves": [
+            "Double Kick",
+            "Poison Sting",
+            "Horn Attack",
+            "Helping Hand"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoran♀",
+          "level": 24,
+          "moves": [
+            "Double Kick",
+            "Poison Sting",
+            "Bite",
+            "Helping Hand"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        24,
-        24
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Young Couple Gia & Jes",
       "team": [
-        "Nidorina",
-        "Nidorino"
+        {
+          "species": "Nidorina",
+          "level": 30,
+          "moves": [
+            "Double Kick",
+            "Poison Sting",
+            "Bite",
+            "Helping Hand"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidorino",
+          "level": 30,
+          "moves": [
+            "Double Kick",
+            "Poison Sting",
+            "Horn Attack",
+            "Helping Hand"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        30,
-        30
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Young Couple Gia & Jes",
       "team": [
-        "Nidoking",
-        "Nidoqueen"
+        {
+          "species": "Nidoking",
+          "level": 55,
+          "moves": [
+            "Double Kick",
+            "Poison Sting",
+            "Thrash",
+            "Megahorn"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoqueen",
+          "level": 55,
+          "moves": [
+            "Double Kick",
+            "Poison Sting",
+            "Body Slam",
+            "Superpower"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        55,
-        55
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Rocker Luca",
       "team": [
-        "Voltorb",
-        "Electrode"
+        {
+          "species": "Voltorb",
+          "level": 29,
+          "moves": [
+            "Screech",
+            "Sonicboom",
+            "Spark",
+            "Selfdestruct"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Electrode",
+          "level": 29,
+          "moves": [
+            "Screech",
+            "Sonicboom",
+            "Spark",
+            "Selfdestruct"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Rocker Luca",
       "team": [
-        "Electrode",
-        "Electrode"
+        {
+          "species": "Electrode",
+          "level": 33,
+          "moves": [
+            "Screech",
+            "Sonicboom",
+            "Spark",
+            "Selfdestruct"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Electrode",
+          "level": 33,
+          "moves": [
+            "Screech",
+            "Sonicboom",
+            "Spark",
+            "Selfdestruct"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33,
-        33
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Justin",
       "team": [
-        "Nidoran♂",
-        "Nidorino"
+        {
+          "species": "Nidoran♂",
+          "level": 29,
+          "moves": [
+            "Double Kick",
+            "Poison Sting",
+            "Horn Attack",
+            "Helping Hand"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidorino",
+          "level": 29,
+          "moves": [
+            "Double Kick",
+            "Poison Sting",
+            "Horn Attack",
+            "Helping Hand"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Fisherman Andrew",
       "team": [
-        "Magikarp",
-        "Magikarp"
+        {
+          "species": "Magikarp",
+          "level": 24,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magikarp",
+          "level": 24,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        24,
-        24
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "NET BALL",
+      "method": "gift",
+      "note": "Fishing Guru's younger brother",
+      "section": "Main Area"
+    },
+    {
+      "item": "IRON",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM27",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM48",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "SUPER ROD",
+      "method": "gift",
+      "note": "Fishing Guru's younger brother",
+      "section": "Main Area"
+    },
+    {
+      "item": "HYPER POTION",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "LEFTOVERS",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "RARE CANDY",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "lavendertown",
     "south": "route13",

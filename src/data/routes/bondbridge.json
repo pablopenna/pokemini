@@ -5,310 +5,596 @@
   "images": [
     "/locations/bondbridge.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgey",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 29,
+      "maxLevel": 32,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Oddish",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgeotto",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 34,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Gloom",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 36,
+      "maxLevel": 36,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Meowth",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Venonat",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Persian",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 37,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgey",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 29,
+      "maxLevel": 32,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Bellsprout",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgeotto",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 34,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Weepinbell",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 36,
+      "maxLevel": 36,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Meowth",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Venonat",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Persian",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 37,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacool",
-      "rate": 95
+      "rate": 95,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacruel",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacool",
-      "rate": 95
+      "rate": 95,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacruel",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Seadra",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Kingler",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Twins Joy & Meg",
       "team": [
-        "Clefairy",
-        "Clefairy"
+        {
+          "species": "Clefairy",
+          "level": 37,
+          "moves": [
+            "Defense Curl",
+            "Metronome",
+            "Cosmic Power",
+            "Moonlight"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Clefairy",
+          "level": 37,
+          "moves": [
+            "Defense Curl",
+            "Metronome",
+            "Cosmic Power",
+            "Moonlight"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37,
-        37
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Twins Joy & Meg",
       "team": [
-        "Clefairy",
-        "Clefairy"
+        {
+          "species": "Clefairy",
+          "level": 49,
+          "moves": [
+            "Cosmic Power",
+            "Moonlight",
+            "Light Screen",
+            "Meteor Mash"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Clefairy",
+          "level": 49,
+          "moves": [
+            "Cosmic Power",
+            "Moonlight",
+            "Light Screen",
+            "Meteor Mash"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        49,
-        49
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Aroma Lady Violet",
       "team": [
-        "Bulbasaur",
-        "Ivysaur",
-        "Ivysaur"
+        {
+          "species": "Bulbasaur",
+          "level": 36,
+          "moves": [
+            "Sleep Powder",
+            "Razor Leaf",
+            "Sweet Scent",
+            "Growth"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ivysaur",
+          "level": 36,
+          "moves": [
+            "Poisonpowder",
+            "Sleep Powder",
+            "Razor Leaf",
+            "Sweet Scent"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ivysaur",
+          "level": 36,
+          "moves": [
+            "Poisonpowder",
+            "Sleep Powder",
+            "Razor Leaf",
+            "Sweet Scent"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        36,
-        36,
-        36
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Tuber Alexis",
       "team": [
-        "Staryu",
-        "Staryu",
-        "Krabby",
-        "Krabby"
+        {
+          "species": "Staryu",
+          "level": 34,
+          "moves": [
+            "Camouflage",
+            "Swift",
+            "Bubblebeam",
+            "Minimize"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Staryu",
+          "level": 34,
+          "moves": [
+            "Camouflage",
+            "Swift",
+            "Bubblebeam",
+            "Minimize"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Krabby",
+          "level": 34,
+          "moves": [
+            "Harden",
+            "Mud Shot",
+            "Stomp",
+            "Guillotine"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Krabby",
+          "level": 34,
+          "moves": [
+            "Harden",
+            "Mud Shot",
+            "Stomp",
+            "Guillotine"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        34,
-        34,
-        34,
-        34
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer F Tisha",
       "team": [
-        "Kingler"
+        {
+          "species": "Kingler",
+          "level": 38,
+          "moves": [
+            "Harden",
+            "Mud Shot",
+            "Stomp",
+            "Guillotine"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        38
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Tuber Amira",
       "team": [
-        "Poliwag",
-        "Poliwhirl",
-        "Poliwag"
+        {
+          "species": "Poliwag",
+          "level": 34,
+          "moves": [
+            "Water Gun",
+            "Doubleslap",
+            "Rain Dance",
+            "Body Slam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Poliwhirl",
+          "level": 35,
+          "moves": [
+            "Water Gun",
+            "Doubleslap",
+            "Rain Dance",
+            "Body Slam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Poliwag",
+          "level": 34,
+          "moves": [
+            "Water Gun",
+            "Doubleslap",
+            "Rain Dance",
+            "Body Slam"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        34,
-        35,
-        34
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Tuber Amira",
       "team": [
-        "Poliwhirl",
-        "Poliwhirl",
-        "Poliwhirl"
+        {
+          "species": "Poliwhirl",
+          "level": 47,
+          "moves": [
+            "Doubleslap",
+            "Rain Dance",
+            "Body Slam",
+            "Belly Drum"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Poliwhirl",
+          "level": 47,
+          "moves": [
+            "Doubleslap",
+            "Rain Dance",
+            "Body Slam",
+            "Belly Drum"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Poliwhirl",
+          "level": 47,
+          "moves": [
+            "Doubleslap",
+            "Rain Dance",
+            "Body Slam",
+            "Belly Drum"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        47,
-        47,
-        47
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Aroma Lady Nikki",
       "team": [
-        "Bellsprout",
-        "Weepinbell"
+        {
+          "species": "Bellsprout",
+          "level": 37,
+          "moves": [
+            "Stun Spore",
+            "Acid",
+            "Sweet Scent",
+            "Razor Leaf"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weepinbell",
+          "level": 37,
+          "moves": [
+            "Poisonpowder",
+            "Stun Spore",
+            "Acid",
+            "Sweet Scent"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37,
-        37
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "MAX REPEL",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": null,

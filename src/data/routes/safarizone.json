@@ -8,921 +8,1458 @@
     "/locations/safarizone-51-area3.png",
     "/locations/safarizone-51-area4.png"
   ],
+  "sections": [
+    "Area 1",
+    "Area 2",
+    "Area 3",
+    "Area 4"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Nidoran♂",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 22,
+      "maxLevel": 22,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Exeggcute",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 24,
+      "maxLevel": 25,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Rhyhorn",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Venonat",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 22,
+      "maxLevel": 22,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Nidorino",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Nidorina",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Parasect",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Scyther",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 23,
+      "maxLevel": 23,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Chansey",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 23,
+      "maxLevel": 23,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Nidoran♀",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 22,
+      "maxLevel": 22,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Exeggcute",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 24,
+      "maxLevel": 25,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rhyhorn",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Venonat",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 22,
+      "maxLevel": 22,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Nidorina",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Nidorino",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Parasect",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pinsir",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 23,
+      "maxLevel": 23,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Chansey",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 23,
+      "maxLevel": 23,
+      "section": "Area 1"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Area 1"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Area 1"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Area 1"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Area 1"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 1"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 1"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 1"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 1"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 1"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 1"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 1"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Seaking",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Area 1"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Dratini",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 1"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Area 1"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Dragonair",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Area 1"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 1"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Seaking",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Area 1"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Dratini",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 1"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Area 1"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Dragonair",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Area 1"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Nidoran♂",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 24,
+      "maxLevel": 24,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Doduo",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 26,
+      "maxLevel": 26,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Exeggcute",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 23,
+      "maxLevel": 25,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Paras",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 22,
+      "maxLevel": 22,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Nidorino",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 33,
+      "maxLevel": 33,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Nidoran♀",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 24,
+      "maxLevel": 24,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Parasect",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Kangaskhan",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Scyther",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Nidoran♀",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 24,
+      "maxLevel": 24,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Doduo",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 26,
+      "maxLevel": 26,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Exeggcute",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 23,
+      "maxLevel": 25,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Paras",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 22,
+      "maxLevel": 22,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Nidorina",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 33,
+      "maxLevel": 33,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Nidoran♂",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 24,
+      "maxLevel": 24,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Parasect",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Kangaskhan",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pinsir",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "Area 2"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Area 2"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Area 2"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Area 2"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Area 2"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 2"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 2"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 2"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 2"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 2"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 2"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 2"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Seaking",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Area 2"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Dratini",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 2"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Area 2"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Dragonair",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Area 2"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 2"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Seaking",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Area 2"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Dratini",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 2"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Area 2"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Dragonair",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Area 2"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Nidoran♂",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Exeggcute",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 25,
+      "maxLevel": 27,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Rhyhorn",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 26,
+      "maxLevel": 26,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Paras",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 23,
+      "maxLevel": 23,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Nidorino",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Nidorina",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Venomoth",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Chansey",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 26,
+      "maxLevel": 26,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Tauros",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Nidoran♀",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Exeggcute",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 25,
+      "maxLevel": 27,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rhyhorn",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 26,
+      "maxLevel": 26,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Paras",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 23,
+      "maxLevel": 23,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Nidorina",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Nidorino",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Venomoth",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Chansey",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 26,
+      "maxLevel": 26,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Tauros",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "Area 3"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Area 3"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Area 3"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Area 3"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Area 3"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 3"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 3"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 3"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 3"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 3"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 3"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 3"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Seaking",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Area 3"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Dratini",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 3"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Area 3"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Dragonair",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Area 3"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 3"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Seaking",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Area 3"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Dratini",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 3"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Area 3"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Dragonair",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Area 3"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Nidoran♂",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 22,
+      "maxLevel": 22,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Doduo",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 26,
+      "maxLevel": 26,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Exeggcute",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 25,
+      "maxLevel": 27,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Venonat",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 23,
+      "maxLevel": 23,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Nidorino",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Nidoran♀",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Venomoth",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Tauros",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Kangaskhan",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Nidoran♀",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 22,
+      "maxLevel": 22,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Doduo",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 26,
+      "maxLevel": 26,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Exeggcute",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 25,
+      "maxLevel": 27,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Venonat",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 23,
+      "maxLevel": 23,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Nidorina",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Nidoran♂",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Venomoth",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Tauros",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Area 4"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Kangaskhan",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "Area 4"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Area 4"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Area 4"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Area 4"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Area 4"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 4"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 4"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 4"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 4"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 4"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Area 4"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 4"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Seaking",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Area 4"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Dratini",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 4"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Area 4"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Dragonair",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Area 4"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 4"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Seaking",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Area 4"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Dratini",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Area 4"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Area 4"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Dragonair",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Area 4"
     }
   ],
   "trainers": [],
+  "items": [
+    {
+      "item": "NUGGET",
+      "method": "floor",
+      "section": "Area 1"
+    },
+    {
+      "item": "LEAF STONE",
+      "method": "hidden",
+      "section": "Area 1"
+    },
+    {
+      "item": "LEAF STONE",
+      "method": "floor",
+      "section": "Area 2"
+    },
+    {
+      "item": "TM11",
+      "method": "floor",
+      "section": "Area 2"
+    },
+    {
+      "item": "MAX POTION",
+      "method": "floor",
+      "section": "Area 2"
+    },
+    {
+      "item": "FULL RESTORE",
+      "method": "floor",
+      "section": "Area 2"
+    },
+    {
+      "item": "QUICK CLAW",
+      "method": "floor",
+      "section": "Area 3"
+    },
+    {
+      "item": "TM47",
+      "method": "floor",
+      "section": "Area 3"
+    },
+    {
+      "item": "PROTEIN",
+      "method": "floor",
+      "section": "Area 3"
+    },
+    {
+      "item": "MAX REVIVE",
+      "method": "floor",
+      "section": "Area 4"
+    },
+    {
+      "item": "MAX POTION",
+      "method": "floor",
+      "section": "Area 4"
+    },
+    {
+      "item": "GOLD TEETH",
+      "method": "floor",
+      "section": "Area 4"
+    },
+    {
+      "item": "TM32",
+      "method": "floor",
+      "section": "Area 4"
+    },
+    {
+      "item": "HM03",
+      "method": "gift",
+      "note": "Secret House",
+      "section": "Area 4"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "fuchsiacity",

@@ -7,6 +7,9 @@ import type { RouteData } from '#/types/overworld/route.ts';
 
 import { downloadImage } from '#/scripts/utils/download-image.ts'
 import { parseEncounters } from '#/scripts/utils/parse-encounters.ts';
+import { parseItems } from '#/scripts/utils/parse-items.ts';
+import { parseSections } from '#/scripts/utils/parse-sections.ts';
+import { parseTrades } from '#/scripts/utils/parse-trades.ts';
 import { parseTrainers } from '#/scripts/utils/parse-trainers.ts';
 import { parseConnections } from './utils/parse-connections.ts';
 
@@ -66,8 +69,9 @@ async function scrapeRoute(url: string, routeId: string, force: boolean) {
   let html = null;
   try {
     console.log(`Scraping ${routeId} from ${url}...`);
-    const { data: r_html } = await axios.get(url);
-    html = r_html;
+    // Serebii serves windows-1252, which axios would otherwise decode as UTF-8 ("PokéMart" -> "Pok?Mart").
+    const { data } = await axios.get<ArrayBuffer>(url, { responseType: 'arraybuffer' });
+    html = new TextDecoder('windows-1252').decode(data);
   } catch(e: unknown) {
     console.error(`Error fetching ${url}. Code: ${(e as any).status}`);
     return;
@@ -78,11 +82,14 @@ async function scrapeRoute(url: string, routeId: string, force: boolean) {
   const images = await downloadImages($, url, routeId, force);
   const image = images[0] ?? null;
 
-  const encounters = parseEncounters($);
-  const trainers = parseTrainers($);
+  const { sections, sectionOf } = parseSections($);
+  const encounters = parseEncounters($, sectionOf);
+  const trainers = parseTrainers($, sectionOf);
+  const { items, marts } = parseItems($, sectionOf);
+  const trades = parseTrades($, sectionOf);
   const connections = parseConnections($);
 
-  const routeData: RouteData = { id: routeId, url, image, images, encounters, trainers, connections };
+  const routeData: RouteData = { id: routeId, url, image, images, sections, encounters, trainers, items, marts, trades, connections };
 
   await fsp.mkdir(ROUTES_DIR, { recursive: true });
   await fsp.writeFile(jsonPath, JSON.stringify(routeData, null, 2));

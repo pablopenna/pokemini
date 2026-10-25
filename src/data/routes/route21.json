@@ -5,291 +5,659 @@
   "images": [
     "/locations/route21.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Tangela",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 17,
+      "maxLevel": 28,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Tangela",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 17,
+      "maxLevel": 28,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Seadra",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Kingler",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Fisherman Wade",
       "team": [
-        "Magikarp",
-        "Magikarp",
-        "Magikarp",
-        "Magikarp",
-        "Magikarp",
-        "Magikarp"
+        {
+          "species": "Magikarp",
+          "level": 27,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magikarp",
+          "level": 27,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magikarp",
+          "level": 27,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magikarp",
+          "level": 27,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magikarp",
+          "level": 27,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magikarp",
+          "level": 27,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        27,
-        27,
-        27,
-        27,
-        27,
-        27
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Fisherman Wade",
       "team": [
-        "Magikarp",
-        "Magikarp",
-        "Magikarp",
-        "Magikarp",
-        "Magikarp",
-        "Magikarp"
+        {
+          "species": "Magikarp",
+          "level": 47,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "Flail",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magikarp",
+          "level": 47,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "Flail",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magikarp",
+          "level": 47,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "Flail",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magikarp",
+          "level": 47,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "Flail",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magikarp",
+          "level": 47,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "Flail",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magikarp",
+          "level": 47,
+          "moves": [
+            "Splash",
+            "Tackle",
+            "Flail",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        47,
-        47,
-        47,
-        47,
-        47,
-        47
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Fisherman Ronald",
       "team": [
-        "Seaking",
-        "Goldeen",
-        "Seaking",
-        "Seaking"
+        {
+          "species": "Seaking",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Supersonic",
+            "Horn Attack",
+            "Flail"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Goldeen",
+          "level": 28,
+          "moves": [
+            "Water Sport",
+            "Supersonic",
+            "Horn Attack",
+            "Flail"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seaking",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Supersonic",
+            "Horn Attack",
+            "Flail"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seaking",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Supersonic",
+            "Horn Attack",
+            "Flail"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Sis And Bro Lil & Ian",
       "team": [
-        "Seadra",
-        "Starmie"
+        {
+          "species": "Seadra",
+          "level": 33,
+          "moves": [
+            "Smokescreen",
+            "Leer",
+            "Water Gun",
+            "Twister"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Starmie",
+          "level": 33,
+          "moves": [
+            "Rapid Spin",
+            "Recover",
+            "Swift",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33,
-        33
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Sis And Bro Lil & Ian",
       "team": [
-        "Seadra",
-        "Starmie"
+        {
+          "species": "Seadra",
+          "level": 50,
+          "moves": [
+            "Leer",
+            "Water Gun",
+            "Twister",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Starmie",
+          "level": 50,
+          "moves": [
+            "Rapid Spin",
+            "Recover",
+            "Swift",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        50,
-        50
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Sis And Bro Lil & Ian",
       "team": [
-        "Seadra",
-        "Starmie"
+        {
+          "species": "Seadra",
+          "level": 55,
+          "moves": [
+            "Water Gun",
+            "Twister",
+            "Agility",
+            "Hydro Pump"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Starmie",
+          "level": 55,
+          "moves": [
+            "Rapid Spin",
+            "Recover",
+            "Swift",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        55,
-        55
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Spencer",
       "team": [
-        "Seadra",
-        "Tentacruel"
+        {
+          "species": "Seadra",
+          "level": 33,
+          "moves": [
+            "Smokescreen",
+            "Leer",
+            "Water Gun",
+            "Twister"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tentacruel",
+          "level": 33,
+          "moves": [
+            "Constrict",
+            "Acid",
+            "Bubblebeam",
+            "Wrap"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33,
-        33
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Fisherman Claude",
       "team": [
-        "Shellder",
-        "Cloyster"
+        {
+          "species": "Shellder",
+          "level": 31,
+          "moves": [
+            "Icicle Spear",
+            "Supersonic",
+            "Aurora Beam",
+            "Protect"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Cloyster",
+          "level": 31,
+          "moves": [
+            "Withdraw",
+            "Supersonic",
+            "Aurora Beam",
+            "Protect"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        31,
-        31
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Fisherman Nolan",
       "team": [
-        "Seaking",
-        "Goldeen"
+        {
+          "species": "Seaking",
+          "level": 33,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Goldeen",
+          "level": 33,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33,
-        33
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Jack",
       "team": [
-        "Starmie"
+        {
+          "species": "Starmie",
+          "level": 37,
+          "moves": [
+            "Rapid Spin",
+            "Recover",
+            "Swift",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Jack",
       "team": [
-        "Starmie"
+        {
+          "species": "Starmie",
+          "level": 50,
+          "moves": [
+            "Rapid Spin",
+            "Recover",
+            "Swift",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        50
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Roland",
       "team": [
-        "Poliwhirl",
-        "Tentacool",
-        "Seadra"
+        {
+          "species": "Poliwhirl",
+          "level": 32,
+          "moves": [
+            "Hypnosis",
+            "Water Gun",
+            "Doubleslap",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tentacool",
+          "level": 32,
+          "moves": [
+            "Constrict",
+            "Acid",
+            "Bubblebeam",
+            "Wrap"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seadra",
+          "level": 32,
+          "moves": [
+            "Smokescreen",
+            "Leer",
+            "Water Gun",
+            "Twister"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        32,
-        32,
-        32
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Jerome",
       "team": [
-        "Staryu",
-        "Wartortle"
+        {
+          "species": "Staryu",
+          "level": 33,
+          "moves": [
+            "Camouflage",
+            "Swift",
+            "Bubblebeam",
+            "Minimize"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Wartortle",
+          "level": 33,
+          "moves": [
+            "Water Gun",
+            "Bite",
+            "Rapid Spin",
+            "Protect"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33,
-        33
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "pallettown",
     "south": "cinnabarisland",

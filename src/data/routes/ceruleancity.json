@@ -6,146 +6,369 @@
     "/locations/ceruleancity.png",
     "/locations/ceruleancity-32-gym.png"
   ],
+  "sections": [
+    "Main Area",
+    "Gym"
+  ],
   "encounters": [
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 84
+      "rate": 84,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 84
+      "rate": 84,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Machop",
-        "Drowzee"
+        {
+          "species": "Machop",
+          "level": 17,
+          "moves": [
+            "Low Kick",
+            "Leer",
+            "Focus Energy",
+            "Karate Chop"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Drowzee",
+          "level": 17,
+          "moves": [
+            "Hypnosis",
+            "Disable",
+            "Confusion",
+            "Headbutt"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        17,
-        17
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Luis",
       "team": [
-        "Horsea",
-        "Shellder"
+        {
+          "species": "Horsea",
+          "level": 16,
+          "moves": [
+            "Bubble",
+            "Smokescreen",
+            "Leer",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Shellder",
+          "level": 16,
+          "moves": [
+            "Tackle",
+            "Withdraw",
+            "Icicle Spear",
+            "Supersonic"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        16,
-        16
-      ]
+      "section": "Gym"
     },
     {
       "name": "Picnicker Diana",
       "team": [
-        "Goldeen"
+        {
+          "species": "Goldeen",
+          "level": 19,
+          "moves": [
+            "Tail Whip",
+            "Water Sport",
+            "Supersonic",
+            "Horn Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        19
-      ]
+      "section": "Gym"
     },
     {
       "name": "Leader Misty",
       "team": [
-        "Staryu",
-        "Starmie"
+        {
+          "species": "Staryu",
+          "level": 18,
+          "moves": [
+            "Tackle",
+            "Harden",
+            "Recover",
+            "Water Pulse"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Starmie",
+          "level": 21,
+          "moves": [
+            "Swift",
+            "Recover",
+            "Rapid Spin",
+            "Water Pulse"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        18,
-        21
-      ]
+      "section": "Gym"
+    }
+  ],
+  "items": [
+    {
+      "item": "TM28",
+      "method": "floor",
+      "note": "Defeat Rocket",
+      "section": "Main Area"
+    },
+    {
+      "item": "RARE CANDY",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "BICYCLE",
+      "method": "gift",
+      "note": "Bicycle Seller",
+      "section": "Main Area"
+    },
+    {
+      "item": "POWDER JAR",
+      "method": "gift",
+      "note": "Berry Powder Man",
+      "section": "Main Area"
+    },
+    {
+      "item": "FAME CHECKER",
+      "method": "gift",
+      "note": "Defeat Rival",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM03",
+      "method": "gift",
+      "note": "Defeat Misty",
+      "section": "Gym"
+    }
+  ],
+  "marts": [
+    {
+      "name": "PokéMart",
+      "stock": [
+        {
+          "item": "PokéBall",
+          "price": 200
+        },
+        {
+          "item": "Super Potion",
+          "price": 700
+        },
+        {
+          "item": "Potion",
+          "price": 300
+        },
+        {
+          "item": "Antidote",
+          "price": 100
+        },
+        {
+          "item": "Paralyz Heal",
+          "price": 200
+        },
+        {
+          "item": "Awakening",
+          "price": 250
+        },
+        {
+          "item": "Burn Heal",
+          "price": 250
+        },
+        {
+          "item": "Escape Rope",
+          "price": 550
+        },
+        {
+          "item": "Repel",
+          "price": 350
+        }
+      ],
+      "section": "Main Area"
+    },
+    {
+      "name": "Berry Crush House",
+      "stock": [
+        {
+          "item": "EnergyPowder",
+          "price": 50
+        },
+        {
+          "item": "Heal Powder",
+          "price": 50
+        },
+        {
+          "item": "Energy Root",
+          "price": 80
+        },
+        {
+          "item": "Revival Herb",
+          "price": 300
+        }
+      ],
+      "section": "Main Area"
+    }
+  ],
+  "trades": [
+    {
+      "received": "Jynx",
+      "nickname": "ZYNX",
+      "level": null,
+      "requested": "Poliwhirl",
+      "section": "Main Area"
     }
   ],
   "connections": {

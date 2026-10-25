@@ -10,230 +10,679 @@
     "/locations/ssanne-47-3f.png",
     "/locations/ssanne-47-b1f.png"
   ],
+  "sections": [
+    "Dock",
+    "Deck",
+    "1F",
+    "1F-1",
+    "1F-2"
+  ],
   "encounters": [],
   "trainers": [
     {
       "name": "Sailor Trevor",
       "team": [
-        "Machop",
-        "Tentacool"
+        {
+          "species": "Machop",
+          "level": 17,
+          "moves": [
+            "Low Kick",
+            "Leer",
+            "Focus Energy",
+            "Karate Chop"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tentacool",
+          "level": 17,
+          "moves": [
+            "Poison Sting",
+            "Supersonic",
+            "Constrict",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        17,
-        17
-      ]
+      "section": "Deck"
     },
     {
       "name": "Sailor Edmond",
       "team": [
-        "Machop",
-        "Shellder"
+        {
+          "species": "Machop",
+          "level": 18,
+          "moves": [
+            "Low Kick",
+            "Leer",
+            "Focus Energy",
+            "Karate Chop"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Shellder",
+          "level": 18,
+          "moves": [
+            "Tackle",
+            "Withdraw",
+            "Icicle Spear",
+            "Supersonic"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        18,
-        18
-      ]
+      "section": "Deck"
     },
     {
       "name": "Gentleman Thomas",
       "team": [
-        "Growlithe",
-        "Growlithe"
+        {
+          "species": "Growlithe",
+          "level": 18,
+          "moves": [
+            "Bite",
+            "Roar",
+            "Ember",
+            "Leer"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Growlithe",
+          "level": 18,
+          "moves": [
+            "Bite",
+            "Roar",
+            "Ember",
+            "Leer"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        18,
-        18
-      ]
+      "section": "1F-1"
     },
     {
       "name": "Gentleman Arthur",
       "team": [
-        "Nidoran♂",
-        "Nidoran♀"
+        {
+          "species": "Nidoran♂",
+          "level": 19,
+          "moves": [
+            "Peck",
+            "Focus Energy",
+            "Double Kick",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoran♀",
+          "level": 19,
+          "moves": [
+            "Scratch",
+            "Tail Whip",
+            "Double Kick",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        19,
-        19
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Lass Ann",
       "team": [
-        "Pidgey",
-        "Nidoran♀"
+        {
+          "species": "Pidgey",
+          "level": 18,
+          "moves": [
+            "Tackle",
+            "Sand-attack",
+            "Gust",
+            "Quick Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoran♀",
+          "level": 18,
+          "moves": [
+            "Scratch",
+            "Tail Whip",
+            "Double Kick",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        18,
-        18
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Youngster Tyler",
       "team": [
-        "Nidoran♂"
+        {
+          "species": "Nidoran♂",
+          "level": 21,
+          "moves": [
+            "Focus Energy",
+            "Double Kick",
+            "Poison Sting",
+            "Horn Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Rival Blue",
       "team": [
-        "Pidgeotto",
-        "Raticate",
-        "Kadabra",
-        "Wartortle"
+        {
+          "species": "Pidgeotto",
+          "level": 19,
+          "moves": [
+            "Gust",
+            "Sand-attack",
+            "Gust",
+            "Quick Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 16,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kadabra",
+          "level": 18,
+          "moves": [
+            "Kinesis",
+            "Confusion",
+            "Confusion",
+            "Disable"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Wartortle",
+          "level": 20,
+          "moves": [
+            "Bubble",
+            "Withdraw",
+            "Water Gun",
+            "Bite"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        19,
-        16,
-        18,
-        20
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Rival Blue",
       "team": [
-        "Pidgeotto",
-        "Raticate",
-        "Kadabra",
-        "Ivysaur"
+        {
+          "species": "Pidgeotto",
+          "level": 19,
+          "moves": [
+            "Gust",
+            "Sand-attack",
+            "Gust",
+            "Quick Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 16,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kadabra",
+          "level": 18,
+          "moves": [
+            "Kinesis",
+            "Confusion",
+            "Confusion",
+            "Disable"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ivysaur",
+          "level": 20,
+          "moves": [
+            "Leech Seed",
+            "Vine Whip",
+            "Poisonpowder",
+            "Sleep Powder"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        19,
-        16,
-        18,
-        20
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Rival Blue",
       "team": [
-        "Pidgeotto",
-        "Raticate",
-        "Kadabra",
-        "Charmeleon"
+        {
+          "species": "Pidgeotto",
+          "level": 19,
+          "moves": [
+            "Gust",
+            "Sand-attack",
+            "Gust",
+            "Quick Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 16,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kadabra",
+          "level": 18,
+          "moves": [
+            "Kinesis",
+            "Confusion",
+            "Confusion",
+            "Disable"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charmeleon",
+          "level": 20,
+          "moves": [
+            "Ember",
+            "Ember",
+            "Metal Claw",
+            "Smokescreen"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        19,
-        16,
-        18,
-        20
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Fisherman Dale",
       "team": [
-        "Goldeen",
-        "Tentacool",
-        "Goldeen"
+        {
+          "species": "Goldeen",
+          "level": 17,
+          "moves": [
+            "Tail Whip",
+            "Water Sport",
+            "Supersonic",
+            "Horn Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tentacool",
+          "level": 17,
+          "moves": [
+            "Poison Sting",
+            "Supersonic",
+            "Constrict",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Goldeen",
+          "level": 17,
+          "moves": [
+            "Tail Whip",
+            "Water Sport",
+            "Supersonic",
+            "Horn Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        17,
-        17,
-        17
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Gentleman Brooks",
       "team": [
-        "Pikachu"
+        {
+          "species": "Pikachu",
+          "level": 23,
+          "moves": [
+            "Thunder Wave",
+            "Quick Attack",
+            "Double Team",
+            "Slam"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        23
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Lass Dawn",
       "team": [
-        "Rattata",
-        "Pikachu"
+        {
+          "species": "Rattata",
+          "level": 18,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pikachu",
+          "level": 18,
+          "moves": [
+            "Tail Whip",
+            "Thunder Wave",
+            "Quick Attack",
+            "Double Team"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        18,
-        18
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Gentleman Lamar",
       "team": [
-        "Growlithe",
-        "Ponyta"
+        {
+          "species": "Growlithe",
+          "level": 17,
+          "moves": [
+            "Bite",
+            "Roar",
+            "Ember",
+            "Leer"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ponyta",
+          "level": 17,
+          "moves": [
+            "Quick Attack",
+            "Growl",
+            "Tail Whip",
+            "Ember"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        17,
-        17
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Sailor Duncan",
       "team": [
-        "Horsea",
-        "Shellder",
-        "Tentacool"
+        {
+          "species": "Horsea",
+          "level": 17,
+          "moves": [
+            "Bubble",
+            "Smokescreen",
+            "Leer",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Shellder",
+          "level": 17,
+          "moves": [
+            "Tackle",
+            "Withdraw",
+            "Icicle Spear",
+            "Supersonic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tentacool",
+          "level": 17,
+          "moves": [
+            "Poison Sting",
+            "Supersonic",
+            "Constrict",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        17,
-        17,
-        17
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Sailor Leonard",
       "team": [
-        "Shellder"
+        {
+          "species": "Shellder",
+          "level": 21,
+          "moves": [
+            "Tackle",
+            "Withdraw",
+            "Icicle Spear",
+            "Supersonic"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Sailor Dylan",
       "team": [
-        "Horsea",
-        "Horsea",
-        "Horsea"
+        {
+          "species": "Horsea",
+          "level": 17,
+          "moves": [
+            "Bubble",
+            "Smokescreen",
+            "Leer",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Horsea",
+          "level": 17,
+          "moves": [
+            "Bubble",
+            "Smokescreen",
+            "Leer",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Horsea",
+          "level": 17,
+          "moves": [
+            "Bubble",
+            "Smokescreen",
+            "Leer",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        17,
-        17,
-        17
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Sailor Huey",
       "team": [
-        "Tentacool",
-        "Staryu"
+        {
+          "species": "Tentacool",
+          "level": 18,
+          "moves": [
+            "Poison Sting",
+            "Supersonic",
+            "Constrict",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Staryu",
+          "level": 18,
+          "moves": [
+            "Harden",
+            "Water Gun",
+            "Rapid Spin",
+            "Recover"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        18,
-        18
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Fisherman Barny",
       "team": [
-        "Tentacool",
-        "Staryu",
-        "Shellder"
+        {
+          "species": "Tentacool",
+          "level": 17,
+          "moves": [
+            "Poison Sting",
+            "Supersonic",
+            "Constrict",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Staryu",
+          "level": 17,
+          "moves": [
+            "Harden",
+            "Water Gun",
+            "Rapid Spin",
+            "Recover"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Shellder",
+          "level": 17,
+          "moves": [
+            "Tackle",
+            "Withdraw",
+            "Icicle Spear",
+            "Supersonic"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        17,
-        17,
-        17
-      ]
+      "section": "1F-2"
     },
     {
       "name": "Sailor Phillip",
       "team": [
-        "Machop"
+        {
+          "species": "Machop",
+          "level": 20,
+          "moves": [
+            "Leer",
+            "Focus Energy",
+            "Karate Chop",
+            "Seismic Toss"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20
-      ]
+      "section": "1F-2"
     }
   ],
+  "items": [
+    {
+      "item": "TM31",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "GREAT BALL",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "PECHA BERRY",
+      "method": "hidden",
+      "section": "1F"
+    },
+    {
+      "item": "CHERI BERRY",
+      "method": "hidden",
+      "section": "1F"
+    },
+    {
+      "item": "CHESTO BERRY",
+      "method": "hidden",
+      "section": "1F"
+    },
+    {
+      "item": "STARDUST",
+      "method": "floor",
+      "section": "1F-2"
+    },
+    {
+      "item": "X ATTACK",
+      "method": "floor",
+      "section": "1F-2"
+    },
+    {
+      "item": "HM01",
+      "method": "gift",
+      "note": "SS Anne's Captain",
+      "section": "1F-2"
+    },
+    {
+      "item": "SUPER POTION",
+      "method": "floor",
+      "section": "1F-2"
+    },
+    {
+      "item": "ETHER",
+      "method": "floor",
+      "section": "1F-2"
+    },
+    {
+      "item": "TM44",
+      "method": "floor",
+      "section": "1F-2"
+    },
+    {
+      "item": "HYPER POTION",
+      "method": "hidden",
+      "section": "1F-2"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "vermilioncity",

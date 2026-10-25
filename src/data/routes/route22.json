@@ -5,244 +5,532 @@
   "images": [
     "/locations/route22.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Rattata",
-      "rate": 45
+      "rate": 45,
+      "minLevel": 2,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Mankey",
-      "rate": 45
+      "rate": 45,
+      "minLevel": 2,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Spearow",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 3,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rattata",
-      "rate": 45
+      "rate": 45,
+      "minLevel": 2,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Mankey",
-      "rate": 45
+      "rate": 45,
+      "minLevel": 2,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Spearow",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 3,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Rival Blue",
       "team": [
-        "Pidgey",
-        "Squirtle"
+        {
+          "species": "Pidgey",
+          "level": 9,
+          "moves": [
+            "Tackle",
+            "Sand-attack",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Squirtle",
+          "level": 9,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        9,
-        9
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Rival Blue",
       "team": [
-        "Pidgey",
-        "Bulbasaur"
+        {
+          "species": "Pidgey",
+          "level": 9,
+          "moves": [
+            "Tackle",
+            "Sand-attack",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Bulbasaur",
+          "level": 9,
+          "moves": [
+            "Tackle",
+            "Growl",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        9,
-        9
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Rival Blue",
       "team": [
-        "Pidgey",
-        "Charmander"
+        {
+          "species": "Pidgey",
+          "level": 9,
+          "moves": [
+            "Tackle",
+            "Sand-attack",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charmander",
+          "level": 9,
+          "moves": [
+            "Scratch",
+            "Growl",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        9,
-        9
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Rival Blue",
       "team": [
-        "Pidgeot",
-        "Rhyhorn",
-        "Growlithe",
-        "Exeggcute",
-        "Alakazam",
-        "Blastoise"
+        {
+          "species": "Pidgeot",
+          "level": 47,
+          "moves": [
+            "Featherdance",
+            "Wing Attack",
+            "Gust",
+            "Quick Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rhyhorn",
+          "level": 45,
+          "moves": [
+            "Take Down",
+            "Horn Drill",
+            "Rock Blast",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Growlithe",
+          "level": 45,
+          "moves": [
+            "Flame Wheel",
+            "Take Down",
+            "Leer",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Exeggcute",
+          "level": 45,
+          "moves": [
+            "Solarbeam",
+            "Sleep Powder",
+            "Poisonpowder",
+            "Stun Spore"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Alakazam",
+          "level": 47,
+          "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Future Sight",
+            "Disable"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Blastoise",
+          "level": 53,
+          "moves": [
+            "Water Gun",
+            "Rain Dance",
+            "Bite",
+            "Rapid Spin"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        47,
-        45,
-        45,
-        45,
-        47,
-        53
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Rival Blue",
       "team": [
-        "Pidgeot",
-        "Rhyhorn",
-        "Gyarados",
-        "Growlithe",
-        "Alakazam",
-        "Venusaur"
+        {
+          "species": "Pidgeot",
+          "level": 47,
+          "moves": [
+            "Featherdance",
+            "Wing Attack",
+            "Gust",
+            "Quick Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rhyhorn",
+          "level": 45,
+          "moves": [
+            "Take Down",
+            "Horn Drill",
+            "Rock Blast",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Gyarados",
+          "level": 45,
+          "moves": [
+            "Hydro Pump",
+            "Twister",
+            "Leer",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Growlithe",
+          "level": 45,
+          "moves": [
+            "Flame Wheel",
+            "Take Down",
+            "Leer",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Alakazam",
+          "level": 47,
+          "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Future Sight",
+            "Disable"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Venusaur",
+          "level": 53,
+          "moves": [
+            "Razor Leaf",
+            "Sweet Scent",
+            "Growth",
+            "Synthesis"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        47,
-        45,
-        45,
-        45,
-        47,
-        53
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Rival Blue",
       "team": [
-        "Pidgeot",
-        "Rhyhorn",
-        "Exeggcute",
-        "Gyarados",
-        "Alakazam",
-        "Charizard"
+        {
+          "species": "Pidgeot",
+          "level": 47,
+          "moves": [
+            "Featherdance",
+            "Wing Attack",
+            "Gust",
+            "Quick Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rhyhorn",
+          "level": 45,
+          "moves": [
+            "Take Down",
+            "Horn Drill",
+            "Rock Blast",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Exeggcute",
+          "level": 45,
+          "moves": [
+            "Solarbeam",
+            "Sleep Powder",
+            "Poisonpowder",
+            "Stun Spore"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Gyarados",
+          "level": 45,
+          "moves": [
+            "Hydro Pump",
+            "Twister",
+            "Leer",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Alakazam",
+          "level": 47,
+          "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Future Sight",
+            "Disable"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charizard",
+          "level": 53,
+          "moves": [
+            "Flamethrower",
+            "Wing Attack",
+            "Slash",
+            "Scary Face"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        47,
-        45,
-        45,
-        45,
-        47,
-        53
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "route23",
     "south": null,

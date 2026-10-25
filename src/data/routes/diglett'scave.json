@@ -6,57 +6,88 @@
     "/locations/diglett'scave.png",
     "/locations/diglett'scave-41-b1f.png"
   ],
+  "sections": [
+    "1F",
+    "B1F"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Diglett",
-      "rate": 95
+      "rate": 95,
+      "minLevel": 15,
+      "maxLevel": 22,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Dugtrio",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 29,
+      "maxLevel": 31,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Diglett",
-      "rate": 95
+      "rate": 95,
+      "minLevel": 15,
+      "maxLevel": 22,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Dugtrio",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 29,
+      "maxLevel": 31,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Dugtrio",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 29,
+      "maxLevel": 31,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Diglett",
-      "rate": 95
+      "rate": 95,
+      "minLevel": 15,
+      "maxLevel": 22,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Diglett",
-      "rate": 95
+      "rate": 95,
+      "minLevel": 15,
+      "maxLevel": 22,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Dugtrio",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 29,
+      "maxLevel": 31,
+      "section": "B1F"
     }
   ],
   "trainers": [],
+  "items": [],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "route2",
     "south": "route11",

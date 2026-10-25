@@ -5,8 +5,56 @@
   "images": [
     "/locations/undergroundpath7-8.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [],
   "trainers": [],
+  "items": [
+    {
+      "item": "ETHER",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "POTION",
+      "method": "hidden",
+      "note": "Complete Rocket Warehouse",
+      "section": "Main Area"
+    },
+    {
+      "item": "PARLYZ HEAL",
+      "method": "hidden",
+      "note": "Complete Rocket Warehouse",
+      "section": "Main Area"
+    },
+    {
+      "item": "AWAKENING",
+      "method": "hidden",
+      "note": "Complete Rocket Warehouse",
+      "section": "Main Area"
+    },
+    {
+      "item": "BURN HEAL",
+      "method": "hidden",
+      "note": "Complete Rocket Warehouse",
+      "section": "Main Area"
+    },
+    {
+      "item": "ANTIDOTE",
+      "method": "hidden",
+      "note": "Complete Rocket Warehouse",
+      "section": "Main Area"
+    },
+    {
+      "item": "ICE HEAL",
+      "method": "hidden",
+      "note": "Complete Rocket Warehouse",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": null,

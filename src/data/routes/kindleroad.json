@@ -5,479 +5,1075 @@
   "images": [
     "/locations/kindleroad.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Ponyta",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 31,
+      "maxLevel": 34,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Spearow",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Fearow",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 36,
+      "maxLevel": 36,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Meowth",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Geodude",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Persian",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 37,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Rapidash",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 37,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Ponyta",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 31,
+      "maxLevel": 34,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Spearow",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Fearow",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 36,
+      "maxLevel": 36,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Meowth",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Geodude",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Persian",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 37,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rapidash",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 37,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "Main Area"
+    },
+    {
+      "method": "rocksmash",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 95,
+      "minLevel": 5,
+      "maxLevel": 30,
+      "section": "Main Area"
+    },
+    {
+      "method": "rocksmash",
+      "version": "firered",
+      "species": "Graveler",
+      "rate": 5,
+      "minLevel": 25,
+      "maxLevel": 40,
+      "section": "Main Area"
+    },
+    {
+      "method": "rocksmash",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 95,
+      "minLevel": 5,
+      "maxLevel": 30,
+      "section": "Main Area"
+    },
+    {
+      "method": "rocksmash",
+      "version": "leafgreen",
+      "species": "Graveler",
+      "rate": 5,
+      "minLevel": 25,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacool",
-      "rate": 95
+      "rate": 95,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacruel",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacool",
-      "rate": 95
+      "rate": 95,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacruel",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Seadra",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Kingler",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Swimmer F Abigail",
       "team": [
-        "Psyduck",
-        "Psyduck",
-        "Golduck"
+        {
+          "species": "Psyduck",
+          "level": 35,
+          "moves": [
+            "Disable",
+            "Confusion",
+            "Screech",
+            "Psych Up"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Psyduck",
+          "level": 36,
+          "moves": [
+            "Disable",
+            "Confusion",
+            "Screech",
+            "Psych Up"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Golduck",
+          "level": 37,
+          "moves": [
+            "Disable",
+            "Confusion",
+            "Screech",
+            "Psych Up"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        35,
-        36,
-        37
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Claire",
       "team": [
-        "Meowth",
-        "Meowth",
-        "Pikachu",
-        "Clefairy"
+        {
+          "species": "Meowth",
+          "level": 35,
+          "moves": [
+            "Bite",
+            "Pay Day",
+            "Faint Attack",
+            "Screech"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Meowth",
+          "level": 35,
+          "moves": [
+            "Bite",
+            "Pay Day",
+            "Faint Attack",
+            "Screech"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pikachu",
+          "level": 35,
+          "moves": [
+            "Double Team",
+            "Slam",
+            "Thunderbolt",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Clefairy",
+          "level": 35,
+          "moves": [
+            "Minimize",
+            "Defense Curl",
+            "Metronome",
+            "Cosmic Power"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        35,
-        35,
-        35,
-        35
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Bryce",
       "team": [
-        "Nidorino",
-        "Raticate",
-        "Sandslash"
+        {
+          "species": "Nidorino",
+          "level": 36,
+          "moves": [
+            "Poison Sting",
+            "Horn Attack",
+            "Helping Hand",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 36,
+          "moves": [
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face",
+            "Pursuit"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandslash",
+          "level": 36,
+          "moves": [
+            "Sand-attack",
+            "Poison Sting",
+            "Slash",
+            "Swift"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        36,
-        36,
-        36
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Crush Girl Tanya",
       "team": [
-        "Hitmonlee",
-        "Hitmonchan"
+        {
+          "species": "Hitmonlee",
+          "level": 38,
+          "moves": [
+            "Focus Energy",
+            "Hi Jump Kick",
+            "Mind Reader",
+            "Foresight"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Hitmonchan",
+          "level": 38,
+          "moves": [
+            "Ice Punch",
+            "Fire Punch",
+            "Sky Uppercut",
+            "Mega Punch"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        38,
-        38
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Crush Girl Tanya",
       "team": [
-        "Hitmonlee",
-        "Hitmonchan"
+        {
+          "species": "Hitmonlee",
+          "level": 50,
+          "moves": [
+            "Mind Reader",
+            "Foresight",
+            "Endure",
+            "Mega Kick"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Hitmonchan",
+          "level": 50,
+          "moves": [
+            "Sky Uppercut",
+            "Mega Punch",
+            "Detect",
+            "Counter"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        50,
-        50
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Crush Girl Tanya",
       "team": [
-        "Hitmonlee",
-        "Hitmonchan"
+        {
+          "species": "Hitmonlee",
+          "level": 55,
+          "moves": [
+            "Foresight",
+            "Endure",
+            "Mega Kick",
+            "Reversal"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Hitmonchan",
+          "level": 55,
+          "moves": [
+            "Sky Uppercut",
+            "Mega Punch",
+            "Detect",
+            "Counter"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        55,
-        55
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Garrett",
       "team": [
-        "Shellder",
-        "Cloyster",
-        "Wartortle"
+        {
+          "species": "Shellder",
+          "level": 35,
+          "moves": [
+            "Icicle Spear",
+            "Supersonic",
+            "Aurora Beam",
+            "Protect"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Cloyster",
+          "level": 35,
+          "moves": [
+            "Withdraw",
+            "Supersonic",
+            "Aurora Beam",
+            "Protect"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Wartortle",
+          "level": 38,
+          "moves": [
+            "Bite",
+            "Rapid Spin",
+            "Protect",
+            "Rain Dance"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        35,
-        35,
-        38
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Crush Kin Mik & Kia",
       "team": [
-        "Machoke",
-        "Primeape"
+        {
+          "species": "Machoke",
+          "level": 39,
+          "moves": [
+            "Seismic Toss",
+            "Foresight",
+            "Revenge",
+            "Vital Throw"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Primeape",
+          "level": 39,
+          "moves": [
+            "Focus Energy",
+            "Seismic Toss",
+            "Rage",
+            "Cross Chop"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        39,
-        39
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Crush Kin Mik & Kia",
       "team": [
-        "Machoke",
-        "Primeape"
+        {
+          "species": "Machoke",
+          "level": 51,
+          "moves": [
+            "Vital Throw",
+            "Submission",
+            "Cross Chop",
+            "Scary Face"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Primeape",
+          "level": 51,
+          "moves": [
+            "Seismic Toss",
+            "Rage",
+            "Cross Chop",
+            "Swagger"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        51,
-        51
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Crush Kin Mik & Kia",
       "team": [
-        "Machamp",
-        "Primeape"
+        {
+          "species": "Machamp",
+          "level": 56,
+          "moves": [
+            "Vital Throw",
+            "Submission",
+            "Cross Chop",
+            "Scary Face"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Primeape",
+          "level": 56,
+          "moves": [
+            "Rage",
+            "Cross Chop",
+            "Swagger",
+            "Screech"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        56,
-        56
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Black Belt Hugh",
       "team": [
-        "Machop",
-        "Machoke"
+        {
+          "species": "Machop",
+          "level": 37,
+          "moves": [
+            "Foresight",
+            "Revenge",
+            "Vital Throw",
+            "Submission"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Machoke",
+          "level": 37,
+          "moves": [
+            "Seismic Toss",
+            "Foresight",
+            "Revenge",
+            "Vital Throw"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        37,
-        37
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Black Belt Hugh",
       "team": [
-        "Machoke",
-        "Machoke"
+        {
+          "species": "Machoke",
+          "level": 50,
+          "moves": [
+            "Revenge",
+            "Vital Throw",
+            "Submission",
+            "Cross Chop"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Machoke",
+          "level": 50,
+          "moves": [
+            "Revenge",
+            "Vital Throw",
+            "Submission",
+            "Cross Chop"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        50,
-        50
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Black Belt Hugh",
       "team": [
-        "Machoke",
-        "Machamp"
+        {
+          "species": "Machoke",
+          "level": 55,
+          "moves": [
+            "Vital Throw",
+            "Submission",
+            "Cross Chop",
+            "Scary Face"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Machamp",
+          "level": 55,
+          "moves": [
+            "Vital Throw",
+            "Submission",
+            "Cross Chop",
+            "Scary Face"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        55,
-        55
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Black Belt Shea",
       "team": [
-        "Machop",
-        "Machoke"
+        {
+          "species": "Machop",
+          "level": 38,
+          "moves": [
+            "Foresight",
+            "Revenge",
+            "Vital Throw",
+            "Submission"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Machoke",
+          "level": 38,
+          "moves": [
+            "Seismic Toss",
+            "Foresight",
+            "Revenge",
+            "Vital Throw"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        38,
-        38
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Black Belt Shea",
       "team": [
-        "Machoke",
-        "Machoke"
+        {
+          "species": "Machoke",
+          "level": 50,
+          "moves": [
+            "Revenge",
+            "Vital Throw",
+            "Submission",
+            "Cross Chop"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Machoke",
+          "level": 50,
+          "moves": [
+            "Revenge",
+            "Vital Throw",
+            "Submission",
+            "Cross Chop"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        50,
-        50
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Black Belt Shea",
       "team": [
-        "Machoke",
-        "Machamp"
+        {
+          "species": "Machoke",
+          "level": 55,
+          "moves": [
+            "Vital Throw",
+            "Submission",
+            "Cross Chop",
+            "Scary Face"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Machamp",
+          "level": 55,
+          "moves": [
+            "Vital Throw",
+            "Submission",
+            "Cross Chop",
+            "Scary Face"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        55,
-        55
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Crush Girl Sharon",
       "team": [
-        "Mankey",
-        "Primeape"
+        {
+          "species": "Mankey",
+          "level": 37,
+          "moves": [
+            "Focus Energy",
+            "Seismic Toss",
+            "Cross Chop",
+            "Swagger"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Primeape",
+          "level": 37,
+          "moves": [
+            "Focus Energy",
+            "Seismic Toss",
+            "Rage",
+            "Cross Chop"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        37,
-        37
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Crush Girl Sharon",
       "team": [
-        "Mankey",
-        "Primeape"
+        {
+          "species": "Mankey",
+          "level": 50,
+          "moves": [
+            "Cross Chop",
+            "Swagger",
+            "Screech",
+            "Thrash"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Primeape",
+          "level": 50,
+          "moves": [
+            "Seismic Toss",
+            "Rage",
+            "Cross Chop",
+            "Swagger"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        50,
-        50
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Crush Girl Sharon",
       "team": [
-        "Primeape",
-        "Primeape"
+        {
+          "species": "Primeape",
+          "level": 55,
+          "moves": [
+            "Rage",
+            "Cross Chop",
+            "Swagger",
+            "Screech"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Primeape",
+          "level": 55,
+          "moves": [
+            "Rage",
+            "Cross Chop",
+            "Swagger",
+            "Screech"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        55,
-        55
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Finn",
       "team": [
-        "Starmie"
+        {
+          "species": "Starmie",
+          "level": 38,
+          "moves": [
+            "Rapid Spin",
+            "Recover",
+            "Swift",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        38
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer M Finn",
       "team": [
-        "Starmie"
+        {
+          "species": "Starmie",
+          "level": 50,
+          "moves": [
+            "Rapid Spin",
+            "Recover",
+            "Swift",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        50
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Swimmer F Maria",
       "team": [
-        "Seadra",
-        "Seadra"
+        {
+          "species": "Seadra",
+          "level": 37,
+          "moves": [
+            "Smokescreen",
+            "Leer",
+            "Water Gun",
+            "Twister"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seadra",
+          "level": 37,
+          "moves": [
+            "Smokescreen",
+            "Leer",
+            "Water Gun",
+            "Twister"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37,
-        37
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Fisherman Tommy",
       "team": [
-        "Goldeen",
-        "Goldeen",
-        "Seaking",
-        "Seaking",
-        "Seaking"
+        {
+          "species": "Goldeen",
+          "level": 33,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Goldeen",
+          "level": 33,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seaking",
+          "level": 35,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seaking",
+          "level": 35,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Seaking",
+          "level": 35,
+          "moves": [
+            "Supersonic",
+            "Horn Attack",
+            "Flail",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33,
-        33,
-        35,
-        35,
-        35
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "HM06",
+      "method": "gift",
+      "note": "Old Man in Ember Spa",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "mt.ember",
     "south": null,

@@ -5,225 +5,350 @@
   "images": [
     "/locations/capebrink.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Oddish",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Spearow",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Gloom",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 36,
+      "maxLevel": 38,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Fearow",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 36,
+      "maxLevel": 36,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Meowth",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Persian",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 37,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 37,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Bellsprout",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Spearow",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Weepinbell",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 36,
+      "maxLevel": 38,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Fearow",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 36,
+      "maxLevel": 36,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Meowth",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Persian",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 37,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 31,
+      "maxLevel": 31,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Slowbro",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 37,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 95
+      "rate": 95,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Golduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 95
+      "rate": 95,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowbro",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [],
+  "items": [
+    {
+      "item": "RARE CANDY",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "PP MAX",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "twoisland",

@@ -5,49 +5,153 @@
   "images": [
     "/locations/threeisland.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [],
   "trainers": [
     {
       "name": "Biker Goon",
       "team": [
-        "Koffing",
-        "Grimer"
+        {
+          "species": "Koffing",
+          "level": 37,
+          "moves": [
+            "Haze",
+            "Smokescreen",
+            "Sludge",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Grimer",
+          "level": 37,
+          "moves": [
+            "Acid Armor",
+            "Screech",
+            "Minimize",
+            "Sludge"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37,
-        37
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Goon",
       "team": [
-        "Koffing"
+        {
+          "species": "Koffing",
+          "level": 38,
+          "moves": [
+            "Haze",
+            "Smokescreen",
+            "Sludge",
+            "Tackle"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        38
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Goon",
       "team": [
-        "Grimer"
+        {
+          "species": "Grimer",
+          "level": 38,
+          "moves": [
+            "Sludge",
+            "Minimize",
+            "Screech",
+            "Acid Armor"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        38
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Cue Ball Paxton",
       "team": [
-        "Weezing",
-        "Muk"
+        {
+          "species": "Weezing",
+          "level": 39,
+          "moves": [
+            "Selfdestruct",
+            "Sludge",
+            "Smokescreen",
+            "Haze"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Muk",
+          "level": 39,
+          "moves": [
+            "Sludge",
+            "Minimize",
+            "Screech",
+            "Acid Armor"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        39,
-        39
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "FULL RESTORE",
+      "method": "gift",
+      "note": "Defeat bikers",
+      "section": "Main Area"
+    },
+    {
+      "item": "ZINC",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "PP UP",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [
+    {
+      "name": "PokéMart",
+      "stock": [
+        {
+          "item": "Ultra Ball",
+          "price": 1200
+        },
+        {
+          "item": "Hyper Potion",
+          "price": 1200
+        },
+        {
+          "item": "Revive",
+          "price": 1500
+        },
+        {
+          "item": "Full Heal",
+          "price": 600
+        },
+        {
+          "item": "Escape Rope",
+          "price": 550
+        },
+        {
+          "item": "Max Repel",
+          "price": 700
+        }
+      ],
+      "section": "Main Area"
+    }
+  ],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "threeisleport",

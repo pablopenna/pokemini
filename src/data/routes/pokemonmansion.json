@@ -8,389 +8,752 @@
     "/locations/pokemonmansion-54-3f.png",
     "/locations/pokemonmansion-54-b1f.png"
   ],
+  "sections": [
+    "1F",
+    "2F",
+    "3F",
+    "B1F"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Raticate",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 32,
+      "maxLevel": 36,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Koffing",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Rattata",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 26,
+      "maxLevel": 28,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Growlithe",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Grimer",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Weezing",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Raticate",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 32,
+      "maxLevel": 36,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Grimer",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rattata",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 26,
+      "maxLevel": 28,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Vulpix",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Koffing",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Muk",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Raticate",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 32,
+      "maxLevel": 36,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Koffing",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Rattata",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 26,
+      "maxLevel": 28,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Growlithe",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Grimer",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Weezing",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Raticate",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 32,
+      "maxLevel": 36,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Grimer",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rattata",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 26,
+      "maxLevel": 28,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Vulpix",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Koffing",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Muk",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Raticate",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 32,
+      "maxLevel": 36,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Koffing",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Rattata",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 26,
+      "maxLevel": 28,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Growlithe",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Grimer",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Weezing",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Raticate",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 32,
+      "maxLevel": 36,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Grimer",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rattata",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 26,
+      "maxLevel": 28,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Vulpix",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Koffing",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Muk",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Raticate",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 34,
+      "maxLevel": 38,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Koffing",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Growlithe",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Ditto",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Grimer",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Rattata",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 26,
+      "maxLevel": 26,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Weezing",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Raticate",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 34,
+      "maxLevel": 38,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Grimer",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Vulpix",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Ditto",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Koffing",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rattata",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 26,
+      "maxLevel": 26,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Muk",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 34,
+      "maxLevel": 34,
+      "section": "B1F"
     }
   ],
   "trainers": [
     {
       "name": "Youngster Johnson",
       "team": [
-        "Ekans",
-        "Ekans",
-        "Raticate"
+        {
+          "species": "Ekans",
+          "level": 33,
+          "moves": [
+            "Bite",
+            "Glare",
+            "Screech",
+            "Acid"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ekans",
+          "level": 33,
+          "moves": [
+            "Bite",
+            "Glare",
+            "Screech",
+            "Acid"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 34,
+          "moves": [
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face",
+            "Pursuit"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33,
-        33,
-        34
-      ]
+      "section": "1F"
     },
     {
       "name": "Scientist Ted",
       "team": [
-        "Electrode",
-        "Weezing"
+        {
+          "species": "Electrode",
+          "level": 29,
+          "moves": [
+            "Screech",
+            "Sonicboom",
+            "Spark",
+            "Selfdestruct"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weezing",
+          "level": 29,
+          "moves": [
+            "Smog",
+            "Selfdestruct",
+            "Sludge",
+            "Smokescreen"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "1F"
     },
     {
       "name": "Burglar Arnie",
       "team": [
-        "Charmander",
-        "Charmeleon"
+        {
+          "species": "Charmander",
+          "level": 34,
+          "moves": [
+            "Metal Claw",
+            "Smokescreen",
+            "Scary Face",
+            "Flamethrower"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charmeleon",
+          "level": 34,
+          "moves": [
+            "Metal Claw",
+            "Smokescreen",
+            "Scary Face",
+            "Flamethrower"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        34,
-        34
-      ]
+      "section": "2F"
     },
     {
       "name": "Burglar Simon",
       "team": [
-        "Ninetales"
+        {
+          "species": "Ninetales",
+          "level": 38,
+          "moves": [
+            "Ember",
+            "Quick Attack",
+            "Confuse Ray",
+            "Safeguard"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        38
-      ]
+      "section": "3F"
     },
     {
       "name": "Scientist Braydon",
       "team": [
-        "Magnemite",
-        "Magneton",
-        "Voltorb"
+        {
+          "species": "Magnemite",
+          "level": 33,
+          "moves": [
+            "Sonicboom",
+            "Thunder Wave",
+            "Spark",
+            "Lock-on"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magneton",
+          "level": 33,
+          "moves": [
+            "Supersonic",
+            "Sonicboom",
+            "Thunder Wave",
+            "Spark"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Voltorb",
+          "level": 33,
+          "moves": [
+            "Sonicboom",
+            "Spark",
+            "Selfdestruct",
+            "Rollout"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33,
-        33,
-        33
-      ]
+      "section": "3F"
     },
     {
       "name": "Burglar Lewis",
       "team": [
-        "Growlithe",
-        "Ponyta"
+        {
+          "species": "Growlithe",
+          "level": 34,
+          "moves": [
+            "Leer",
+            "Odor Sleuth",
+            "Take Down",
+            "Flame Wheel"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ponyta",
+          "level": 34,
+          "moves": [
+            "Ember",
+            "Stomp",
+            "Fire Spin",
+            "Take Down"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        34,
-        34
-      ]
+      "section": "B1F"
     },
     {
       "name": "Scientist Ivan",
       "team": [
-        "Magnemite",
-        "Electrode"
+        {
+          "species": "Magnemite",
+          "level": 34,
+          "moves": [
+            "Sonicboom",
+            "Thunder Wave",
+            "Spark",
+            "Lock-on"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Electrode",
+          "level": 34,
+          "moves": [
+            "Sonicboom",
+            "Spark",
+            "Selfdestruct",
+            "Rollout"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        34,
-        34
-      ]
+      "section": "B1F"
     }
   ],
+  "items": [
+    {
+      "item": "ESCAPE ROPE",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "PROTEIN",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "CARBOS",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "MOON STONE",
+      "method": "hidden",
+      "section": "1F"
+    },
+    {
+      "item": "ZINC",
+      "method": "floor",
+      "section": "2F"
+    },
+    {
+      "item": "CALCIUM",
+      "method": "floor",
+      "section": "2F"
+    },
+    {
+      "item": "HP UP",
+      "method": "floor",
+      "section": "2F"
+    },
+    {
+      "item": "MAX POTION",
+      "method": "floor",
+      "section": "3F"
+    },
+    {
+      "item": "IRON",
+      "method": "floor",
+      "section": "3F"
+    },
+    {
+      "item": "RARE CANDY",
+      "method": "hidden",
+      "section": "3F"
+    },
+    {
+      "item": "FULL RESTORE",
+      "method": "floor",
+      "section": "B1F"
+    },
+    {
+      "item": "TM14",
+      "method": "floor",
+      "section": "B1F"
+    },
+    {
+      "item": "SECRET KEY",
+      "method": "floor",
+      "section": "B1F"
+    },
+    {
+      "item": "TM22",
+      "method": "floor",
+      "section": "B1F"
+    },
+    {
+      "item": "ELIXIR",
+      "method": "hidden",
+      "section": "B1F"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "cinnabarisland",

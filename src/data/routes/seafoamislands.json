@@ -9,585 +9,939 @@
     "/locations/seafoamislands-53-b3f.png",
     "/locations/seafoamislands-53-b4f.png"
   ],
+  "sections": [
+    "1F",
+    "B1F",
+    "B2F",
+    "B3F",
+    "B4F"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 55
+      "rate": 55,
+      "minLevel": 26,
+      "maxLevel": 33,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Zubat",
-      "rate": 34
+      "rate": 34,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golbat",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 26,
+      "maxLevel": 30,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 55
+      "rate": 55,
+      "minLevel": 26,
+      "maxLevel": 33,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Zubat",
-      "rate": 34
+      "rate": 34,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Golbat",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 26,
+      "maxLevel": 30,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 29,
+      "maxLevel": 31,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Zubat",
-      "rate": 34
+      "rate": 34,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golbat",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 26,
+      "maxLevel": 30,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Seel",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 33,
+      "maxLevel": 35,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 29,
+      "maxLevel": 31,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Zubat",
-      "rate": 34
+      "rate": 34,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Golbat",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 26,
+      "maxLevel": 30,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Seel",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 28,
+      "maxLevel": 28,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Slowbro",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 33,
+      "maxLevel": 35,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Zubat",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 22,
+      "maxLevel": 24,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Seel",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golbat",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 26,
+      "maxLevel": 30,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golduck",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 32,
+      "maxLevel": 34,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Zubat",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 22,
+      "maxLevel": 24,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Seel",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Golbat",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 26,
+      "maxLevel": 30,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Slowbro",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 32,
+      "maxLevel": 34,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Seel",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "B3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "B3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golduck",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 32,
+      "maxLevel": 34,
+      "section": "B3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Zubat",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 24,
+      "maxLevel": 24,
+      "section": "B3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golbat",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 26,
+      "maxLevel": 30,
+      "section": "B3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Dewgong",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 32,
+      "maxLevel": 34,
+      "section": "B3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Seel",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "B3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 30,
+      "maxLevel": 32,
+      "section": "B3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Slowbro",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 32,
+      "maxLevel": 34,
+      "section": "B3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Zubat",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 24,
+      "maxLevel": 24,
+      "section": "B3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Golbat",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 26,
+      "maxLevel": 30,
+      "section": "B3F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Dewgong",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 32,
+      "maxLevel": 34,
+      "section": "B3F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Seel",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "B3F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Horsea",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 25,
+      "maxLevel": 30,
+      "section": "B3F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Dewgong",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "B3F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 30,
+      "maxLevel": 40,
+      "section": "B3F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Golduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "B3F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Seel",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 25,
+      "maxLevel": 32,
+      "section": "B3F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 25,
+      "maxLevel": 30,
+      "section": "B3F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Dewgong",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "B3F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 30,
+      "maxLevel": 40,
+      "section": "B3F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowbro",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "B3F"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "B3F"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "B3F"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B3F"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B3F"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B3F"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B3F"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B3F"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B3F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 15,
+      "maxLevel": 30,
+      "section": "B3F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 16
+      "rate": 16,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "B3F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "B3F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 15,
+      "maxLevel": 30,
+      "section": "B3F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 16
+      "rate": 16,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "B3F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "B3F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Seel",
-      "rate": 50
+      "rate": 50,
+      "minLevel": 30,
+      "maxLevel": 34,
+      "section": "B4F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golbat",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 26,
+      "maxLevel": 30,
+      "section": "B4F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golduck",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 32,
+      "maxLevel": 34,
+      "section": "B4F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "B4F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Dewgong",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 34,
+      "maxLevel": 36,
+      "section": "B4F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Seel",
-      "rate": 50
+      "rate": 50,
+      "minLevel": 30,
+      "maxLevel": 34,
+      "section": "B4F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Golbat",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 26,
+      "maxLevel": 30,
+      "section": "B4F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Slowbro",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 32,
+      "maxLevel": 34,
+      "section": "B4F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 32,
+      "maxLevel": 32,
+      "section": "B4F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Dewgong",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 34,
+      "maxLevel": 36,
+      "section": "B4F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Seel",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "B4F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Horsea",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 25,
+      "maxLevel": 30,
+      "section": "B4F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Dewgong",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "B4F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 30,
+      "maxLevel": 40,
+      "section": "B4F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Golduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "B4F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Seel",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "B4F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 25,
+      "maxLevel": 30,
+      "section": "B4F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Dewgong",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "B4F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 30,
+      "maxLevel": 40,
+      "section": "B4F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowbro",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 35,
+      "maxLevel": 40,
+      "section": "B4F"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "B4F"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "B4F"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B4F"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B4F"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B4F"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B4F"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B4F"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B4F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 15,
+      "maxLevel": 30,
+      "section": "B4F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 16
+      "rate": 16,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "B4F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "B4F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 80
+      "rate": 80,
+      "minLevel": 15,
+      "maxLevel": 30,
+      "section": "B4F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 16
+      "rate": 16,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "B4F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "B4F"
+    },
+    {
+      "method": "static",
+      "version": "firered",
+      "species": "Articuno",
+      "rate": null,
+      "minLevel": 50,
+      "maxLevel": 50,
+      "section": "B4F",
+      "category": "legendary"
+    },
+    {
+      "method": "static",
+      "version": "leafgreen",
+      "species": "Articuno",
+      "rate": null,
+      "minLevel": 50,
+      "maxLevel": 50,
+      "section": "B4F",
+      "category": "legendary"
     }
   ],
   "trainers": [],
+  "items": [
+    {
+      "item": "ICE HEAL",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "REVIVE",
+      "method": "floor",
+      "section": "B1F"
+    },
+    {
+      "item": "WATER STONE",
+      "method": "floor",
+      "section": "B1F"
+    },
+    {
+      "item": "BIG PEARL",
+      "method": "floor",
+      "section": "B2F"
+    },
+    {
+      "item": "NUGGET",
+      "method": "hidden",
+      "section": "B3F"
+    },
+    {
+      "item": "ULTRA BALL",
+      "method": "floor",
+      "section": "B4F"
+    },
+    {
+      "item": "WATER STONE",
+      "method": "hidden",
+      "section": "B4F"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": null,

@@ -7,537 +7,1019 @@
     "/locations/ceruleancave-43-2f.png",
     "/locations/ceruleancave-43-b1f.png"
   ],
+  "sections": [
+    "1F",
+    "2F",
+    "B1F"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Parasect",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 49,
+      "maxLevel": 58,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Magneton",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 49,
+      "maxLevel": 49,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golbat",
-      "rate": 14
+      "rate": 14,
+      "minLevel": 46,
+      "maxLevel": 55,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Primeape",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 52,
+      "maxLevel": 61,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Ditto",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 52,
+      "maxLevel": 61,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Machoke",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 46,
+      "maxLevel": 46,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Electrode",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 58,
+      "maxLevel": 58,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Wobbuffet",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 55,
+      "maxLevel": 55,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Parasect",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 49,
+      "maxLevel": 58,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Magneton",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 49,
+      "maxLevel": 49,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Golbat",
-      "rate": 14
+      "rate": 14,
+      "minLevel": 46,
+      "maxLevel": 55,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Primeape",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 52,
+      "maxLevel": 61,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Ditto",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 52,
+      "maxLevel": 61,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Machoke",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 46,
+      "maxLevel": 46,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Electrode",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 58,
+      "maxLevel": 58,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Wobbuffet",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 55,
+      "maxLevel": 55,
+      "section": "1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 65,
+      "minLevel": 30,
+      "maxLevel": 50,
+      "section": "1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "firered",
+      "species": "Graveler",
+      "rate": 35,
+      "minLevel": 40,
+      "maxLevel": 55,
+      "section": "1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 65,
+      "minLevel": 30,
+      "maxLevel": 50,
+      "section": "1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "leafgreen",
+      "species": "Graveler",
+      "rate": 35,
+      "minLevel": 40,
+      "maxLevel": 55,
+      "section": "1F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 65
+      "rate": 65,
+      "minLevel": 30,
+      "maxLevel": 50,
+      "section": "1F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Golduck",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 40,
+      "maxLevel": 55,
+      "section": "1F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 65
+      "rate": 65,
+      "minLevel": 30,
+      "maxLevel": 50,
+      "section": "1F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowbro",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 40,
+      "maxLevel": 55,
+      "section": "1F"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "1F"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "1F"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "1F"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "1F"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "1F"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "1F"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "1F"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "1F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "1F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "1F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "1F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "1F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "1F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "1F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "1F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golbat",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 49,
+      "maxLevel": 58,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Machoke",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 49,
+      "maxLevel": 49,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Parasect",
-      "rate": 14
+      "rate": 14,
+      "minLevel": 52,
+      "maxLevel": 61,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Kadabra",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 55,
+      "maxLevel": 64,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Ditto",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 55,
+      "maxLevel": 64,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Magneton",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 52,
+      "maxLevel": 52,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Wobbuffet",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 58,
+      "maxLevel": 58,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Electrode",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 61,
+      "maxLevel": 61,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Golbat",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 49,
+      "maxLevel": 58,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Machoke",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 49,
+      "maxLevel": 49,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Parasect",
-      "rate": 14
+      "rate": 14,
+      "minLevel": 52,
+      "maxLevel": 61,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Kadabra",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 55,
+      "maxLevel": 64,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Ditto",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 55,
+      "maxLevel": 64,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Magneton",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 52,
+      "maxLevel": 52,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Wobbuffet",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 58,
+      "maxLevel": 58,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Electrode",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 61,
+      "maxLevel": 61,
+      "section": "2F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 65,
+      "minLevel": 30,
+      "maxLevel": 50,
+      "section": "2F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "firered",
+      "species": "Graveler",
+      "rate": 35,
+      "minLevel": 40,
+      "maxLevel": 55,
+      "section": "2F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 65,
+      "minLevel": 30,
+      "maxLevel": 50,
+      "section": "2F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "leafgreen",
+      "species": "Graveler",
+      "rate": 35,
+      "minLevel": 40,
+      "maxLevel": 55,
+      "section": "2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Kadabra",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 58,
+      "maxLevel": 67,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Ditto",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 58,
+      "maxLevel": 67,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Parasect",
-      "rate": 14
+      "rate": 14,
+      "minLevel": 55,
+      "maxLevel": 64,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Golbat",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 52,
+      "maxLevel": 61,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Machoke",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 52,
+      "maxLevel": 52,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Magneton",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 55,
+      "maxLevel": 55,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Electrode",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 64,
+      "maxLevel": 64,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Wobbuffet",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 61,
+      "maxLevel": 61,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Kadabra",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 58,
+      "maxLevel": 67,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Ditto",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 58,
+      "maxLevel": 67,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Parasect",
-      "rate": 14
+      "rate": 14,
+      "minLevel": 55,
+      "maxLevel": 64,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Golbat",
-      "rate": 11
+      "rate": 11,
+      "minLevel": 52,
+      "maxLevel": 61,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Machoke",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 52,
+      "maxLevel": 52,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Magneton",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 55,
+      "maxLevel": 55,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Electrode",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 64,
+      "maxLevel": 64,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Wobbuffet",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 61,
+      "maxLevel": 61,
+      "section": "B1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 65,
+      "minLevel": 30,
+      "maxLevel": 50,
+      "section": "B1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 65,
+      "minLevel": 30,
+      "maxLevel": 50,
+      "section": "B1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "firered",
+      "species": "Graveler",
+      "rate": 35,
+      "minLevel": 40,
+      "maxLevel": 55,
+      "section": "B1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "firered",
+      "species": "Graveler",
+      "rate": 35,
+      "minLevel": 40,
+      "maxLevel": 55,
+      "section": "B1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 65,
+      "minLevel": 30,
+      "maxLevel": 50,
+      "section": "B1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 65,
+      "minLevel": 30,
+      "maxLevel": 50,
+      "section": "B1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "leafgreen",
+      "species": "Graveler",
+      "rate": 35,
+      "minLevel": 40,
+      "maxLevel": 55,
+      "section": "B1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "leafgreen",
+      "species": "Graveler",
+      "rate": 35,
+      "minLevel": 40,
+      "maxLevel": 55,
+      "section": "B1F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 65
+      "rate": 65,
+      "minLevel": 30,
+      "maxLevel": 50,
+      "section": "B1F"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Golduck",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 40,
+      "maxLevel": 55,
+      "section": "B1F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 65
+      "rate": 65,
+      "minLevel": 30,
+      "maxLevel": 50,
+      "section": "B1F"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowbro",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 40,
+      "maxLevel": 55,
+      "section": "B1F"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "B1F"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "B1F"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B1F"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B1F"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B1F"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B1F"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B1F"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "B1F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "B1F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "B1F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "B1F"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "B1F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "B1F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "B1F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "B1F"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "B1F"
+    },
+    {
+      "method": "static",
+      "version": "firered",
+      "species": "Mewtwo",
+      "rate": null,
+      "minLevel": 70,
+      "maxLevel": 70,
+      "section": "B1F",
+      "category": "legendary"
+    },
+    {
+      "method": "static",
+      "version": "leafgreen",
+      "species": "Mewtwo",
+      "rate": null,
+      "minLevel": 70,
+      "maxLevel": 70,
+      "section": "B1F",
+      "category": "legendary"
     }
   ],
   "trainers": [],
+  "items": [
+    {
+      "item": "FULL RESTORE",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "MAX ELIXIR",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "NUGGET",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "ULTRA BALL",
+      "method": "hidden",
+      "section": "1F"
+    },
+    {
+      "item": "FULL RESTORE",
+      "method": "floor",
+      "section": "2F"
+    },
+    {
+      "item": "PP UP",
+      "method": "floor",
+      "section": "2F"
+    },
+    {
+      "item": "ULTRA BALL",
+      "method": "floor",
+      "section": "2F"
+    },
+    {
+      "item": "MAX REVIVE",
+      "method": "floor",
+      "section": "B1F"
+    },
+    {
+      "item": "ULTRA BALL",
+      "method": "floor",
+      "section": "B1F"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "ceruleancity",

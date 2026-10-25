@@ -1,7 +1,8 @@
 import * as cheerio from 'cheerio';
-import type { RouteTrainer } from "#/types/overworld/route-trainer.ts";
+import type { RouteTrainer, RouteTrainerPokemon } from "#/types/overworld/route-trainer.ts";
+import type { Sections } from '#/scripts/utils/parse-sections.ts';
 
-export function parseTrainers($: cheerio.CheerioAPI): RouteTrainer[] {
+export function parseTrainers($: cheerio.CheerioAPI, sectionOf: Sections['sectionOf']): RouteTrainer[] {
   const trainers: RouteTrainer[] = [];
 
   $('table.trainer').each((_, table) => {
@@ -14,18 +15,30 @@ export function parseTrainers($: cheerio.CheerioAPI): RouteTrainer[] {
     const name = $(nameCells[0]).text().trim();
     if (!name) return;
 
-    const team: string[] = [];
-    for (let i = 1; i < nameCells.length; i++) {
-      const species = $(nameCells[i]).text().trim();
-      if (species) team.push(species);
-    }
-
-    const levels = $(rows[2]).find('td.level').map((_, el) => {
+    const levels = $(rows[2]).find('td.level').toArray().map((el) => {
       const m = $(el).text().match(/Level\s+(\d+)/);
       return m ? parseInt(m[1], 10) : null;
-    }).get();
+    });
 
-    trainers.push({ name, team, levels });
+    // Moves and held items have one cell per Pokémon, in team order.
+    const moves = $(rows[6]).find('td.bor');
+    const heldItems = $(rows[7]).find('td.bor');
+
+    const team: RouteTrainerPokemon[] = [];
+    for (let i = 1; i < nameCells.length; i++) {
+      const species = $(nameCells[i]).text().trim();
+      if (!species) continue;
+
+      const heldItem = $(heldItems[i - 1]).text().replace(/^\s*Hold Item\s*:/, '').trim();
+      team.push({
+        species,
+        level: levels[i - 1] ?? null,
+        moves: $(moves[i - 1]).find('a').map((_, a) => $(a).text().trim()).get(),
+        heldItem: !heldItem || heldItem === 'No Item' ? null : heldItem,
+      });
+    }
+
+    trainers.push({ name, team, section: sectionOf(table) });
   });
 
   return trainers;

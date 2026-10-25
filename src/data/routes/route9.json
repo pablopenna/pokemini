@@ -5,226 +5,566 @@
   "images": [
     "/locations/route9.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Rattata",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 14,
+      "maxLevel": 17,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Spearow",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 13,
+      "maxLevel": 17,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Ekans",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 11,
+      "maxLevel": 17,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rattata",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 14,
+      "maxLevel": 17,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Spearow",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 13,
+      "maxLevel": 17,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Sandshrew",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 11,
+      "maxLevel": 17,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Picnicker Alicia",
       "team": [
-        "Oddish",
-        "Bellsprout",
-        "Oddish",
-        "Bellsprout"
+        {
+          "species": "Oddish",
+          "level": 18,
+          "moves": [
+            "Sweet Scent",
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Bellsprout",
+          "level": 18,
+          "moves": [
+            "Growth",
+            "Wrap",
+            "Sleep Powder",
+            "Poisonpowder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Oddish",
+          "level": 18,
+          "moves": [
+            "Sweet Scent",
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Bellsprout",
+          "level": 18,
+          "moves": [
+            "Growth",
+            "Wrap",
+            "Sleep Powder",
+            "Poisonpowder"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        18,
-        18,
-        18,
-        18
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Alicia",
       "team": [
-        "Meowth"
+        {
+          "species": "Meowth",
+          "level": 25,
+          "moves": [
+            "Growl",
+            "Bite",
+            "Pay Day",
+            "Faint Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        25
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Alicia",
       "team": [
-        "Persian"
+        {
+          "species": "Persian",
+          "level": 30,
+          "moves": [
+            "Bite",
+            "Bite",
+            "Pay Day",
+            "Faint Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        30
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Alicia",
       "team": [
-        "Persian"
+        {
+          "species": "Persian",
+          "level": 55,
+          "moves": [
+            "Screech",
+            "Fury Swipes",
+            "Slash",
+            "Fake Out"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        55
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Hiker Jeremy",
       "team": [
-        "Machop",
-        "Onix"
+        {
+          "species": "Machop",
+          "level": 20,
+          "moves": [
+            "Leer",
+            "Focus Energy",
+            "Karate Chop",
+            "Seismic Toss"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Onix",
+          "level": 20,
+          "moves": [
+            "Screech",
+            "Bind",
+            "Rock Throw",
+            "Harden"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Hiker Jeremy",
       "team": [
-        "Machoke",
-        "Onix"
+        {
+          "species": "Machoke",
+          "level": 30,
+          "moves": [
+            "Karate Chop",
+            "Seismic Toss",
+            "Foresight",
+            "Revenge"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Onix",
+          "level": 28,
+          "moves": [
+            "Bind",
+            "Rock Throw",
+            "Harden",
+            "Rage"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        30,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Chris",
       "team": [
-        "Growlithe",
-        "Charmander"
+        {
+          "species": "Growlithe",
+          "level": 21,
+          "moves": [
+            "Roar",
+            "Ember",
+            "Leer",
+            "Odor Sleuth"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charmander",
+          "level": 21,
+          "moves": [
+            "Growl",
+            "Ember",
+            "Metal Claw",
+            "Smokescreen"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Chris",
       "team": [
-        "Growlithe",
-        "Charmander"
+        {
+          "species": "Growlithe",
+          "level": 24,
+          "moves": [
+            "Roar",
+            "Ember",
+            "Leer",
+            "Odor Sleuth"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charmander",
+          "level": 24,
+          "moves": [
+            "Growl",
+            "Ember",
+            "Metal Claw",
+            "Smokescreen"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        24,
-        24
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Chris",
       "team": [
-        "Growlithe",
-        "Charmeleon"
+        {
+          "species": "Growlithe",
+          "level": 29,
+          "moves": [
+            "Ember",
+            "Leer",
+            "Odor Sleuth",
+            "Take Down"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charmeleon",
+          "level": 29,
+          "moves": [
+            "Ember",
+            "Metal Claw",
+            "Smokescreen",
+            "Scary Face"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Chris",
       "team": [
-        "Arcanine",
-        "Charmeleon"
+        {
+          "species": "Arcanine",
+          "level": 54,
+          "moves": [
+            "Roar",
+            "Ember",
+            "Odor Sleuth",
+            "Extremespeed"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charmeleon",
+          "level": 54,
+          "moves": [
+            "Scary Face",
+            "Flamethrower",
+            "Slash",
+            "Dragon Rage"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        54,
-        54
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bug Catcher Brent",
       "team": [
-        "Beedrill",
-        "Beedrill"
+        {
+          "species": "Beedrill",
+          "level": 19,
+          "moves": [
+            "Fury Attack",
+            "Fury Attack",
+            "Focus Energy",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Beedrill",
+          "level": 19,
+          "moves": [
+            "Fury Attack",
+            "Fury Attack",
+            "Focus Energy",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        19,
-        19
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bug Catcher Conner",
       "team": [
-        "Caterpie",
-        "Weedle",
-        "Venonat"
+        {
+          "species": "Caterpie",
+          "level": 20,
+          "moves": [
+            "Tackle",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weedle",
+          "level": 20,
+          "moves": [
+            "Poison Sting",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Venonat",
+          "level": 20,
+          "moves": [
+            "Foresight",
+            "Supersonic",
+            "Confusion",
+            "Poisonpowder"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20,
-        20
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Drew",
       "team": [
-        "Rattata",
-        "Sandshrew",
-        "Ekans",
-        "Sandshrew"
+        {
+          "species": "Rattata",
+          "level": 19,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandshrew",
+          "level": 19,
+          "moves": [
+            "Scratch",
+            "Defense Curl",
+            "Sand-attack",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ekans",
+          "level": 19,
+          "moves": [
+            "Wrap",
+            "Leer",
+            "Poison Sting",
+            "Bite"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandshrew",
+          "level": 19,
+          "moves": [
+            "Scratch",
+            "Defense Curl",
+            "Sand-attack",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        19,
-        19,
-        19,
-        19
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Hiker Alan",
       "team": [
-        "Geodude",
-        "Onix"
+        {
+          "species": "Geodude",
+          "level": 21,
+          "moves": [
+            "Magnitude",
+            "Rock Throw",
+            "Mud Sport",
+            "Defense Curl"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Onix",
+          "level": 21,
+          "moves": [
+            "Harden",
+            "Rock Throw",
+            "Bind",
+            "Screech"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Hiker Brice",
       "team": [
-        "Geodude",
-        "Machop",
-        "Geodude"
+        {
+          "species": "Geodude",
+          "level": 20,
+          "moves": [
+            "Defense Curl",
+            "Mud Sport",
+            "Rock Throw",
+            "Magnitude"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machop",
+          "level": 20,
+          "moves": [
+            "Leer",
+            "Focus Energy",
+            "Karate Chop",
+            "Seismic Toss"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Geodude",
+          "level": 20,
+          "moves": [
+            "Defense Curl",
+            "Mud Sport",
+            "Rock Throw",
+            "Magnitude"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20,
-        20
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Caitlin",
       "team": [
-        "Meowth"
+        {
+          "species": "Meowth",
+          "level": 23,
+          "moves": [
+            "Scratch",
+            "Growl",
+            "Bite",
+            "Pay Day"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        23
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "BURN HEAL",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM40",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "ETHER",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "CHESTO BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "RARE CANDY",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": null,

@@ -6,309 +6,751 @@
     "/locations/rocktunnel.png",
     "/locations/rocktunnel-44-b1f.png"
   ],
+  "sections": [
+    "1F",
+    "B1F"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Geodude",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 15,
+      "maxLevel": 17,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Zubat",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 15,
+      "maxLevel": 16,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Mankey",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 16,
+      "maxLevel": 17,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Machop",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 16,
+      "maxLevel": 17,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Onix",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 13,
+      "maxLevel": 15,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Geodude",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 15,
+      "maxLevel": 17,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Zubat",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 15,
+      "maxLevel": 16,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Mankey",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 16,
+      "maxLevel": 17,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Machop",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 16,
+      "maxLevel": 17,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Onix",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 13,
+      "maxLevel": 15,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Geodude",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 15,
+      "maxLevel": 17,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Zubat",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 15,
+      "maxLevel": 16,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Mankey",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 16,
+      "maxLevel": 17,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Machop",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 17,
+      "maxLevel": 17,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Onix",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 13,
+      "maxLevel": 17,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Geodude",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 15,
+      "maxLevel": 17,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Zubat",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 15,
+      "maxLevel": 16,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Mankey",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 16,
+      "maxLevel": 17,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Machop",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 17,
+      "maxLevel": 17,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Onix",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 13,
+      "maxLevel": 17,
+      "section": "B1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "firered",
+      "species": "Geodude",
+      "rate": 95,
+      "minLevel": 5,
+      "maxLevel": 30,
+      "section": "B1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "firered",
+      "species": "Graveler",
+      "rate": 5,
+      "minLevel": 25,
+      "maxLevel": 40,
+      "section": "B1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "leafgreen",
+      "species": "Geodude",
+      "rate": 95,
+      "minLevel": 5,
+      "maxLevel": 30,
+      "section": "B1F"
+    },
+    {
+      "method": "rocksmash",
+      "version": "leafgreen",
+      "species": "Graveler",
+      "rate": 5,
+      "minLevel": 25,
+      "maxLevel": 40,
+      "section": "B1F"
     }
   ],
   "trainers": [
     {
       "name": "Hiker Lenny",
       "team": [
-        "Geodude",
-        "Machop",
-        "Geodude",
-        "Geodude"
+        {
+          "species": "Geodude",
+          "level": 19,
+          "moves": [
+            "Defense Curl",
+            "Mud Sport",
+            "Rock Throw",
+            "Magnitude"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machop",
+          "level": 19,
+          "moves": [
+            "Leer",
+            "Focus Energy",
+            "Karate Chop",
+            "Seismic Toss"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Geodude",
+          "level": 19,
+          "moves": [
+            "Defense Curl",
+            "Mud Sport",
+            "Rock Throw",
+            "Magnitude"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Geodude",
+          "level": 19,
+          "moves": [
+            "Defense Curl",
+            "Mud Sport",
+            "Rock Throw",
+            "Magnitude"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        19,
-        19,
-        19,
-        19
-      ]
+      "section": "1F"
     },
     {
       "name": "Hiker Oliver",
       "team": [
-        "Onix",
-        "Onix",
-        "Geodude"
+        {
+          "species": "Onix",
+          "level": 20,
+          "moves": [
+            "Screech",
+            "Bind",
+            "Rock Throw",
+            "Harden"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Onix",
+          "level": 20,
+          "moves": [
+            "Screech",
+            "Bind",
+            "Rock Throw",
+            "Harden"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Geodude",
+          "level": 20,
+          "moves": [
+            "Defense Curl",
+            "Mud Sport",
+            "Rock Throw",
+            "Magnitude"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20,
-        20
-      ]
+      "section": "1F"
     },
     {
       "name": "Hiker Lucas",
       "team": [
-        "Geodude",
-        "Graveler"
+        {
+          "species": "Geodude",
+          "level": 21,
+          "moves": [
+            "Magnitude",
+            "Rock Throw",
+            "Mud Sport",
+            "Defense Curl"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Graveler",
+          "level": 21,
+          "moves": [
+            "Magnitude",
+            "Rock Throw",
+            "Mud Sport",
+            "Defense Curl"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21
-      ]
+      "section": "1F"
     },
     {
       "name": "Picnicker Leah",
       "team": [
-        "Bellsprout",
-        "Clefairy"
+        {
+          "species": "Bellsprout",
+          "level": 22,
+          "moves": [
+            "Wrap",
+            "Sleep Powder",
+            "Poisonpowder",
+            "Stun Spore"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Clefairy",
+          "level": 22,
+          "moves": [
+            "Sing",
+            "Doubleslap",
+            "Follow Me",
+            "Minimize"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22,
-        22
-      ]
+      "section": "1F"
     },
     {
       "name": "Picnicker Ariana",
       "team": [
-        "Pidgey",
-        "Rattata",
-        "Rattata",
-        "Bellsprout"
+        {
+          "species": "Pidgey",
+          "level": 19,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rattata",
+          "level": 19,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rattata",
+          "level": 19,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Bellsprout",
+          "level": 19,
+          "moves": [
+            "Wrap",
+            "Sleep Powder",
+            "Poisonpowder",
+            "Stun Spore"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        19,
-        19,
-        19,
-        19
-      ]
+      "section": "1F"
     },
     {
       "name": "Picnicker Dana",
       "team": [
-        "Meowth",
-        "Oddish",
-        "Pidgey"
+        {
+          "species": "Meowth",
+          "level": 20,
+          "moves": [
+            "Scratch",
+            "Growl",
+            "Bite",
+            "Pay Day"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Oddish",
+          "level": 20,
+          "moves": [
+            "Sweet Scent",
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgey",
+          "level": 20,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20,
-        20
-      ]
+      "section": "1F"
     },
     {
       "name": "Pokemaniac Ashton",
       "team": [
-        "Cubone",
-        "Slowpoke"
+        {
+          "species": "Cubone",
+          "level": 23,
+          "moves": [
+            "Bone Club",
+            "Headbutt",
+            "Leer",
+            "Focus Energy"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Slowpoke",
+          "level": 23,
+          "moves": [
+            "Tackle",
+            "Growl",
+            "Water Gun",
+            "Confusion"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        23,
-        23
-      ]
+      "section": "B1F"
     },
     {
       "name": "Pokemaniac Winston",
       "team": [
-        "Slowpoke"
+        {
+          "species": "Slowpoke",
+          "level": 25,
+          "moves": [
+            "Growl",
+            "Water Gun",
+            "Confusion",
+            "Disable"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        25
-      ]
+      "section": "B1F"
     },
     {
       "name": "Picnicker Martha",
       "team": [
-        "Oddish",
-        "Bulbasaur"
+        {
+          "species": "Oddish",
+          "level": 22,
+          "moves": [
+            "Sweet Scent",
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Bulbasaur",
+          "level": 22,
+          "moves": [
+            "Vine Whip",
+            "Poisonpowder",
+            "Sleep Powder",
+            "Razor Leaf"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22,
-        22
-      ]
+      "section": "B1F"
     },
     {
       "name": "Pokemaniac Steve",
       "team": [
-        "Charmander",
-        "Cubone"
+        {
+          "species": "Charmander",
+          "level": 22,
+          "moves": [
+            "Growl",
+            "Ember",
+            "Metal Claw",
+            "Smokescreen"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Cubone",
+          "level": 22,
+          "moves": [
+            "Bone Club",
+            "Headbutt",
+            "Leer",
+            "Focus Energy"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22,
-        22
-      ]
+      "section": "B1F"
     },
     {
       "name": "Hiker Allen",
       "team": [
-        "Geodude"
+        {
+          "species": "Geodude",
+          "level": 25,
+          "moves": [
+            "Magnitude",
+            "Rock Throw",
+            "Mud Sport",
+            "Defense Curl"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        25
-      ]
+      "section": "B1F"
     },
     {
       "name": "Hiker Eric",
       "team": [
-        "Machop",
-        "Onix"
+        {
+          "species": "Machop",
+          "level": 20,
+          "moves": [
+            "Leer",
+            "Focus Energy",
+            "Karate Chop",
+            "Seismic Toss"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Onix",
+          "level": 20,
+          "moves": [
+            "Screech",
+            "Bind",
+            "Rock Throw",
+            "Harden"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20
-      ]
+      "section": "B1F"
     },
     {
       "name": "Picnicker Sofia",
       "team": [
-        "Jigglypuff",
-        "Pidgey",
-        "Meowth"
+        {
+          "species": "Jigglypuff",
+          "level": 21,
+          "moves": [
+            "Defense Curl",
+            "Pound",
+            "Disable",
+            "Rollout"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgey",
+          "level": 21,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Meowth",
+          "level": 21,
+          "moves": [
+            "Scratch",
+            "Growl",
+            "Bite",
+            "Pay Day"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21,
-        21
-      ]
+      "section": "B1F"
     },
     {
       "name": "Hiker Dudley",
       "team": [
-        "Geodude",
-        "Geodude",
-        "Graveler"
+        {
+          "species": "Geodude",
+          "level": 21,
+          "moves": [
+            "Magnitude",
+            "Rock Throw",
+            "Mud Sport",
+            "Defense Curl"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Geodude",
+          "level": 21,
+          "moves": [
+            "Magnitude",
+            "Rock Throw",
+            "Mud Sport",
+            "Defense Curl"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Graveler",
+          "level": 21,
+          "moves": [
+            "Magnitude",
+            "Rock Throw",
+            "Mud Sport",
+            "Defense Curl"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21,
-        21
-      ]
+      "section": "B1F"
     },
     {
       "name": "Pokemaniac Cooper",
       "team": [
-        "Slowpoke",
-        "Slowpoke",
-        "Slowpoke"
+        {
+          "species": "Slowpoke",
+          "level": 20,
+          "moves": [
+            "Tackle",
+            "Growl",
+            "Water Gun",
+            "Confusion"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Slowpoke",
+          "level": 20,
+          "moves": [
+            "Tackle",
+            "Growl",
+            "Water Gun",
+            "Confusion"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Slowpoke",
+          "level": 20,
+          "moves": [
+            "Tackle",
+            "Growl",
+            "Water Gun",
+            "Confusion"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20,
-        20
-      ]
+      "section": "B1F"
     }
   ],
+  "items": [
+    {
+      "item": "REPEL",
+      "method": "floor",
+      "section": "B1F"
+    },
+    {
+      "item": "ESCAPE ROPE",
+      "method": "floor",
+      "section": "B1F"
+    },
+    {
+      "item": "PEARL",
+      "method": "floor",
+      "section": "B1F"
+    },
+    {
+      "item": "LEMONADE",
+      "method": "floor",
+      "section": "B1F"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "route10",
     "south": "route10",

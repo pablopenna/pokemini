@@ -5,319 +5,663 @@
   "images": [
     "/locations/route6.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgey",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 13,
+      "maxLevel": 16,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Meowth",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 10,
+      "maxLevel": 16,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Oddish",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 13,
+      "maxLevel": 16,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgey",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 13,
+      "maxLevel": 16,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Meowth",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 10,
+      "maxLevel": 16,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Bellsprout",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 13,
+      "maxLevel": 16,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Bug Catcher Keigo",
       "team": [
-        "Weedle",
-        "Caterpie",
-        "Weedle"
+        {
+          "species": "Weedle",
+          "level": 16,
+          "moves": [
+            "Poison Sting",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Caterpie",
+          "level": 16,
+          "moves": [
+            "Tackle",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weedle",
+          "level": 16,
+          "moves": [
+            "Poison Sting",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        16,
-        16,
-        16
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Ricky",
       "team": [
-        "Squirtle"
+        {
+          "species": "Squirtle",
+          "level": 20,
+          "moves": [
+            "Bubble",
+            "Withdraw",
+            "Water Gun",
+            "Bite"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Ricky",
       "team": [
-        "Squirtle"
+        {
+          "species": "Squirtle",
+          "level": 22,
+          "moves": [
+            "Bubble",
+            "Withdraw",
+            "Water Gun",
+            "Bite"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Ricky",
       "team": [
-        "Wartortle"
+        {
+          "species": "Wartortle",
+          "level": 30,
+          "moves": [
+            "Withdraw",
+            "Water Gun",
+            "Bite",
+            "Rapid Spin"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        30
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Ricky",
       "team": [
-        "Wartortle"
+        {
+          "species": "Wartortle",
+          "level": 55,
+          "moves": [
+            "Protect",
+            "Rain Dance",
+            "Skull Bash",
+            "Hydro Pump"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        55
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Nancy",
       "team": [
-        "Rattata",
-        "Pikachu"
+        {
+          "species": "Rattata",
+          "level": 16,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pikachu",
+          "level": 16,
+          "moves": [
+            "Tail Whip",
+            "Thunder Wave",
+            "Quick Attack",
+            "Double Team"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        16,
-        16
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bug Catcher Elijah",
       "team": [
-        "Butterfree"
+        {
+          "species": "Butterfree",
+          "level": 20,
+          "moves": [
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder",
+            "Supersonic"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Isabelle",
       "team": [
-        "Pidgey",
-        "Pidgey",
-        "Pidgey"
+        {
+          "species": "Pidgey",
+          "level": 16,
+          "moves": [
+            "Tackle",
+            "Sand-attack",
+            "Gust",
+            "Quick Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgey",
+          "level": 16,
+          "moves": [
+            "Tackle",
+            "Sand-attack",
+            "Gust",
+            "Quick Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgey",
+          "level": 16,
+          "moves": [
+            "Tackle",
+            "Sand-attack",
+            "Gust",
+            "Quick Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        16,
-        16,
-        16
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Isabelle",
       "team": [
-        "Pidgeotto",
-        "Pidgeotto",
-        "Pidgey"
+        {
+          "species": "Pidgeotto",
+          "level": 21,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgeotto",
+          "level": 21,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgey",
+          "level": 18,
+          "moves": [
+            "Tackle",
+            "Sand-attack",
+            "Gust",
+            "Quick Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21,
-        18
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Isabelle",
       "team": [
-        "Pidgeotto",
-        "Pidgeotto",
-        "Pidgeotto"
+        {
+          "species": "Pidgeotto",
+          "level": 29,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgeotto",
+          "level": 29,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgeotto",
+          "level": 26,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29,
-        26
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Isabelle",
       "team": [
-        "Pidgeotto",
-        "Pidgeotto",
-        "Pidgeotto"
+        {
+          "species": "Pidgeotto",
+          "level": 29,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgeotto",
+          "level": 29,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgeotto",
+          "level": 26,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29,
-        26
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Jeff",
       "team": [
-        "Spearow",
-        "Raticate"
+        {
+          "species": "Spearow",
+          "level": 16,
+          "moves": [
+            "Peck",
+            "Growl",
+            "Leer",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 16,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        16,
-        16
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Jeff",
       "team": [
-        "Spearow",
-        "Raticate"
+        {
+          "species": "Spearow",
+          "level": 21,
+          "moves": [
+            "Growl",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 21,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Jeff",
       "team": [
-        "Fearow",
-        "Raticate"
+        {
+          "species": "Fearow",
+          "level": 29,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 29,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Jeff",
       "team": [
-        "Fearow",
-        "Raticate"
+        {
+          "species": "Fearow",
+          "level": 54,
+          "moves": [
+            "Pursuit",
+            "Mirror Move",
+            "Drill Peck",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 54,
+          "moves": [
+            "Scary Face",
+            "Pursuit",
+            "Super Fang",
+            "Endeavor"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        54,
-        54
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "RARE CANDY",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "SITRUS BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "saffroncity",
     "south": "vermilioncity",

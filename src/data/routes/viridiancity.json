@@ -6,239 +6,600 @@
     "/locations/viridiancity.png",
     "/locations/viridiancity-30-gym.png"
   ],
+  "sections": [
+    "Main Area",
+    "Gym"
+  ],
   "encounters": [
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Tamer Cole",
       "team": [
-        "Arbok",
-        "Tauros"
+        {
+          "species": "Arbok",
+          "level": 39,
+          "moves": [
+            "Bite",
+            "Glare",
+            "Screech",
+            "Acid"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tauros",
+          "level": 39,
+          "moves": [
+            "Scary Face",
+            "Pursuit",
+            "Swagger",
+            "Rest"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        39,
-        39
-      ]
+      "section": "Gym"
     },
     {
       "name": "Black Belt Kiyo",
       "team": [
-        "Machoke"
+        {
+          "species": "Machoke",
+          "level": 43,
+          "moves": [
+            "Foresight",
+            "Revenge",
+            "Vital Throw",
+            "Submission"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        43
-      ]
+      "section": "Gym"
     },
     {
       "name": "Cooltrainer Samuel",
       "team": [
-        "Sandslash",
-        "Sandslash",
-        "Rhyhorn",
-        "Nidorino",
-        "Nidoking"
+        {
+          "species": "Sandslash",
+          "level": 37,
+          "moves": [
+            "Slash",
+            "Swift",
+            "Sand-attack",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandslash",
+          "level": 37,
+          "moves": [
+            "Slash",
+            "Swift",
+            "Sand-attack",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rhyhorn",
+          "level": 38,
+          "moves": [
+            "Take Down",
+            "Rock Blast",
+            "Fury Attack",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidorino",
+          "level": 39,
+          "moves": [
+            "Fury Attack",
+            "Horn Attack",
+            "Poison Sting",
+            "Double Kick"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoking",
+          "level": 39,
+          "moves": [
+            "Thrash",
+            "Double Kick",
+            "Poison Sting",
+            "Focus Energy"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37,
-        37,
-        38,
-        39,
-        39
-      ]
+      "section": "Gym"
     },
     {
       "name": "Cooltrainer Yuji",
       "team": [
-        "Sandslash",
-        "Graveler",
-        "Onix",
-        "Graveler",
-        "Marowak"
+        {
+          "species": "Sandslash",
+          "level": 38,
+          "moves": [
+            "Slash",
+            "Swift",
+            "Sand-attack",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Graveler",
+          "level": 38,
+          "moves": [
+            "Rock Blast",
+            "Magnitude",
+            "Mud Sport",
+            "Defense Curl"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Onix",
+          "level": 38,
+          "moves": [
+            "Dragonbreath",
+            "Sandstorm",
+            "Rock Throw",
+            "Bind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Graveler",
+          "level": 38,
+          "moves": [
+            "Rock Blast",
+            "Magnitude",
+            "Rollout",
+            "Defense Curl"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Marowak",
+          "level": 38,
+          "moves": [
+            "Bonemerang",
+            "Headbutt",
+            "Leer",
+            "Growl"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        38,
-        38,
-        38,
-        38,
-        38
-      ]
+      "section": "Gym"
     },
     {
       "name": "Black Belt Atsushi",
       "team": [
-        "Machop",
-        "Machoke"
+        {
+          "species": "Machop",
+          "level": 40,
+          "moves": [
+            "Revenge",
+            "Vital Throw",
+            "Submission",
+            "Cross Chop"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Machoke",
+          "level": 40,
+          "moves": [
+            "Seismic Toss",
+            "Foresight",
+            "Revenge",
+            "Vital Throw"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        40,
-        40
-      ]
+      "section": "Gym"
     },
     {
       "name": "Tamer Jason",
       "team": [
-        "Rhyhorn"
+        {
+          "species": "Rhyhorn",
+          "level": 43,
+          "moves": [
+            "Scary Face",
+            "Rock Blast",
+            "Horn Drill",
+            "Take Down"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        43
-      ]
+      "section": "Gym"
     },
     {
       "name": "Cooltrainer Warren",
       "team": [
-        "Marowak",
-        "Marowak",
-        "Rhyhorn",
-        "Nidorina",
-        "Nidoqueen"
+        {
+          "species": "Marowak",
+          "level": 37,
+          "moves": [
+            "Bonemerang",
+            "Headbutt",
+            "Leer",
+            "Growl"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Marowak",
+          "level": 37,
+          "moves": [
+            "Bonemerang",
+            "Headbutt",
+            "Leer",
+            "Growl"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rhyhorn",
+          "level": 38,
+          "moves": [
+            "Take Down",
+            "Rock Blast",
+            "Fury Attack",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidorina",
+          "level": 39,
+          "moves": [
+            "Fury Swipes",
+            "Bite",
+            "Poison Sting",
+            "Double Kick"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoqueen",
+          "level": 39,
+          "moves": [
+            "Body Slam",
+            "Bite",
+            "Poison Sting",
+            "Double Kick"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37,
-        37,
-        38,
-        39,
-        39
-      ]
+      "section": "Gym"
     },
     {
       "name": "Black Belt Takashi",
       "team": [
-        "Machoke",
-        "Machop",
-        "Machoke"
+        {
+          "species": "Machoke",
+          "level": 38,
+          "moves": [
+            "Seismic Toss",
+            "Foresight",
+            "Revenge",
+            "Vital Throw"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Machop",
+          "level": 38,
+          "moves": [
+            "Foresight",
+            "Revenge",
+            "Vital Throw",
+            "Submission"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Machoke",
+          "level": 38,
+          "moves": [
+            "Seismic Toss",
+            "Foresight",
+            "Revenge",
+            "Vital Throw"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        38,
-        38,
-        38
-      ]
+      "section": "Gym"
     },
     {
       "name": "Leader Giovanni",
       "team": [
-        "Rhyhorn",
-        "Dugtrio",
-        "Nidoqueen",
-        "Nidoking",
-        "Rhyhorn"
+        {
+          "species": "Rhyhorn",
+          "level": 45,
+          "moves": [
+            "Take Down",
+            "Rock Blast",
+            "Scary Face",
+            "Earthquake"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Dugtrio",
+          "level": 42,
+          "moves": [
+            "Slash",
+            "Sand Tomb",
+            "",
+            "Earthquake"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoqueen",
+          "level": 44,
+          "moves": [
+            "Body Slam",
+            "Double Kick",
+            "Poison Sting",
+            "Earthquake"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoking",
+          "level": 45,
+          "moves": [
+            "Thrash",
+            "Double Kick",
+            "Poison Sting",
+            "Earthquake"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rhyhorn",
+          "level": 50,
+          "moves": [
+            "Take Down",
+            "Rock Blast",
+            "Scary Face",
+            "Earthquake"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        45,
-        42,
-        44,
-        45,
-        50
-      ]
+      "section": "Gym"
     }
   ],
+  "items": [
+    {
+      "item": "OAK'S PARCEL",
+      "method": "gift",
+      "note": "Mart Assistant",
+      "section": "Main Area"
+    },
+    {
+      "item": "TEACHY TV",
+      "method": "gift",
+      "note": "Old Man",
+      "section": "Main Area"
+    },
+    {
+      "item": "MACHO BRACE",
+      "method": "hidden",
+      "note": "Defeat Giovanni",
+      "section": "Gym"
+    },
+    {
+      "item": "TM26",
+      "method": "gift",
+      "note": "Defeat Giovanni",
+      "section": "Gym"
+    }
+  ],
+  "marts": [
+    {
+      "name": "PokéMart",
+      "stock": [
+        {
+          "item": "PokéBall",
+          "price": 200
+        },
+        {
+          "item": "Potion",
+          "price": 300
+        },
+        {
+          "item": "Antidote",
+          "price": 100
+        },
+        {
+          "item": "Paralyz Heal",
+          "price": 200
+        }
+      ],
+      "section": "Main Area"
+    }
+  ],
+  "trades": [],
   "connections": {
     "north": "route2",
     "south": "route1",

@@ -5,322 +5,806 @@
   "images": [
     "/locations/route15.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Oddish",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Venonat",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 24,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgey",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 25,
+      "maxLevel": 27,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgeotto",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 29,
+      "maxLevel": 29,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Gloom",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Ditto",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Bellsprout",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Venonat",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 24,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgey",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 25,
+      "maxLevel": 27,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgeotto",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 29,
+      "maxLevel": 29,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Weepinbell",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 28,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Ditto",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Picnicker Becky",
       "team": [
-        "Pikachu",
-        "Raichu"
+        {
+          "species": "Pikachu",
+          "level": 29,
+          "moves": [
+            "Quick Attack",
+            "Double Team",
+            "Slam",
+            "Thunderbolt"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raichu",
+          "level": 29,
+          "moves": [
+            "Thundershock",
+            "Tail Whip",
+            "Quick Attack",
+            "Thunderbolt"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Becky",
       "team": [
-        "Pikachu",
-        "Raichu"
+        {
+          "species": "Pikachu",
+          "level": 32,
+          "moves": [
+            "Quick Attack",
+            "Double Team",
+            "Slam",
+            "Thunderbolt"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raichu",
+          "level": 32,
+          "moves": [
+            "Thundershock",
+            "Tail Whip",
+            "Quick Attack",
+            "Thunderbolt"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        32,
-        32
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Becky",
       "team": [
-        "Pikachu",
-        "Raichu"
+        {
+          "species": "Pikachu",
+          "level": 49,
+          "moves": [
+            "Slam",
+            "Thunderbolt",
+            "Agility",
+            "Thunder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raichu",
+          "level": 49,
+          "moves": [
+            "Thundershock",
+            "Tail Whip",
+            "Quick Attack",
+            "Thunderbolt"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        49,
-        49
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Becky",
       "team": [
-        "Raichu",
-        "Raichu"
+        {
+          "species": "Raichu",
+          "level": 54,
+          "moves": [
+            "Thundershock",
+            "Tail Whip",
+            "Quick Attack",
+            "Thunderbolt"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raichu",
+          "level": 54,
+          "moves": [
+            "Thundershock",
+            "Tail Whip",
+            "Quick Attack",
+            "Thunderbolt"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        54,
-        54
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Crush Kin Ron & Mya",
       "team": [
-        "Hitmonchan",
-        "Hitmonlee"
+        {
+          "species": "Hitmonchan",
+          "level": 29,
+          "moves": [
+            "Mach Punch",
+            "Thunderpunch",
+            "Ice Punch",
+            "Fire Punch"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Hitmonlee",
+          "level": 29,
+          "moves": [
+            "Jump Kick",
+            "Brick Break",
+            "Focus Energy",
+            "Hi Jump Kick"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Crush Kin Ron & Mya",
       "team": [
-        "Hitmonchan",
-        "Hitmonlee"
+        {
+          "species": "Hitmonchan",
+          "level": 33,
+          "moves": [
+            "Thunderpunch",
+            "Ice Punch",
+            "Fire Punch",
+            "Sky Uppercut"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Hitmonlee",
+          "level": 33,
+          "moves": [
+            "Brick Break",
+            "Focus Energy",
+            "Hi Jump Kick",
+            "Mind Reader"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        33,
-        33
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Crush Kin Ron & Mya",
       "team": [
-        "Hitmonchan",
-        "Hitmonlee"
+        {
+          "species": "Hitmonchan",
+          "level": 51,
+          "moves": [
+            "Sky Uppercut",
+            "Mega Punch",
+            "Detect",
+            "Counter"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Hitmonlee",
+          "level": 51,
+          "moves": [
+            "Foresight",
+            "Endure",
+            "Mega Kick",
+            "Reversal"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        51,
-        51
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Crush Kin Ron & Mya",
       "team": [
-        "Hitmonchan",
-        "Hitmonlee"
+        {
+          "species": "Hitmonchan",
+          "level": 56,
+          "moves": [
+            "Sky Uppercut",
+            "Mega Punch",
+            "Detect",
+            "Counter"
+          ],
+          "heldItem": "Black Belt"
+        },
+        {
+          "species": "Hitmonlee",
+          "level": 56,
+          "moves": [
+            "Foresight",
+            "Endure",
+            "Mega Kick",
+            "Reversal"
+          ],
+          "heldItem": "Black Belt"
+        }
       ],
-      "levels": [
-        56,
-        56
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Celia",
       "team": [
-        "Clefairy"
+        {
+          "species": "Clefairy",
+          "level": 33,
+          "moves": [
+            "Minimize",
+            "Defense Curl",
+            "Metronome",
+            "Cosmic Power"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Ernest",
       "team": [
-        "Koffing",
-        "Koffing",
-        "Weezing",
-        "Koffing",
-        "Grimer"
+        {
+          "species": "Koffing",
+          "level": 25,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 25,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weezing",
+          "level": 25,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 25,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Grimer",
+          "level": 25,
+          "moves": [
+            "Minimize",
+            "Sludge",
+            "Disable",
+            "Pound"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        25,
-        25,
-        25,
-        25,
-        25
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Alex",
       "team": [
-        "Koffing",
-        "Grimer",
-        "Weezing"
+        {
+          "species": "Koffing",
+          "level": 28,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Grimer",
+          "level": 28,
+          "moves": [
+            "Screech",
+            "Minimize",
+            "Sludge",
+            "Disable"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weezing",
+          "level": 28,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Beauty Grace",
       "team": [
-        "Pidgeotto",
-        "Wigglytuff"
+        {
+          "species": "Pidgeotto",
+          "level": 29,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Wigglytuff",
+          "level": 29,
+          "moves": [
+            "Sing",
+            "Disable",
+            "Defense Curl",
+            "Doubleslap"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Beauty Grace",
       "team": [
-        "Pidgeot",
-        "Wigglytuff"
+        {
+          "species": "Pidgeot",
+          "level": 49,
+          "moves": [
+            "Whirlwind",
+            "Wing Attack",
+            "Featherdance",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Wigglytuff",
+          "level": 49,
+          "moves": [
+            "Sing",
+            "Disable",
+            "Defense Curl",
+            "Doubleslap"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        49,
-        49
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Beauty Olivia",
       "team": [
-        "Bulbasaur",
-        "Ivysaur"
+        {
+          "species": "Bulbasaur",
+          "level": 29,
+          "moves": [
+            "Poisonpowder",
+            "Sleep Powder",
+            "Razor Leaf",
+            "Sweet Scent"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ivysaur",
+          "level": 29,
+          "moves": [
+            "Poisonpowder",
+            "Sleep Powder",
+            "Razor Leaf",
+            "Sweet Scent"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Kindra",
       "team": [
-        "Gloom",
-        "Oddish",
-        "Oddish"
+        {
+          "species": "Gloom",
+          "level": 28,
+          "moves": [
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder",
+            "Acid"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Oddish",
+          "level": 28,
+          "moves": [
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder",
+            "Acid"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Oddish",
+          "level": 28,
+          "moves": [
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder",
+            "Acid"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Chester",
       "team": [
-        "Dodrio",
-        "Doduo",
-        "Doduo"
+        {
+          "species": "Dodrio",
+          "level": 28,
+          "moves": [
+            "Pursuit",
+            "Fury Attack",
+            "Tri Attack",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Doduo",
+          "level": 28,
+          "moves": [
+            "Pursuit",
+            "Fury Attack",
+            "Tri Attack",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Doduo",
+          "level": 28,
+          "moves": [
+            "Pursuit",
+            "Fury Attack",
+            "Tri Attack",
+            "Rage"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Chester",
       "team": [
-        "Dodrio",
-        "Dodrio",
-        "Doduo"
+        {
+          "species": "Dodrio",
+          "level": 30,
+          "moves": [
+            "Pursuit",
+            "Fury Attack",
+            "Tri Attack",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Dodrio",
+          "level": 30,
+          "moves": [
+            "Pursuit",
+            "Fury Attack",
+            "Tri Attack",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Doduo",
+          "level": 30,
+          "moves": [
+            "Pursuit",
+            "Fury Attack",
+            "Tri Attack",
+            "Rage"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        30,
-        30,
-        30
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Chester",
       "team": [
-        "Dodrio",
-        "Dodrio",
-        "Dodrio"
+        {
+          "species": "Dodrio",
+          "level": 48,
+          "moves": [
+            "Tri Attack",
+            "Rage",
+            "Uproar",
+            "Drill Peck"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Dodrio",
+          "level": 48,
+          "moves": [
+            "Tri Attack",
+            "Rage",
+            "Uproar",
+            "Drill Peck"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Dodrio",
+          "level": 48,
+          "moves": [
+            "Tri Attack",
+            "Rage",
+            "Uproar",
+            "Drill Peck"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        48,
-        48,
-        48
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Edwin",
       "team": [
-        "Pidgeotto",
-        "Farfetch'd",
-        "Doduo",
-        "Pidgey"
+        {
+          "species": "Pidgeotto",
+          "level": 26,
+          "moves": [
+            "Sand-attack",
+            "Gust",
+            "Quick Attack",
+            "Whirlwind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Farfetch'd",
+          "level": 26,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Knock Off",
+            "Fury Cutter"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Doduo",
+          "level": 26,
+          "moves": [
+            "Pursuit",
+            "Fury Attack",
+            "Tri Attack",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgey",
+          "level": 26,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        26,
-        26,
-        26,
-        26
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Yazmin",
       "team": [
-        "Bellsprout",
-        "Oddish",
-        "Tangela"
+        {
+          "species": "Bellsprout",
+          "level": 29,
+          "moves": [
+            "Sleep Powder",
+            "Poisonpowder",
+            "Stun Spore",
+            "Acid"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Oddish",
+          "level": 29,
+          "moves": [
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder",
+            "Acid"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Tangela",
+          "level": 29,
+          "moves": [
+            "Growth",
+            "Poisonpowder",
+            "Vine Whip",
+            "Bind"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29,
-        29
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "EXP. SHARE",
+      "method": "gift",
+      "note": "Professor Oak's Aide",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM18",
+      "method": "floor",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": null,

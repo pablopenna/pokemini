@@ -5,57 +5,93 @@
   "images": [
     "/locations/route7.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Meowth",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 17,
+      "maxLevel": 20,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgey",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 19,
+      "maxLevel": 22,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Oddish",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 19,
+      "maxLevel": 22,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Growlithe",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 18,
+      "maxLevel": 20,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Meowth",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 17,
+      "maxLevel": 20,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgey",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 19,
+      "maxLevel": 22,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Bellsprout",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 19,
+      "maxLevel": 22,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Vulpix",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 18,
+      "maxLevel": 20,
+      "section": "Main Area"
     }
   ],
   "trainers": [],
+  "items": [
+    {
+      "item": "WEPEAR BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": null,

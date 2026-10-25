@@ -5,8 +5,51 @@
   "images": [
     "/locations/undergroundpath5-6.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [],
   "trainers": [],
+  "items": [
+    {
+      "item": "ANTIDOTE",
+      "method": "hidden",
+      "note": "Visit SS Anne",
+      "section": "Main Area"
+    },
+    {
+      "item": "PARLYZ HEAL",
+      "method": "hidden",
+      "note": "Visit SS Anne",
+      "section": "Main Area"
+    },
+    {
+      "item": "AWAKENING",
+      "method": "hidden",
+      "note": "Visit SS Anne",
+      "section": "Main Area"
+    },
+    {
+      "item": "POTION",
+      "method": "hidden",
+      "note": "Visit SS Anne",
+      "section": "Main Area"
+    },
+    {
+      "item": "ICE HEAL",
+      "method": "hidden",
+      "note": "Visit SS Anne",
+      "section": "Main Area"
+    },
+    {
+      "item": "BURN HEAL",
+      "method": "hidden",
+      "note": "Visit SS Anne",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "route5",
     "south": "route6",

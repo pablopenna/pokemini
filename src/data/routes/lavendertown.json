@@ -5,8 +5,60 @@
   "images": [
     "/locations/lavendertown.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [],
   "trainers": [],
+  "items": [
+    {
+      "item": "POKé FLUTE",
+      "method": "gift",
+      "note": "Mr. Fuji",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [
+    {
+      "name": "PokéMart",
+      "stock": [
+        {
+          "item": "Great Ball",
+          "price": 600
+        },
+        {
+          "item": "Super Potion",
+          "price": 700
+        },
+        {
+          "item": "Antidote",
+          "price": 100
+        },
+        {
+          "item": "Paralyz Heal",
+          "price": 200
+        },
+        {
+          "item": "Burn Heal",
+          "price": 250
+        },
+        {
+          "item": "Ice Heal",
+          "price": 250
+        },
+        {
+          "item": "Escape Rope",
+          "price": 550
+        },
+        {
+          "item": "Super Repel",
+          "price": 500
+        }
+      ],
+      "section": "Main Area"
+    }
+  ],
+  "trades": [],
   "connections": {
     "north": "route10",
     "south": "route12",

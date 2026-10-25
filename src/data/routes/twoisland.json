@@ -5,8 +5,57 @@
   "images": [
     "/locations/twoisland.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [],
   "trainers": [],
+  "items": [
+    {
+      "item": "REVIVE",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "MOON STONE",
+      "method": "gift",
+      "note": "After Rescuing Lostelle",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [
+    {
+      "name": "Stall",
+      "stock": [
+        {
+          "item": "Ultra Ball",
+          "price": 1200
+        },
+        {
+          "item": "Great Ball",
+          "price": 600
+        },
+        {
+          "item": "Lemonade",
+          "price": 350
+        },
+        {
+          "item": "Soda Pop",
+          "price": 300
+        },
+        {
+          "item": "Fresh Water",
+          "price": 200
+        },
+        {
+          "item": "MooMoo Milk",
+          "price": 500
+        }
+      ],
+      "section": "Main Area"
+    }
+  ],
+  "trades": [],
   "connections": {
     "north": "capebrink",
     "south": null,

@@ -6,242 +6,546 @@
     "/locations/cinnabarisland.png",
     "/locations/cinnabarisland-38-gym.png"
   ],
+  "sections": [
+    "Main Area",
+    "Gym"
+  ],
   "encounters": [
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Shellder",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Seadra",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Staryu",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowbro",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "gift",
       "version": "unknown",
       "species": "Omanyte",
-      "rate": 0
+      "rate": null,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "gift",
       "version": "unknown",
       "species": "Kabuto",
-      "rate": 0
+      "rate": null,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "gift",
       "version": "unknown",
       "species": "Aerodactyl",
-      "rate": 0
+      "rate": null,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Burglar Quinn",
       "team": [
-        "Growlithe",
-        "Vulpix",
-        "Ninetales"
+        {
+          "species": "Growlithe",
+          "level": 36,
+          "moves": [
+            "Leer",
+            "Odor Sleuth",
+            "Take Down",
+            "Flame Wheel"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Vulpix",
+          "level": 36,
+          "moves": [
+            "Confuse Ray",
+            "Imprison",
+            "Flamethrower",
+            "Safeguard"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ninetales",
+          "level": 36,
+          "moves": [
+            "Ember",
+            "Quick Attack",
+            "Confuse Ray",
+            "Safeguard"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        36,
-        36,
-        36
-      ]
+      "section": "Gym"
     },
     {
       "name": "Super Nerd Erik",
       "team": [
-        "Vulpix",
-        "Vulpix",
-        "Ninetales"
+        {
+          "species": "Vulpix",
+          "level": 36,
+          "moves": [
+            "Confuse Ray",
+            "Imprison",
+            "Flamethrower",
+            "Safeguard"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Vulpix",
+          "level": 36,
+          "moves": [
+            "Confuse Ray",
+            "Imprison",
+            "Flamethrower",
+            "Safeguard"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ninetales",
+          "level": 36,
+          "moves": [
+            "Ember",
+            "Quick Attack",
+            "Confuse Ray",
+            "Safeguard"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        36,
-        36,
-        36
-      ]
+      "section": "Gym"
     },
     {
       "name": "Super Nerd Avery",
       "team": [
-        "Ponyta",
-        "Charmander",
-        "Vulpix",
-        "Growlithe"
+        {
+          "species": "Ponyta",
+          "level": 34,
+          "moves": [
+            "Ember",
+            "Stomp",
+            "Fire Spin",
+            "Take Down"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charmander",
+          "level": 34,
+          "moves": [
+            "Metal Claw",
+            "Smokescreen",
+            "Scary Face",
+            "Flamethrower"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Vulpix",
+          "level": 34,
+          "moves": [
+            "Confuse Ray",
+            "Imprison",
+            "Flamethrower",
+            "Safeguard"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Growlithe",
+          "level": 34,
+          "moves": [
+            "Leer",
+            "Odor Sleuth",
+            "Take Down",
+            "Flame Wheel"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        34,
-        34,
-        34,
-        34
-      ]
+      "section": "Gym"
     },
     {
       "name": "Burglar Ramon",
       "team": [
-        "Ponyta"
+        {
+          "species": "Ponyta",
+          "level": 41,
+          "moves": [
+            "Stomp",
+            "Fire Spin",
+            "Take Down",
+            "Agility"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        41
-      ]
+      "section": "Gym"
     },
     {
       "name": "Super Nerd Derek",
       "team": [
-        "Rapidash"
+        {
+          "species": "Rapidash",
+          "level": 41,
+          "moves": [
+            "Fire Spin",
+            "Take Down",
+            "Agility",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        41
-      ]
+      "section": "Gym"
     },
     {
       "name": "Burglar Dusty",
       "team": [
-        "Vulpix",
-        "Growlithe"
+        {
+          "species": "Vulpix",
+          "level": 37,
+          "moves": [
+            "Imprison",
+            "Flamethrower",
+            "Safeguard",
+            "Grudge"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Growlithe",
+          "level": 37,
+          "moves": [
+            "Odor Sleuth",
+            "Take Down",
+            "Flame Wheel",
+            "Helping Hand"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37,
-        37
-      ]
+      "section": "Gym"
     },
     {
       "name": "Super Nerd Zac",
       "team": [
-        "Growlithe",
-        "Vulpix"
+        {
+          "species": "Growlithe",
+          "level": 37,
+          "moves": [
+            "Odor Sleuth",
+            "Take Down",
+            "Flame Wheel",
+            "Helping Hand"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Vulpix",
+          "level": 37,
+          "moves": [
+            "Imprison",
+            "Flamethrower",
+            "Safeguard",
+            "Grudge"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37,
-        37
-      ]
+      "section": "Gym"
     },
     {
       "name": "Leader Blaine",
       "team": [
-        "Growlithe",
-        "Ponyta",
-        "Rapidash",
-        "Arcanine"
+        {
+          "species": "Growlithe",
+          "level": 42,
+          "moves": [
+            "Bite",
+            "Roar",
+            "Take Down",
+            "Fire Blast"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ponyta",
+          "level": 40,
+          "moves": [
+            "Stomp",
+            "Bounce",
+            "Fire Spin",
+            "Fire Blast"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rapidash",
+          "level": 42,
+          "moves": [
+            "Stomp",
+            "Bounce",
+            "Fire Spin",
+            "Fire Blast"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Arcanine",
+          "level": 47,
+          "moves": [
+            "Bite",
+            "Roar",
+            "Take Down",
+            "Fire Blast"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        42,
-        40,
-        42,
-        47
-      ]
+      "section": "Gym"
+    }
+  ],
+  "items": [
+    {
+      "item": "TRI-PASS",
+      "method": "gift",
+      "note": "Bill will give it to you once you've defeated Blaine",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM38",
+      "method": "gift",
+      "note": "Defeat Blaine",
+      "section": "Gym"
+    }
+  ],
+  "marts": [
+    {
+      "name": "PokéMart",
+      "stock": [
+        {
+          "item": "Ultra Ball",
+          "price": 1200
+        },
+        {
+          "item": "Great Ball",
+          "price": 600
+        },
+        {
+          "item": "Hyper Potion",
+          "price": 1200
+        },
+        {
+          "item": "Revive",
+          "price": 1500
+        },
+        {
+          "item": "Full Heal",
+          "price": 600
+        },
+        {
+          "item": "Escape Rope",
+          "price": 550
+        },
+        {
+          "item": "Max Repel",
+          "price": 700
+        }
+      ],
+      "section": "Main Area"
+    }
+  ],
+  "trades": [
+    {
+      "received": "Electrode",
+      "nickname": "ESPHERE",
+      "level": null,
+      "requested": "Raichu",
+      "section": "Main Area"
     }
   ],
   "connections": {

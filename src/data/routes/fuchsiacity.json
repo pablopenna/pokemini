@@ -6,203 +6,468 @@
     "/locations/fuchsiacity.png",
     "/locations/fuchsiacity-37-gym.png"
   ],
+  "sections": [
+    "Main Area",
+    "Gym"
+  ],
   "encounters": [
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Seaking",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Seaking",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Juggler Nate",
       "team": [
-        "Drowzee",
-        "Kadabra"
+        {
+          "species": "Drowzee",
+          "level": 34,
+          "moves": [
+            "Headbutt",
+            "Poison Gas",
+            "Meditate",
+            "Psychic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kadabra",
+          "level": 34,
+          "moves": [
+            "Reflect",
+            "Recover",
+            "Future Sight",
+            "Role Play"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        34,
-        34
-      ]
+      "section": "Gym"
     },
     {
       "name": "Juggler Kayden",
       "team": [
-        "Hypno"
+        {
+          "species": "Hypno",
+          "level": 38,
+          "moves": [
+            "Headbutt",
+            "Poison Gas",
+            "Meditate",
+            "Psychic"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        38
-      ]
+      "section": "Gym"
     },
     {
       "name": "Juggler Kirk",
       "team": [
-        "Drowzee",
-        "Drowzee",
-        "Kadabra",
-        "Drowzee"
+        {
+          "species": "Drowzee",
+          "level": 31,
+          "moves": [
+            "Headbutt",
+            "Poison Gas",
+            "Meditate",
+            "Psychic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Drowzee",
+          "level": 31,
+          "moves": [
+            "Headbutt",
+            "Poison Gas",
+            "Meditate",
+            "Psychic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kadabra",
+          "level": 31,
+          "moves": [
+            "Psybeam",
+            "Reflect",
+            "Recover",
+            "Future Sight"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Drowzee",
+          "level": 31,
+          "moves": [
+            "Headbutt",
+            "Poison Gas",
+            "Meditate",
+            "Psychic"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        31,
-        31,
-        31,
-        31
-      ]
+      "section": "Gym"
     },
     {
       "name": "Tamer Edgar",
       "team": [
-        "Arbok",
-        "Sandslash",
-        "Arbok"
+        {
+          "species": "Arbok",
+          "level": 33,
+          "moves": [
+            "Poison Sting",
+            "Bite",
+            "Glare",
+            "Screech"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandslash",
+          "level": 33,
+          "moves": [
+            "Sand-attack",
+            "Poison Sting",
+            "Slash",
+            "Swift"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Arbok",
+          "level": 33,
+          "moves": [
+            "Poison Sting",
+            "Bite",
+            "Glare",
+            "Screech"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33,
-        33,
-        33
-      ]
+      "section": "Gym"
     },
     {
       "name": "Tamer Phil",
       "team": [
-        "Sandslash",
-        "Arbok"
+        {
+          "species": "Sandslash",
+          "level": 34,
+          "moves": [
+            "Sand-attack",
+            "Poison Sting",
+            "Slash",
+            "Swift"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Arbok",
+          "level": 34,
+          "moves": [
+            "Poison Sting",
+            "Bite",
+            "Glare",
+            "Screech"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        34,
-        34
-      ]
+      "section": "Gym"
     },
     {
       "name": "Juggler Shawn",
       "team": [
-        "Drowzee",
-        "Hypno"
+        {
+          "species": "Drowzee",
+          "level": 34,
+          "moves": [
+            "Headbutt",
+            "Poison Gas",
+            "Meditate",
+            "Psychic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Hypno",
+          "level": 34,
+          "moves": [
+            "Confusion",
+            "Headbutt",
+            "Poison Gas",
+            "Meditate"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        34,
-        34
-      ]
+      "section": "Gym"
     },
     {
       "name": "Leader Koga",
       "team": [
-        "Koffing",
-        "Muk",
-        "Koffing",
-        "Weezing"
+        {
+          "species": "Koffing",
+          "level": 37,
+          "moves": [
+            "Selfdestruct",
+            "Sludge",
+            "Smokescreen",
+            "Toxic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Muk",
+          "level": 39,
+          "moves": [
+            "Minimize",
+            "Sludge",
+            "Acid Armor",
+            "Toxic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 37,
+          "moves": [
+            "Selfdestruct",
+            "Sludge",
+            "Smokescreen",
+            "Toxic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weezing",
+          "level": 43,
+          "moves": [
+            "Tackle",
+            "Sludge",
+            "Smokescreen",
+            "Toxic"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37,
-        39,
-        37,
-        43
-      ]
+      "section": "Gym"
     }
   ],
+  "items": [
+    {
+      "item": "MAX REVIVE",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "HM04",
+      "method": "gift",
+      "note": "Return Gold Teeth to Warden",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM06",
+      "method": "gift",
+      "note": "Defeat Koga",
+      "section": "Gym"
+    }
+  ],
+  "marts": [
+    {
+      "name": "PokéMart",
+      "stock": [
+        {
+          "item": "Ultra Ball",
+          "price": 1200
+        },
+        {
+          "item": "Great Ball",
+          "price": 600
+        },
+        {
+          "item": "Super Potion",
+          "price": 700
+        },
+        {
+          "item": "Revive",
+          "price": 1500
+        },
+        {
+          "item": "Full Heal",
+          "price": 600
+        },
+        {
+          "item": "Max Repel",
+          "price": 700
+        }
+      ],
+      "section": "Main Area"
+    }
+  ],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "route19",

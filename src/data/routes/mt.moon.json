@@ -7,258 +7,661 @@
     "/locations/mt.moon-42-b1f.png",
     "/locations/mt.moon-42-b2f.png"
   ],
+  "sections": [
+    "1F",
+    "B1F",
+    "B2F"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Zubat",
-      "rate": 69
+      "rate": 69,
+      "minLevel": 7,
+      "maxLevel": 10,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Geodude",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 7,
+      "maxLevel": 9,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Paras",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 8,
+      "maxLevel": 8,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Clefairy",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 8,
+      "maxLevel": 8,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Zubat",
-      "rate": 69
+      "rate": 69,
+      "minLevel": 7,
+      "maxLevel": 10,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Geodude",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 7,
+      "maxLevel": 9,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Paras",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 8,
+      "maxLevel": 8,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Clefairy",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 8,
+      "maxLevel": 8,
+      "section": "1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Paras",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 10,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Paras",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 10,
+      "section": "B1F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Zubat",
-      "rate": 49
+      "rate": 49,
+      "minLevel": 8,
+      "maxLevel": 11,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Geodude",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 9,
+      "maxLevel": 10,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Paras",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 10,
+      "maxLevel": 12,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Clefairy",
-      "rate": 6
+      "rate": 6,
+      "minLevel": 10,
+      "maxLevel": 12,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Zubat",
-      "rate": 49
+      "rate": 49,
+      "minLevel": 8,
+      "maxLevel": 11,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Geodude",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 9,
+      "maxLevel": 10,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Paras",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 10,
+      "maxLevel": 12,
+      "section": "B2F"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Clefairy",
-      "rate": 6
+      "rate": 6,
+      "minLevel": 10,
+      "maxLevel": 12,
+      "section": "B2F"
     }
   ],
   "trainers": [
     {
       "name": "Bug Catcher Kent",
       "team": [
-        "Weedle",
-        "Kakuna"
+        {
+          "species": "Weedle",
+          "level": 11,
+          "moves": [
+            "Poison Sting",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kakuna",
+          "level": 11,
+          "moves": [
+            "Harden",
+            "Harden",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        11,
-        11
-      ]
+      "section": "1F"
     },
     {
       "name": "Lass Iris",
       "team": [
-        "Clefairy"
+        {
+          "species": "Clefairy",
+          "level": 14,
+          "moves": [
+            "Growl",
+            "Encore",
+            "Sing",
+            "Doubleslap"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        14
-      ]
+      "section": "1F"
     },
     {
       "name": "Super Nerd Jovan",
       "team": [
-        "Magnemite",
-        "Voltorb"
+        {
+          "species": "Magnemite",
+          "level": 11,
+          "moves": [
+            "Metal Sound",
+            "Tackle",
+            "Thundershock",
+            "Supersonic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Voltorb",
+          "level": 11,
+          "moves": [
+            "Charge",
+            "Tackle",
+            "Screech",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        11,
-        11
-      ]
+      "section": "1F"
     },
     {
       "name": "Bug Catcher Robby",
       "team": [
-        "Caterpie",
-        "Metapod",
-        "Caterpie"
+        {
+          "species": "Caterpie",
+          "level": 10,
+          "moves": [
+            "Tackle",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Metapod",
+          "level": 10,
+          "moves": [
+            "Harden",
+            "Harden",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Caterpie",
+          "level": 10,
+          "moves": [
+            "Tackle",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        10,
-        10,
-        10
-      ]
+      "section": "1F"
     },
     {
       "name": "Lass Miriam",
       "team": [
-        "Oddish",
-        "Bellsprout"
+        {
+          "species": "Oddish",
+          "level": 11,
+          "moves": [
+            "Absorb",
+            "Sweet Scent",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Bellsprout",
+          "level": 11,
+          "moves": [
+            "Vine Whip",
+            "Growth",
+            "Wrap",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        11,
-        11
-      ]
+      "section": "1F"
     },
     {
       "name": "Youngster Josh",
       "team": [
-        "Rattata",
-        "Rattata",
-        "Zubat"
+        {
+          "species": "Rattata",
+          "level": 10,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rattata",
+          "level": 10,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 10,
+          "moves": [
+            "Leech Life",
+            "Astonish",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        10,
-        10,
-        10
-      ]
+      "section": "1F"
     },
     {
       "name": "Hiker Marcos",
       "team": [
-        "Geodude",
-        "Geodude",
-        "Onix"
+        {
+          "species": "Geodude",
+          "level": 10,
+          "moves": [
+            "Tackle",
+            "Defense Curl",
+            "Mud Sport",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Geodude",
+          "level": 10,
+          "moves": [
+            "Tackle",
+            "Defense Curl",
+            "Mud Sport",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Onix",
+          "level": 10,
+          "moves": [
+            "Tackle",
+            "Screech",
+            "Bind",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        10,
-        10,
-        10
-      ]
+      "section": "1F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Sandshrew",
-        "Rattata",
-        "Zubat"
+        {
+          "species": "Sandshrew",
+          "level": 11,
+          "moves": [
+            "Scratch",
+            "Defense Curl",
+            "Sand-attack",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rattata",
+          "level": 11,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 11,
+          "moves": [
+            "Leech Life",
+            "Astonish",
+            "Supersonic",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        11,
-        11,
-        11
-      ]
+      "section": "B2F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Zubat",
-        "Ekans"
+        {
+          "species": "Zubat",
+          "level": 11,
+          "moves": [
+            "Leech Life",
+            "Astonish",
+            "Supersonic",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ekans",
+          "level": 11,
+          "moves": [
+            "Wrap",
+            "Leer",
+            "Poison Sting",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        11,
-        11
-      ]
+      "section": "B2F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Rattata",
-        "Sandshrew"
+        {
+          "species": "Rattata",
+          "level": 13,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandshrew",
+          "level": 13,
+          "moves": [
+            "Scratch",
+            "Defense Curl",
+            "Sand-attack",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        13,
-        13
-      ]
+      "section": "B2F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Rattata",
-        "Zubat"
+        {
+          "species": "Rattata",
+          "level": 13,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 13,
+          "moves": [
+            "Leech Life",
+            "Astonish",
+            "Supersonic",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        13,
-        13
-      ]
+      "section": "B2F"
     },
     {
       "name": "Super Nerd Miguel",
       "team": [
-        "Grimer",
-        "Voltorb",
-        "Koffing"
+        {
+          "species": "Grimer",
+          "level": 12,
+          "moves": [
+            "Poison Gas",
+            "Pound",
+            "Harden",
+            "Disable"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Voltorb",
+          "level": 12,
+          "moves": [
+            "Charge",
+            "Tackle",
+            "Screech",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 12,
+          "moves": [
+            "Poison Gas",
+            "Tackle",
+            "Smog",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        12,
-        12,
-        12
-      ]
+      "section": "B2F"
     }
   ],
+  "items": [
+    {
+      "item": "TM09",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "PARLYZ HEAL",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "POTION",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "RARE CANDY",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "ESCAPE ROPE",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "MOON STONE",
+      "method": "floor",
+      "section": "1F"
+    },
+    {
+      "item": "TINYMUSHROOM",
+      "method": "hidden",
+      "section": "B1F"
+    },
+    {
+      "item": "BIG MUSHROOM",
+      "method": "hidden",
+      "section": "B1F"
+    },
+    {
+      "item": "BIG MUSHROOM",
+      "method": "hidden",
+      "section": "B1F"
+    },
+    {
+      "item": "TINYMUSHROOM",
+      "method": "hidden",
+      "section": "B1F"
+    },
+    {
+      "item": "BIG MUSHROOM",
+      "method": "hidden",
+      "section": "B1F"
+    },
+    {
+      "item": "TINYMUSHROOM",
+      "method": "hidden",
+      "section": "B1F"
+    },
+    {
+      "item": "TM46",
+      "method": "floor",
+      "section": "B2F"
+    },
+    {
+      "item": "REVIVE",
+      "method": "floor",
+      "section": "B2F"
+    },
+    {
+      "item": "STAR PIECE",
+      "method": "floor",
+      "section": "B2F"
+    },
+    {
+      "item": "HELIX FOSSIL",
+      "method": "floor",
+      "section": "B2F"
+    },
+    {
+      "item": "DOME FOSSIL",
+      "method": "floor",
+      "section": "B2F"
+    },
+    {
+      "item": "ANTIDOTE",
+      "method": "floor",
+      "section": "B2F"
+    },
+    {
+      "item": "ETHER",
+      "method": "hidden",
+      "section": "B2F"
+    },
+    {
+      "item": "MOON STONE",
+      "method": "hidden",
+      "section": "B2F"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": null,

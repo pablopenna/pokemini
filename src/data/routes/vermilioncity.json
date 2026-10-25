@@ -7,280 +7,542 @@
     "/locations/vermilioncity-33-gym.png",
     "/locations/vermilioncity-33-harbor.png"
   ],
+  "sections": [
+    "Main Area",
+    "Gym",
+    "Harbor"
+  ],
   "encounters": [
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Shellder",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Staryu",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Harbor"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Harbor"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Harbor"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Harbor"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Harbor"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Harbor"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Harbor"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Harbor"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Harbor"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Harbor"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 44
+      "rate": 44,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Harbor"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Shellder",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Harbor"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Harbor"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Harbor"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 44
+      "rate": 44,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Harbor"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Staryu",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Harbor"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Harbor"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Harbor"
     }
   ],
   "trainers": [
     {
       "name": "Sailor Dwayne",
       "team": [
-        "Pikachu",
-        "Pikachu"
+        {
+          "species": "Pikachu",
+          "level": 21,
+          "moves": [
+            "Thunder Wave",
+            "Quick Attack",
+            "Double Team",
+            "Slam"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pikachu",
+          "level": 21,
+          "moves": [
+            "Thunder Wave",
+            "Quick Attack",
+            "Double Team",
+            "Slam"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21
-      ]
+      "section": "Gym"
     },
     {
       "name": "Engineer Baily",
       "team": [
-        "Voltorb",
-        "Magnemite"
+        {
+          "species": "Voltorb",
+          "level": 21,
+          "moves": [
+            "Tackle",
+            "Screech",
+            "Sonicboom",
+            "Spark"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magnemite",
+          "level": 21,
+          "moves": [
+            "Thundershock",
+            "Supersonic",
+            "Sonicboom",
+            "Thunder Wave"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21
-      ]
+      "section": "Gym"
     },
     {
       "name": "Gentleman Tucker",
       "team": [
-        "Pikachu"
+        {
+          "species": "Pikachu",
+          "level": 23,
+          "moves": [
+            "Thunder Wave",
+            "Quick Attack",
+            "Double Team",
+            "Slam"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        23
-      ]
+      "section": "Gym"
     },
     {
       "name": "Leader Lt. Surge",
       "team": [
-        "Voltorb",
-        "Pikachu",
-        "Raichu"
+        {
+          "species": "Voltorb",
+          "level": 21,
+          "moves": [
+            "Sonicboom",
+            "Tackle",
+            "Screech",
+            "Shock Wave"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pikachu",
+          "level": 18,
+          "moves": [
+            "Quick Attack",
+            "Thunder Wave",
+            "Double Team",
+            "Shock Wave"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raichu",
+          "level": 24,
+          "moves": [
+            "Quick Attack",
+            "Thunder Wave",
+            "Double Team",
+            "Shock Wave"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        18,
-        24
-      ]
+      "section": "Gym"
+    }
+  ],
+  "items": [
+    {
+      "item": "MAX ETHER",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "VS SEEKER",
+      "method": "gift",
+      "note": "Girl in Pokemon Center",
+      "section": "Main Area"
+    },
+    {
+      "item": "BIKE VOUCHER",
+      "method": "gift",
+      "note": "Head of Pokémon Fan Club",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM34",
+      "method": "gift",
+      "note": "Defeat Lt. Surge",
+      "section": "Gym"
+    },
+    {
+      "item": "LAVA COOKIE",
+      "method": "floor",
+      "section": "Harbor"
+    }
+  ],
+  "marts": [
+    {
+      "name": "PokéMart",
+      "stock": [
+        {
+          "item": "PokéBall",
+          "price": 200
+        },
+        {
+          "item": "Super Potion",
+          "price": 700
+        },
+        {
+          "item": "Antidote",
+          "price": 100
+        },
+        {
+          "item": "Paralyz Heal",
+          "price": 200
+        },
+        {
+          "item": "Awakening",
+          "price": 250
+        },
+        {
+          "item": "Ice Heal",
+          "price": 250
+        },
+        {
+          "item": "Repel",
+          "price": 350
+        }
+      ],
+      "section": "Main Area"
+    }
+  ],
+  "trades": [
+    {
+      "received": "Farfetch'd",
+      "nickname": "CH'DING",
+      "level": null,
+      "requested": "Spearow",
+      "section": "Main Area"
     }
   ],
   "connections": {

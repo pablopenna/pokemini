@@ -5,33 +5,58 @@
   "images": [
     "/locations/route1.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgey",
-      "rate": 50
+      "rate": 50,
+      "minLevel": 2,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Rattata",
-      "rate": 50
+      "rate": 50,
+      "minLevel": 2,
+      "maxLevel": 4,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgey",
-      "rate": 50
+      "rate": 50,
+      "minLevel": 2,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Rattata",
-      "rate": 50
+      "rate": 50,
+      "minLevel": 2,
+      "maxLevel": 4,
+      "section": "Main Area"
     }
   ],
   "trainers": [],
+  "items": [
+    {
+      "item": "POTION",
+      "method": "gift",
+      "note": "Viridian Poké Mart employee",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "viridiancity",
     "south": "pallettown",

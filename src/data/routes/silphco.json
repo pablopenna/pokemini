@@ -15,441 +15,1446 @@
     "/locations/silphco-50-10f.png",
     "/locations/silphco-50-11f.png"
   ],
+  "sections": [
+    "1F",
+    "2F",
+    "3F",
+    "4F",
+    "5F"
+  ],
   "encounters": [
     {
       "method": "gift",
       "version": "unknown",
       "species": "Lapras",
-      "rate": 0
+      "rate": null,
+      "minLevel": 25,
+      "maxLevel": 25,
+      "section": "5F"
     }
   ],
   "trainers": [
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Golbat",
-        "Zubat",
-        "Zubat",
-        "Raticate",
-        "Zubat"
+        {
+          "species": "Golbat",
+          "level": 25,
+          "moves": [
+            "Astonish",
+            "Supersonic",
+            "Bite",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 25,
+          "moves": [
+            "Astonish",
+            "Supersonic",
+            "Bite",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 25,
+          "moves": [
+            "Astonish",
+            "Supersonic",
+            "Bite",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 25,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 25,
+          "moves": [
+            "Astonish",
+            "Supersonic",
+            "Bite",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        25,
-        25,
-        25,
-        25,
-        25
-      ]
+      "section": "2F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Cubone",
-        "Zubat"
+        {
+          "species": "Cubone",
+          "level": 29,
+          "moves": [
+            "Leer",
+            "Focus Energy",
+            "Bonemerang",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 29,
+          "moves": [
+            "Supersonic",
+            "Bite",
+            "Wing Attack",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "2F"
     },
     {
       "name": "Scientist Jerry",
       "team": [
-        "Magnemite",
-        "Voltorb",
-        "Magneton"
+        {
+          "species": "Magnemite",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Sonicboom",
+            "Thunder Wave",
+            "Spark"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Voltorb",
+          "level": 28,
+          "moves": [
+            "Screech",
+            "Sonicboom",
+            "Spark",
+            "Selfdestruct"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magneton",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Sonicboom",
+            "Thunder Wave",
+            "Spark"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "2F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Raticate",
-        "Hypno",
-        "Raticate"
+        {
+          "species": "Raticate",
+          "level": 28,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Hypno",
+          "level": 28,
+          "moves": [
+            "Disable",
+            "Confusion",
+            "Headbutt",
+            "Poison Gas"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 28,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "3F"
     },
     {
       "name": "Scientist Jose",
       "team": [
-        "Electrode",
-        "Weezing"
+        {
+          "species": "Electrode",
+          "level": 29,
+          "moves": [
+            "Spark",
+            "Sonicboom",
+            "Screech",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weezing",
+          "level": 29,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "3F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Ekans",
-        "Zubat",
-        "Cubone"
+        {
+          "species": "Ekans",
+          "level": 28,
+          "moves": [
+            "Poison Sting",
+            "Bite",
+            "Glare",
+            "Screech"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Bite",
+            "Wing Attack",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Cubone",
+          "level": 28,
+          "moves": [
+            "Headbutt",
+            "Leer",
+            "Focus Energy",
+            "Bonemerang"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "4F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Machop",
-        "Drowzee"
+        {
+          "species": "Machop",
+          "level": 29,
+          "moves": [
+            "Karate Chop",
+            "Seismic Toss",
+            "Foresight",
+            "Revenge"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Drowzee",
+          "level": 29,
+          "moves": [
+            "Confusion",
+            "Headbutt",
+            "Poison Gas",
+            "Meditate"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "4F"
     },
     {
       "name": "Scientist Rodney",
       "team": [
-        "Electrode"
+        {
+          "species": "Electrode",
+          "level": 33,
+          "moves": [
+            "Screech",
+            "Sonicboom",
+            "Spark",
+            "Selfdestruct"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33
-      ]
+      "section": "4F"
     },
     {
       "name": "Scientist Beau",
       "team": [
-        "Magneton",
-        "Koffing",
-        "Weezing",
-        "Magnemite"
+        {
+          "species": "Magneton",
+          "level": 26,
+          "moves": [
+            "Spark",
+            "Thunder Wave",
+            "Sonicboom",
+            "Supersonic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 26,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weezing",
+          "level": 26,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magnemite",
+          "level": 26,
+          "moves": [
+            "Spark",
+            "Thunder Wave",
+            "Sonicboom",
+            "Supersonic"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        26,
-        26,
-        26,
-        26
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Arbok"
+        {
+          "species": "Arbok",
+          "level": 33,
+          "moves": [
+            "Poison Sting",
+            "Bite",
+            "Glare",
+            "Screech"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Hypno"
+        {
+          "species": "Hypno",
+          "level": 33,
+          "moves": [
+            "Confusion",
+            "Headbutt",
+            "Poison Gas",
+            "Meditate"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33
-      ]
+      "section": "5F"
     },
     {
       "name": "Juggler Dalton",
       "team": [
-        "Kadabra",
-        "Mr. Mime"
+        {
+          "species": "Kadabra",
+          "level": 29,
+          "moves": [
+            "Disable",
+            "Psybeam",
+            "Reflect",
+            "Recover"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Mr. Mime",
+          "level": 29,
+          "moves": [
+            "Reflect",
+            "Magical Leaf",
+            "Encore",
+            "Psybeam"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Machop",
-        "Machoke"
+        {
+          "species": "Machop",
+          "level": 29,
+          "moves": [
+            "Karate Chop",
+            "Seismic Toss",
+            "Foresight",
+            "Revenge"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machoke",
+          "level": 29,
+          "moves": [
+            "Karate Chop",
+            "Seismic Toss",
+            "Foresight",
+            "Revenge"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Zubat",
-        "Zubat",
-        "Golbat"
+        {
+          "species": "Zubat",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Bite",
+            "Wing Attack",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Bite",
+            "Wing Attack",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Golbat",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Bite",
+            "Wing Attack",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "5F"
     },
     {
       "name": "Scientist Taylor",
       "team": [
-        "Voltorb",
-        "Koffing",
-        "Magneton",
-        "Magnemite",
-        "Koffing"
+        {
+          "species": "Voltorb",
+          "level": 25,
+          "moves": [
+            "Spark",
+            "Sonicboom",
+            "Screech",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 25,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magneton",
+          "level": 25,
+          "moves": [
+            "Thunder Wave",
+            "Sonicboom",
+            "Supersonic",
+            "Thundershock"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magnemite",
+          "level": 25,
+          "moves": [
+            "Thunder Wave",
+            "Sonicboom",
+            "Supersonic",
+            "Thundershock"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 25,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Selfdestruct"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        25,
-        25,
-        25,
-        25,
-        25
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Cubone",
-        "Cubone"
+        {
+          "species": "Cubone",
+          "level": 29,
+          "moves": [
+            "Leer",
+            "Focus Energy",
+            "Bonemerang",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Cubone",
+          "level": 29,
+          "moves": [
+            "Leer",
+            "Focus Energy",
+            "Bonemerang",
+            "Rage"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Sandshrew",
-        "Sandslash"
+        {
+          "species": "Sandshrew",
+          "level": 29,
+          "moves": [
+            "Defense Curl",
+            "Sand-attack",
+            "Poison Sting",
+            "Slash"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandslash",
+          "level": 29,
+          "moves": [
+            "Defense Curl",
+            "Sand-attack",
+            "Poison Sting",
+            "Slash"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Raticate",
-        "Zubat",
-        "Golbat",
-        "Rattata"
+        {
+          "species": "Raticate",
+          "level": 26,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 26,
+          "moves": [
+            "Supersonic",
+            "Bite",
+            "Wing Attack",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Golbat",
+          "level": 26,
+          "moves": [
+            "Astonish",
+            "Supersonic",
+            "Bite",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rattata",
+          "level": 26,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang",
+            "Focus Energy"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        26,
-        26,
-        26,
-        26
-      ]
+      "section": "5F"
     },
     {
       "name": "Scientist Joshua",
       "team": [
-        "Electrode",
-        "Muk"
+        {
+          "species": "Electrode",
+          "level": 29,
+          "moves": [
+            "Screech",
+            "Sonicboom",
+            "Spark",
+            "Selfdestruct"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Muk",
+          "level": 29,
+          "moves": [
+            "Disable",
+            "Sludge",
+            "Minimize",
+            "Screech"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "5F"
     },
     {
       "name": "Rival Blue",
       "team": [
-        "Pidgeot",
-        "Growlithe",
-        "Exeggcute",
-        "Alakazam",
-        "Blastoise"
+        {
+          "species": "Pidgeot",
+          "level": 37,
+          "moves": [
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack",
+            "Featherdance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Growlithe",
+          "level": 38,
+          "moves": [
+            "Odor Sleuth",
+            "Take Down",
+            "Flame Wheel",
+            "Helping Hand"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Exeggcute",
+          "level": 35,
+          "moves": [
+            "Leech Seed",
+            "Confusion",
+            "Stun Spore",
+            "Poisonpowder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Alakazam",
+          "level": 35,
+          "moves": [
+            "Reflect",
+            "Recover",
+            "Future Sight",
+            "Calm Mind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Blastoise",
+          "level": 40,
+          "moves": [
+            "Water Gun",
+            "Bite",
+            "Rapid Spin",
+            "Protect"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37,
-        38,
-        35,
-        35,
-        40
-      ]
+      "section": "5F"
     },
     {
       "name": "Rival Blue",
       "team": [
-        "Pidgeot",
-        "Gyarados",
-        "Growlithe",
-        "Alakazam",
-        "Venusaur"
+        {
+          "species": "Pidgeot",
+          "level": 37,
+          "moves": [
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack",
+            "Featherdance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Gyarados",
+          "level": 38,
+          "moves": [
+            "Bite",
+            "Dragon Rage",
+            "Leer",
+            "Twister"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Growlithe",
+          "level": 35,
+          "moves": [
+            "Leer",
+            "Odor Sleuth",
+            "Take Down",
+            "Flame Wheel"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Alakazam",
+          "level": 35,
+          "moves": [
+            "Reflect",
+            "Recover",
+            "Future Sight",
+            "Calm Mind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Venusaur",
+          "level": 40,
+          "moves": [
+            "Poisonpowder",
+            "Sleep Powder",
+            "Razor Leaf",
+            "Sweet Scent"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37,
-        38,
-        35,
-        35,
-        40
-      ]
+      "section": "5F"
     },
     {
       "name": "Rival Blue",
       "team": [
-        "Pidgeot",
-        "Exeggcute",
-        "Gyarados",
-        "Alakazam",
-        "Charizard"
+        {
+          "species": "Pidgeot",
+          "level": 37,
+          "moves": [
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack",
+            "Featherdance"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Exeggcute",
+          "level": 38,
+          "moves": [
+            "Confusion",
+            "Stun Spore",
+            "Poisonpowder",
+            "Sleep Powder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Gyarados",
+          "level": 35,
+          "moves": [
+            "Bite",
+            "Dragon Rage",
+            "Leer",
+            "Twister"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Alakazam",
+          "level": 35,
+          "moves": [
+            "Reflect",
+            "Recover",
+            "Future Sight",
+            "Calm Mind"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Charizard",
+          "level": 40,
+          "moves": [
+            "Smokescreen",
+            "Scary Face",
+            "Flamethrower",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37,
-        38,
-        35,
-        35,
-        40
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Raticate",
-        "Arbok",
-        "Koffing",
-        "Golbat"
+        {
+          "species": "Raticate",
+          "level": 26,
+          "moves": [
+            "Scary Face",
+            "Hyper Fang",
+            "Quick Attack",
+            "Tail Whip"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Arbok",
+          "level": 26,
+          "moves": [
+            "Glare",
+            "Bite",
+            "Poison Sting",
+            "Leer"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 26,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Golbat",
+          "level": 26,
+          "moves": [
+            "Wing Attack",
+            "Bite",
+            "Astonish",
+            "Supersonic"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        26,
-        26,
-        26,
-        26
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Weezing",
-        "Golbat",
-        "Koffing"
+        {
+          "species": "Weezing",
+          "level": 28,
+          "moves": [
+            "Smog",
+            "Selfdestruct",
+            "Sludge",
+            "Smokescreen"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Golbat",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Bite",
+            "Wing Attack",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 28,
+          "moves": [
+            "Smog",
+            "Selfdestruct",
+            "Sludge",
+            "Smokescreen"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "5F"
     },
     {
       "name": "Scientist Parker",
       "team": [
-        "Grimer",
-        "Electrode"
+        {
+          "species": "Grimer",
+          "level": 29,
+          "moves": [
+            "Disable",
+            "Sludge",
+            "Minimize",
+            "Screech"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Electrode",
+          "level": 29,
+          "moves": [
+            "Screech",
+            "Sonicboom",
+            "Spark",
+            "Selfdestruct"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Golbat",
-        "Drowzee",
-        "Hypno"
+        {
+          "species": "Golbat",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Bite",
+            "Wing Attack",
+            "Confuse Ray"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Drowzee",
+          "level": 28,
+          "moves": [
+            "Confusion",
+            "Headbutt",
+            "Poison Gas",
+            "Meditate"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Hypno",
+          "level": 28,
+          "moves": [
+            "Disable",
+            "Confusion",
+            "Headbutt",
+            "Poison Gas"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Drowzee",
-        "Grimer",
-        "Machop"
+        {
+          "species": "Drowzee",
+          "level": 28,
+          "moves": [
+            "Confusion",
+            "Headbutt",
+            "Poison Gas",
+            "Meditate"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Grimer",
+          "level": 28,
+          "moves": [
+            "Disable",
+            "Sludge",
+            "Minimize",
+            "Screech"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machop",
+          "level": 28,
+          "moves": [
+            "Karate Chop",
+            "Seismic Toss",
+            "Foresight",
+            "Revenge"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "5F"
     },
     {
       "name": "Scientist Ed",
       "team": [
-        "Voltorb",
-        "Koffing",
-        "Magneton"
+        {
+          "species": "Voltorb",
+          "level": 28,
+          "moves": [
+            "Spark",
+            "Sonicboom",
+            "Screech",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 28,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Tackle",
+            "Smog"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magneton",
+          "level": 28,
+          "moves": [
+            "Spark",
+            "Thunder Wave",
+            "Sonicboom",
+            "Supersonic"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "5F"
     },
     {
       "name": "Scientist Travis",
       "team": [
-        "Magnemite",
-        "Koffing"
+        {
+          "species": "Magnemite",
+          "level": 29,
+          "moves": [
+            "Supersonic",
+            "Sonicboom",
+            "Thunder Wave",
+            "Spark"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 29,
+          "moves": [
+            "Smog",
+            "Selfdestruct",
+            "Sludge",
+            "Smokescreen"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Machoke"
+        {
+          "species": "Machoke",
+          "level": 33,
+          "moves": [
+            "Seismic Toss",
+            "Foresight",
+            "Revenge",
+            "Vital Throw"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Rattata",
-        "Rattata",
-        "Zubat",
-        "Rattata",
-        "Ekans"
+        {
+          "species": "Rattata",
+          "level": 25,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang",
+            "Focus Energy"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rattata",
+          "level": 25,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang",
+            "Focus Energy"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 25,
+          "moves": [
+            "Astonish",
+            "Supersonic",
+            "Bite",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rattata",
+          "level": 25,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang",
+            "Focus Energy"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ekans",
+          "level": 25,
+          "moves": [
+            "Poison Sting",
+            "Bite",
+            "Glare",
+            "Screech"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        25,
-        25,
-        25,
-        25,
-        25
-      ]
+      "section": "5F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Cubone",
-        "Drowzee",
-        "Marowak"
+        {
+          "species": "Cubone",
+          "level": 32,
+          "moves": [
+            "Leer",
+            "Focus Energy",
+            "Bonemerang",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Drowzee",
+          "level": 32,
+          "moves": [
+            "Headbutt",
+            "Poison Gas",
+            "Meditate",
+            "Psychic"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Marowak",
+          "level": 32,
+          "moves": [
+            "Leer",
+            "Focus Energy",
+            "Bonemerang",
+            "Rage"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        32,
-        32,
-        32
-      ]
+      "section": "5F"
     },
     {
       "name": "Boss Giovanni",
       "team": [
-        "Nidorino",
-        "Kangaskhan",
-        "Rhyhorn",
-        "Nidoqueen"
+        {
+          "species": "Nidorino",
+          "level": 37,
+          "moves": [
+            "Poison Sting",
+            "Horn Attack",
+            "Helping Hand",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kangaskhan",
+          "level": 35,
+          "moves": [
+            "Tail Whip",
+            "Fake Out",
+            "Mega Punch",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rhyhorn",
+          "level": 37,
+          "moves": [
+            "Stomp",
+            "Fury Attack",
+            "Scary Face",
+            "Rock Blast"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoqueen",
+          "level": 41,
+          "moves": [
+            "Tail Whip",
+            "Double Kick",
+            "Poison Sting",
+            "Body Slam"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        37,
-        35,
-        37,
-        41
-      ]
+      "section": "5F"
     }
   ],
+  "items": [
+    {
+      "item": "ULTRA BALL",
+      "method": "hidden",
+      "section": "2F"
+    },
+    {
+      "item": "HYPER POTION",
+      "method": "floor",
+      "section": "3F"
+    },
+    {
+      "item": "PROTEIN",
+      "method": "hidden",
+      "section": "3F"
+    },
+    {
+      "item": "TM41",
+      "method": "floor",
+      "section": "4F"
+    },
+    {
+      "item": "FULL HEAL",
+      "method": "floor",
+      "section": "4F"
+    },
+    {
+      "item": "MAX REVIVE",
+      "method": "floor",
+      "section": "4F"
+    },
+    {
+      "item": "ESCAPE ROPE",
+      "method": "floor",
+      "section": "4F"
+    },
+    {
+      "item": "IRON",
+      "method": "hidden",
+      "section": "4F"
+    },
+    {
+      "item": "CARD KEY",
+      "method": "floor",
+      "section": "5F"
+    },
+    {
+      "item": "PROTEIN",
+      "method": "floor",
+      "section": "5F"
+    },
+    {
+      "item": "TM01",
+      "method": "floor",
+      "section": "5F"
+    },
+    {
+      "item": "PP UP",
+      "method": "hidden",
+      "section": "5F"
+    },
+    {
+      "item": "ELIXIR",
+      "method": "hidden",
+      "section": "5F"
+    },
+    {
+      "item": "HP UP",
+      "method": "floor",
+      "section": "5F"
+    },
+    {
+      "item": "X SPECIAL",
+      "method": "floor",
+      "section": "5F"
+    },
+    {
+      "item": "CARBOS",
+      "method": "hidden",
+      "section": "5F"
+    },
+    {
+      "item": "TM08",
+      "method": "floor",
+      "section": "5F"
+    },
+    {
+      "item": "CALCIUM",
+      "method": "floor",
+      "section": "5F"
+    },
+    {
+      "item": "ZINC",
+      "method": "hidden",
+      "section": "5F"
+    },
+    {
+      "item": "IRON",
+      "method": "floor",
+      "section": "5F"
+    },
+    {
+      "item": "NUGGET",
+      "method": "hidden",
+      "section": "5F"
+    },
+    {
+      "item": "MAX POTION",
+      "method": "hidden",
+      "section": "5F"
+    },
+    {
+      "item": "CALCIUM",
+      "method": "hidden",
+      "section": "5F"
+    },
+    {
+      "item": "ULTRA BALL",
+      "method": "floor",
+      "section": "5F"
+    },
+    {
+      "item": "CARBOS",
+      "method": "floor",
+      "section": "5F"
+    },
+    {
+      "item": "RARE CANDY",
+      "method": "floor",
+      "section": "5F"
+    },
+    {
+      "item": "HP UP",
+      "method": "hidden",
+      "section": "5F"
+    },
+    {
+      "item": "ZINC",
+      "method": "floor",
+      "section": "5F"
+    },
+    {
+      "item": "MASTER BALL",
+      "method": "gift",
+      "note": "President",
+      "section": "5F"
+    },
+    {
+      "item": "REVIVE",
+      "method": "hidden",
+      "section": "5F"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "saffroncity",

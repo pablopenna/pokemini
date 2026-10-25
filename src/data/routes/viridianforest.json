@@ -5,127 +5,288 @@
   "images": [
     "/locations/viridianforest.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Caterpie",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 3,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Weedle",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 3,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Kakuna",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 4,
+      "maxLevel": 6,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Metapod",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Pikachu",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 3,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Caterpie",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 3,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Weedle",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 3,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Metapod",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 4,
+      "maxLevel": 6,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Kakuna",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pikachu",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 3,
+      "maxLevel": 5,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Bug Catcher Rick",
       "team": [
-        "Weedle",
-        "Caterpie"
+        {
+          "species": "Weedle",
+          "level": 6,
+          "moves": [
+            "Poison Sting",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Caterpie",
+          "level": 6,
+          "moves": [
+            "Tackle",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        6,
-        6
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bug Catcher Doug",
       "team": [
-        "Weedle",
-        "Kakuna",
-        "Weedle"
+        {
+          "species": "Weedle",
+          "level": 7,
+          "moves": [
+            "Poison Sting",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kakuna",
+          "level": 7,
+          "moves": [
+            "Harden",
+            "Harden",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weedle",
+          "level": 7,
+          "moves": [
+            "Poison Sting",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        7,
-        7,
-        7
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bug Catcher Anthony",
       "team": [
-        "Caterpie",
-        "Caterpie"
+        {
+          "species": "Caterpie",
+          "level": 7,
+          "moves": [
+            "Tackle",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Caterpie",
+          "level": 8,
+          "moves": [
+            "Tackle",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        7,
-        8
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bug Catcher Charlie",
       "team": [
-        "Metapod",
-        "Caterpie",
-        "Metapod"
+        {
+          "species": "Metapod",
+          "level": 7,
+          "moves": [
+            "Harden",
+            "Harden",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Caterpie",
+          "level": 7,
+          "moves": [
+            "Tackle",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Metapod",
+          "level": 7,
+          "moves": [
+            "Harden",
+            "Harden",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        7,
-        7,
-        7
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bug Catcher Sammy",
       "team": [
-        "Weedle"
+        {
+          "species": "Weedle",
+          "level": 9,
+          "moves": [
+            "Poison Sting",
+            "String Shot",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        9
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "POKé BALL",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "ANTIDOTE",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "POTION",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "POTION",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "ANTIDOTE",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "POTION",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": "route2",
     "south": "route2",

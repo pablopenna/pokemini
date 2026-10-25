@@ -5,300 +5,672 @@
   "images": [
     "/locations/route11.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Ekans",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 12,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Spearow",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 13,
+      "maxLevel": 17,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Drowzee",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 11,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Sandshrew",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 12,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Spearow",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 13,
+      "maxLevel": 17,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Drowzee",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 11,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Tentacool",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Krabby",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Horsea",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Horsea",
-      "rate": 84
+      "rate": 84,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Krabby",
-      "rate": 84
+      "rate": 84,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 25,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Youngster Eddie",
       "team": [
-        "Ekans"
+        {
+          "species": "Ekans",
+          "level": 21,
+          "moves": [
+            "Leer",
+            "Poison Sting",
+            "Bite",
+            "Glare"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Gamer Hugo",
       "team": [
-        "Poliwag",
-        "Horsea"
+        {
+          "species": "Poliwag",
+          "level": 18,
+          "moves": [
+            "Bubble",
+            "Hypnosis",
+            "Water Gun",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Horsea",
+          "level": 18,
+          "moves": [
+            "Bubble",
+            "Smokescreen",
+            "Leer",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        18,
-        18
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Engineer Bernie",
       "team": [
-        "Magnemite",
-        "Magnemite",
-        "Magneton"
+        {
+          "species": "Magnemite",
+          "level": 18,
+          "moves": [
+            "Tackle",
+            "Thundershock",
+            "Supersonic",
+            "Sonicboom"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magnemite",
+          "level": 18,
+          "moves": [
+            "Tackle",
+            "Thundershock",
+            "Supersonic",
+            "Sonicboom"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magneton",
+          "level": 18,
+          "moves": [
+            "Supersonic",
+            "Thundershock",
+            "Supersonic",
+            "Sonicboom"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        18,
-        18,
-        18
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Engineer Bernie",
       "team": [
-        "Magneton",
-        "Magneton",
-        "Magneton"
+        {
+          "species": "Magneton",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Sonicboom",
+            "Thunder Wave",
+            "Spark"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magneton",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Sonicboom",
+            "Thunder Wave",
+            "Spark"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magneton",
+          "level": 28,
+          "moves": [
+            "Supersonic",
+            "Sonicboom",
+            "Thunder Wave",
+            "Spark"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Gamer Jasper",
       "team": [
-        "Bellsprout",
-        "Oddish"
+        {
+          "species": "Bellsprout",
+          "level": 18,
+          "moves": [
+            "Growth",
+            "Wrap",
+            "Sleep Powder",
+            "Poisonpowder"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Oddish",
+          "level": 18,
+          "moves": [
+            "Sweet Scent",
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        18,
-        18
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Youngster Dave",
       "team": [
-        "Nidoran♂",
-        "Nidorino"
+        {
+          "species": "Nidoran♂",
+          "level": 18,
+          "moves": [
+            "Peck",
+            "Focus Energy",
+            "Double Kick",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidorino",
+          "level": 18,
+          "moves": [
+            "Peck",
+            "Focus Energy",
+            "Double Kick",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        18,
-        18
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Youngster Dillon",
       "team": [
-        "Sandshrew",
-        "Zubat"
+        {
+          "species": "Sandshrew",
+          "level": 19,
+          "moves": [
+            "Scratch",
+            "Defense Curl",
+            "Sand-attack",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 19,
+          "moves": [
+            "Leech Life",
+            "Astonish",
+            "Supersonic",
+            "Bite"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        19,
-        19
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Engineer Braxton",
       "team": [
-        "Magnemite"
+        {
+          "species": "Magnemite",
+          "level": 21,
+          "moves": [
+            "Thundershock",
+            "Supersonic",
+            "Sonicboom",
+            "Thunder Wave"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Youngster Yasu",
       "team": [
-        "Rattata",
-        "Rattata",
-        "Raticate"
+        {
+          "species": "Rattata",
+          "level": 17,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rattata",
+          "level": 17,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 17,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        17,
-        17,
-        17
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Youngster Yasu",
       "team": [
-        "Rattata",
-        "Raticate",
-        "Raticate"
+        {
+          "species": "Rattata",
+          "level": 22,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang",
+            "Focus Energy"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 22,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 22,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22,
-        22,
-        22
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Youngster Yasu",
       "team": [
-        "Raticate",
-        "Raticate",
-        "Raticate"
+        {
+          "species": "Raticate",
+          "level": 47,
+          "moves": [
+            "Hyper Fang",
+            "Scary Face",
+            "Pursuit",
+            "Super Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 47,
+          "moves": [
+            "Hyper Fang",
+            "Scary Face",
+            "Pursuit",
+            "Super Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 47,
+          "moves": [
+            "Hyper Fang",
+            "Scary Face",
+            "Pursuit",
+            "Super Fang"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        47,
-        47,
-        47
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Gamer Darian",
       "team": [
-        "Growlithe",
-        "Vulpix"
+        {
+          "species": "Growlithe",
+          "level": 18,
+          "moves": [
+            "Bite",
+            "Roar",
+            "Ember",
+            "Leer"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Vulpix",
+          "level": 18,
+          "moves": [
+            "Tail Whip",
+            "Roar",
+            "Quick Attack",
+            "Will-o-wisp"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        18,
-        18
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Gamer Darian",
       "team": [
-        "Growlithe",
-        "Vulpix"
+        {
+          "species": "Growlithe",
+          "level": 29,
+          "moves": [
+            "Ember",
+            "Leer",
+            "Odor Sleuth",
+            "Take Down"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Vulpix",
+          "level": 29,
+          "moves": [
+            "Will-o-wisp",
+            "Confuse Ray",
+            "Imprison",
+            "Flamethrower"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Gamer Dirk",
       "team": [
-        "Voltorb",
-        "Magnemite"
+        {
+          "species": "Voltorb",
+          "level": 18,
+          "moves": [
+            "Charge",
+            "Tackle",
+            "Screech",
+            "Sonicboom"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Magnemite",
+          "level": 18,
+          "moves": [
+            "Tackle",
+            "Thundershock",
+            "Supersonic",
+            "Sonicboom"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        18,
-        18
-      ]
+      "section": "Main Area"
+    }
+  ],
+  "items": [
+    {
+      "item": "GREAT BALL",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "AWAKENING",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "X DEFEND",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "ESCAPE ROPE",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "ITEMFINDER",
+      "method": "gift",
+      "note": "Professor Oak's Aide",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [
+    {
+      "received": "Nidorina",
+      "nickname": "NINA",
+      "level": null,
+      "requested": "Nidorino",
+      "section": "Main Area"
     }
   ],
   "connections": {

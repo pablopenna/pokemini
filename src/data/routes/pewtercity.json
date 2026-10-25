@@ -6,31 +6,129 @@
     "/locations/pewtercity.png",
     "/locations/pewtercity-31-gym.png"
   ],
+  "sections": [
+    "Main Area",
+    "Gym"
+  ],
   "encounters": [],
   "trainers": [
     {
       "name": "Camper Liam",
       "team": [
-        "Geodude",
-        "Sandshrew"
+        {
+          "species": "Geodude",
+          "level": 10,
+          "moves": [
+            "Tackle",
+            "Defense Curl",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandshrew",
+          "level": 11,
+          "moves": [
+            "Scratch",
+            "Defense Curl",
+            "Sand-attack",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        10,
-        11
-      ]
+      "section": "Gym"
     },
     {
       "name": "Leader Brock",
       "team": [
-        "Geodude",
-        "Onix"
+        {
+          "species": "Geodude",
+          "level": 12,
+          "moves": [
+            "Tackle",
+            "Defense Curl",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Onix",
+          "level": 14,
+          "moves": [
+            "Tackle",
+            "Bind",
+            "Rock Tomb",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        12,
-        14
-      ]
+      "section": "Gym"
     }
   ],
+  "items": [
+    {
+      "item": "POKé BALL",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "OLD AMBER",
+      "method": "gift",
+      "note": "Museum Scientist",
+      "section": "Main Area"
+    },
+    {
+      "item": "TM39",
+      "method": "gift",
+      "note": "Defeat Brock",
+      "section": "Gym"
+    }
+  ],
+  "marts": [
+    {
+      "name": "PokéMart",
+      "stock": [
+        {
+          "item": "PokéBall",
+          "price": 200
+        },
+        {
+          "item": "Potion",
+          "price": 300
+        },
+        {
+          "item": "Antidote",
+          "price": 100
+        },
+        {
+          "item": "Paralyz Heal",
+          "price": 200
+        },
+        {
+          "item": "Awakening",
+          "price": 250
+        },
+        {
+          "item": "Burn Heal",
+          "price": 250
+        },
+        {
+          "item": "Escape Rope",
+          "price": 550
+        },
+        {
+          "item": "Repel",
+          "price": 350
+        }
+      ],
+      "section": "Main Area"
+    }
+  ],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "route2",

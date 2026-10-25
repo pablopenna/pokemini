@@ -5,278 +5,693 @@
   "images": [
     "/locations/route14.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Oddish",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Venonat",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 24,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Ditto",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 23,
+      "maxLevel": 23,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgey",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 27,
+      "maxLevel": 27,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgeotto",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 29,
+      "maxLevel": 29,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Gloom",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Bellsprout",
-      "rate": 35
+      "rate": 35,
+      "minLevel": 22,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Venonat",
-      "rate": 30
+      "rate": 30,
+      "minLevel": 24,
+      "maxLevel": 26,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Ditto",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 23,
+      "maxLevel": 23,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgey",
-      "rate": 10
+      "rate": 10,
+      "minLevel": 27,
+      "maxLevel": 27,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgeotto",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 29,
+      "maxLevel": 29,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Weepinbell",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 30,
+      "maxLevel": 30,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Bird Keeper Carter",
       "team": [
-        "Pidgey",
-        "Doduo",
-        "Pidgeotto"
+        {
+          "species": "Pidgey",
+          "level": 28,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Doduo",
+          "level": 28,
+          "moves": [
+            "Pursuit",
+            "Fury Attack",
+            "Tri Attack",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgeotto",
+          "level": 28,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Mitch",
       "team": [
-        "Pidgey",
-        "Spearow",
-        "Pidgey",
-        "Fearow"
+        {
+          "species": "Pidgey",
+          "level": 26,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Spearow",
+          "level": 26,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgey",
+          "level": 26,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 26,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        26,
-        26,
-        26,
-        26
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Marlon",
       "team": [
-        "Spearow",
-        "Doduo",
-        "Fearow"
+        {
+          "species": "Spearow",
+          "level": 28,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Doduo",
+          "level": 28,
+          "moves": [
+            "Pursuit",
+            "Fury Attack",
+            "Tri Attack",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 28,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Marlon",
       "team": [
-        "Fearow",
-        "Doduo",
-        "Fearow"
+        {
+          "species": "Fearow",
+          "level": 30,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Doduo",
+          "level": 30,
+          "moves": [
+            "Pursuit",
+            "Fury Attack",
+            "Tri Attack",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 30,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        30,
-        30,
-        30
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Marlon",
       "team": [
-        "Fearow",
-        "Dodrio",
-        "Fearow"
+        {
+          "species": "Fearow",
+          "level": 48,
+          "moves": [
+            "Pursuit",
+            "Mirror Move",
+            "Drill Peck",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Dodrio",
+          "level": 48,
+          "moves": [
+            "Tri Attack",
+            "Rage",
+            "Uproar",
+            "Drill Peck"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 48,
+          "moves": [
+            "Pursuit",
+            "Mirror Move",
+            "Drill Peck",
+            "Agility"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        48,
-        48,
-        48
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Beck",
       "team": [
-        "Pidgeotto",
-        "Fearow"
+        {
+          "species": "Pidgeotto",
+          "level": 29,
+          "moves": [
+            "Gust",
+            "Quick Attack",
+            "Whirlwind",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 29,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Donald",
       "team": [
-        "Farfetch'd"
+        {
+          "species": "Farfetch'd",
+          "level": 33,
+          "moves": [
+            "Fury Attack",
+            "Knock Off",
+            "Fury Cutter",
+            "Swords Dance"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        33
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Benny",
       "team": [
-        "Spearow",
-        "Fearow"
+        {
+          "species": "Spearow",
+          "level": 29,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Aerial Ace"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 29,
+          "moves": [
+            "Fury Attack",
+            "Leer",
+            "Fury Attack",
+            "Pursuit"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Benny",
       "team": [
-        "Fearow",
-        "Fearow"
+        {
+          "species": "Fearow",
+          "level": 32,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Mirror Move"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 32,
+          "moves": [
+            "Leer",
+            "Fury Attack",
+            "Pursuit",
+            "Mirror Move"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        32,
-        32
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Bird Keeper Benny",
       "team": [
-        "Fearow",
-        "Fearow"
+        {
+          "species": "Fearow",
+          "level": 49,
+          "moves": [
+            "Pursuit",
+            "Mirror Move",
+            "Drill Peck",
+            "Agility"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Fearow",
+          "level": 49,
+          "moves": [
+            "Pursuit",
+            "Mirror Move",
+            "Drill Peck",
+            "Agility"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        49,
-        49
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Gerald",
       "team": [
-        "Koffing",
-        "Muk"
+        {
+          "species": "Koffing",
+          "level": 29,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Muk",
+          "level": 29,
+          "moves": [
+            "Screech",
+            "Minimize",
+            "Sludge",
+            "Disable"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Malik",
       "team": [
-        "Koffing",
-        "Grimer"
+        {
+          "species": "Koffing",
+          "level": 29,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Grimer",
+          "level": 29,
+          "moves": [
+            "Screech",
+            "Minimize",
+            "Sludge",
+            "Disable"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Isaac",
       "team": [
-        "Grimer",
-        "Grimer",
-        "Koffing"
+        {
+          "species": "Grimer",
+          "level": 28,
+          "moves": [
+            "Screech",
+            "Minimize",
+            "Sludge",
+            "Disable"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Grimer",
+          "level": 28,
+          "moves": [
+            "Screech",
+            "Minimize",
+            "Sludge",
+            "Disable"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 28,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Lukas",
       "team": [
-        "Koffing",
-        "Koffing",
-        "Grimer",
-        "Koffing"
+        {
+          "species": "Koffing",
+          "level": 26,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 26,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Grimer",
+          "level": 26,
+          "moves": [
+            "Screech",
+            "Minimize",
+            "Sludge",
+            "Disable"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 26,
+          "moves": [
+            "Smokescreen",
+            "Sludge",
+            "Smog",
+            "Tackle"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        26,
-        26,
-        26,
-        26
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Biker Lukas",
       "team": [
-        "Koffing",
-        "Koffing",
-        "Muk",
-        "Weezing"
+        {
+          "species": "Koffing",
+          "level": 47,
+          "moves": [
+            "Smokescreen",
+            "Haze",
+            "Explosion",
+            "Destiny Bond"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 47,
+          "moves": [
+            "Smokescreen",
+            "Haze",
+            "Explosion",
+            "Destiny Bond"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Muk",
+          "level": 47,
+          "moves": [
+            "Minimize",
+            "Screech",
+            "Acid Armor",
+            "Sludge Bomb"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Weezing",
+          "level": 47,
+          "moves": [
+            "Sludge",
+            "Smokescreen",
+            "Haze",
+            "Explosion"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        47,
-        47,
-        47,
-        47
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Twins Kiri & Jan",
       "team": [
-        "Charmander",
-        "Squirtle"
+        {
+          "species": "Charmander",
+          "level": 29,
+          "moves": [
+            "Ember",
+            "Metal Claw",
+            "Smokescreen",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Squirtle",
+          "level": 29,
+          "moves": [
+            "Water Gun",
+            "Bite",
+            "Rapid Spin",
+            "Protect"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "ZINC",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "PINAP BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": null,

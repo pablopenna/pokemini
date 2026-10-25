@@ -10,172 +10,585 @@
     "/locations/rockethideout-49-b3f.png",
     "/locations/rockethideout-49-b4f.png"
   ],
+  "sections": [
+    "Entrance",
+    "B1F",
+    "B2F",
+    "B3F",
+    "B4F"
+  ],
   "encounters": [],
   "trainers": [
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Raticate",
-        "Zubat"
+        {
+          "species": "Raticate",
+          "level": 20,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 20,
+          "moves": [
+            "Leech Life",
+            "Astonish",
+            "Supersonic",
+            "Bite"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20
-      ]
+      "section": "Entrance"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Raticate",
-        "Raticate"
+        {
+          "species": "Raticate",
+          "level": 21,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 21,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21
-      ]
+      "section": "B1F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Drowzee",
-        "Machop"
+        {
+          "species": "Drowzee",
+          "level": 21,
+          "moves": [
+            "Disable",
+            "Confusion",
+            "Headbutt",
+            "Poison Gas"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machop",
+          "level": 21,
+          "moves": [
+            "Leer",
+            "Focus Energy",
+            "Karate Chop",
+            "Seismic Toss"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21
-      ]
+      "section": "B1F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Rattata",
-        "Raticate",
-        "Raticate",
-        "Rattata"
+        {
+          "species": "Rattata",
+          "level": 19,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 19,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 19,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rattata",
+          "level": 19,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        19,
-        19,
-        19,
-        19
-      ]
+      "section": "B1F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Grimer",
-        "Koffing",
-        "Koffing"
+        {
+          "species": "Grimer",
+          "level": 20,
+          "moves": [
+            "Minimize",
+            "Sludge",
+            "Disable",
+            "Harden"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 20,
+          "moves": [
+            "Smog",
+            "Tackle",
+            "Poison Gas",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 20,
+          "moves": [
+            "Smog",
+            "Tackle",
+            "Poison Gas",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20,
-        20
-      ]
+      "section": "B1F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Grimer",
-        "Koffing"
+        {
+          "species": "Grimer",
+          "level": 22,
+          "moves": [
+            "Minimize",
+            "Sludge",
+            "Disable",
+            "Harden"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 22,
+          "moves": [
+            "Sludge",
+            "Smog",
+            "Tackle",
+            "Poison Gas"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        22,
-        22
-      ]
+      "section": "B1F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Zubat",
-        "Koffing",
-        "Grimer",
-        "Zubat",
-        "Raticate"
+        {
+          "species": "Zubat",
+          "level": 17,
+          "moves": [
+            "Bite",
+            "Astonish",
+            "Supersonic",
+            "Leech Life"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Koffing",
+          "level": 17,
+          "moves": [
+            "Smog",
+            "Tackle",
+            "Poison Gas",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Grimer",
+          "level": 17,
+          "moves": [
+            "Sludge",
+            "Disable",
+            "Harden",
+            "Pound"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 17,
+          "moves": [
+            "Bite",
+            "Astonish",
+            "Supersonic",
+            "Leech Life"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 17,
+          "moves": [
+            "Hyper Fang",
+            "Quick Attack",
+            "Tail Whip",
+            "Tackle"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        17,
-        17,
-        17,
-        17,
-        17
-      ]
+      "section": "B2F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Machop",
-        "Machop"
+        {
+          "species": "Machop",
+          "level": 21,
+          "moves": [
+            "Leer",
+            "Focus Energy",
+            "Karate Chop",
+            "Seismic Toss"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machop",
+          "level": 21,
+          "moves": [
+            "Leer",
+            "Focus Energy",
+            "Karate Chop",
+            "Seismic Toss"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21
-      ]
+      "section": "B3F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Rattata",
-        "Raticate",
-        "Drowzee"
+        {
+          "species": "Rattata",
+          "level": 20,
+          "moves": [
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang",
+            "Focus Energy"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Raticate",
+          "level": 20,
+          "moves": [
+            "Quick Attack",
+            "Quick Attack",
+            "Hyper Fang",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Drowzee",
+          "level": 20,
+          "moves": [
+            "Hypnosis",
+            "Disable",
+            "Confusion",
+            "Headbutt"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20,
-        20
-      ]
+      "section": "B3F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Koffing",
-        "Zubat"
+        {
+          "species": "Koffing",
+          "level": 21,
+          "moves": [
+            "Tackle",
+            "Smog",
+            "Selfdestruct",
+            "Sludge"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Zubat",
+          "level": 21,
+          "moves": [
+            "Astonish",
+            "Supersonic",
+            "Bite",
+            "Wing Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21
-      ]
+      "section": "B4F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Sandshrew",
-        "Ekans",
-        "Sandslash"
+        {
+          "species": "Sandshrew",
+          "level": 23,
+          "moves": [
+            "Defense Curl",
+            "Sand-attack",
+            "Poison Sting",
+            "Slash"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ekans",
+          "level": 23,
+          "moves": [
+            "Leer",
+            "Poison Sting",
+            "Bite",
+            "Glare"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandslash",
+          "level": 23,
+          "moves": [
+            "Sand-attack",
+            "Defense Curl",
+            "Sand-attack",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        23,
-        23,
-        23
-      ]
+      "section": "B4F"
     },
     {
       "name": "Team Rocket Grunt",
       "team": [
-        "Ekans",
-        "Sandshrew",
-        "Arbok"
+        {
+          "species": "Ekans",
+          "level": 23,
+          "moves": [
+            "Leer",
+            "Poison Sting",
+            "Bite",
+            "Glare"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandshrew",
+          "level": 23,
+          "moves": [
+            "Defense Curl",
+            "Sand-attack",
+            "Poison Sting",
+            "Slash"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Arbok",
+          "level": 23,
+          "moves": [
+            "Bite",
+            "Poison Sting",
+            "Bite",
+            "Glare"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        23,
-        23,
-        23
-      ]
+      "section": "B4F"
     },
     {
       "name": "Boss Giovanni",
       "team": [
-        "Onix",
-        "Rhyhorn",
-        "Kangaskhan"
+        {
+          "species": "Onix",
+          "level": 25,
+          "moves": [
+            "Bind",
+            "Rock Throw",
+            "Harden",
+            "Rage"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Rhyhorn",
+          "level": 24,
+          "moves": [
+            "Tail Whip",
+            "Stomp",
+            "Fury Attack",
+            "Scary Face"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Kangaskhan",
+          "level": 29,
+          "moves": [
+            "Bite",
+            "Tail Whip",
+            "Fake Out",
+            "Mega Punch"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        25,
-        24,
-        29
-      ]
+      "section": "B4F"
     }
   ],
+  "items": [
+    {
+      "item": "ESCAPE ROPE",
+      "method": "floor",
+      "section": "B1F"
+    },
+    {
+      "item": "HYPER POTION",
+      "method": "floor",
+      "section": "B1F"
+    },
+    {
+      "item": "PP UP",
+      "method": "hidden",
+      "section": "B1F"
+    },
+    {
+      "item": "X SPEED",
+      "method": "floor",
+      "section": "B2F"
+    },
+    {
+      "item": "MOON STONE",
+      "method": "floor",
+      "section": "B2F"
+    },
+    {
+      "item": "TM12",
+      "method": "floor",
+      "section": "B2F"
+    },
+    {
+      "item": "SUPER POTION",
+      "method": "floor",
+      "section": "B2F"
+    },
+    {
+      "item": "RARE CANDY",
+      "method": "floor",
+      "section": "B3F"
+    },
+    {
+      "item": "BLACKGLASSES",
+      "method": "floor",
+      "section": "B3F"
+    },
+    {
+      "item": "TM21",
+      "method": "floor",
+      "section": "B3F"
+    },
+    {
+      "item": "NUGGET",
+      "method": "hidden",
+      "section": "B3F"
+    },
+    {
+      "item": "TM49",
+      "method": "floor",
+      "section": "B4F"
+    },
+    {
+      "item": "LIFT KEY",
+      "method": "floor",
+      "section": "B4F"
+    },
+    {
+      "item": "MAX ETHER",
+      "method": "floor",
+      "section": "B4F"
+    },
+    {
+      "item": "CALCIUM",
+      "method": "floor",
+      "section": "B4F"
+    },
+    {
+      "item": "SILPH SCOPE",
+      "method": "gift",
+      "note": "Defeat Giovanni",
+      "section": "B4F"
+    },
+    {
+      "item": "NET BALL",
+      "method": "hidden",
+      "section": "B4F"
+    },
+    {
+      "item": "NEST BALL",
+      "method": "hidden",
+      "section": "B4F"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": "celadoncity",

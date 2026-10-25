@@ -5,380 +5,795 @@
   "images": [
     "/locations/route25.png"
   ],
+  "sections": [
+    "Main Area"
+  ],
   "encounters": [
     {
       "method": "grass",
       "version": "firered",
       "species": "Oddish",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 12,
+      "maxLevel": 14,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Caterpie",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 8,
+      "maxLevel": 8,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Weedle",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 7,
+      "maxLevel": 8,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Pidgey",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 11,
+      "maxLevel": 13,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Abra",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 9,
+      "maxLevel": 12,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Kakuna",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 9,
+      "maxLevel": 9,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "firered",
       "species": "Metapod",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 9,
+      "maxLevel": 9,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Bellsprout",
-      "rate": 25
+      "rate": 25,
+      "minLevel": 12,
+      "maxLevel": 14,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Caterpie",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 8,
+      "maxLevel": 8,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Weedle",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 8,
+      "maxLevel": 8,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Pidgey",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 11,
+      "maxLevel": 13,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Abra",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 9,
+      "maxLevel": 12,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Metapod",
-      "rate": 4
+      "rate": 4,
+      "minLevel": 9,
+      "maxLevel": 9,
+      "section": "Main Area"
     },
     {
       "method": "grass",
       "version": "leafgreen",
       "species": "Kakuna",
-      "rate": 1
+      "rate": 1,
+      "minLevel": 9,
+      "maxLevel": 9,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "surf",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 20,
+      "maxLevel": 40,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "oldrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 100
+      "rate": 100,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "firered",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 60
+      "rate": 60,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Goldeen",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "goodrod",
       "version": "leafgreen",
       "species": "Magikarp",
-      "rate": 20
+      "rate": 20,
+      "minLevel": 5,
+      "maxLevel": 15,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "firered",
       "species": "Psyduck",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwag",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Poliwhirl",
-      "rate": 40
+      "rate": 40,
+      "minLevel": 20,
+      "maxLevel": 30,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Gyarados",
-      "rate": 15
+      "rate": 15,
+      "minLevel": 15,
+      "maxLevel": 25,
+      "section": "Main Area"
     },
     {
       "method": "superrod",
       "version": "leafgreen",
       "species": "Slowpoke",
-      "rate": 5
+      "rate": 5,
+      "minLevel": 15,
+      "maxLevel": 35,
+      "section": "Main Area"
     }
   ],
   "trainers": [
     {
       "name": "Hiker Franklin",
       "team": [
-        "Machop",
-        "Geodude"
+        {
+          "species": "Machop",
+          "level": 15,
+          "moves": [
+            "Low Kick",
+            "Leer",
+            "Focus Energy",
+            "Karate Chop"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Geodude",
+          "level": 15,
+          "moves": [
+            "Tackle",
+            "Defense Curl",
+            "Mud Sport",
+            "Rock Throw"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        15,
-        15
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Hiker Franklin",
       "team": [
-        "Machoke",
-        "Graveler"
+        {
+          "species": "Machoke",
+          "level": 25,
+          "moves": [
+            "Karate Chop",
+            "Seismic Toss",
+            "Foresight",
+            "Revenge"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Graveler",
+          "level": 25,
+          "moves": [
+            "Mud Sport",
+            "Rock Throw",
+            "Magnitude",
+            "Selfdestruct"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        25,
-        25
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Hiker Wayne",
       "team": [
-        "Onix"
+        {
+          "species": "Onix",
+          "level": 17,
+          "moves": [
+            "Tackle",
+            "Screech",
+            "Bind",
+            "Rock Throw"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        17
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Youngster Joey",
       "team": [
-        "Rattata",
-        "Spearow"
+        {
+          "species": "Rattata",
+          "level": 15,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Spearow",
+          "level": 15,
+          "moves": [
+            "Peck",
+            "Growl",
+            "Leer",
+            "Fury Attack"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        15,
-        15
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Youngster Dan",
       "team": [
-        "Slowpoke"
+        {
+          "species": "Slowpoke",
+          "level": 17,
+          "moves": [
+            "Tackle",
+            "Growl",
+            "Water Gun",
+            "Confusion"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        17
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Kelsey",
       "team": [
-        "Nidoran♂",
-        "Nidoran♀"
+        {
+          "species": "Nidoran♂",
+          "level": 15,
+          "moves": [
+            "Leer",
+            "Peck",
+            "Focus Energy",
+            "Double Kick"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoran♀",
+          "level": 15,
+          "moves": [
+            "Growl",
+            "Scratch",
+            "Tail Whip",
+            "Double Kick"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        15,
-        15
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Kelsey",
       "team": [
-        "Nidoran♂",
-        "Nidoran♀"
+        {
+          "species": "Nidoran♂",
+          "level": 21,
+          "moves": [
+            "Focus Energy",
+            "Double Kick",
+            "Poison Sting",
+            "Horn Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidoran♀",
+          "level": 21,
+          "moves": [
+            "Tail Whip",
+            "Double Kick",
+            "Poison Sting",
+            "Bite"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        21,
-        21
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Kelsey",
       "team": [
-        "Nidorino",
-        "Nidorina"
+        {
+          "species": "Nidorino",
+          "level": 29,
+          "moves": [
+            "Double Kick",
+            "Poison Sting",
+            "Horn Attack",
+            "Helping Hand"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidorina",
+          "level": 29,
+          "moves": [
+            "Double Kick",
+            "Poison Sting",
+            "Bite",
+            "Helping Hand"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        29,
-        29
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Picnicker Kelsey",
       "team": [
-        "Nidorino",
-        "Nidorina"
+        {
+          "species": "Nidorino",
+          "level": 49,
+          "moves": [
+            "Horn Attack",
+            "Helping Hand",
+            "Fury Attack",
+            "Flatter"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Nidorina",
+          "level": 49,
+          "moves": [
+            "Bite",
+            "Helping Hand",
+            "Fury Swipes",
+            "Flatter"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        49,
-        49
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Hiker Nob",
       "team": [
-        "Geodude",
-        "Geodude",
-        "Machop",
-        "Geodude"
+        {
+          "species": "Geodude",
+          "level": 13,
+          "moves": [
+            "Tackle",
+            "Defense Curl",
+            "Mud Sport",
+            "Rock Throw"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Geodude",
+          "level": 13,
+          "moves": [
+            "Tackle",
+            "Defense Curl",
+            "Mud Sport",
+            "Rock Throw"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Machop",
+          "level": 13,
+          "moves": [
+            "Low Kick",
+            "Leer",
+            "Focus Energy",
+            "Karate Chop"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Geodude",
+          "level": 13,
+          "moves": [
+            "Tackle",
+            "Defense Curl",
+            "Mud Sport",
+            "Rock Throw"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        13,
-        13,
-        13,
-        13
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Camper Flint",
       "team": [
-        "Rattata",
-        "Ekans"
+        {
+          "species": "Rattata",
+          "level": 14,
+          "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Hyper Fang"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Ekans",
+          "level": 14,
+          "moves": [
+            "Wrap",
+            "Leer",
+            "Poison Sting",
+            "Bite"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        14,
-        14
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Youngster Chad",
       "team": [
-        "Ekans",
-        "Sandshrew"
+        {
+          "species": "Ekans",
+          "level": 14,
+          "moves": [
+            "Wrap",
+            "Leer",
+            "Poison Sting",
+            "Bite"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandshrew",
+          "level": 14,
+          "moves": [
+            "Scratch",
+            "Defense Curl",
+            "Sand-attack",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        14,
-        14
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Youngster Chad",
       "team": [
-        "Ekans",
-        "Sandshrew"
+        {
+          "species": "Ekans",
+          "level": 20,
+          "moves": [
+            "Leer",
+            "Poison Sting",
+            "Bite",
+            "Glare"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandshrew",
+          "level": 20,
+          "moves": [
+            "Scratch",
+            "Defense Curl",
+            "Sand-attack",
+            "Poison Sting"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        20,
-        20
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Youngster Chad",
       "team": [
-        "Arbok",
-        "Sandshrew"
+        {
+          "species": "Arbok",
+          "level": 28,
+          "moves": [
+            "Poison Sting",
+            "Bite",
+            "Glare",
+            "Screech"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandshrew",
+          "level": 28,
+          "moves": [
+            "Defense Curl",
+            "Sand-attack",
+            "Poison Sting",
+            "Slash"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        28,
-        28
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Youngster Chad",
       "team": [
-        "Arbok",
-        "Sandslash"
+        {
+          "species": "Arbok",
+          "level": 48,
+          "moves": [
+            "Acid",
+            "Stockpile",
+            "Swallow",
+            "Spit Up"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Sandslash",
+          "level": 48,
+          "moves": [
+            "Poison Sting",
+            "Slash",
+            "Swift",
+            "Fury Swipes"
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        48,
-        48
-      ]
+      "section": "Main Area"
     },
     {
       "name": "Lass Haley",
       "team": [
-        "Oddish",
-        "Pidgey",
-        "Oddish"
+        {
+          "species": "Oddish",
+          "level": 13,
+          "moves": [
+            "Absorb",
+            "Sweet Scent",
+            "",
+            ""
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Pidgey",
+          "level": 13,
+          "moves": [
+            "Tackle",
+            "Sand-attack",
+            "Gust",
+            "Quick Attack"
+          ],
+          "heldItem": null
+        },
+        {
+          "species": "Oddish",
+          "level": 13,
+          "moves": [
+            "Absorb",
+            "Sweet Scent",
+            "",
+            ""
+          ],
+          "heldItem": null
+        }
       ],
-      "levels": [
-        13,
-        13,
-        13
-      ]
+      "section": "Main Area"
     }
   ],
+  "items": [
+    {
+      "item": "TM43",
+      "method": "floor",
+      "section": "Main Area"
+    },
+    {
+      "item": "ELIXIR",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "ORAN BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "BLUK BERRY",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "ETHER",
+      "method": "hidden",
+      "section": "Main Area"
+    },
+    {
+      "item": "S.S. TICKET",
+      "method": "gift",
+      "note": "Bill",
+      "section": "Main Area"
+    }
+  ],
+  "marts": [],
+  "trades": [],
   "connections": {
     "north": null,
     "south": null,
