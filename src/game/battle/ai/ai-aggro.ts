@@ -1,12 +1,16 @@
 import { BattleStreams } from '@pkmn/sim';
 import { Dex } from '@pkmn/dex';
+import type { Battle } from '@pkmn/client';
 
-// ChoiceRequest isn't publicly exported — derive it from the method signature.
 export type ChoiceRequest = Parameters<BattleStreams.BattlePlayer['receiveRequest']>[0];
 export type RequestHandler = (request: ChoiceRequest) => void;
 
 export class AiAggro extends BattleStreams.BattlePlayer {
-  constructor(playerStream: any, debug = false) {
+  constructor(
+    playerStream: any,
+    private readonly clientBattle: Battle,
+    debug = false,
+  ) {
     super(playerStream, debug);
   }
 
@@ -28,15 +32,6 @@ export class AiAggro extends BattleStreams.BattlePlayer {
         const canSwitch = [];
         for (let j = 1; j <= 6; j++) {
           if (!pokemon[j - 1]) continue;
-          // not active
-          if (j > request.forceSwitch!.length || pokemon[i].reviving) {
-            // continue check
-          }
-          if (j <= request.forceSwitch!.length && !pokemon[i].reviving && pokemon[j - 1].active) continue;
-          if (chosen.includes(j)) continue;
-          if (!pokemon[j - 1].condition.endsWith(' fnt') === !pokemon[i].reviving) {
-            // basic check
-          }
           if (pokemon[j - 1].condition.endsWith(' fnt')) continue;
           if (pokemon[j - 1].active) continue;
           if (chosen.includes(j)) continue;
@@ -60,32 +55,57 @@ export class AiAggro extends BattleStreams.BattlePlayer {
 
     if ('active' in request && request.active?.[0]) {
       const pokemon = request.side.pokemon;
+
+      // Which side are we?  `request.side.id` is 'p1' | 'p2' | ...
+      const myId = request.side.id as 'p1' | 'p2';
+      const foeId = myId === 'p1' ? 'p2' : 'p1';
+      const foeActive = this.clientBattle[foeId]?.active?.[0];
+      // Pokemon.species.types is the canonical type array on @pkmn/client
+      const targetTypes: readonly string[] = foeActive?.species.types ?? [];
+
       const choices = request.active.map((active: any, i: number) => {
         if (pokemon[i].condition.endsWith(' fnt') || pokemon[i].commanding) return 'pass';
         const moves = active.moves || [];
         let bestMoveIndex = -1;
-        let bestPower = -1;
+        let bestScore = -1;
 
-        // Get the species for the Pokémon choosing this move
+        // Attacker types — could also come from this.clientBattle[myId].active[i].species.types
         const activePokemon = pokemon[i];
-        // details is usually "SpeciesName, L##" 
         const speciesName = activePokemon.details?.split(',')[0].trim() ?? null;
         const speciesData = speciesName ? Dex.species.get(speciesName) : null;
-        const attackerTypes: readonly string[] = (speciesData?.types as readonly string[]) ?? [];
+        const attackerTypes: readonly string[] =
+          (speciesData?.types as readonly string[]) ?? [];
 
         for (let j = 0; j < moves.length; j++) {
           const move = moves[j];
           if (move.disabled) continue;
           if (move.pp === 0 && move.maxpp && move.maxpp > 0) continue;
+
           const moveData = Dex.moves.get(move.move);
           const power = typeof moveData?.basePower === 'number' ? moveData.basePower : 0;
-          const isStab = moveData?.type && attackerTypes.includes(moveData?.type as string);
-          // You can use isStab here for scoring (e.g. multiply effective power)
-          if (power >= bestPower || (isStab && power * 1.5 >= bestPower)) {
-            bestPower = power;
+          const moveType = moveData?.type as string | undefined;
+          const isStab = moveType && attackerTypes.includes(moveType);
+
+          // Effective power against the *actual* foe, not a guessed one.
+          let effectiveness = 0; // 0 -> neutral, 1 -> very effective, -1 -> not effective
+          let is_immune = false;
+          if (moveType && targetTypes.length > 0) {
+            effectiveness = Dex.getEffectiveness(moveType, targetTypes as string[]);
+            is_immune = !Dex.getImmunity(moveType, targetTypes as string[]); // Returns false if the target is immune; true otherwise.
+          }
+
+          let score = power;
+          if (isStab) score *= 1.5;
+          if (effectiveness == 1) score *= 2;
+          if (effectiveness == -1) score *= 0.5;
+          if (is_immune) score = 0;
+
+          if (score > bestScore) {
+            bestScore = score;
             bestMoveIndex = j;
           }
         }
+
         if (bestMoveIndex === -1) {
           // Try to find any non-disabled move
           for (let j = 0; j < moves.length; j++) {
@@ -103,6 +123,7 @@ export class AiAggro extends BattleStreams.BattlePlayer {
         }
         return moveChoice;
       });
+
       this.choose(choices.join(', '));
       return;
     }

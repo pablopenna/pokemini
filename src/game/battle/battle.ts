@@ -151,7 +151,7 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
     const p2spec = { name: 'Bot', team: Teams.pack(team2) };
 
     currentBuilder = null;
-    const player1 = getBattlerImplementationFromOption(player1Control, streams.p1, handleRequest);
+    const player1 = getBattlerImplementationFromOption(player1Control, streams.p1, handleRequest, clientBattle);
     if(player1Control == PlayerControl.UI) uiPlayer = player1 as UIPlayer;
     const player2 = new RandomPlayerAI(streams.p2);
 
