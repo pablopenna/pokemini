@@ -1,14 +1,9 @@
 import type { Pokemon as SimPokemon } from '@pkmn/sim';
-import { Dex } from '@pkmn/dex';
 import { logLine } from '#/game/battle/battle-state';
-import { gainExperience, learnMove } from '#/game/battle/experience';
+import { gainExperience, learnPendingMoves, type ChooseForgetMove } from '#/game/battle/experience';
 import { readPartyState } from '#/game/battle/party-state';
-import { movesLearnedAt } from '#/game/battle/team-builder';
-import { getPokemonData } from '#/game/pokemon-data';
-import type { Party, PartyPokemon } from '#/types/pokemon';
-
-/** Asks the player which move `pokemon` forgets to learn `move`; null keeps the current ones. */
-export type ChooseForgetMove = (pokemon: PartyPokemon, move: { name: string; pp: number }) => Promise<number | null>;
+import { levelUpDataFor } from '#/game/battle/level-up-data';
+import type { Party } from '#/types/pokemon';
 
 /**
  * Gives the experience earned so far to the Pokémon that earned it and clears it, logging what happens.
@@ -29,12 +24,7 @@ export async function awardExperience(
         const gained = earned.get(simMon);
         if (!gained) continue;
         const { species } = current[i];
-        const data = getPokemonData(species);
-        const gain = await gainExperience(current[i], gained, {
-            growthRate: data.growthRate,
-            baseHp: Dex.forGen(3).species.get(species).baseStats.hp,
-            movesAt: level => movesLearnedAt(species, level),
-        });
+        const gain = await gainExperience(current[i], gained, levelUpDataFor(species));
         if (!simScaled) {
             // Bring the sim to the new level: its other stats are rebuilt from the set, and HP grows with the max.
             const grown = (gain.pokemon.hp ?? 0) - (current[i].hp ?? 0);
@@ -48,17 +38,7 @@ export async function awardExperience(
         sentParty[i] = gain.pokemon;
         for (const message of gain.messages) logLine(message);
 
-        for (const move of gain.pendingMoves) {
-            const pokemon = sentParty[i];
-            const forget = await chooseForget(pokemon, move);
-            const name = pokemon.name || pokemon.species;
-            if (forget === null) {
-                logLine(`${name} did not learn ${move.name}.`);
-                continue;
-            }
-            logLine(`${name} forgot ${pokemon.moves[forget]} and learned ${move.name}!`);
-            sentParty[i] = learnMove(pokemon, move, forget);
-        }
+        sentParty[i] = await learnPendingMoves(sentParty[i], gain.pendingMoves, chooseForget, logLine);
     }
     earned.clear();
 }

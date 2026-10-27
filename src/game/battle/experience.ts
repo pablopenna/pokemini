@@ -125,6 +125,33 @@ export async function gainExperience(pokemon: PartyPokemon, gained: number, data
   return { pokemon: next, pendingMoves, messages };
 }
 
+/** Asks the player which move `pokemon` forgets to learn `move`; null keeps the current ones. */
+export type ChooseForgetMove = (pokemon: PartyPokemon, move: { name: string; pp: number }) => Promise<number | null>;
+
+/**
+ * Offers the player the moves a Pokémon had no room for (`ExpGain.pendingMoves`), one at a time.
+ * `onMessage` hears what happens as it goes, so a caller can show it while the player decides.
+ */
+export async function learnPendingMoves(
+  pokemon: PartyPokemon,
+  pending: { name: string; pp: number }[],
+  chooseForget: ChooseForgetMove,
+  onMessage: (message: string) => void,
+): Promise<PartyPokemon> {
+  let current = pokemon;
+  for (const move of pending) {
+    const forget = await chooseForget(current, move);
+    const name = current.name || current.species;
+    if (forget === null) {
+      onMessage(`${name} did not learn ${move.name}.`);
+      continue;
+    }
+    onMessage(`${name} forgot ${current.moves[forget]} and learned ${move.name}!`);
+    current = learnMove(current, move, forget);
+  }
+  return current;
+}
+
 /** Teaches a move to a Pokémon, replacing the move at `forget`. */
 export function learnMove(pokemon: PartyPokemon, move: { name: string; pp: number }, forget: number): PartyPokemon {
   return {

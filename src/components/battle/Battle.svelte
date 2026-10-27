@@ -3,11 +3,11 @@
   import { main as doBattle, submitChoice, useBagItem, resetBattleState, battleState } from '#/game/battle/battle.ts';
   import type { BattleOutcome } from '#/types/battle/battle-result';
   import { PlayerControl } from '#/types/battle/battle-options';
-  import type { Party, PartyPokemon, Team } from '#/types/pokemon';
+  import type { Party, Team } from '#/types/pokemon';
   import SpriteRenderer from '#/components/battle/SpriteRenderer.svelte';
   import ButtonPanel from '#/components/battle/ButtonPanel.svelte';
   import BattleLog from '#/components/battle/BattleLog.svelte';
-  import MoveLearnDialog from '#/components/battle/MoveLearnDialog.svelte';
+  import MoveLearnPrompt from '#/components/battle/MoveLearnPrompt.svelte';
   import InventoryDialog from '#/components/overworld/InventoryDialog.svelte';
   import type { Inventory } from '#/types/inventory.ts';
   import type { ItemId } from '#/types/item-id.ts';
@@ -26,16 +26,7 @@
   let inventoryOpen = $state(false);
   let outcome = $state<BattleOutcome | null>(null);
 
-  // A move waiting for the player to decide whether to forget another one.
-  let learning = $state<{ pokemon: PartyPokemon; move: { name: string; pp: number }; resolve: (forget: number | null) => void } | null>(null);
-
-  const chooseForgetMove = (pokemon: PartyPokemon, move: { name: string; pp: number }) =>
-    new Promise<number | null>(resolve => (learning = { pokemon, move, resolve }));
-
-  function resolveMove(forget: number | null) {
-    learning?.resolve(forget);
-    learning = null;
-  }
+  let moveLearnPrompt = $state<MoveLearnPrompt>();
 
   function useItem(id: ItemId, target: ItemTarget) {
     const result = useBagItem(id, target);
@@ -45,7 +36,7 @@
 
   onMount(() => {
     resetBattleState();
-    doBattle({ team1, team2, player1Control, wild, inventory, chooseForgetMove }).then(o => (outcome = o));
+    doBattle({ team1, team2, player1Control, wild, inventory, chooseForgetMove: (pokemon, move) => moveLearnPrompt!.choose(pokemon, move) }).then(o => (outcome = o));
   });
 </script>
 
@@ -60,11 +51,7 @@
     scene="battle"
     onUse={useItem}
   />
-  {#if learning}
-    {#key learning}
-      <MoveLearnDialog pokemon={learning.pokemon} move={learning.move} onChoose={resolveMove} />
-    {/key}
-  {/if}
+  <MoveLearnPrompt bind:this={moveLearnPrompt} />
   {#if outcome}
     <button class="continue" onclick={() => onFinish(outcome!)}>Continue</button>
   {/if}

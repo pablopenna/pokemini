@@ -12,18 +12,22 @@ export function hasItem(inventory: Inventory, id: ItemId): boolean {
   return inventory.some(item => item.id === id && item.amount > 0);
 }
 
+/** How many of `id` the inventory holds. */
+export const amountOf = (inventory: Inventory, id: ItemId): number =>
+  inventory.find(item => item.id === id)?.amount ?? 0;
+
 /**
- * Removes one of `id` from the inventory. Key items and other non-consumable
+ * Removes `count` of `id` from the inventory. Key items and other non-consumable
  * items are left alone. This is only called after a successful use.
  */
-export function consumeItem(inventory: Inventory, id: ItemId, consumable: boolean): Inventory {
+export function consumeItem(inventory: Inventory, id: ItemId, consumable: boolean, count = 1): Inventory {
   if (!consumable) return inventory;
 
   const entry = inventory.find(item => item.id === id);
   if (!entry) return inventory;
-  if (entry.amount <= 1) return inventory.filter(item => item.id !== id);
+  if (entry.amount <= count) return inventory.filter(item => item.id !== id);
 
-  return inventory.map(item => (item.id === id ? { ...item, amount: item.amount - 1 } : item));
+  return inventory.map(item => (item.id === id ? { ...item, amount: item.amount - count } : item));
 }
 
 /**

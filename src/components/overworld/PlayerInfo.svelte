@@ -1,5 +1,6 @@
 <script lang="ts">
   import InventoryDialog from '#/components/overworld/InventoryDialog.svelte';
+  import MoveLearnPrompt from '#/components/battle/MoveLearnPrompt.svelte';
   import PokemonDialog from '#/components/overworld/PokemonDialog.svelte';
   import { levelEvolution } from '#/game/battle/evolution';
   import { useOverworldItem } from '#/game/item/overworld-item-use';
@@ -14,10 +15,11 @@
   let { player = $bindable() }: Props = $props();
 
   let inventoryOpen = $state(false);
+  let moveLearnPrompt = $state<MoveLearnPrompt>();
   let selected = $state<number | null>(null);
 
-  function useItem(id: ItemId, target: ItemTarget) {
-    const result = useOverworldItem(id, target, { party: player.team, inventory: player.inventory });
+  async function useItem(id: ItemId, target: ItemTarget) {
+    const result = await useOverworldItem(id, target, { party: player.team, inventory: player.inventory, chooseForget: moveLearnPrompt!.choose });
     if (!result.ok) return result;
     // Field effects (Escape Rope, Repel, ...) aren't handled yet; don't spend the item on them.
     if (result.events.length) return { ok: false as const, reason: 'not-usable-here' as const, message: "That can't be used yet." };
@@ -35,6 +37,7 @@
   {:else}
     <p>empty</p>
   {/each}
+  <MoveLearnPrompt bind:this={moveLearnPrompt} />
   <PokemonDialog
     pokemon={selected === null ? null : player.team[selected] ?? null}
     onEvolve={evolved => (player.team[selected!] = evolved)}

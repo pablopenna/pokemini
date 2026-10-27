@@ -1,6 +1,7 @@
 <script lang="ts">
   import { getItemEffects, targetKindOf, type TargetKind } from '#/game/item/item-effects.ts';
   import { getItemData } from '#/game/item/item-data.ts';
+  import { MAX_LEVEL } from '#/game/battle/experience.ts';
   import { partyMaxHp } from '#/game/pokemon-stats.ts';
   import type { Inventory } from '#/types/inventory.ts';
   import type { ItemId } from '#/types/item-id.ts';
@@ -8,13 +9,15 @@
   import type { Party } from '#/types/pokemon.ts';
   import { getAsset } from '#/utils/get-asset.ts';
 
+  type UseResult = { ok: true; messages: string[] } | ItemUseFailure;
+
   type Props = {
     inventory: Inventory;
     /** Pokémon an item can be used on. */
     party?: Party;
     /** Which effects decide whether an item is usable. Without `onUse` items can only be looked at. */
     scene?: ItemScene;
-    onUse?: (id: ItemId, target: ItemTarget) => { ok: true; messages: string[] } | ItemUseFailure;
+    onUse?: (id: ItemId, target: ItemTarget) => UseResult | Promise<UseResult>;
     open?: boolean;
   };
 
@@ -22,7 +25,8 @@
 
   let dialog = $state<HTMLDialogElement>();
   // Item waiting for its target, and the Pokémon picked so far when it also needs a move.
-  let picking = $state<{ id: ItemId; name: string; kind: TargetKind } | null>(null);
+  let picking = $state<{ id: ItemId; name: string; kind: TargetKind; multi: boolean; amount: number } | null>(null);
+  let quantity = $state(1);
   let pickedPokemon = $state<number | null>(null);
   let message = $state('');
 
@@ -36,11 +40,13 @@
       sprite: data?.sprite,
       description: data?.description,
       targetKind: effect ? targetKindOf(effect) : null,
+      // Can be used several at once on the same Pokémon.
+      multi: effect?.kind === 'level-up',
     };
   }));
 
-  function use(id: ItemId, target: ItemTarget) {
-    const result = onUse?.(id, target);
+  async function use(id: ItemId, target: ItemTarget) {
+    const result = await onUse?.(id, target);
     if (!result) return;
     message = result.ok ? result.messages.join(' ') : (result.message ?? "It won't have any effect.");
     picking = null;
@@ -51,12 +57,15 @@
     if (!onUse || !item.targetKind) return;
     message = '';
     if (item.targetKind === 'none') use(item.id, { kind: 'none' });
-    else picking = { id: item.id, name: item.name, kind: item.targetKind };
+    else picking = { id: item.id, name: item.name, kind: item.targetKind, multi: item.multi, amount: item.amount };
   }
 
   function pickPokemon(index: number) {
     if (!picking) return;
-    if (picking.kind === 'move') pickedPokemon = index;
+    if (picking.kind === 'move' || picking.multi) {
+      pickedPokemon = index;
+      quantity = 1;
+    }
     else use(picking.id, { kind: 'party', index });
   }
 
@@ -92,7 +101,18 @@
   {#if picking}
     <h3>Use {picking.name} on</h3>
     <ul class="targets">
-      {#if pickedPokemon === null}
+      {#if pickedPokemon !== null && picking.multi}
+        {@const max = Math.max(1, Math.min(picking.amount, MAX_LEVEL - party[pickedPokemon].level))}
+        <li class="quantity">
+          <label>
+            How many?
+            <input type="number" min="1" {max} bind:value={quantity} />
+          </label>
+          <button onclick={() => use(picking!.id, { kind: 'party', index: pickedPokemon!, quantity: Math.min(max, Math.max(1, Math.floor(quantity) || 1)) })}>
+            Use
+          </button>
+        </li>
+      {:else if pickedPokemon === null}
         {#each party as pokemon, i}
           <li>
             <button onclick={() => pickPokemon(i)}>

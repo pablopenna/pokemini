@@ -1,4 +1,5 @@
 import type { Pokemon as SimPokemon, Side } from '@pkmn/sim';
+import type { ChooseForgetMove } from '#/game/battle/experience';
 import type { Inventory } from './inventory';
 import type { Party } from './pokemon';
 
@@ -12,10 +13,11 @@ export const ItemScene = {
 
 /**
  * What the item is used on. `moveIndex` is only meaningful for items that
- * restore PP for a single move (Ether, Max Ether, ...).
+ * restore PP for a single move (Ether, Max Ether, ...), and `quantity` for
+ * items that can be used several at once (Rare Candy).
  */
 export type ItemTarget =
-  | { kind: 'party'; index: number; moveIndex?: number }
+  | { kind: 'party'; index: number; moveIndex?: number; quantity?: number }
   | { kind: 'none' };
 
 export type ItemUseFailureReason =
@@ -47,6 +49,8 @@ export type OverworldEvent =
 export type OverworldContext = {
   party: Party;
   inventory: Inventory;
+  /** Asks which move to forget when a level-up brings one that doesn't fit; without it such moves are skipped. */
+  chooseForget?: ChooseForgetMove;
 };
 
 export type OverworldItemUseResult = ItemUseResult<{
@@ -83,7 +87,7 @@ export type BattleItemUseResult = ItemUseResult<{
 export type OverworldItemUsage = (
   target: ItemTarget,
   ctx: OverworldContext,
-) => OverworldItemUseResult;
+) => Promise<OverworldItemUseResult>;
 
 export type BattleItemUsage = (
   target: ItemTarget,

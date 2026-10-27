@@ -18,8 +18,11 @@ export type Escape = { kind: 'escape' };
 export type Repel = { kind: 'repel'; steps: number };
 export type EncounterRate = { kind: 'encounter-rate'; multiplier: number };
 
+export type LevelUp = { kind: 'level-up' };
+
 export type OverworldEffect =
   | SharedEffect
+  | LevelUp
   | Escape
   | Repel
   | EncounterRate
@@ -136,6 +139,9 @@ export const itemEffects = {
   [ItemId.XSpDef]: { battle: { kind: 'boost', boosts: { spd: 1 } } },
   [ItemId.XSpeed]: { battle: { kind: 'boost', boosts: { spe: 1 } } },
   [ItemId.XAccuracy]: { battle: { kind: 'boost', boosts: { accuracy: 1 } } },
+
+  // Leveling (overworld only)
+  [ItemId.RareCandy]: { overworld: { kind: 'level-up' } },
 
   // Field items (overworld only)
   [ItemId.EscapeRope]: { overworld: { kind: 'escape' } },
