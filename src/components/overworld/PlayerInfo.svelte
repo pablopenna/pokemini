@@ -1,4 +1,5 @@
 <script lang="ts">
+  import InventoryDialog from '#/components/overworld/InventoryDialog.svelte';
   import type { Player } from '#/types/player';
 
   type Props = {
@@ -7,17 +8,14 @@
 
   let { player = $bindable() }: Props = $props();
 
-  let inventoryDialog = $state<HTMLDialogElement>();
+  let inventoryOpen = $state(false);
 </script>
 
 <div class="player-info">
   <p>Current location: {player.location}</p>
   <p>Team: {player.team.map(p => p.species).join(', ') || 'empty'}</p>
-  <button onclick={() => inventoryDialog?.showModal()}>Inventory</button>
-  <dialog bind:this={inventoryDialog}>
-    <h2>Inventory</h2>
-    <form method="dialog"><button>Close</button></form>
-  </dialog>
+  <button onclick={() => (inventoryOpen = true)}>Inventory</button>
+  <InventoryDialog bind:open={inventoryOpen} inventory={player.inventory} />
 </div>
 
 <style>

@@ -14,6 +14,7 @@
   import type { Player } from '#/types/player';
   import type { Team } from '#/types/pokemon';
   import { PlayerControl } from '#/types/battle/battle-options';
+  import { ItemId } from '#/types/item-id';
 
   // Placeholder teams until the main page has real ones.
   Teams.setGeneratorFactory(TeamGenerators);
@@ -29,7 +30,14 @@
       canRockSmash: false,
     },
     claimedGifts: [],
-    inventory: [],
+    inventory: [
+      {id: ItemId.PokeBall, amount: 99},
+      {id: ItemId.GreatBall, amount: 99},
+      {id: ItemId.UltraBall, amount: 99},
+      {id: ItemId.Potion, amount: 99},
+      {id: ItemId.SuperPotion, amount: 99},
+      {id: ItemId.RareCandy, amount: 999},
+    ],
   });
   let opponentTeam = $state<Team>([]);
 
