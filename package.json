@@ -15,6 +15,7 @@
     "scrapeallpkmn": "node src/scripts/scrape-pkmn/scrape-pkmn.ts --all",
     "scrapeitem": "node src/scripts/scrape-items/scrape-items.ts",
     "scrapeallitems": "node src/scripts/scrape-items/scrape-items.ts --all",
+    "generateitemids": "node src/scripts/generate-item-ids.ts",
     "rescraperoutes": "for f in src/data/routes/*.json; do node src/scripts/scrape-routes/scrape-routes.ts --id \"$(basename \"$f\" .json)\" --force; done"
   },
   "devDependencies": {

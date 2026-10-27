@@ -2,7 +2,7 @@ import axios from 'axios';
 import * as fsp from 'fs/promises';
 import * as path from 'path';
 
-import type { ItemData } from '#/types/item-data.ts';
+import type { ItemData, ItemId } from '#/types/item-data.ts';
 import { downloadImage } from '#/scripts/scrape-items/utils/download-image.ts';
 
 const FORCE = process.argv.includes('--force');
@@ -76,7 +76,7 @@ async function scrapeItem(id: string, force: boolean): Promise<ItemData | undefi
     : '';
 
   const itemData: ItemData = {
-    id,
+    id: id as ItemId,
     num: item.id,
     name: item.names.find(n => n.language.name === 'en')?.name ?? titleCase(item.name),
     url,

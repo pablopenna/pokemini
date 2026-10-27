@@ -29,6 +29,7 @@
       canRockSmash: false,
     },
     claimedGifts: [],
+    inventory: [],
   });
   let opponentTeam = $state<Team>([]);
 

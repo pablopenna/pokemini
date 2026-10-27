@@ -1,6 +1,10 @@
+import type { ItemId } from './item-id.ts';
+
+export { ItemId } from './item-id.ts';
+
 export type ItemData = {
   /** PokéAPI slug of the item (e.g. 'poke-ball'); also the file name. */
-  id: string;
+  id: ItemId;
   /** PokéAPI id of the item. */
   num: number;
   name: string;
