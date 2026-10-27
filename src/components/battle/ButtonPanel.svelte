@@ -4,9 +4,10 @@
 
   type Props = {
     onChoice: (choice: string) => void;
+    isWildEncounter: boolean;
   };
 
-  let { onChoice }: Props = $props();
+  let { onChoice, isWildEncounter }: Props = $props();
 
   // DEBUG
   $effect(() => {
@@ -35,6 +36,15 @@
           {sw.label}
         </button>
       {/each}
+    </div>
+  {/if}
+
+  {#if isWildEncounter}
+    <div class="button-section">
+      <h3>Inventory</h3>
+        <button onclick={() => undefined}>
+          Use item
+        </button>
     </div>
   {/if}
 </div>

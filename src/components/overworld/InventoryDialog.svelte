@@ -60,9 +60,12 @@
 </dialog>
 
 <style>
-  dialog {
+  dialog[open] {
     display: flex;
     flex-direction: column;
+  }
+
+  dialog {
     box-sizing: border-box;
     width: min(32rem, 90vw);
     max-height: 80vh;

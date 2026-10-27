@@ -45,7 +45,7 @@
 <div class="battle">
   <BattleLog />
   <div class="sprites"><SpriteRenderer /></div>
-  <ButtonPanel onChoice={submitChoice} />
+  <ButtonPanel onChoice={submitChoice} isWildEncounter={wild}/>
   {#if pending}
     {#key pending}
       <MoveLearnDialog pokemon={outcome!.party[pending.index]} move={pending.move} onChoose={resolveMove} />
