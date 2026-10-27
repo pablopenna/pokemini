@@ -52,7 +52,7 @@
   .ball-x.throw { animation: throw-x 0.7s linear forwards; }
   .ball-x:not(.throw) { transform: translateX(152px); }
   .ball-y.throw { animation: throw-y 0.7s forwards; }
-  .ball-y:not(.throw) { transform: translateY(56px); }
+  .ball-y:not(.throw) { transform: translateY(32px); }
   .ball { display: block; width: 32px; height: 32px; image-rendering: pixelated; }
   .ball.throw { animation: spin 0.7s linear forwards; }
   .ball.shake { animation: shake 0.8s ease-in-out; }
@@ -61,8 +61,8 @@
   @keyframes throw-x { to { transform: translateX(152px); } }
   @keyframes throw-y {
     0% { transform: translateY(0); animation-timing-function: ease-out; }
-    50% { transform: translateY(-60px); animation-timing-function: ease-in; }
-    100% { transform: translateY(56px); }
+    50% { transform: translateY(-36px); animation-timing-function: ease-in; }
+    100% { transform: translateY(32px); }
   }
   @keyframes spin { to { transform: rotate(720deg); } }
   @keyframes shake {
