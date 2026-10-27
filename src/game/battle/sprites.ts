@@ -17,6 +17,7 @@ export function updateSprites(clientBattle: Battle) {
         ...s,
         p1Sprite: p1 ? Sprites.getPokemon(p1.species.id, { gen: 'gen5' }).url : null,
         p2Sprite: p2 ? Sprites.getPokemon(p2.species.id, { gen: 'gen5' }).url : null,
+        p1SimLevel: p1?.level ?? -1,
         p2Level: p2?.level ?? 1,
         p1Hp: hpPercent(p1),
         p2Hp: hpPercent(p2)

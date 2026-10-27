@@ -24,6 +24,9 @@ export { battleState } from '#/game/battle/battle-state';
 export { submitChoice } from '#/game/battle/choices';
 export { useBagItem } from '#/game/battle/bag';
 
+/** Level every Pokémon fights at in trainer battles; the party keeps its real levels. */
+const BATTLE_LEVEL = 50;
+
 export function resetBattleState() {
     resetChoices();
     resetState();
@@ -43,8 +46,11 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
     // Fainted Pokémon go last so the lead is able to fight.
     const order = battleOrder(team1);
     const sentParty = order.map(i => team1[i]);
-    const p1spec = { name: 'Player', team: Teams.pack(sentParty) };
-    const p2spec = { name: 'Bot', team: Teams.pack(team2) };
+    // Trainer battles are leveled to a common level in the sim only: experience, moves and evolution use the real one.
+    const atBattleLevel = <T extends { level: number }>(team: T[]) =>
+        wild ? team : team.map(p => ({ ...p, level: BATTLE_LEVEL }));
+    const p1spec = { name: 'Player', team: Teams.pack(atBattleLevel(sentParty)) };
+    const p2spec = { name: 'Bot', team: Teams.pack(atBattleLevel(team2)) };
 
     resetChoices();
     const onRequest: typeof handleRequest = request => {
@@ -74,7 +80,7 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
                 await playEffect(args, setBlink);
                 // The foe is `p2`; whoever stood against it earns experience as soon as it faints.
                 if (args[0] === 'faint' && String(args[1]).startsWith('p2')) {
-                    await awardExperience(sentParty, sentSim, earned, chooseForgetMove);
+                    await awardExperience(sentParty, sentSim, earned, chooseForgetMove, !wild);
                     await updateExp(sentParty[sentSim.indexOf(sim.sides[0].active[0])]);
                     refreshBag();
                 }
@@ -103,7 +109,13 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
             resolveCatch('caught');
         },
     });
-    const earned = trackExperience(sim, foe => getPokemonData(foe.species.id).expYield);
+    // Foes give experience for the level they really have.
+    const foeLevels = new Map(sim.sides[1].pokemon.map((p, i) => [p, team2[i].level]));
+    const earned = trackExperience(
+        sim,
+        foe => getPokemonData(foe.species.id).expYield,
+        foe => foeLevels.get(foe) ?? foe.level,
+    );
 
     const result = await Promise.race([battleLoop(), catchEnded]);
     const finalInventory = endBagSession();

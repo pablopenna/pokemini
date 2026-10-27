@@ -1,5 +1,6 @@
 import { toID } from '@pkmn/dex';
 import type { Battle as SimBattle, Pokemon as SimPokemon, Side } from '@pkmn/sim';
+import { partyMaxHp } from '#/game/pokemon-stats';
 import type { Party, PartyPokemon, Pokemon } from '#/types/pokemon';
 
 export const isFainted = (p: PartyPokemon) => p.hp === 0;
@@ -36,7 +37,8 @@ export function applyPartyState(side: Side, party: Party) {
       side.pokemonLeft--;
       return;
     }
-    if (saved.hp !== null) sim.hp = Math.min(saved.hp, sim.maxhp);
+    // The sim may run at another level than the party (see `BATTLE_LEVEL`): keep the share of HP, not the number.
+    if (saved.hp !== null) sim.hp = Math.min(sim.maxhp, Math.max(1, Math.round(saved.hp / partyMaxHp(saved) * sim.maxhp)));
     if (saved.status) setStatusSilently(sim, saved.status);
   });
 }
@@ -62,7 +64,7 @@ export function readPartyState(sent: Party, sim: SimPokemon[]): Party {
     const fainted = sim.fainted || !sim.hp;
     return {
       ...before,
-      hp: fainted ? 0 : sim.hp,
+      hp: fainted ? 0 : Math.max(1, Math.round(sim.hp / sim.maxhp * partyMaxHp(before))),
       status: fainted || !sim.status ? '' : sim.status,
       // A move learned during the battle isn't in the sim: keep the PP it was given.
       pp: before.moves.map((move, k) => {

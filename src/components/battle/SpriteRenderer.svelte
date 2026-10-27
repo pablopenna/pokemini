@@ -10,7 +10,7 @@
       <!-- keyed on the sprite so a switch-in starts at its own HP instead of animating from the previous one -->
       {#key $battleState.p1Sprite}
         <div class="hp-row">
-          <span class="level">Lv{$battleState.p1Level}</span>
+          <span class="level">Lv{$battleState.p1SimLevel > 0 && $battleState.p1SimLevel !== $battleState.p1Level ? `${$battleState.p1SimLevel} (${$battleState.p1Level})` : $battleState.p1Level}</span>
           <div class="hp-bar"><div class="hp-fill" class:low={$battleState.p1Hp <= 50} class:critical={$battleState.p1Hp <= 20} style:width="{$battleState.p1Hp}%"></div></div>
         </div>
         <div class="exp-row">

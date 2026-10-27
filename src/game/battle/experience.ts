@@ -35,7 +35,11 @@ export const expReward = (baseExp: number, level: number, participants: number) 
  * Everyone that has been in front of a foe when it faints and is still standing shares its experience.
  * Returns the experience earned so far by each of the player's Pokémon, which fills up as the battle goes.
  */
-export function trackExperience(sim: SimBattle, baseExpOf: (foe: SimPokemon) => number): Map<SimPokemon, number> {
+export function trackExperience(
+  sim: SimBattle,
+  baseExpOf: (foe: SimPokemon) => number,
+  levelOf: (foe: SimPokemon) => number = foe => foe.level,
+): Map<SimPokemon, number> {
   const [player, foe] = sim.sides;
   const facing = new Map<SimPokemon, Set<SimPokemon>>();
   const earned = new Map<SimPokemon, number>();
@@ -60,7 +64,7 @@ export function trackExperience(sim: SimBattle, baseExpOf: (foe: SimPokemon) => 
     for (const defeated of foe.pokemon) {
       if (!defeated.fainted || fainted.has(defeated)) continue;
       const winners = [...facing.get(defeated) ?? []].filter(p => p.hp > 0);
-      const reward = winners.length && expReward(baseExpOf(defeated), defeated.level, winners.length);
+      const reward = winners.length && expReward(baseExpOf(defeated), levelOf(defeated), winners.length);
       for (const p of winners) earned.set(p, (earned.get(p) ?? 0) + reward);
     }
     return result;

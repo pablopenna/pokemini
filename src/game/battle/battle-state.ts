@@ -9,6 +9,8 @@ const initialState = () => ({
     p2Sprite: null as string | null,
     p1Level: -1,
     p2Level: -1,
+    /** Level the player's active Pokémon fights at, which differs from `p1Level` when the battle is leveled. */
+    p1SimLevel: -1,
     p1Hp: 100,
     p2Hp: 100,
     /** Progress of the player's active Pokémon towards its next level, 0-100. */
