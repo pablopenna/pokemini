@@ -5,9 +5,10 @@
   type Props = {
     onChoice: (choice: string) => void;
     isWildEncounter: boolean;
+    onUseItem: () => void;
   };
 
-  let { onChoice, isWildEncounter }: Props = $props();
+  let { onChoice, isWildEncounter, onUseItem }: Props = $props();
 
   // DEBUG
   $effect(() => {
@@ -39,12 +40,10 @@
     </div>
   {/if}
 
-  {#if isWildEncounter}
+  {#if $battleState.moves.length > 0 && isWildEncounter}
     <div class="button-section">
       <h3>Inventory</h3>
-        <button onclick={() => undefined}>
-          Use item
-        </button>
+      <button onclick={onUseItem}>Use item</button>
     </div>
   {/if}
 </div>

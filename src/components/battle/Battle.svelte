@@ -9,16 +9,20 @@
   import ButtonPanel from '#/components/battle/ButtonPanel.svelte';
   import BattleLog from '#/components/battle/BattleLog.svelte';
   import MoveLearnDialog from '#/components/battle/MoveLearnDialog.svelte';
+  import InventoryDialog from '#/components/overworld/InventoryDialog.svelte';
+  import type { Inventory } from '#/types/inventory.ts';
 
   type Props = {
     team1: Party;
     team2: Team;
     player1Control?: PlayerControl;
     wild?: boolean;
+    inventory: Inventory;
     onFinish: (outcome: BattleOutcome) => void;
   };
 
-  let { team1, team2, player1Control, wild = false, onFinish }: Props = $props();
+  let { team1, team2, player1Control, wild = false, inventory, onFinish }: Props = $props();
+  let inventoryOpen = $state(false);
   let outcome = $state<BattleOutcome | null>(null);
 
   // Moves waiting for the player to decide whether to forget another one.
@@ -45,7 +49,8 @@
 <div class="battle">
   <BattleLog />
   <div class="sprites"><SpriteRenderer /></div>
-  <ButtonPanel onChoice={submitChoice} isWildEncounter={wild}/>
+  <ButtonPanel onChoice={submitChoice} onUseItem={() => (inventoryOpen = true)} isWildEncounter={wild} />
+  <InventoryDialog bind:open={inventoryOpen} {inventory} />
   {#if pending}
     {#key pending}
       <MoveLearnDialog pokemon={outcome!.party[pending.index]} move={pending.move} onChoose={resolveMove} />
