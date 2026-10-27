@@ -14,10 +14,11 @@
     team1: Party;
     team2: Team;
     player1Control?: PlayerControl;
+    wild?: boolean;
     onFinish: (outcome: BattleOutcome) => void;
   };
 
-  let { team1, team2, player1Control, onFinish }: Props = $props();
+  let { team1, team2, player1Control, wild = false, onFinish }: Props = $props();
   let outcome = $state<BattleOutcome | null>(null);
 
   // Moves waiting for the player to decide whether to forget another one.
@@ -37,7 +38,7 @@
 
   onMount(() => {
     resetBattleState();
-    doBattle({ team1, team2, player1Control }).then(o => (outcome = o));
+    doBattle({ team1, team2, player1Control, wild }).then(o => (outcome = o));
   });
 </script>
 

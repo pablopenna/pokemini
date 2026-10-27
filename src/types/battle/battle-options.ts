@@ -10,4 +10,5 @@ export type BattleOptions = {
   team1: Party;
   team2: Team;
   player1Control?: PlayerControl;
+  wild?: boolean;
 };

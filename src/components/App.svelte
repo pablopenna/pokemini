@@ -40,6 +40,7 @@
     ],
   });
   let opponentTeam = $state<Team>([]);
+  let wildBattle = $state(false);
 
   const showDebugMenu = import.meta.env.GAME_DEBUG_MENU === 'true';
 
@@ -49,6 +50,13 @@
 
   function startBattle(team: Team) {
     opponentTeam = team;
+    wildBattle = false;
+    view = 'battle';
+  }
+
+  function startWildBattle(team: Team) {
+    opponentTeam = team;
+    wildBattle = true;
     view = 'battle';
   }
 
@@ -66,7 +74,7 @@
 </script>
 
 {#if view === 'battle'}
-  <Battle team1={player.team} team2={opponentTeam} player1Control={PlayerControl.AI_AGGRO} onFinish={onBattleFinish} />
+  <Battle team1={player.team} team2={opponentTeam} wild={wildBattle} player1Control={PlayerControl.AI_AGGRO} onFinish={onBattleFinish} />
 {:else}
   <main>
     {#if showDebugMenu}
@@ -84,8 +92,8 @@
       onTravel={travel}
       onSectionChange={section => (player.section = section)}
     >
-      <WildEncounter bind:player disabled={!canBattle(player.team)} onEncounter={startBattle} />
-      <TrainerBattle {player} disabled={!canBattle(player.team)} onBattle={startBattle} />
+      <WildEncounter bind:player disabled={!canBattle(player.team)} onEncounter={team => startWildBattle(team)} />
+      <TrainerBattle {player} disabled={!canBattle(player.team)} onBattle={team => startBattle(team)} />
     </LocationView>
   </main>
 {/if}
