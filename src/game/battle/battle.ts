@@ -1,5 +1,6 @@
 import { writable } from 'svelte/store';
 import { BattleStreams, RandomPlayerAI, Teams } from '@pkmn/sim';
+import type { Battle as SimBattle, Pokemon as SimPokemon } from '@pkmn/sim';
 import { Battle } from '@pkmn/client';
 import { Generations } from '@pkmn/data';
 import { Dex } from '@pkmn/dex';
@@ -15,6 +16,12 @@ import { getPokemonData } from '#/game/pokemon-data';
 import { applyPartyState, battleOrder, readPartyState, restoreOrder } from '#/game/battle/party-state';
 import type { BattleOutcome, BattleResult, PendingMove } from '#/types/battle/battle-result';
 import { PlayerControl, type BattleOptions } from '#/types/battle/battle-options';
+import { useBattleItem } from '#/game/item/battle-item-use';
+import { fail } from '#/game/item/item-use';
+import type { Inventory } from '#/types/inventory';
+import type { ItemId } from '#/types/item-id';
+import type { ItemTarget, ItemUseFailure } from '#/types/item-usage';
+import type { Party } from '#/types/pokemon';
 import { getBattlerImplementationFromOption } from '#/game/battle/ai/get-battler-from-option';
 
 // ---- reactive state -------------------------------------------------
@@ -28,7 +35,10 @@ const initialState = () => ({
     blink: { p1: false, p2: false },
     moves: [] as { label: string; choice: string; disabled: boolean }[],
     switches: [] as { label: string; choice: string }[],
-    log: ''
+    log: '',
+    /** The player's party and bag as the battle currently has them. */
+    party: [] as Party,
+    inventory: [] as Inventory
 });
 
 export const battleState = writable(initialState());
@@ -40,9 +50,34 @@ export function resetBattleState() {
 
 let currentBuilder: ChoiceBuilder | null = null;
 let uiPlayer: UIPlayer | null = null;
+// Whether the player is being asked for a move (items are used instead of one).
+let awaitingAction = false;
+
+/** What bag items need from the running battle. */
+type ItemSession = {
+    sim: SimBattle;
+    wild: boolean;
+    /** Sim Pokémon in the order they were sent, and the party they came from. */
+    sentSim: SimPokemon[];
+    sentParty: Party;
+    /** `order[i]` is the party index of the i-th Pokémon sent. */
+    order: number[];
+    inventory: Inventory;
+    /** Lets the next `pass` through for the active Pokémon: using an item takes the turn. */
+    passNext: boolean;
+};
+let itemSession: ItemSession | null = null;
+
+function refreshBag() {
+    const s = itemSession;
+    if (!s) return;
+    const party = restoreOrder(readPartyState(s.sentParty, s.sentSim), s.order);
+    battleState.update(state => ({ ...state, party, inventory: s.inventory }));
+}
 
 // ---- UI helpers (update the store, not the DOM) ----------------------
 function clearChoices() {
+    awaitingAction = false;
     battleState.update(s => ({ ...s, moves: [], switches: [] }));
 }
 
@@ -77,6 +112,7 @@ function renderTeamPreview(request: ChoiceRequest) {
 function handleRequest(request: ChoiceRequest) {
     console.log('REQ', JSON.stringify(request));    
     clearChoices();
+    refreshBag();
     if ('teamPreview' in request && request.teamPreview) {
         renderTeamPreview(request);
         return;
@@ -90,6 +126,7 @@ function handleRequest(request: ChoiceRequest) {
     }
     if ('active' in request && request.active?.[0]) {
         renderMoves(request as any);
+        awaitingAction = true;
         renderSwitches(request as any, false);
     }
 }
@@ -116,6 +153,33 @@ export function submitChoice(choice: string) {
     }
 }
 
+/**
+ * Uses a bag item on the running battle. The effect is applied to the sim and the item takes the
+ * player's turn, so the foe still moves. Only possible while the player is choosing a move.
+ */
+export function useBagItem(id: ItemId, target: ItemTarget): { ok: true; messages: string[] } | ItemUseFailure {
+    const s = itemSession;
+    if (!s || !awaitingAction) return fail('not-usable-here', "You can't use items right now.");
+
+    const result = useBattleItem(id, target, {
+        side: s.sim.sides[0],
+        inventory: s.inventory,
+        simPokemon: index => s.sentSim[s.order.indexOf(index)] ?? null,
+        wild: s.wild,
+    });
+    if (!result.ok) return result;
+    // Catching and fleeing have no battle-loop support yet; the sim hasn't been touched for them.
+    if (result.action.kind !== 'pass') return fail('not-usable-here', "That can't be used yet.");
+
+    s.inventory = result.inventory;
+    s.passNext = true;
+    currentBuilder = null;
+    uiPlayer?.submitChoice('pass');
+    clearChoices();
+    refreshBag();
+    return { ok: true, messages: result.messages };
+}
+
 const hpPercent = (p: { hp: number; maxhp: number } | null) =>
     p && p.maxhp ? (p.hp / p.maxhp) * 100 : 0;
 
@@ -135,7 +199,7 @@ function updateSprites(clientBattle: Battle) {
 
 // ---- main battle loop ------------------------------------------------
 export async function main(options: BattleOptions): Promise<BattleOutcome> {
-    const { team1, team2, player1Control = PlayerControl.UI } = options;
+    const { team1, team2, player1Control = PlayerControl.UI, wild = false, inventory = [] } = options;
     // Accept everything: wild Pokémon like Pidgey are "Past" in gen 9, which the default filter hides.
     const gens = new Generations(Dex, () => true);
     const clientBattle = new Battle(gens);
@@ -186,10 +250,24 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
     const sim = simStream.battle!;
     const sentSim = [...sim.sides[0].pokemon];
     applyPartyState(sim.sides[0], sentParty);
+    const session: ItemSession = { sim, wild, sentSim, sentParty, order, inventory, passNext: false };
+    // `pass` is refused for a Pokémon that can still move; allow it once when an item took the turn.
+    const side = sim.sides[0];
+    const choosePass = side.choosePass.bind(side);
+    side.choosePass = () => {
+        if (!session.passNext) return choosePass();
+        session.passNext = false;
+        side.choice.actions.push({ choice: 'pass' });
+        return true;
+    };
+    itemSession = session;
+    refreshBag();
     const earned = trackExperience(sim, foe => getPokemonData(foe.species.id).expYield);
 
     const result = await battleLoop();
     const party = readPartyState(sentParty, sentSim);
+    itemSession = null;
+    awaitingAction = false;
     const pending: PendingMove[] = [];
     for (const [i, simMon] of sentSim.entries()) {
         const gained = earned.get(simMon);
@@ -206,5 +284,5 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
         const html = gain.messages.map(m => `<div>${m}</div>`).join('');
         battleState.update(s => ({ ...s, log: s.log + html }));
     }
-    return { result, party: restoreOrder(party, order), pendingMoves: pending };
+    return { result, party: restoreOrder(party, order), inventory: session.inventory, pendingMoves: pending };
 }

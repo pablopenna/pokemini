@@ -144,6 +144,32 @@ export const itemEffects = {
   [ItemId.MaxRepel]: { overworld: { kind: 'repel', steps: 250 } },
 } satisfies Partial<Record<ItemId, ItemEffects>>;
 
+/** What the player has to choose before an item can be used. */
+export type TargetKind = 'none' | 'pokemon' | 'move';
+
+const TARGET_RANK: Record<TargetKind, number> = { none: 0, pokemon: 1, move: 2 };
+
+export function targetKindOf(effect: OverworldEffect | BattleEffect): TargetKind {
+  switch (effect.kind) {
+    case 'escape':
+    case 'repel':
+    case 'encounter-rate':
+    case 'revive-all':
+    case 'catch':
+    case 'flee':
+      return 'none';
+    case 'restore-pp':
+      return effect.moves === 'one' ? 'move' : 'pokemon';
+    case 'composite':
+      return effect.effects.reduce<TargetKind>(
+        (kind, e) => (TARGET_RANK[targetKindOf(e)] > TARGET_RANK[kind] ? targetKindOf(e) : kind),
+        'none',
+      );
+    default:
+      return 'pokemon';
+  }
+}
+
 export function getItemEffects(id: ItemId): ItemEffects | null {
   return (itemEffects as Partial<Record<ItemId, ItemEffects>>)[id] ?? null;
 }

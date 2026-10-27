@@ -66,8 +66,9 @@
     player.section = getRouteData(location).sections[0];
   }
 
-  function onBattleFinish({ result, party }: BattleOutcome) {
+  function onBattleFinish({ result, party, inventory }: BattleOutcome) {
     player.team = party;
+    player.inventory = inventory;
     lastResult = result;
     view = 'main';
   }

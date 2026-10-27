@@ -1,6 +1,6 @@
 <script lang="ts">
   import { onMount } from 'svelte';
-  import { main as doBattle, submitChoice, resetBattleState, battleState } from '#/game/battle/battle.ts';
+  import { main as doBattle, submitChoice, useBagItem, resetBattleState, battleState } from '#/game/battle/battle.ts';
   import { learnMove } from '#/game/battle/experience.ts';
   import type { BattleOutcome } from '#/types/battle/battle-result';
   import { PlayerControl } from '#/types/battle/battle-options';
@@ -11,6 +11,8 @@
   import MoveLearnDialog from '#/components/battle/MoveLearnDialog.svelte';
   import InventoryDialog from '#/components/overworld/InventoryDialog.svelte';
   import type { Inventory } from '#/types/inventory.ts';
+  import type { ItemId } from '#/types/item-id.ts';
+  import type { ItemTarget } from '#/types/item-usage.ts';
 
   type Props = {
     team1: Party;
@@ -40,9 +42,15 @@
     battleState.update(s => ({ ...s, log: s.log + `<div>${message}</div>` }));
   }
 
+  function useItem(id: ItemId, target: ItemTarget) {
+    const result = useBagItem(id, target);
+    if (result.ok) inventoryOpen = false;
+    return result;
+  }
+
   onMount(() => {
     resetBattleState();
-    doBattle({ team1, team2, player1Control, wild }).then(o => (outcome = o));
+    doBattle({ team1, team2, player1Control, wild, inventory }).then(o => (outcome = o));
   });
 </script>
 
@@ -50,7 +58,13 @@
   <BattleLog />
   <div class="sprites"><SpriteRenderer /></div>
   <ButtonPanel onChoice={submitChoice} onUseItem={() => (inventoryOpen = true)} isWildEncounter={wild} />
-  <InventoryDialog bind:open={inventoryOpen} {inventory} />
+  <InventoryDialog
+    bind:open={inventoryOpen}
+    inventory={$battleState.inventory}
+    party={$battleState.party}
+    scene="battle"
+    onUse={useItem}
+  />
   {#if pending}
     {#key pending}
       <MoveLearnDialog pokemon={outcome!.party[pending.index]} move={pending.move} onChoose={resolveMove} />

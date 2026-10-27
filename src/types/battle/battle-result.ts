@@ -1,4 +1,5 @@
 
+import type { Inventory } from '#/types/inventory';
 import type { Party } from '#/types/pokemon';
 
 export type BattleResult = 'p1' | 'p2' | 'tie';
@@ -14,6 +15,8 @@ export type PendingMove = {
 export type BattleOutcome = {
   result: BattleResult;
   party: Party;
+  /** The bag after the battle: items used during it are gone. */
+  inventory: Inventory;
   /** Moves to resolve before leaving the battle, in the order they were offered. */
   pendingMoves: PendingMove[];
 };

@@ -1,33 +1,82 @@
 <script lang="ts">
+  import { getItemEffects, targetKindOf, type TargetKind } from '#/game/item/item-effects.ts';
   import { getItemData } from '#/game/item/item-data.ts';
+  import { partyMaxHp } from '#/game/pokemon-stats.ts';
   import type { Inventory } from '#/types/inventory.ts';
+  import type { ItemId } from '#/types/item-id.ts';
+  import { ItemScene as Scene, type ItemScene, type ItemTarget, type ItemUseFailure } from '#/types/item-usage.ts';
+  import type { Party } from '#/types/pokemon.ts';
   import { getAsset } from '#/utils/get-asset.ts';
 
   type Props = {
     inventory: Inventory;
+    /** Pokémon an item can be used on. */
+    party?: Party;
+    /** Which effects decide whether an item is usable. Without `onUse` items can only be looked at. */
+    scene?: ItemScene;
+    onUse?: (id: ItemId, target: ItemTarget) => { ok: true; messages: string[] } | ItemUseFailure;
     open?: boolean;
   };
 
-  let { inventory, open = $bindable(false) }: Props = $props();
+  let { inventory, party = [], scene = Scene.Overworld, onUse, open = $bindable(false) }: Props = $props();
 
   let dialog = $state<HTMLDialogElement>();
+  // Item waiting for its target, and the Pokémon picked so far when it also needs a move.
+  let picking = $state<{ id: ItemId; name: string; kind: TargetKind } | null>(null);
+  let pickedPokemon = $state<number | null>(null);
+  let message = $state('');
 
   const items = $derived(inventory.map(item => {
     const data = getItemData(item.id);
+    const effect = getItemEffects(item.id)?.[scene];
     return {
       id: item.id,
       amount: item.amount,
       name: data?.name ?? item.id,
       sprite: data?.sprite,
       description: data?.description,
+      targetKind: effect ? targetKindOf(effect) : null,
     };
   }));
+
+  function use(id: ItemId, target: ItemTarget) {
+    const result = onUse?.(id, target);
+    if (!result) return;
+    message = result.ok ? result.messages.join(' ') : (result.message ?? "It won't have any effect.");
+    picking = null;
+    pickedPokemon = null;
+  }
+
+  function select(item: (typeof items)[number]) {
+    if (!onUse || !item.targetKind) return;
+    message = '';
+    if (item.targetKind === 'none') use(item.id, { kind: 'none' });
+    else picking = { id: item.id, name: item.name, kind: item.targetKind };
+  }
+
+  function pickPokemon(index: number) {
+    if (!picking) return;
+    if (picking.kind === 'move') pickedPokemon = index;
+    else use(picking.id, { kind: 'party', index });
+  }
+
+  function cancel() {
+    picking = null;
+    pickedPokemon = null;
+  }
 
   $effect(() => {
     if (!dialog) return;
 
     if (open && !dialog.open) dialog.showModal();
     else if (!open && dialog.open) dialog.close();
+  });
+
+  $effect(() => {
+    if (!open) {
+      cancel();
+      message = '';
+    }
   });
 </script>
 
@@ -38,17 +87,48 @@
 >
   <h2>Inventory</h2>
 
-  {#if items.length}
+  {#if message}<p class="message" role="status">{message}</p>{/if}
+
+  {#if picking}
+    <h3>Use {picking.name} on</h3>
+    <ul class="targets">
+      {#if pickedPokemon === null}
+        {#each party as pokemon, i}
+          <li>
+            <button onclick={() => pickPokemon(i)}>
+              {pokemon.name || pokemon.species} Lv. {pokemon.level} — {pokemon.hp ?? partyMaxHp(pokemon)}/{partyMaxHp(pokemon)} HP{pokemon.status ? ` (${pokemon.status})` : ''}
+            </button>
+          </li>
+        {/each}
+      {:else}
+        {#each party[pickedPokemon].moves as move, m}
+          <li>
+            <button onclick={() => use(picking!.id, { kind: 'party', index: pickedPokemon!, moveIndex: m })}>
+              {move}
+            </button>
+          </li>
+        {/each}
+      {/if}
+    </ul>
+    <button onclick={cancel}>Back</button>
+  {:else if items.length}
     <ul class="inventory-grid">
       {#each items as item (item.id)}
-        <li class="inventory-item" title={item.description || item.name}>
-          <div class="icon">
-            {#if item.sprite}
-              <img src={getAsset(item.sprite)} alt="" />
-            {/if}
-            <span class="amount">×{item.amount}</span>
-          </div>
-          <span class="name">{item.name}</span>
+        <li>
+          <button
+            class="inventory-item"
+            title={item.description || item.name}
+            disabled={!onUse || !item.targetKind}
+            onclick={() => select(item)}
+          >
+            <div class="icon">
+              {#if item.sprite}
+                <img src={getAsset(item.sprite)} alt="" />
+              {/if}
+              <span class="amount">×{item.amount}</span>
+            </div>
+            <span class="name">{item.name}</span>
+          </button>
         </li>
       {/each}
     </ul>
@@ -88,7 +168,25 @@
     list-style: none;
   }
 
+  .inventory-grid li { display: flex; }
+
+  .targets {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    margin: 0 0 1rem;
+    padding: 0;
+    list-style: none;
+    overflow-y: auto;
+  }
+
+  .targets button { width: 100%; text-align: left; }
+
+  .message { margin: 0 0 0.5rem; font-weight: bold; }
+
   .inventory-item {
+    flex: 1;
+    background: none;
     display: flex;
     flex-direction: column;
     align-items: center;
