@@ -1,3 +1,4 @@
+import { toID } from '@pkmn/dex';
 import type { Battle as SimBattle, Pokemon as SimPokemon, Side } from '@pkmn/sim';
 import type { Party, PartyPokemon, Pokemon } from '#/types/pokemon';
 
@@ -63,7 +64,11 @@ export function readPartyState(sent: Party, sim: SimPokemon[]): Party {
       ...before,
       hp: fainted ? 0 : sim.hp,
       status: fainted || !sim.status ? '' : sim.status,
-      pp: before.moves.map((_, k) => sim.baseMoveSlots[k]?.pp ?? 0),
+      // A move learned during the battle isn't in the sim: keep the PP it was given.
+      pp: before.moves.map((move, k) => {
+        const slot = sim.baseMoveSlots[k];
+        return slot && slot.id === toID(move) ? slot.pp : before.pp?.[k] ?? 0;
+      }),
     };
   });
 }

@@ -1,10 +1,9 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { main as doBattle, submitChoice, useBagItem, resetBattleState, battleState } from '#/game/battle/battle.ts';
-  import { learnMove } from '#/game/battle/experience.ts';
   import type { BattleOutcome } from '#/types/battle/battle-result';
   import { PlayerControl } from '#/types/battle/battle-options';
-  import type { Party, Team } from '#/types/pokemon';
+  import type { Party, PartyPokemon, Team } from '#/types/pokemon';
   import SpriteRenderer from '#/components/battle/SpriteRenderer.svelte';
   import ButtonPanel from '#/components/battle/ButtonPanel.svelte';
   import BattleLog from '#/components/battle/BattleLog.svelte';
@@ -27,19 +26,15 @@
   let inventoryOpen = $state(false);
   let outcome = $state<BattleOutcome | null>(null);
 
-  // Moves waiting for the player to decide whether to forget another one.
-  let pending = $derived(outcome?.pendingMoves[0]);
+  // A move waiting for the player to decide whether to forget another one.
+  let learning = $state<{ pokemon: PartyPokemon; move: { name: string; pp: number }; resolve: (forget: number | null) => void } | null>(null);
+
+  const chooseForgetMove = (pokemon: PartyPokemon, move: { name: string; pp: number }) =>
+    new Promise<number | null>(resolve => (learning = { pokemon, move, resolve }));
 
   function resolveMove(forget: number | null) {
-    if (!outcome || !pending) return;
-    const { index, move } = pending;
-    const pokemon = outcome.party[index];
-    const message = forget === null
-      ? `${pokemon.name} did not learn ${move.name}.`
-      : `${pokemon.name} forgot ${pokemon.moves[forget]} and learned ${move.name}!`;
-    if (forget !== null) outcome.party[index] = learnMove(pokemon, move, forget);
-    outcome.pendingMoves = outcome.pendingMoves.slice(1);
-    battleState.update(s => ({ ...s, log: s.log + `<div>${message}</div>` }));
+    learning?.resolve(forget);
+    learning = null;
   }
 
   function useItem(id: ItemId, target: ItemTarget) {
@@ -50,7 +45,7 @@
 
   onMount(() => {
     resetBattleState();
-    doBattle({ team1, team2, player1Control, wild, inventory }).then(o => (outcome = o));
+    doBattle({ team1, team2, player1Control, wild, inventory, chooseForgetMove }).then(o => (outcome = o));
   });
 </script>
 
@@ -65,11 +60,12 @@
     scene="battle"
     onUse={useItem}
   />
-  {#if pending}
-    {#key pending}
-      <MoveLearnDialog pokemon={outcome!.party[pending.index]} move={pending.move} onChoose={resolveMove} />
+  {#if learning}
+    {#key learning}
+      <MoveLearnDialog pokemon={learning.pokemon} move={learning.move} onChoose={resolveMove} />
     {/key}
-  {:else if outcome}
+  {/if}
+  {#if outcome}
     <button class="continue" onclick={() => onFinish(outcome!)}>Continue</button>
   {/if}
 </div>

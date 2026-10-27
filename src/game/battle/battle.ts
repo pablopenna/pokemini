@@ -31,7 +31,7 @@ export function resetBattleState() {
 
 /** Runs a battle: wires the sim to the players and the UI, and settles what it leaves behind. */
 export async function main(options: BattleOptions): Promise<BattleOutcome> {
-    const { team1, team2, player1Control = PlayerControl.UI, wild = false, inventory = [] } = options;
+    const { team1, team2, player1Control = PlayerControl.UI, wild = false, inventory = [], chooseForgetMove = async () => null } = options;
     // Accept everything: wild Pokémon like Pidgey are "Past" in gen 9, which the default filter hides.
     const gens = new Generations(Dex, () => true);
     const clientBattle = new Battle(gens);
@@ -71,6 +71,11 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
                 if (html) appendLog(html);
                 updateSprites(clientBattle);
                 await playEffect(args, setBlink);
+                // The foe is `p2`; whoever stood against it earns experience as soon as it faints.
+                if (args[0] === 'faint' && String(args[1]).startsWith('p2')) {
+                    await awardExperience(sentParty, sentSim, earned, chooseForgetMove);
+                    refreshBag();
+                }
                 if (args[0] === 'tie') return 'tie';
                 if (args[0] === 'win') return args[1] === p1spec.name ? 'p1' : 'p2';
             }
@@ -101,8 +106,7 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
     const result = await Promise.race([battleLoop(), catchEnded]);
     const finalInventory = endBagSession();
     clearChoices();
-    const { party, pending } = await awardExperience(readPartyState(sentParty, sentSim), sentSim, earned, order);
-    const finalParty = restoreOrder(party, order);
+    const finalParty = restoreOrder(readPartyState(sentParty, sentSim), order);
     if (caught) finalParty.push(caught);
-    return { result, party: finalParty, inventory: finalInventory, pendingMoves: pending };
+    return { result, party: finalParty, inventory: finalInventory };
 }
