@@ -2,7 +2,7 @@
   import InventoryDialog from '#/components/overworld/InventoryDialog.svelte';
   import { useOverworldItem } from '#/game/item/overworld-item-use';
   import type { ItemId } from '#/types/item-id';
-  import { ItemScene as Scene, type ItemScene, type ItemTarget } from '#/types/item-usage';
+  import { ItemScene as Scene, type ItemTarget } from '#/types/item-usage';
   import type { Player } from '#/types/player';
 
   type Props = {

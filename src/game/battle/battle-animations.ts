@@ -6,7 +6,7 @@ const SOUND_HEAL = sfx('heal');
 const SOUND_DEBUFF = SOUND_HIT; // swap this line when a dedicated debuff sound exists
 const BLINK_MS = 400; // keep in sync with the blink animation in SpriteRenderer.svelte
 
-const sleep = (ms: number) => new Promise<void>(resolve => setTimeout(resolve, ms));
+export const sleep = (ms: number) => new Promise<void>(resolve => setTimeout(resolve, ms));
 
 /** Resolves when the sound finishes (or immediately if it can't play). */
 function playSound(src: string): Promise<void> {

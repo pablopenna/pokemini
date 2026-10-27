@@ -21,7 +21,9 @@ import { fail } from '#/game/item/item-use';
 import type { Inventory } from '#/types/inventory';
 import type { ItemId } from '#/types/item-id';
 import type { ItemTarget, ItemUseFailure } from '#/types/item-usage';
-import type { Party } from '#/types/pokemon';
+import type { Party, PartyPokemon } from '#/types/pokemon';
+import type { BallState } from '#/game/battle/catch/catch-animation';
+import { throwBall } from '#/game/battle/catch/throw-ball';
 import { getBattlerImplementationFromOption } from '#/game/battle/ai/get-battler-from-option';
 
 // ---- reactive state -------------------------------------------------
@@ -36,6 +38,10 @@ const initialState = () => ({
     moves: [] as { label: string; choice: string; disabled: boolean }[],
     switches: [] as { label: string; choice: string }[],
     log: '',
+    /** The thrown ball, while one is on screen. */
+    ball: null as BallState | null,
+    /** The foe is inside a ball. */
+    foeHidden: false,
     /** The player's party and bag as the battle currently has them. */
     party: [] as Party,
     inventory: [] as Inventory
@@ -65,6 +71,8 @@ type ItemSession = {
     inventory: Inventory;
     /** Lets the next `pass` through for the active Pokémon: using an item takes the turn. */
     passNext: boolean;
+    /** Ends the battle with the foe caught; set while the battle loop runs. */
+    finishCatch: (caught: PartyPokemon) => void;
 };
 let itemSession: ItemSession | null = null;
 
@@ -168,7 +176,11 @@ export function useBagItem(id: ItemId, target: ItemTarget): { ok: true; messages
         wild: s.wild,
     });
     if (!result.ok) return result;
-    // Catching and fleeing have no battle-loop support yet; the sim hasn't been touched for them.
+    // Fleeing has no battle-loop support yet; the sim hasn't been touched for it.
+    if (result.action.kind === 'catch') {
+        useBall(s, id, result.action.rate, result.inventory);
+        return { ok: true, messages: [] };
+    }
     if (result.action.kind !== 'pass') return fail('not-usable-here', "That can't be used yet.");
 
     s.inventory = result.inventory;
@@ -178,6 +190,30 @@ export function useBagItem(id: ItemId, target: ItemTarget): { ok: true; messages
     clearChoices();
     refreshBag();
     return { ok: true, messages: result.messages };
+}
+
+/** Takes the player's turn for a ball: it flies at the foe and either ends the battle or the foe breaks free. */
+function useBall(s: ItemSession, ball: ItemId, rate: number | 'master', inventory: Inventory) {
+    s.inventory = inventory;
+    currentBuilder = null;
+    clearChoices();
+    refreshBag();
+
+    void throwBall({
+        foe: s.sim.sides[1].active[0],
+        ball,
+        rate,
+        stage: {
+            setBall: ball => battleState.update(state => ({ ...state, ball })),
+            setFoeHidden: foeHidden => battleState.update(state => ({ ...state, foeHidden })),
+        },
+        log: message => battleState.update(state => ({ ...state, log: state.log + `<div>${message}</div>` })),
+        onBrokeFree: () => {
+            s.passNext = true;
+            uiPlayer?.submitChoice('pass');
+        },
+        onCaught: s.finishCatch,
+    });
 }
 
 const hpPercent = (p: { hp: number; maxhp: number } | null) =>
@@ -219,6 +255,10 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
     if(player1Control == PlayerControl.UI) uiPlayer = player1 as UIPlayer;
     const player2 = new RandomPlayerAI(streams.p2);
 
+    let caught: PartyPokemon | null = null;
+    let resolveCatch!: (result: BattleResult) => void;
+    const catchEnded = new Promise<BattleResult>(resolve => (resolveCatch = resolve));
+
     const battleLoop = async (): Promise<BattleResult> => {
         for await (const chunk of streams.omniscient) {
             console.log('RAW CHUNK', JSON.stringify(chunk));
@@ -250,7 +290,12 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
     const sim = simStream.battle!;
     const sentSim = [...sim.sides[0].pokemon];
     applyPartyState(sim.sides[0], sentParty);
-    const session: ItemSession = { sim, wild, sentSim, sentParty, order, inventory, passNext: false };
+    const session: ItemSession = { sim, wild, sentSim, sentParty, order, inventory, passNext: false,
+        finishCatch: mon => {
+            caught = mon;
+            resolveCatch('caught');
+        },
+    };
     // `pass` is refused for a Pokémon that can still move; allow it once when an item took the turn.
     const side = sim.sides[0];
     const choosePass = side.choosePass.bind(side);
@@ -264,7 +309,7 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
     refreshBag();
     const earned = trackExperience(sim, foe => getPokemonData(foe.species.id).expYield);
 
-    const result = await battleLoop();
+    const result = await Promise.race([battleLoop(), catchEnded]);
     const party = readPartyState(sentParty, sentSim);
     itemSession = null;
     awaitingAction = false;
@@ -284,5 +329,7 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
         const html = gain.messages.map(m => `<div>${m}</div>`).join('');
         battleState.update(s => ({ ...s, log: s.log + html }));
     }
-    return { result, party: restoreOrder(party, order), inventory: session.inventory, pendingMoves: pending };
+    const finalParty = restoreOrder(party, order);
+    if (caught) finalParty.push(caught);
+    return { result, party: finalParty, inventory: session.inventory, pendingMoves: pending };
 }

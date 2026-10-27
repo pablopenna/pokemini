@@ -84,7 +84,7 @@
     <h1>PokéMini</h1>
     <PlayerInfo bind:player />
     {#if lastResult}
-      <p>Last battle: {lastResult === 'p1' ? 'you won' : lastResult === 'p2' ? 'you lost' : 'tie'}</p>
+      <p>Last battle: {lastResult === 'p1' ? 'you won' : lastResult === 'p2' ? 'you lost' : lastResult === 'caught' ? 'you caught it' : 'tie'}</p>
     {/if}
     <LocationView
       location={player.location}

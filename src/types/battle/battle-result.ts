@@ -2,7 +2,7 @@
 import type { Inventory } from '#/types/inventory';
 import type { Party } from '#/types/pokemon';
 
-export type BattleResult = 'p1' | 'p2' | 'tie';
+export type BattleResult = 'p1' | 'p2' | 'tie' | 'caught';
 
 /** A move a Pokémon could learn but has no room for: the player decides whether it replaces another. */
 export type PendingMove = {
