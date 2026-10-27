@@ -1,4 +1,5 @@
 import type { Battle as SimBattle, Pokemon as SimPokemon } from '@pkmn/sim';
+import { maxHp } from '#/game/pokemon-stats';
 import type { GrowthRate } from '#/types/pokemon-data';
 import type { PartyPokemon } from '#/types/pokemon';
 
@@ -28,9 +29,6 @@ export function expForLevel(rate: GrowthRate, n: number): number {
 /** Experience each participant gets for defeating a wild Pokémon, split among the participants. */
 export const expReward = (baseExp: number, level: number, participants: number) =>
   Math.max(1, Math.floor(baseExp * level / (7 * participants)));
-
-const maxHp = (base: number, iv: number, ev: number, level: number) =>
-  Math.floor((2 * base + iv + Math.floor(ev / 4)) * level / 100) + level + 10;
 
 /**
  * Follows a battle and works out the experience of the player's (side 1) Pokémon.
