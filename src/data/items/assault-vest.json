@@ -1,0 +1,12 @@
+{
+  "id": "assault-vest",
+  "num": 683,
+  "name": "Assault Vest",
+  "url": "https://pokeapi.co/api/v2/item/assault-vest",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Raises the holder’s Special Defense to 1.5×.  Prevents the holder from selecting a status move.",
+  "sprite": "/items/assault-vest.png"
+}

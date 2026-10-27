@@ -1,0 +1,12 @@
+{
+  "id": "mixed-mushrooms",
+  "num": 1150,
+  "name": "Mixed Mushrooms",
+  "url": "https://pokeapi.co/api/v2/item/mixed-mushrooms",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/mixed-mushrooms.png"
+}

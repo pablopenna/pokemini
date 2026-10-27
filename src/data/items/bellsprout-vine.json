@@ -1,0 +1,12 @@
+{
+  "id": "bellsprout-vine",
+  "num": 2124,
+  "name": "Bellsprout Vine",
+  "url": "https://pokeapi.co/api/v2/item/bellsprout-vine",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/bellsprout-vine.png"
+}

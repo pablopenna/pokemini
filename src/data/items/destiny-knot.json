@@ -1,0 +1,15 @@
+{
+  "id": "destiny-knot",
+  "num": 257,
+  "name": "Destiny Knot",
+  "url": "https://pokeapi.co/api/v2/item/destiny-knot",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Infatuates opposing Pokémon when holder is inflicted with infatuation.",
+  "sprite": "/items/destiny-knot.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "shoal-salt",
+  "num": 70,
+  "name": "Shoal Salt",
+  "url": "https://pokeapi.co/api/v2/item/shoal-salt",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable"
+  ],
+  "category": "collectibles",
+  "description": "No effect. Gen III: Trade four and four Shoal Shells for a Shell Bell.",
+  "sprite": "/items/shoal-salt.png"
+}

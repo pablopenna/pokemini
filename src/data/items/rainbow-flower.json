@@ -1,0 +1,12 @@
+{
+  "id": "rainbow-flower",
+  "num": 987,
+  "name": "Rainbow Flower",
+  "url": "https://pokeapi.co/api/v2/item/rainbow-flower",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for rainbow-flower",
+  "sprite": "/items/rainbow-flower.png"
+}

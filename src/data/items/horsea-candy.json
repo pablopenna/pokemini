@@ -1,0 +1,12 @@
+{
+  "id": "horsea-candy",
+  "num": 1112,
+  "name": "Horsea Candy",
+  "url": "https://pokeapi.co/api/v2/item/horsea-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/horsea-candy.png"
+}

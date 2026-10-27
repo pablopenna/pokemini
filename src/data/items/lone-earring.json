@@ -1,0 +1,12 @@
+{
+  "id": "lone-earring",
+  "num": 1027,
+  "name": "Lone Earring",
+  "url": "https://pokeapi.co/api/v2/item/lone-earring",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/lone-earring.png"
+}

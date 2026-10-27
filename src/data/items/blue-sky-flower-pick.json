@@ -1,0 +1,12 @@
+{
+  "id": "blue-sky-flower-pick",
+  "num": 2091,
+  "name": "Blue-Sky Flower Pick",
+  "url": "https://pokeapi.co/api/v2/item/blue-sky-flower-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/blue-sky-flower-pick.png"
+}

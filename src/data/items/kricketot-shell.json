@@ -1,0 +1,12 @@
+{
+  "id": "kricketot-shell",
+  "num": 1824,
+  "name": "Kricketot Shell",
+  "url": "https://pokeapi.co/api/v2/item/kricketot-shell",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/kricketot-shell.png"
+}

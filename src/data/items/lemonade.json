@@ -1,0 +1,18 @@
+{
+  "id": "lemonade",
+  "num": 32,
+  "name": "Lemonade",
+  "url": "https://pokeapi.co/api/v2/item/lemonade",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "healing",
+  "description": "Restores 80 HP.",
+  "sprite": "/items/lemonade.png"
+}

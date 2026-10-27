@@ -1,0 +1,12 @@
+{
+  "id": "chingling-fragment",
+  "num": 2145,
+  "name": "Chingling Fragment",
+  "url": "https://pokeapi.co/api/v2/item/chingling-fragment",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/chingling-fragment.png"
+}

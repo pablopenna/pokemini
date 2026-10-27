@@ -1,0 +1,12 @@
+{
+  "id": "blastoisinite",
+  "num": 700,
+  "name": "Blastoisinite",
+  "url": "https://pokeapi.co/api/v2/item/blastoisinite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Blastoise to Mega Evolve into Mega Blastoise.",
+  "sprite": "/items/blastoisinite.png"
+}

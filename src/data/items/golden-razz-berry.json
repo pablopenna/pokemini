@@ -1,0 +1,12 @@
+{
+  "id": "golden-razz-berry",
+  "num": 1015,
+  "name": "Golden Razz Berry",
+  "url": "https://pokeapi.co/api/v2/item/golden-razz-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "catching-bonus",
+  "description": "",
+  "sprite": "/items/golden-razz-berry.png"
+}

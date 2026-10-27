@@ -1,0 +1,12 @@
+{
+  "id": "tm132",
+  "num": 1975,
+  "name": "TM132",
+  "url": "https://pokeapi.co/api/v2/item/tm132",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tm132.png"
+}

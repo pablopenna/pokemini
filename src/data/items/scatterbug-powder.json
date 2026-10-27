@@ -1,0 +1,12 @@
+{
+  "id": "scatterbug-powder",
+  "num": 1860,
+  "name": "Scatterbug Powder",
+  "url": "https://pokeapi.co/api/v2/item/scatterbug-powder",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/scatterbug-powder.png"
+}

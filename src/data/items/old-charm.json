@@ -1,0 +1,12 @@
+{
+  "id": "old-charm",
+  "num": 416,
+  "name": "Old Charm",
+  "url": "https://pokeapi.co/api/v2/item/old-charm",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Trade to Cynthia’s grandmother in Celestic Town for HM04 (Surf).",
+  "sprite": "/items/old-charm.png"
+}

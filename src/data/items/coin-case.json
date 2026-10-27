@@ -1,0 +1,12 @@
+{
+  "id": "coin-case",
+  "num": 421,
+  "name": "Coin Case",
+  "url": "https://pokeapi.co/api/v2/item/coin-case",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Holds coins for the Game Corner.",
+  "sprite": "/items/coin-case.png"
+}

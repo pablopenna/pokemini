@@ -1,0 +1,12 @@
+{
+  "id": "krabby-candy",
+  "num": 1100,
+  "name": "Krabby Candy",
+  "url": "https://pokeapi.co/api/v2/item/krabby-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/krabby-candy.png"
+}

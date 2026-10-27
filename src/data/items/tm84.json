@@ -1,0 +1,12 @@
+{
+  "id": "tm84",
+  "num": 388,
+  "name": "TM84",
+  "url": "https://pokeapi.co/api/v2/item/tm84",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Poison Jab to a compatible Pokémon.",
+  "sprite": "/items/tm84.png"
+}

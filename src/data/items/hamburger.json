@@ -1,0 +1,12 @@
+{
+  "id": "hamburger",
+  "num": 1740,
+  "name": "Hamburger",
+  "url": "https://pokeapi.co/api/v2/item/hamburger",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/hamburger.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "psychium-z--bag",
+  "num": 948,
+  "name": "Psychium Z",
+  "url": "https://pokeapi.co/api/v2/item/psychium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for psychium-z--bag",
+  "sprite": "/items/psychium-z--bag.png"
+}

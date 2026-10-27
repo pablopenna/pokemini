@@ -1,0 +1,12 @@
+{
+  "id": "tandemaus-fur",
+  "num": 1921,
+  "name": "Tandemaus Fur",
+  "url": "https://pokeapi.co/api/v2/item/tandemaus-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/tandemaus-fur.png"
+}

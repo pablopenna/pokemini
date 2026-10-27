@@ -1,0 +1,18 @@
+{
+  "id": "heal-powder",
+  "num": 36,
+  "name": "Heal Powder",
+  "url": "https://pokeapi.co/api/v2/item/heal-powder",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "status-cures",
+  "description": "Cures any status ailment, but lowers happiness.",
+  "sprite": "/items/heal-powder.png"
+}

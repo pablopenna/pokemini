@@ -1,0 +1,12 @@
+{
+  "id": "marble",
+  "num": 1026,
+  "name": "Marble",
+  "url": "https://pokeapi.co/api/v2/item/marble",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/marble.png"
+}

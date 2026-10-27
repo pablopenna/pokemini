@@ -1,0 +1,12 @@
+{
+  "id": "maranga-berry",
+  "num": 725,
+  "name": "Maranga Berry",
+  "url": "https://pokeapi.co/api/v2/item/maranga-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [],
+  "category": "other",
+  "description": "Held: When the holder is hit by a special move, increases its Special Defense by one stage.",
+  "sprite": "/items/maranga-berry.png"
+}

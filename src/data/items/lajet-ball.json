@@ -1,0 +1,12 @@
+{
+  "id": "lajet-ball",
+  "num": 2228,
+  "name": "Jet Ball",
+  "url": "https://pokeapi.co/api/v2/item/lajet-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "standard-balls",
+  "description": "",
+  "sprite": "/items/lajet-ball.png"
+}

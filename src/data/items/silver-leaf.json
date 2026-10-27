@@ -1,0 +1,12 @@
+{
+  "id": "silver-leaf",
+  "num": 1030,
+  "name": "Silver Leaf",
+  "url": "https://pokeapi.co/api/v2/item/silver-leaf",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/silver-leaf.png"
+}

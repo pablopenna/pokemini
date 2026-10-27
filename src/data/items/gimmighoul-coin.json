@@ -1,0 +1,12 @@
+{
+  "id": "gimmighoul-coin",
+  "num": 1938,
+  "name": "Gimmighoul Coin",
+  "url": "https://pokeapi.co/api/v2/item/gimmighoul-coin",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/gimmighoul-coin.png"
+}

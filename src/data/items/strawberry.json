@@ -1,0 +1,12 @@
+{
+  "id": "strawberry",
+  "num": 1752,
+  "name": "Strawberry",
+  "url": "https://pokeapi.co/api/v2/item/strawberry",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/strawberry.png"
+}

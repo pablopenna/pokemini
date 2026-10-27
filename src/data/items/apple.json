@@ -1,0 +1,12 @@
+{
+  "id": "apple",
+  "num": 1753,
+  "name": "Apple",
+  "url": "https://pokeapi.co/api/v2/item/apple",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/apple.png"
+}

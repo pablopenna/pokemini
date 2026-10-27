@@ -1,0 +1,12 @@
+{
+  "id": "roseli-berry",
+  "num": 723,
+  "name": "Roseli Berry",
+  "url": "https://pokeapi.co/api/v2/item/roseli-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "type-protection",
+  "description": "Held: Consumed when struck by a super-effective Fairy-type attack to halve the damage.",
+  "sprite": "/items/roseli-berry.png"
+}

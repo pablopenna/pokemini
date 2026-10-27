@@ -1,0 +1,12 @@
+{
+  "id": "seel-candy",
+  "num": 1094,
+  "name": "Seel Candy",
+  "url": "https://pokeapi.co/api/v2/item/seel-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/seel-candy.png"
+}

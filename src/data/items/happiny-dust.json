@@ -1,0 +1,12 @@
+{
+  "id": "happiny-dust",
+  "num": 1834,
+  "name": "Happiny Dust",
+  "url": "https://pokeapi.co/api/v2/item/happiny-dust",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/happiny-dust.png"
+}

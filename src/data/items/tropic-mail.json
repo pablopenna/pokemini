@@ -1,0 +1,12 @@
+{
+  "id": "tropic-mail",
+  "num": 523,
+  "name": "Tropic Mail",
+  "url": "https://pokeapi.co/api/v2/item/tropic-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/tropic-mail.png"
+}

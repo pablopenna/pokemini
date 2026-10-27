@@ -1,0 +1,12 @@
+{
+  "id": "tm58",
+  "num": 362,
+  "name": "TM58",
+  "url": "https://pokeapi.co/api/v2/item/tm58",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Sky Drop to a compatible Pokémon. (Gen IV: Endure)",
+  "sprite": "/items/tm58.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hm05",
+  "num": 401,
+  "name": "HM05",
+  "url": "https://pokeapi.co/api/v2/item/hm05",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Waterfall to a compatible Pokémon. (HS: Whirlpool DPP: Defog Gen III & II & I: Flash)",
+  "sprite": "/items/hm05.png"
+}

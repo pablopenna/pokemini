@@ -1,0 +1,12 @@
+{
+  "id": "cufant-tarnish",
+  "num": 1893,
+  "name": "Cufant Tarnish",
+  "url": "https://pokeapi.co/api/v2/item/cufant-tarnish",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/cufant-tarnish.png"
+}

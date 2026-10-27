@@ -1,0 +1,12 @@
+{
+  "id": "mewtwonite-x",
+  "num": 701,
+  "name": "Mewtwonite X",
+  "url": "https://pokeapi.co/api/v2/item/mewtwonite-x",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Mewtwo to Mega Evolve into Mega Mewtwo X.",
+  "sprite": "/items/mewtwonite-x.png"
+}

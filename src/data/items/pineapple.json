@@ -1,0 +1,12 @@
+{
+  "id": "pineapple",
+  "num": 1755,
+  "name": "Pineapple",
+  "url": "https://pokeapi.co/api/v2/item/pineapple",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/pineapple.png"
+}

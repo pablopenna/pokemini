@@ -1,0 +1,17 @@
+{
+  "id": "master-ball",
+  "num": 1,
+  "name": "Master Ball",
+  "url": "https://pokeapi.co/api/v2/item/master-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "standard-balls",
+  "description": "Catches a wild Pokémon every time.",
+  "sprite": "/items/master-ball.png"
+}

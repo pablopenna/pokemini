@@ -1,0 +1,12 @@
+{
+  "id": "pomeg-berry",
+  "num": 146,
+  "name": "Pomeg Berry",
+  "url": "https://pokeapi.co/api/v2/item/pomeg-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "effort-drop",
+  "description": "Drops HP Effort Values by 10 and raises happiness.",
+  "sprite": "/items/pomeg-berry.png"
+}

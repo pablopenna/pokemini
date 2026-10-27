@@ -1,0 +1,12 @@
+{
+  "id": "data-card-20",
+  "num": 505,
+  "name": "Data Card 20",
+  "url": "https://pokeapi.co/api/v2/item/data-card-20",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer has come in last place overall in the Pokéathlon over wireless.",
+  "sprite": "/items/data-card-20.png"
+}

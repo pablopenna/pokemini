@@ -1,0 +1,12 @@
+{
+  "id": "escape-rope",
+  "num": 78,
+  "name": "Escape Rope",
+  "url": "https://pokeapi.co/api/v2/item/escape-rope",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "spelunking",
+  "description": "Transports user to the outside entrance of a cave.",
+  "sprite": "/items/escape-rope.png"
+}

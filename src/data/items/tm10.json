@@ -1,0 +1,12 @@
+{
+  "id": "tm10",
+  "num": 314,
+  "name": "TM10",
+  "url": "https://pokeapi.co/api/v2/item/tm10",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Hidden Power to a compatible Pokémon. (Gen I: Double-Edge)",
+  "sprite": "/items/tm10.png"
+}

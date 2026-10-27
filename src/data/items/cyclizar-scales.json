@@ -1,0 +1,12 @@
+{
+  "id": "cyclizar-scales",
+  "num": 1925,
+  "name": "Cyclizar Scales",
+  "url": "https://pokeapi.co/api/v2/item/cyclizar-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/cyclizar-scales.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "smoliv-oil",
+  "num": 1916,
+  "name": "Smoliv Oil",
+  "url": "https://pokeapi.co/api/v2/item/smoliv-oil",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/smoliv-oil.png"
+}

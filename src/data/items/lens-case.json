@@ -1,0 +1,12 @@
+{
+  "id": "lens-case",
+  "num": 737,
+  "name": "Lens Case",
+  "url": "https://pokeapi.co/api/v2/item/lens-case",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows the player to change their eye color.",
+  "sprite": "/items/lens-case.png"
+}

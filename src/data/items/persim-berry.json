@@ -1,0 +1,14 @@
+{
+  "id": "persim-berry",
+  "num": 133,
+  "name": "Persim Berry",
+  "url": "https://pokeapi.co/api/v2/item/persim-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "medicine",
+  "description": "Held: Consumed when confused to cure confusion.",
+  "sprite": "/items/persim-berry.png"
+}

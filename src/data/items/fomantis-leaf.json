@@ -1,0 +1,12 @@
+{
+  "id": "fomantis-leaf",
+  "num": 1878,
+  "name": "Fomantis Leaf",
+  "url": "https://pokeapi.co/api/v2/item/fomantis-leaf",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/fomantis-leaf.png"
+}

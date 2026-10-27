@@ -1,0 +1,12 @@
+{
+  "id": "seedot-stem",
+  "num": 2138,
+  "name": "Seedot Stem",
+  "url": "https://pokeapi.co/api/v2/item/seedot-stem",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/seedot-stem.png"
+}

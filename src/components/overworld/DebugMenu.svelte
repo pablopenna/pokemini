@@ -1,11 +1,14 @@
 <script lang="ts">
+  import type { Player } from '#/types/player';
   import type { GameFlags } from '#/types/game-flags.ts';
+  import { healParty } from '#/game/battle/party-state';
 
   type Props = {
     gameFlags: GameFlags;
+    player: Player;
   };
 
-  let { gameFlags = $bindable() }: Props = $props();
+  let { gameFlags = $bindable(), player = $bindable() }: Props = $props();
 
   let open = $state(false);
   let dialog: HTMLDialogElement;
@@ -21,6 +24,7 @@
   {#if open}
     <ul>
       <li><button onclick={openFlags}>Set Game Flags</button></li>
+      <li><button onclick={() => (player.team = healParty(player.team))}>Heal team</button></li>
     </ul>
   {/if}
 </div>

@@ -1,0 +1,12 @@
+{
+  "id": "tm31",
+  "num": 335,
+  "name": "TM31",
+  "url": "https://pokeapi.co/api/v2/item/tm31",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Brick Break to a compatible Pokémon. (Gen II: Mud-Slap Gen I: Mimic)",
+  "sprite": "/items/tm31.png"
+}

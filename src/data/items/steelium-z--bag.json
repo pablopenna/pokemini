@@ -1,0 +1,12 @@
+{
+  "id": "steelium-z--bag",
+  "num": 954,
+  "name": "Steelium Z",
+  "url": "https://pokeapi.co/api/v2/item/steelium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for steelium-z--bag",
+  "sprite": "/items/steelium-z--bag.png"
+}

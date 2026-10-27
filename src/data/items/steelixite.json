@@ -1,0 +1,12 @@
+{
+  "id": "steelixite",
+  "num": 802,
+  "name": "Steelixite",
+  "url": "https://pokeapi.co/api/v2/item/steelixite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Steelix to Mega Evolve into Mega Steelix.",
+  "sprite": "/items/steelixite.png"
+}

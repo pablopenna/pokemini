@@ -1,0 +1,12 @@
+{
+  "id": "space-mail",
+  "num": 122,
+  "name": "Space Mail",
+  "url": "https://pokeapi.co/api/v2/item/space-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/space-mail.png"
+}

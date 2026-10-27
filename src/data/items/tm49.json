@@ -1,0 +1,12 @@
+{
+  "id": "tm49",
+  "num": 353,
+  "name": "TM49",
+  "url": "https://pokeapi.co/api/v2/item/tm49",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Echoed Voice to a compatible Pokémon. (Gen IV & III: Snatch Gen II: Fury Cutter Gen I: Tri Attack)",
+  "sprite": "/items/tm49.png"
+}

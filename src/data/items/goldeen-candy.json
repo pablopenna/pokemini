@@ -1,0 +1,12 @@
+{
+  "id": "goldeen-candy",
+  "num": 1113,
+  "name": "Goldeen Candy",
+  "url": "https://pokeapi.co/api/v2/item/goldeen-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/goldeen-candy.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "courage-candy",
+  "num": 1044,
+  "name": "Courage Candy",
+  "url": "https://pokeapi.co/api/v2/item/courage-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/courage-candy.png"
+}

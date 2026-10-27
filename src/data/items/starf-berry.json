@@ -1,0 +1,14 @@
+{
+  "id": "starf-berry",
+  "num": 184,
+  "name": "Starf Berry",
+  "url": "https://pokeapi.co/api/v2/item/starf-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "in-a-pinch",
+  "description": "Held: Consumed at 1/4 max HP to boost a random stat by two stages.",
+  "sprite": "/items/starf-berry.png"
+}

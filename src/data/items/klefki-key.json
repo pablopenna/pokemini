@@ -1,0 +1,12 @@
+{
+  "id": "klefki-key",
+  "num": 1869,
+  "name": "Klefki Key",
+  "url": "https://pokeapi.co/api/v2/item/klefki-key",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/klefki-key.png"
+}

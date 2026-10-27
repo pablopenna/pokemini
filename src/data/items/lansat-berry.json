@@ -1,0 +1,14 @@
+{
+  "id": "lansat-berry",
+  "num": 183,
+  "name": "Lansat Berry",
+  "url": "https://pokeapi.co/api/v2/item/lansat-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "in-a-pinch",
+  "description": "Held: Consumed at 1/4 max HP to boost critical hit ratio by two stages.",
+  "sprite": "/items/lansat-berry.png"
+}

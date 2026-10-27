@@ -1,0 +1,12 @@
+{
+  "id": "mega-ring",
+  "num": 739,
+  "name": "Mega Ring",
+  "url": "https://pokeapi.co/api/v2/item/mega-ring",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows the player’s Pokémon to Mega Evolve.",
+  "sprite": "/items/mega-ring.png"
+}

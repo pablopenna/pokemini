@@ -1,0 +1,12 @@
+{
+  "id": "mystery-egg",
+  "num": 483,
+  "name": "Mystery Egg",
+  "url": "https://pokeapi.co/api/v2/item/mystery-egg",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Deliver to Professor Elm.",
+  "sprite": "/items/mystery-egg.png"
+}

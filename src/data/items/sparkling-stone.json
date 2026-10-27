@@ -1,0 +1,12 @@
+{
+  "id": "sparkling-stone",
+  "num": 882,
+  "name": "Sparkling Stone",
+  "url": "https://pokeapi.co/api/v2/item/sparkling-stone",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Required to obtain a Z-Ring.",
+  "sprite": "/items/sparkling-stone.png"
+}

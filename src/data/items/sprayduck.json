@@ -1,0 +1,12 @@
+{
+  "id": "sprayduck",
+  "num": 425,
+  "name": "Sprayduck",
+  "url": "https://pokeapi.co/api/v2/item/sprayduck",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Used to water berries.",
+  "sprite": "/items/sprayduck.png"
+}

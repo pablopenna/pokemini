@@ -1,0 +1,12 @@
+{
+  "id": "stretchy-spring",
+  "num": 1024,
+  "name": "Stretchy Spring",
+  "url": "https://pokeapi.co/api/v2/item/stretchy-spring",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/stretchy-spring.png"
+}

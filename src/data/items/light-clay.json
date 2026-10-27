@@ -1,0 +1,16 @@
+{
+  "id": "light-clay",
+  "num": 246,
+  "name": "Light Clay",
+  "url": "https://pokeapi.co/api/v2/item/light-clay",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "held-items",
+  "description": "Held: Light Screen and Reflect used by the holder last 8 rounds instead of 5.",
+  "sprite": "/items/light-clay.png"
+}

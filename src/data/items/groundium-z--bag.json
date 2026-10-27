@@ -1,0 +1,12 @@
+{
+  "id": "groundium-z--bag",
+  "num": 946,
+  "name": "Groundium Z",
+  "url": "https://pokeapi.co/api/v2/item/groundium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for groundium-z--bag",
+  "sprite": "/items/groundium-z--bag.png"
+}

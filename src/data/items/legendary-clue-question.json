@@ -1,0 +1,12 @@
+{
+  "id": "legendary-clue-question",
+  "num": 1647,
+  "name": "Legendary Clue?",
+  "url": "https://pokeapi.co/api/v2/item/legendary-clue-question",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/legendary-clue-question.png"
+}

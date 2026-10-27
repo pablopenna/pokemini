@@ -1,0 +1,12 @@
+{
+  "id": "azure-flute",
+  "num": 432,
+  "name": "Azure Flute",
+  "url": "https://pokeapi.co/api/v2/item/azure-flute",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "Allows entry into the Hall of Origin. Unreleased.",
+  "sprite": "/items/azure-flute.png"
+}

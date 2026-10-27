@@ -1,0 +1,15 @@
+{
+  "id": "lagging-tail",
+  "num": 256,
+  "name": "Lagging Tail",
+  "url": "https://pokeapi.co/api/v2/item/lagging-tail",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "bad-held-items",
+  "description": "Held: Holder moves last in its priority bracket.",
+  "sprite": "/items/lagging-tail.png"
+}

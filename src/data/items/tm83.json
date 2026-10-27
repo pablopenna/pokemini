@@ -1,0 +1,12 @@
+{
+  "id": "tm83",
+  "num": 387,
+  "name": "TM83",
+  "url": "https://pokeapi.co/api/v2/item/tm83",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Work Up to a compatible Pokémon. (Gen IV: Natural Gift)",
+  "sprite": "/items/tm83.png"
+}

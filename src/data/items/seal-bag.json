@@ -1,0 +1,12 @@
+{
+  "id": "seal-bag",
+  "num": 413,
+  "name": "Seal Bag",
+  "url": "https://pokeapi.co/api/v2/item/seal-bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Holds ten Seals for Poké Balls.",
+  "sprite": "/items/seal-bag.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "golurkite",
+  "num": 2269,
+  "name": "Golurkite",
+  "url": "https://pokeapi.co/api/v2/item/golurkite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/golurkite.png"
+}

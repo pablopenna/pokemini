@@ -1,0 +1,12 @@
+{
+  "id": "devon-scuba-gear",
+  "num": 779,
+  "name": "Devon Scuba Gear",
+  "url": "https://pokeapi.co/api/v2/item/devon-scuba-gear",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Worn by the player while underwater.",
+  "sprite": "/items/devon-scuba-gear.png"
+}

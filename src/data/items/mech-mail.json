@@ -1,0 +1,12 @@
+{
+  "id": "mech-mail",
+  "num": 518,
+  "name": "Mech Mail",
+  "url": "https://pokeapi.co/api/v2/item/mech-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/mech-mail.png"
+}

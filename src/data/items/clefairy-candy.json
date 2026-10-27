@@ -1,0 +1,12 @@
+{
+  "id": "clefairy-candy",
+  "num": 1071,
+  "name": "Clefairy Candy",
+  "url": "https://pokeapi.co/api/v2/item/clefairy-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/clefairy-candy.png"
+}

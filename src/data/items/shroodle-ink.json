@@ -1,0 +1,12 @@
+{
+  "id": "shroodle-ink",
+  "num": 1934,
+  "name": "Shroodle Ink",
+  "url": "https://pokeapi.co/api/v2/item/shroodle-ink",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/shroodle-ink.png"
+}

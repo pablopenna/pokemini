@@ -1,0 +1,12 @@
+{
+  "id": "lunalium-z--bag",
+  "num": 974,
+  "name": "Lunalium Z",
+  "url": "https://pokeapi.co/api/v2/item/lunalium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for lunalium-z--bag",
+  "sprite": "/items/lunalium-z--bag.png"
+}

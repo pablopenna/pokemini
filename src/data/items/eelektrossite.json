@@ -1,0 +1,12 @@
+{
+  "id": "eelektrossite",
+  "num": 2247,
+  "name": "Eelektrossite",
+  "url": "https://pokeapi.co/api/v2/item/eelektrossite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/eelektrossite.png"
+}

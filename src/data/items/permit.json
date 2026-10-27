@@ -1,0 +1,12 @@
+{
+  "id": "permit",
+  "num": 673,
+  "name": "Permit",
+  "url": "https://pokeapi.co/api/v2/item/permit",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Grants access to the Nature Preserve.",
+  "sprite": "/items/permit.png"
+}

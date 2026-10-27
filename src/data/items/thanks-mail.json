@@ -1,0 +1,12 @@
+{
+  "id": "thanks-mail",
+  "num": 571,
+  "name": "Thanks Mail",
+  "url": "https://pokeapi.co/api/v2/item/thanks-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/thanks-mail.png"
+}

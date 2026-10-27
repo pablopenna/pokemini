@@ -1,0 +1,12 @@
+{
+  "id": "aloraichium-z--held",
+  "num": 844,
+  "name": "Aloraichium Z",
+  "url": "https://pokeapi.co/api/v2/item/aloraichium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows Alola Raichu to upgrade Thunderbolt into Stoked Sparksurfer.",
+  "sprite": "/items/aloraichium-z--held.png"
+}

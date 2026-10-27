@@ -1,0 +1,12 @@
+{
+  "id": "genius-wing",
+  "num": 609,
+  "name": "Genius Feather",
+  "url": "https://pokeapi.co/api/v2/item/genius-wing",
+  "flingPower": 20,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "Increases Special Attack effort by 1.",
+  "sprite": "/items/genius-wing.png"
+}

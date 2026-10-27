@@ -1,0 +1,12 @@
+{
+  "id": "solganium-z--held",
+  "num": 967,
+  "name": "Solganium Z",
+  "url": "https://pokeapi.co/api/v2/item/solganium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for solganium-z--held",
+  "sprite": "/items/solganium-z--held.png"
+}

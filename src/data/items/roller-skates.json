@@ -1,0 +1,12 @@
+{
+  "id": "roller-skates",
+  "num": 742,
+  "name": "Roller Skates",
+  "url": "https://pokeapi.co/api/v2/item/roller-skates",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows the player to move quickly and off the grid.",
+  "sprite": "/items/roller-skates.png"
+}

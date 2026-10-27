@@ -1,0 +1,12 @@
+{
+  "id": "axew-scales",
+  "num": 1852,
+  "name": "Axew Scales",
+  "url": "https://pokeapi.co/api/v2/item/axew-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/axew-scales.png"
+}

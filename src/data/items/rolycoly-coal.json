@@ -1,0 +1,12 @@
+{
+  "id": "rolycoly-coal",
+  "num": 1894,
+  "name": "Rolycoly Coal",
+  "url": "https://pokeapi.co/api/v2/item/rolycoly-coal",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/rolycoly-coal.png"
+}

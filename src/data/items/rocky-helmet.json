@@ -1,0 +1,12 @@
+{
+  "id": "rocky-helmet",
+  "num": 583,
+  "name": "Rocky Helmet",
+  "url": "https://pokeapi.co/api/v2/item/rocky-helmet",
+  "flingPower": 60,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: When the holder is hit by a contact move, the attacking Pokémon takes 1/6 its max HP in damage.",
+  "sprite": "/items/rocky-helmet.png"
+}

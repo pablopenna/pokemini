@@ -1,0 +1,12 @@
+{
+  "id": "sonias-book",
+  "num": 1328,
+  "name": "Sonia’s Book",
+  "url": "https://pokeapi.co/api/v2/item/sonias-book",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/sonias-book.png"
+}

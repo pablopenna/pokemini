@@ -1,0 +1,12 @@
+{
+  "id": "devon-parts",
+  "num": 770,
+  "name": "Devon Parts",
+  "url": "https://pokeapi.co/api/v2/item/devon-parts",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Allows Captain Stern to set out on his expedition.",
+  "sprite": "/items/devon-parts.png"
+}

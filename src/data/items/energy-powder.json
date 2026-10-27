@@ -1,0 +1,18 @@
+{
+  "id": "energy-powder",
+  "num": 34,
+  "name": "Energy Powder",
+  "url": "https://pokeapi.co/api/v2/item/energy-powder",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "healing",
+  "description": "Restores 50 HP, but lowers happiness.",
+  "sprite": "/items/energy-powder.png"
+}

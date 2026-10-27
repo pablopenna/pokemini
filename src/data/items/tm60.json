@@ -1,0 +1,12 @@
+{
+  "id": "tm60",
+  "num": 364,
+  "name": "TM60",
+  "url": "https://pokeapi.co/api/v2/item/tm60",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Quash to a compatible Pokémon. (Gen IV: Drain Punch)",
+  "sprite": "/items/tm60.png"
+}

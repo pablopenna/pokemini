@@ -1,0 +1,12 @@
+{
+  "id": "garchompite",
+  "num": 722,
+  "name": "Garchompite",
+  "url": "https://pokeapi.co/api/v2/item/garchompite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Garchomp to Mega Evolve into Mega Garchomp.",
+  "sprite": "/items/garchompite.png"
+}

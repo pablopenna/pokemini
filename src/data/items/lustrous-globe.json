@@ -1,0 +1,12 @@
+{
+  "id": "lustrous-globe",
+  "num": 1660,
+  "name": "Lustrous Globe",
+  "url": "https://pokeapi.co/api/v2/item/lustrous-globe",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/lustrous-globe.png"
+}

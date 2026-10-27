@@ -1,0 +1,12 @@
+{
+  "id": "unown-report",
+  "num": 471,
+  "name": "Unown Report",
+  "url": "https://pokeapi.co/api/v2/item/unown-report",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Keeps track of Unown types caught.",
+  "sprite": "/items/unown-report.png"
+}

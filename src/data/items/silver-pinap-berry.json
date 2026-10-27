@@ -1,0 +1,12 @@
+{
+  "id": "silver-pinap-berry",
+  "num": 1018,
+  "name": "Silver Pinap Berry",
+  "url": "https://pokeapi.co/api/v2/item/silver-pinap-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "catching-bonus",
+  "description": "",
+  "sprite": "/items/silver-pinap-berry.png"
+}

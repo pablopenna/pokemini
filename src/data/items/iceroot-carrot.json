@@ -1,0 +1,12 @@
+{
+  "id": "iceroot-carrot",
+  "num": 1653,
+  "name": "Iceroot Carrot",
+  "url": "https://pokeapi.co/api/v2/item/iceroot-carrot",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/iceroot-carrot.png"
+}

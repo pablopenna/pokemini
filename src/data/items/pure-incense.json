@@ -1,0 +1,14 @@
+{
+  "id": "pure-incense",
+  "num": 297,
+  "name": "Pure Incense",
+  "url": "https://pokeapi.co/api/v2/item/pure-incense",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable"
+  ],
+  "category": "training",
+  "description": "Prevents wild encounters of level lower than your party’s lead Pokémon. Breeding: Chimecho begets a Chingling Egg.",
+  "sprite": "/items/pure-incense.png"
+}

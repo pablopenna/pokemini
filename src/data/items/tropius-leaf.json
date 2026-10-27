@@ -1,0 +1,12 @@
+{
+  "id": "tropius-leaf",
+  "num": 1819,
+  "name": "Tropius Leaf",
+  "url": "https://pokeapi.co/api/v2/item/tropius-leaf",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/tropius-leaf.png"
+}

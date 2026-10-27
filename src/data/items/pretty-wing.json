@@ -1,0 +1,12 @@
+{
+  "id": "pretty-wing",
+  "num": 612,
+  "name": "Pretty Feather",
+  "url": "https://pokeapi.co/api/v2/item/pretty-wing",
+  "flingPower": 20,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Sell for 100 Pokédollars.",
+  "sprite": "/items/pretty-wing.png"
+}

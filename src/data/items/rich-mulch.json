@@ -1,0 +1,12 @@
+{
+  "id": "rich-mulch",
+  "num": 691,
+  "name": "Rich Mulch",
+  "url": "https://pokeapi.co/api/v2/item/rich-mulch",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mulch",
+  "description": "Increases the total number of Berries by 2.",
+  "sprite": "/items/rich-mulch.png"
+}

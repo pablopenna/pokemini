@@ -1,0 +1,12 @@
+{
+  "id": "profs-letter",
+  "num": 741,
+  "name": "Prof’s Letter",
+  "url": "https://pokeapi.co/api/v2/item/profs-letter",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Traded to the player’s mom for the Town Map and a Potion.",
+  "sprite": "/items/profs-letter.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "phantump-twig",
+  "num": 2153,
+  "name": "Phantump Twig",
+  "url": "https://pokeapi.co/api/v2/item/phantump-twig",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/phantump-twig.png"
+}

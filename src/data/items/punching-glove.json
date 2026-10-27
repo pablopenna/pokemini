@@ -1,0 +1,12 @@
+{
+  "id": "punching-glove",
+  "num": 1700,
+  "name": "Punching Glove",
+  "url": "https://pokeapi.co/api/v2/item/punching-glove",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/punching-glove.png"
+}

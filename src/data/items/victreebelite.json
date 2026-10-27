@@ -1,0 +1,12 @@
+{
+  "id": "victreebelite",
+  "num": 2234,
+  "name": "Victreebelite",
+  "url": "https://pokeapi.co/api/v2/item/victreebelite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/victreebelite.png"
+}

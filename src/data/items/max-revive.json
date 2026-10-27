@@ -1,0 +1,19 @@
+{
+  "id": "max-revive",
+  "num": 29,
+  "name": "Max Revive",
+  "url": "https://pokeapi.co/api/v2/item/max-revive",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable",
+    "underground"
+  ],
+  "category": "revival",
+  "description": "Revives with full HP.",
+  "sprite": "/items/max-revive.png"
+}

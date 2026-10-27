@@ -1,0 +1,12 @@
+{
+  "id": "cubone-candy",
+  "num": 1103,
+  "name": "Cubone Candy",
+  "url": "https://pokeapi.co/api/v2/item/cubone-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/cubone-candy.png"
+}

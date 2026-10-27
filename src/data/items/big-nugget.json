@@ -1,0 +1,12 @@
+{
+  "id": "big-nugget",
+  "num": 622,
+  "name": "Big Nugget",
+  "url": "https://pokeapi.co/api/v2/item/big-nugget",
+  "flingPower": 130,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Sell to Ore Collector for 30000 Pokédollars.",
+  "sprite": "/items/big-nugget.png"
+}

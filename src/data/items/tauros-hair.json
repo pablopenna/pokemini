@@ -1,0 +1,12 @@
+{
+  "id": "tauros-hair",
+  "num": 1776,
+  "name": "Tauros Hair",
+  "url": "https://pokeapi.co/api/v2/item/tauros-hair",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/tauros-hair.png"
+}

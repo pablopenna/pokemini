@@ -1,0 +1,12 @@
+{
+  "id": "surskit-syrup",
+  "num": 1802,
+  "name": "Surskit Syrup",
+  "url": "https://pokeapi.co/api/v2/item/surskit-syrup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/surskit-syrup.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mild-mint",
+  "num": 1298,
+  "name": "Mild Mint",
+  "url": "https://pokeapi.co/api/v2/item/mild-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/mild-mint.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fossilized-bird",
+  "num": 1163,
+  "name": "Fossilized Bird",
+  "url": "https://pokeapi.co/api/v2/item/fossilized-bird",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "dex-completion",
+  "description": "",
+  "sprite": "/items/fossilized-bird.png"
+}

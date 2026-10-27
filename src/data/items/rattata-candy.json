@@ -1,0 +1,12 @@
+{
+  "id": "rattata-candy",
+  "num": 1064,
+  "name": "Rattata Candy",
+  "url": "https://pokeapi.co/api/v2/item/rattata-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/rattata-candy.png"
+}

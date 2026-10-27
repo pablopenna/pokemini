@@ -1,0 +1,12 @@
+{
+  "id": "tm54",
+  "num": 358,
+  "name": "TM54",
+  "url": "https://pokeapi.co/api/v2/item/tm54",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches False Swipe to a compatible Pokémon.",
+  "sprite": "/items/tm54.png"
+}

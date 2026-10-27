@@ -1,0 +1,12 @@
+{
+  "id": "n-lunarizer--merge",
+  "num": 990,
+  "name": "N-Lunarizer",
+  "url": "https://pokeapi.co/api/v2/item/n-lunarizer--merge",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for n-lunarizer--merge",
+  "sprite": "/items/n-lunarizer--merge.png"
+}

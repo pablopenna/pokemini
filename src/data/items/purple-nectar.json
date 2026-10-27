@@ -1,0 +1,12 @@
+{
+  "id": "purple-nectar",
+  "num": 892,
+  "name": "Purple Nectar",
+  "url": "https://pokeapi.co/api/v2/item/purple-nectar",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-specific",
+  "description": "Changes Oricorio to Sensu Style.",
+  "sprite": "/items/purple-nectar.png"
+}

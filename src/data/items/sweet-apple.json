@@ -1,0 +1,12 @@
+{
+  "id": "sweet-apple",
+  "num": 1174,
+  "name": "Sweet Apple",
+  "url": "https://pokeapi.co/api/v2/item/sweet-apple",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/sweet-apple.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sail-fossil",
+  "num": 730,
+  "name": "Sail Fossil",
+  "url": "https://pokeapi.co/api/v2/item/sail-fossil",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "dex-completion",
+  "description": "Can be revived into an Amaura.",
+  "sprite": "/items/sail-fossil.png"
+}

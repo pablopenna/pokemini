@@ -1,0 +1,12 @@
+{
+  "id": "steel-tera-shard",
+  "num": 1694,
+  "name": "Steel Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/steel-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/steel-tera-shard.png"
+}

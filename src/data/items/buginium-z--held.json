@@ -1,0 +1,12 @@
+{
+  "id": "buginium-z--held",
+  "num": 828,
+  "name": "Buginium Z",
+  "url": "https://pokeapi.co/api/v2/item/buginium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Bug moves.",
+  "sprite": "/items/buginium-z--held.png"
+}

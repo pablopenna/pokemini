@@ -1,0 +1,12 @@
+{
+  "id": "poke-toy",
+  "num": 618,
+  "name": "Poké Toy",
+  "url": "https://pokeapi.co/api/v2/item/poke-toy",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "spelunking",
+  "description": "Ends a wild battle.",
+  "sprite": "/items/poke-toy.png"
+}

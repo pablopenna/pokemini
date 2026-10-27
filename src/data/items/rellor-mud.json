@@ -1,0 +1,12 @@
+{
+  "id": "rellor-mud",
+  "num": 1909,
+  "name": "Rellor Mud",
+  "url": "https://pokeapi.co/api/v2/item/rellor-mud",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/rellor-mud.png"
+}

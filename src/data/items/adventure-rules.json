@@ -1,0 +1,12 @@
+{
+  "id": "adventure-rules",
+  "num": 732,
+  "name": "Adventure Guide",
+  "url": "https://pokeapi.co/api/v2/item/adventure-rules",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Contains basic gameplay information.",
+  "sprite": "/items/adventure-rules.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blue-shard",
+  "num": 73,
+  "name": "Blue Shard",
+  "url": "https://pokeapi.co/api/v2/item/blue-shard",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "collectibles",
+  "description": "No effect. Can be traded for items or moves.",
+  "sprite": "/items/blue-shard.png"
+}

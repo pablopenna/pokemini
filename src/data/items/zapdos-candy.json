@@ -1,0 +1,12 @@
+{
+  "id": "zapdos-candy",
+  "num": 1131,
+  "name": "Zapdos Candy",
+  "url": "https://pokeapi.co/api/v2/item/zapdos-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/zapdos-candy.png"
+}

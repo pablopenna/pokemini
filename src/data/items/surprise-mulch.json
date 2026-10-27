@@ -1,0 +1,12 @@
+{
+  "id": "surprise-mulch",
+  "num": 692,
+  "name": "Surprise Mulch",
+  "url": "https://pokeapi.co/api/v2/item/surprise-mulch",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mulch",
+  "description": "Increases the chance of Berry mutation.",
+  "sprite": "/items/surprise-mulch.png"
+}

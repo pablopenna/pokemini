@@ -1,0 +1,12 @@
+{
+  "id": "aloraichium-z--bag",
+  "num": 962,
+  "name": "Aloraichium Z",
+  "url": "https://pokeapi.co/api/v2/item/aloraichium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for aloraichium-z--bag",
+  "sprite": "/items/aloraichium-z--bag.png"
+}

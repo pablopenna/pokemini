@@ -1,0 +1,12 @@
+{
+  "id": "avocado",
+  "num": 1734,
+  "name": "Avocado",
+  "url": "https://pokeapi.co/api/v2/item/avocado",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/avocado.png"
+}

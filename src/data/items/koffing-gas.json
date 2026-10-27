@@ -1,0 +1,12 @@
+{
+  "id": "koffing-gas",
+  "num": 2126,
+  "name": "Koffing Gas",
+  "url": "https://pokeapi.co/api/v2/item/koffing-gas",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/koffing-gas.png"
+}

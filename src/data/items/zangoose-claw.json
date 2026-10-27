@@ -1,0 +1,12 @@
+{
+  "id": "zangoose-claw",
+  "num": 1815,
+  "name": "Zangoose Claw",
+  "url": "https://pokeapi.co/api/v2/item/zangoose-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/zangoose-claw.png"
+}

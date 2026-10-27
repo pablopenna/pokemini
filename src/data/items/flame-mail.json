@@ -1,0 +1,12 @@
+{
+  "id": "flame-mail",
+  "num": 115,
+  "name": "Flame Mail",
+  "url": "https://pokeapi.co/api/v2/item/flame-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/flame-mail.png"
+}

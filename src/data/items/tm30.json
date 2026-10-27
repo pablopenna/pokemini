@@ -1,0 +1,12 @@
+{
+  "id": "tm30",
+  "num": 334,
+  "name": "TM30",
+  "url": "https://pokeapi.co/api/v2/item/tm30",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Shadow Ball to a compatible Pokémon. (Gen I: Teleport)",
+  "sprite": "/items/tm30.png"
+}

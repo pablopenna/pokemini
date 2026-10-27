@@ -1,0 +1,12 @@
+{
+  "id": "tm77",
+  "num": 381,
+  "name": "TM77",
+  "url": "https://pokeapi.co/api/v2/item/tm77",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Psych Up to a compatible Pokémon.",
+  "sprite": "/items/tm77.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "damp-rock",
+  "num": 262,
+  "name": "Damp Rock",
+  "url": "https://pokeapi.co/api/v2/item/damp-rock",
+  "flingPower": 60,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "held-items",
+  "description": "Held: Rain Dance by the holder lasts 8 rounds instead of 5.",
+  "sprite": "/items/damp-rock.png"
+}

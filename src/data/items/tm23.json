@@ -1,0 +1,12 @@
+{
+  "id": "tm23",
+  "num": 327,
+  "name": "TM23",
+  "url": "https://pokeapi.co/api/v2/item/tm23",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Smack Down to a compatible Pokémon. (Gen IV & III & II: Iron Tail Gen I: Dragon Rage)",
+  "sprite": "/items/tm23.png"
+}

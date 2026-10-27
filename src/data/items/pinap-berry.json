@@ -1,0 +1,12 @@
+{
+  "id": "pinap-berry",
+  "num": 145,
+  "name": "Pinap Berry",
+  "url": "https://pokeapi.co/api/v2/item/pinap-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "baking-only",
+  "description": "Used for creating PokéBlocks and Poffins.",
+  "sprite": "/items/pinap-berry.png"
+}

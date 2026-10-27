@@ -1,0 +1,17 @@
+{
+  "id": "red-flute",
+  "num": 67,
+  "name": "Red Flute",
+  "url": "https://pokeapi.co/api/v2/item/red-flute",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "flutes",
+  "description": "Cures attraction.",
+  "sprite": "/items/red-flute.png"
+}

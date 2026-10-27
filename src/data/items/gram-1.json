@@ -1,0 +1,12 @@
+{
+  "id": "gram-1",
+  "num": 664,
+  "name": "Gram 1",
+  "url": "https://pokeapi.co/api/v2/item/gram-1",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Part of a sidequest to obtain TM89.",
+  "sprite": "/items/gram-1.png"
+}

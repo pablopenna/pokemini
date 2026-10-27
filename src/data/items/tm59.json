@@ -1,0 +1,12 @@
+{
+  "id": "tm59",
+  "num": 363,
+  "name": "TM59",
+  "url": "https://pokeapi.co/api/v2/item/tm59",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Incinerate to a compatible Pokémon. (Gen IV: Dragon Pulse)",
+  "sprite": "/items/tm59.png"
+}

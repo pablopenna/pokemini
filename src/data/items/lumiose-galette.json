@@ -1,0 +1,12 @@
+{
+  "id": "lumiose-galette",
+  "num": 728,
+  "name": "Lumiose Galette",
+  "url": "https://pokeapi.co/api/v2/item/lumiose-galette",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "status-cures",
+  "description": "Cures all major status ailments and confusion.",
+  "sprite": "/items/lumiose-galette.png"
+}

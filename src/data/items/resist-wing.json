@@ -1,0 +1,12 @@
+{
+  "id": "resist-wing",
+  "num": 608,
+  "name": "Resist Feather",
+  "url": "https://pokeapi.co/api/v2/item/resist-wing",
+  "flingPower": 20,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "Increases Defense effort by 1.",
+  "sprite": "/items/resist-wing.png"
+}

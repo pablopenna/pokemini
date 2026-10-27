@@ -1,0 +1,14 @@
+{
+  "id": "cleanse-tag",
+  "num": 201,
+  "name": "Cleanse Tag",
+  "url": "https://pokeapi.co/api/v2/item/cleanse-tag",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable"
+  ],
+  "category": "training",
+  "description": "Prevents wild encounters of level lower than your party’s lead Pokémon.",
+  "sprite": "/items/cleanse-tag.png"
+}

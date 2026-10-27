@@ -1,0 +1,12 @@
+{
+  "id": "poison-tera-shard",
+  "num": 1685,
+  "name": "Poison Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/poison-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/poison-tera-shard.png"
+}

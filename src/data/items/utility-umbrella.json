@@ -1,0 +1,12 @@
+{
+  "id": "utility-umbrella",
+  "num": 1181,
+  "name": "Utility Umbrella",
+  "url": "https://pokeapi.co/api/v2/item/utility-umbrella",
+  "flingPower": 60,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/utility-umbrella.png"
+}

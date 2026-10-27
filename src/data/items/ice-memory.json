@@ -1,0 +1,12 @@
+{
+  "id": "ice-memory",
+  "num": 915,
+  "name": "Ice Memory",
+  "url": "https://pokeapi.co/api/v2/item/ice-memory",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "memories",
+  "description": "Held: Changes Silvally to its Ice form.  Changes Multi-Attack’s type to Ice.",
+  "sprite": "/items/ice-memory.png"
+}

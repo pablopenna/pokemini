@@ -1,0 +1,12 @@
+{
+  "id": "orange-dish",
+  "num": 2096,
+  "name": "Orange Dish",
+  "url": "https://pokeapi.co/api/v2/item/orange-dish",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/orange-dish.png"
+}

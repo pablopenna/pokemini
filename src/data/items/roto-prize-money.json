@@ -1,0 +1,12 @@
+{
+  "id": "roto-prize-money",
+  "num": 997,
+  "name": "Roto Prize Money",
+  "url": "https://pokeapi.co/api/v2/item/roto-prize-money",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for roto-prize-money",
+  "sprite": "/items/roto-prize-money.png"
+}

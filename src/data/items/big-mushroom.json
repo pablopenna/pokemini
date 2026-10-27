@@ -1,0 +1,12 @@
+{
+  "id": "big-mushroom",
+  "num": 87,
+  "name": "Big Mushroom",
+  "url": "https://pokeapi.co/api/v2/item/big-mushroom",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Fire Red and Leaf Green: Trade for prior Level-up moves. Sell for 2500 Pokédollars, or to Hungry Maid for 5000 Pokédollars.",
+  "sprite": "/items/big-mushroom.png"
+}

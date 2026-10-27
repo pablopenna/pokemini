@@ -1,0 +1,12 @@
+{
+  "id": "griseous-orb",
+  "num": 442,
+  "name": "Griseous Orb",
+  "url": "https://pokeapi.co/api/v2/item/griseous-orb",
+  "flingPower": 60,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-specific",
+  "description": "Boosts the damage from Giratina’s Dragon-type and Ghost-type moves by 20%, and transforms it into Origin Forme.",
+  "sprite": "/items/griseous-orb.png"
+}

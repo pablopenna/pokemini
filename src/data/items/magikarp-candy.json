@@ -1,0 +1,12 @@
+{
+  "id": "magikarp-candy",
+  "num": 1121,
+  "name": "Magikarp Candy",
+  "url": "https://pokeapi.co/api/v2/item/magikarp-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/magikarp-candy.png"
+}

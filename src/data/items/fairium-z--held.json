@@ -1,0 +1,12 @@
+{
+  "id": "fairium-z--held",
+  "num": 834,
+  "name": "Fairium Z",
+  "url": "https://pokeapi.co/api/v2/item/fairium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Fairy moves.",
+  "sprite": "/items/fairium-z--held.png"
+}

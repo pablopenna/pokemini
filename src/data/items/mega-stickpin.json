@@ -1,0 +1,12 @@
+{
+  "id": "mega-stickpin",
+  "num": 789,
+  "name": "Mega Stickpin",
+  "url": "https://pokeapi.co/api/v2/item/mega-stickpin",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Unused NPC Key Stone.",
+  "sprite": "/items/mega-stickpin.png"
+}

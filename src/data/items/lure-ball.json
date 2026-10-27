@@ -1,0 +1,12 @@
+{
+  "id": "lure-ball",
+  "num": 449,
+  "name": "Lure Ball",
+  "url": "https://pokeapi.co/api/v2/item/lure-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "apricorn-balls",
+  "description": "3× effectiveness while fishing. Made from Blu Apricorn.",
+  "sprite": "/items/lure-ball.png"
+}

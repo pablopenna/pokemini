@@ -1,0 +1,14 @@
+{
+  "id": "leppa-berry",
+  "num": 131,
+  "name": "Leppa Berry",
+  "url": "https://pokeapi.co/api/v2/item/leppa-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "medicine",
+  "description": "Held: Consumed when a move runs out of PP to restore its PP by 10.",
+  "sprite": "/items/leppa-berry.png"
+}

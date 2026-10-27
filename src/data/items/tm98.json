@@ -1,0 +1,12 @@
+{
+  "id": "tm98",
+  "num": 747,
+  "name": "TM98",
+  "url": "https://pokeapi.co/api/v2/item/tm98",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches a Pokémon TM98.",
+  "sprite": "/items/tm98.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "adrenaline-orb",
+  "num": 883,
+  "name": "Adrenaline Orb",
+  "url": "https://pokeapi.co/api/v2/item/adrenaline-orb",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Makes wild Pokémon more likely to summon allies.  Held: increases the holder’s Speed by one stage when affected by Intimidate.",
+  "sprite": "/items/adrenaline-orb.png"
+}

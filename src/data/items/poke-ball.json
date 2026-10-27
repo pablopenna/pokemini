@@ -1,0 +1,17 @@
+{
+  "id": "poke-ball",
+  "num": 4,
+  "name": "Poké Ball",
+  "url": "https://pokeapi.co/api/v2/item/poke-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "standard-balls",
+  "description": "Tries to catch a wild Pokémon.",
+  "sprite": "/items/poke-ball.png"
+}

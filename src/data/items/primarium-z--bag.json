@@ -1,0 +1,12 @@
+{
+  "id": "primarium-z--bag",
+  "num": 959,
+  "name": "Primarium Z",
+  "url": "https://pokeapi.co/api/v2/item/primarium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for primarium-z--bag",
+  "sprite": "/items/primarium-z--bag.png"
+}

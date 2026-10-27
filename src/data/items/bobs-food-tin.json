@@ -1,0 +1,12 @@
+{
+  "id": "bobs-food-tin",
+  "num": 1145,
+  "name": "Bob’s Food Tin",
+  "url": "https://pokeapi.co/api/v2/item/bobs-food-tin",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/bobs-food-tin.png"
+}

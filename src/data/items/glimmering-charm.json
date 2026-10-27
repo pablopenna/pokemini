@@ -1,0 +1,12 @@
+{
+  "id": "glimmering-charm",
+  "num": 2103,
+  "name": "Glimmering Charm",
+  "url": "https://pokeapi.co/api/v2/item/glimmering-charm",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/glimmering-charm.png"
+}

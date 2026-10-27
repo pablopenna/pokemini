@@ -1,0 +1,14 @@
+{
+  "id": "claw-fossil",
+  "num": 100,
+  "name": "Claw Fossil",
+  "url": "https://pokeapi.co/api/v2/item/claw-fossil",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "dex-completion",
+  "description": "Can be revived into an Anorith.",
+  "sprite": "/items/claw-fossil.png"
+}

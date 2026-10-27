@@ -1,0 +1,12 @@
+{
+  "id": "tm56",
+  "num": 360,
+  "name": "TM56",
+  "url": "https://pokeapi.co/api/v2/item/tm56",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Fling to a compatible Pokémon.",
+  "sprite": "/items/tm56.png"
+}

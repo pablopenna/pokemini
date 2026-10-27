@@ -1,0 +1,12 @@
+{
+  "id": "douse-drive",
+  "num": 563,
+  "name": "Douse Drive",
+  "url": "https://pokeapi.co/api/v2/item/douse-drive",
+  "flingPower": 70,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-specific",
+  "description": "Grants Genesect a blue, Water-type Techno Blast.",
+  "sprite": "/items/douse-drive.png"
+}

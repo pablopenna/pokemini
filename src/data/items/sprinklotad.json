@@ -1,0 +1,12 @@
+{
+  "id": "sprinklotad",
+  "num": 743,
+  "name": "Sprinklotad",
+  "url": "https://pokeapi.co/api/v2/item/sprinklotad",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Waters Berry plants.",
+  "sprite": "/items/sprinklotad.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tm43",
+  "num": 347,
+  "name": "TM43",
+  "url": "https://pokeapi.co/api/v2/item/tm43",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Flame Charge to a compatible Pokémon. (Gen IV & III: Secret Power Gen II: Detect Gen I: Sky Attack)",
+  "sprite": "/items/tm43.png"
+}

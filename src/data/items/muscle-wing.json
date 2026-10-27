@@ -1,0 +1,12 @@
+{
+  "id": "muscle-wing",
+  "num": 607,
+  "name": "Muscle Feather",
+  "url": "https://pokeapi.co/api/v2/item/muscle-wing",
+  "flingPower": 20,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "Increases Attack effort by 1.",
+  "sprite": "/items/muscle-wing.png"
+}

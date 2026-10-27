@@ -1,0 +1,15 @@
+{
+  "id": "life-orb",
+  "num": 247,
+  "name": "Life Orb",
+  "url": "https://pokeapi.co/api/v2/item/life-orb",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Holder’s moves inflict 30% extra damage, but cost 10% max HP.",
+  "sprite": "/items/life-orb.png"
+}

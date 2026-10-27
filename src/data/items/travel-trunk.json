@@ -1,0 +1,12 @@
+{
+  "id": "travel-trunk",
+  "num": 764,
+  "name": "Travel Trunk",
+  "url": "https://pokeapi.co/api/v2/item/travel-trunk",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Unobtainable, but allows the player to change clothes anywhere.",
+  "sprite": "/items/travel-trunk.png"
+}

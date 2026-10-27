@@ -1,0 +1,12 @@
+{
+  "id": "grass-gem",
+  "num": 594,
+  "name": "Grass Gem",
+  "url": "https://pokeapi.co/api/v2/item/grass-gem",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "jewels",
+  "description": "Held: When the holder uses a damaging Grass-type move, the move has 1.5× power and this item is consumed.",
+  "sprite": "/items/grass-gem.png"
+}

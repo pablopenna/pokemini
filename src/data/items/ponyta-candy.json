@@ -1,0 +1,12 @@
+{
+  "id": "ponyta-candy",
+  "num": 1089,
+  "name": "Ponyta Candy",
+  "url": "https://pokeapi.co/api/v2/item/ponyta-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/ponyta-candy.png"
+}

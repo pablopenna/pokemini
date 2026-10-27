@@ -1,0 +1,12 @@
+{
+  "id": "veluza-fillet",
+  "num": 1914,
+  "name": "Veluza Fillet",
+  "url": "https://pokeapi.co/api/v2/item/veluza-fillet",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/veluza-fillet.png"
+}

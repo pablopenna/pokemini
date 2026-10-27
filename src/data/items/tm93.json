@@ -1,0 +1,12 @@
+{
+  "id": "tm93",
+  "num": 659,
+  "name": "TM93",
+  "url": "https://pokeapi.co/api/v2/item/tm93",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Wild Charge to a compatible Pokémon.",
+  "sprite": "/items/tm93.png"
+}

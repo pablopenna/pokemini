@@ -1,0 +1,12 @@
+{
+  "id": "prism-scale",
+  "num": 580,
+  "name": "Prism Scale",
+  "url": "https://pokeapi.co/api/v2/item/prism-scale",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Traded on a Feebas: Holder evolves into Milotic.",
+  "sprite": "/items/prism-scale.png"
+}

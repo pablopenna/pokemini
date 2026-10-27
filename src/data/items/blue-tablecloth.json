@@ -1,0 +1,12 @@
+{
+  "id": "blue-tablecloth",
+  "num": 2078,
+  "name": "Blue Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/blue-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/blue-tablecloth.png"
+}

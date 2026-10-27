@@ -1,0 +1,12 @@
+{
+  "id": "torkoal-coal",
+  "num": 1811,
+  "name": "Torkoal Coal",
+  "url": "https://pokeapi.co/api/v2/item/torkoal-coal",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/torkoal-coal.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "professors-mask",
+  "num": 880,
+  "name": "Professor’s Mask",
+  "url": "https://pokeapi.co/api/v2/item/professors-mask",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Lost by Professor Kukui.",
+  "sprite": "/items/professors-mask.png"
+}

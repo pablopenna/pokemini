@@ -1,0 +1,12 @@
+{
+  "id": "pickle",
+  "num": 1728,
+  "name": "Pickle",
+  "url": "https://pokeapi.co/api/v2/item/pickle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/pickle.png"
+}

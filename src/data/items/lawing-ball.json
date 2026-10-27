@@ -1,0 +1,12 @@
+{
+  "id": "lawing-ball",
+  "num": 2227,
+  "name": "Wing Ball",
+  "url": "https://pokeapi.co/api/v2/item/lawing-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "standard-balls",
+  "description": "",
+  "sprite": "/items/lawing-ball.png"
+}

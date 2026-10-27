@@ -1,0 +1,12 @@
+{
+  "id": "igglybuff-fluff",
+  "num": 1782,
+  "name": "Igglybuff Fluff",
+  "url": "https://pokeapi.co/api/v2/item/igglybuff-fluff",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/igglybuff-fluff.png"
+}

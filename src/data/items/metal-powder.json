@@ -1,0 +1,14 @@
+{
+  "id": "metal-powder",
+  "num": 234,
+  "name": "Metal Powder",
+  "url": "https://pokeapi.co/api/v2/item/metal-powder",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable"
+  ],
+  "category": "species-specific",
+  "description": "Raises Ditto’s Defense and Special Defense by 50%. The boost is lost after transforming.",
+  "sprite": "/items/metal-powder.png"
+}

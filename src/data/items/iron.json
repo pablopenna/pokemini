@@ -1,0 +1,18 @@
+{
+  "id": "iron",
+  "num": 47,
+  "name": "Iron",
+  "url": "https://pokeapi.co/api/v2/item/iron",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "vitamins",
+  "description": "Raises Defense effort and happiness.",
+  "sprite": "/items/iron.png"
+}

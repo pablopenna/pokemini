@@ -1,0 +1,12 @@
+{
+  "id": "weakness-policy",
+  "num": 682,
+  "name": "Weakness Policy",
+  "url": "https://pokeapi.co/api/v2/item/weakness-policy",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: When the holder is hit by a super effective move, its Attack and Special Attack raise by two stages.",
+  "sprite": "/items/weakness-policy.png"
+}

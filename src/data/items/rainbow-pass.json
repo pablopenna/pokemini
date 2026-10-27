@@ -1,0 +1,12 @@
+{
+  "id": "rainbow-pass",
+  "num": 554,
+  "name": "Rainbow Pass",
+  "url": "https://pokeapi.co/api/v2/item/rainbow-pass",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Grants access to all of the Sevii Islands.",
+  "sprite": "/items/rainbow-pass.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "member-card",
+  "num": 431,
+  "name": "Member Card",
+  "url": "https://pokeapi.co/api/v2/item/member-card",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "Allows access to Newmoon Island and Darkrai.",
+  "sprite": "/items/member-card.png"
+}

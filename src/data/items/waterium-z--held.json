@@ -1,0 +1,12 @@
+{
+  "id": "waterium-z--held",
+  "num": 819,
+  "name": "Waterium Z",
+  "url": "https://pokeapi.co/api/v2/item/waterium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Water moves.",
+  "sprite": "/items/waterium-z--held.png"
+}

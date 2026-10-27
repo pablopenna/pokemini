@@ -1,0 +1,12 @@
+{
+  "id": "clover-sweet",
+  "num": 1170,
+  "name": "Clover Sweet",
+  "url": "https://pokeapi.co/api/v2/item/clover-sweet",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/clover-sweet.png"
+}

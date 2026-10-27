@@ -1,0 +1,12 @@
+{
+  "id": "stable-mulch",
+  "num": 97,
+  "name": "Stable Mulch",
+  "url": "https://pokeapi.co/api/v2/item/stable-mulch",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mulch",
+  "description": "Berries stay on the plant for longer than their usual time.",
+  "sprite": "/items/stable-mulch.png"
+}

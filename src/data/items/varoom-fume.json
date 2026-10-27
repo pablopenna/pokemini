@@ -1,0 +1,12 @@
+{
+  "id": "varoom-fume",
+  "num": 1919,
+  "name": "Varoom Fume",
+  "url": "https://pokeapi.co/api/v2/item/varoom-fume",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/varoom-fume.png"
+}

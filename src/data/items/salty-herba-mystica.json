@@ -1,0 +1,12 @@
+{
+  "id": "salty-herba-mystica",
+  "num": 1720,
+  "name": "Salty Herba Mystica",
+  "url": "https://pokeapi.co/api/v2/item/salty-herba-mystica",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/salty-herba-mystica.png"
+}

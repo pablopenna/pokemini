@@ -1,0 +1,12 @@
+{
+  "id": "banettite",
+  "num": 707,
+  "name": "Banettite",
+  "url": "https://pokeapi.co/api/v2/item/banettite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Banette to Mega Evolve into Mega Banette.",
+  "sprite": "/items/banettite.png"
+}

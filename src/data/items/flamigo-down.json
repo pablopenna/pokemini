@@ -1,0 +1,12 @@
+{
+  "id": "flamigo-down",
+  "num": 1930,
+  "name": "Flamigo Down",
+  "url": "https://pokeapi.co/api/v2/item/flamigo-down",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/flamigo-down.png"
+}

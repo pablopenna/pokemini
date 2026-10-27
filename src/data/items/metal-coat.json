@@ -1,0 +1,15 @@
+{
+  "id": "metal-coat",
+  "num": 210,
+  "name": "Metal Coat",
+  "url": "https://pokeapi.co/api/v2/item/metal-coat",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Steel-Type moves from holder do 20% more damage.",
+  "sprite": "/items/metal-coat.png"
+}

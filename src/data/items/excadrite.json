@@ -1,0 +1,12 @@
+{
+  "id": "excadrite",
+  "num": 2244,
+  "name": "Excadrite",
+  "url": "https://pokeapi.co/api/v2/item/excadrite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/excadrite.png"
+}

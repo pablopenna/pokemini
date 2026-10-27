@@ -1,0 +1,12 @@
+{
+  "id": "machop-candy",
+  "num": 1085,
+  "name": "Machop Candy",
+  "url": "https://pokeapi.co/api/v2/item/machop-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/machop-candy.png"
+}

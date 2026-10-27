@@ -1,0 +1,12 @@
+{
+  "id": "kommonium-z--held",
+  "num": 972,
+  "name": "Kommonium Z",
+  "url": "https://pokeapi.co/api/v2/item/kommonium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for kommonium-z--held",
+  "sprite": "/items/kommonium-z--held.png"
+}

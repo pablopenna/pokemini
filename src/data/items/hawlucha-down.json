@@ -1,0 +1,12 @@
+{
+  "id": "hawlucha-down",
+  "num": 1866,
+  "name": "Hawlucha Down",
+  "url": "https://pokeapi.co/api/v2/item/hawlucha-down",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/hawlucha-down.png"
+}

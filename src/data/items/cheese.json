@@ -1,0 +1,12 @@
+{
+  "id": "cheese",
+  "num": 1750,
+  "name": "Cheese",
+  "url": "https://pokeapi.co/api/v2/item/cheese",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/cheese.png"
+}

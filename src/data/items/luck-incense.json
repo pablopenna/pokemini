@@ -1,0 +1,15 @@
+{
+  "id": "luck-incense",
+  "num": 296,
+  "name": "Luck Incense",
+  "url": "https://pokeapi.co/api/v2/item/luck-incense",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "training",
+  "description": "Held: Doubles the money earned from a battle. Does not stack with Amulet Coin. Breeding: Chansey and Blissey beget a Happiny Egg.",
+  "sprite": "/items/luck-incense.png"
+}

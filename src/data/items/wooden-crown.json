@@ -1,0 +1,12 @@
+{
+  "id": "wooden-crown",
+  "num": 1649,
+  "name": "Wooden Crown",
+  "url": "https://pokeapi.co/api/v2/item/wooden-crown",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/wooden-crown.png"
+}

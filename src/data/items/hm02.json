@@ -1,0 +1,12 @@
+{
+  "id": "hm02",
+  "num": 398,
+  "name": "HM02",
+  "url": "https://pokeapi.co/api/v2/item/hm02",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Fly to a compatible Pokémon.",
+  "sprite": "/items/hm02.png"
+}

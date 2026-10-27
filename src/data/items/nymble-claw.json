@@ -1,0 +1,12 @@
+{
+  "id": "nymble-claw",
+  "num": 1908,
+  "name": "Nymble Claw",
+  "url": "https://pokeapi.co/api/v2/item/nymble-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/nymble-claw.png"
+}

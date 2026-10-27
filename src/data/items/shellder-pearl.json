@@ -1,0 +1,12 @@
+{
+  "id": "shellder-pearl",
+  "num": 1771,
+  "name": "Shellder Pearl",
+  "url": "https://pokeapi.co/api/v2/item/shellder-pearl",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/shellder-pearl.png"
+}

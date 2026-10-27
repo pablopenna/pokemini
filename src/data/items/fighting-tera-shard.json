@@ -1,0 +1,12 @@
+{
+  "id": "fighting-tera-shard",
+  "num": 1684,
+  "name": "Fighting Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/fighting-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/fighting-tera-shard.png"
+}

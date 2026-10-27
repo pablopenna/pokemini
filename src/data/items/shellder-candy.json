@@ -1,0 +1,12 @@
+{
+  "id": "shellder-candy",
+  "num": 1096,
+  "name": "Shellder Candy",
+  "url": "https://pokeapi.co/api/v2/item/shellder-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/shellder-candy.png"
+}

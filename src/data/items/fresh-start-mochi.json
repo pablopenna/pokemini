@@ -1,0 +1,12 @@
+{
+  "id": "fresh-start-mochi",
+  "num": 2118,
+  "name": "Fresh-Start Mochi",
+  "url": "https://pokeapi.co/api/v2/item/fresh-start-mochi",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/fresh-start-mochi.png"
+}

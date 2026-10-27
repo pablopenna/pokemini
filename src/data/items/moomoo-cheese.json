@@ -1,0 +1,12 @@
+{
+  "id": "moomoo-cheese",
+  "num": 1315,
+  "name": "Moomoo Cheese",
+  "url": "https://pokeapi.co/api/v2/item/moomoo-cheese",
+  "flingPower": 20,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/moomoo-cheese.png"
+}

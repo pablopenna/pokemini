@@ -1,0 +1,12 @@
+{
+  "id": "seviper-fang",
+  "num": 1816,
+  "name": "Seviper Fang",
+  "url": "https://pokeapi.co/api/v2/item/seviper-fang",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/seviper-fang.png"
+}

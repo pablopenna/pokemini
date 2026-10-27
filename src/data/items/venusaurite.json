@@ -1,0 +1,12 @@
+{
+  "id": "venusaurite",
+  "num": 698,
+  "name": "Venusaurite",
+  "url": "https://pokeapi.co/api/v2/item/venusaurite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Venusaur to Mega Evolve into Mega Venusaur.",
+  "sprite": "/items/venusaurite.png"
+}

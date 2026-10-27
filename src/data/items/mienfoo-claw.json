@@ -1,0 +1,12 @@
+{
+  "id": "mienfoo-claw",
+  "num": 2150,
+  "name": "Mienfoo Claw",
+  "url": "https://pokeapi.co/api/v2/item/mienfoo-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/mienfoo-claw.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "nanab-berry",
+  "num": 143,
+  "name": "Nanab Berry",
+  "url": "https://pokeapi.co/api/v2/item/nanab-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "baking-only",
+  "description": "Used for creating PokéBlocks and Poffins.",
+  "sprite": "/items/nanab-berry.png"
+}

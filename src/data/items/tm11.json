@@ -1,0 +1,12 @@
+{
+  "id": "tm11",
+  "num": 315,
+  "name": "TM11",
+  "url": "https://pokeapi.co/api/v2/item/tm11",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Sunny Day to a compatible Pokémon. (Gen I: BubbleBeam)",
+  "sprite": "/items/tm11.png"
+}

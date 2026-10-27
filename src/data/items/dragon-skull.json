@@ -1,0 +1,12 @@
+{
+  "id": "dragon-skull",
+  "num": 620,
+  "name": "Dragon Skull",
+  "url": "https://pokeapi.co/api/v2/item/dragon-skull",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Return to the museum in Nacrene City.",
+  "sprite": "/items/dragon-skull.png"
+}

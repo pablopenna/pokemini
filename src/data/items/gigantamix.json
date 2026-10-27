@@ -1,0 +1,12 @@
+{
+  "id": "gigantamix",
+  "num": 1322,
+  "name": "Gigantamix",
+  "url": "https://pokeapi.co/api/v2/item/gigantamix",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/gigantamix.png"
+}

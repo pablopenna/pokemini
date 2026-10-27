@@ -1,0 +1,14 @@
+{
+  "id": "heart-scale",
+  "num": 93,
+  "name": "Heart Scale",
+  "url": "https://pokeapi.co/api/v2/item/heart-scale",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "collectibles",
+  "description": "No effect. Can be traded for prior Level-up moves.",
+  "sprite": "/items/heart-scale.png"
+}

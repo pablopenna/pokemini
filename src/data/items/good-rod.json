@@ -1,0 +1,12 @@
+{
+  "id": "good-rod",
+  "num": 423,
+  "name": "Good Rod",
+  "url": "https://pokeapi.co/api/v2/item/good-rod",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Used to catch Pokémon in bodies of water.",
+  "sprite": "/items/good-rod.png"
+}

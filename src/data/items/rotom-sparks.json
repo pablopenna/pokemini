@@ -1,0 +1,12 @@
+{
+  "id": "rotom-sparks",
+  "num": 1842,
+  "name": "Rotom Sparks",
+  "url": "https://pokeapi.co/api/v2/item/rotom-sparks",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/rotom-sparks.png"
+}

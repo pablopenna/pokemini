@@ -1,0 +1,12 @@
+{
+  "id": "tapunium-z--held",
+  "num": 842,
+  "name": "Tapunium Z",
+  "url": "https://pokeapi.co/api/v2/item/tapunium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows the Tapus to upgrade Nature’s Madness into Guardian of Alola.",
+  "sprite": "/items/tapunium-z--held.png"
+}

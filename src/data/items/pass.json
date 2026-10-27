@@ -1,0 +1,12 @@
+{
+  "id": "pass",
+  "num": 479,
+  "name": "Pass",
+  "url": "https://pokeapi.co/api/v2/item/pass",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Grants access to ride the Magnet Train between Goldenrod City and Saffron City.",
+  "sprite": "/items/pass.png"
+}

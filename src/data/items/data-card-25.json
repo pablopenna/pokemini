@@ -1,0 +1,12 @@
+{
+  "id": "data-card-25",
+  "num": 510,
+  "name": "Data Card 25",
+  "url": "https://pokeapi.co/api/v2/item/data-card-25",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer’s Pokémon received prizes in the Pokéathlon.",
+  "sprite": "/items/data-card-25.png"
+}

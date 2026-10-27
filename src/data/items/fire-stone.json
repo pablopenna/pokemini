@@ -1,0 +1,14 @@
+{
+  "id": "fire-stone",
+  "num": 82,
+  "name": "Fire Stone",
+  "url": "https://pokeapi.co/api/v2/item/fire-stone",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "evolution",
+  "description": "Evolves an Eevee into Flareon, a Growlithe into Arcanine, a Pansear into Simisear, or a Vulpix into Ninetales.",
+  "sprite": "/items/fire-stone.png"
+}

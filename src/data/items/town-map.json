@@ -1,0 +1,12 @@
+{
+  "id": "town-map",
+  "num": 419,
+  "name": "Town Map",
+  "url": "https://pokeapi.co/api/v2/item/town-map",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Use to see the overworld map.",
+  "sprite": "/items/town-map.png"
+}

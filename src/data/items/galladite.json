@@ -1,0 +1,12 @@
+{
+  "id": "galladite",
+  "num": 797,
+  "name": "Galladite",
+  "url": "https://pokeapi.co/api/v2/item/galladite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Gallade to Mega Evolve into Mega Gallade.",
+  "sprite": "/items/galladite.png"
+}

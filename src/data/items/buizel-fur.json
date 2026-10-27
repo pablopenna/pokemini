@@ -1,0 +1,12 @@
+{
+  "id": "buizel-fur",
+  "num": 1828,
+  "name": "Buizel Fur",
+  "url": "https://pokeapi.co/api/v2/item/buizel-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/buizel-fur.png"
+}

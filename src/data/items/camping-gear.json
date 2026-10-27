@@ -1,0 +1,12 @@
+{
+  "id": "camping-gear",
+  "num": 1160,
+  "name": "Camping Gear",
+  "url": "https://pokeapi.co/api/v2/item/camping-gear",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/camping-gear.png"
+}

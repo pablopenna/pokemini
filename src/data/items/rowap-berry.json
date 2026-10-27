@@ -1,0 +1,14 @@
+{
+  "id": "rowap-berry",
+  "num": 189,
+  "name": "Rowap Berry",
+  "url": "https://pokeapi.co/api/v2/item/rowap-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "other",
+  "description": "Held: Consumed to deal 1/8 attacker’s max HP when holder is struck by a special attack.",
+  "sprite": "/items/rowap-berry.png"
+}

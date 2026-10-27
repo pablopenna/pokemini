@@ -1,0 +1,12 @@
+{
+  "id": "casteliacone",
+  "num": 632,
+  "name": "Casteliacone",
+  "url": "https://pokeapi.co/api/v2/item/casteliacone",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "status-cures",
+  "description": "Cures any status ailment and confusion.",
+  "sprite": "/items/casteliacone.png"
+}

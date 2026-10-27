@@ -1,0 +1,12 @@
+{
+  "id": "crabominite",
+  "num": 2271,
+  "name": "Crabominite",
+  "url": "https://pokeapi.co/api/v2/item/crabominite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/crabominite.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "spoink-pearl",
+  "num": 1812,
+  "name": "Spoink Pearl",
+  "url": "https://pokeapi.co/api/v2/item/spoink-pearl",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/spoink-pearl.png"
+}

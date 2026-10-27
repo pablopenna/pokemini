@@ -1,0 +1,14 @@
+{
+  "id": "blue-scarf",
+  "num": 238,
+  "name": "Blue Scarf",
+  "url": "https://pokeapi.co/api/v2/item/blue-scarf",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "scarves",
+  "description": "Raises the holder’s Beauty while in a contest.",
+  "sprite": "/items/blue-scarf.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "growlithe-fur",
+  "num": 1767,
+  "name": "Growlithe Fur",
+  "url": "https://pokeapi.co/api/v2/item/growlithe-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/growlithe-fur.png"
+}

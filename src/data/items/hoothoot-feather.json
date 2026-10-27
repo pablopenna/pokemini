@@ -1,0 +1,12 @@
+{
+  "id": "hoothoot-feather",
+  "num": 2129,
+  "name": "Hoothoot Feather",
+  "url": "https://pokeapi.co/api/v2/item/hoothoot-feather",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/hoothoot-feather.png"
+}

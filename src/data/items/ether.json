@@ -1,0 +1,18 @@
+{
+  "id": "ether",
+  "num": 38,
+  "name": "Ether",
+  "url": "https://pokeapi.co/api/v2/item/ether",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "pp-recovery",
+  "description": "Restores 10 PP for one move.",
+  "sprite": "/items/ether.png"
+}

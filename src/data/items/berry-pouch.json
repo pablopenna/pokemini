@@ -1,0 +1,12 @@
+{
+  "id": "berry-pouch",
+  "num": 551,
+  "name": "Berry Pouch",
+  "url": "https://pokeapi.co/api/v2/item/berry-pouch",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Holds berries.",
+  "sprite": "/items/berry-pouch.png"
+}

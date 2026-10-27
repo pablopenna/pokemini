@@ -1,0 +1,12 @@
+{
+  "id": "letter",
+  "num": 533,
+  "name": "Letter",
+  "url": "https://pokeapi.co/api/v2/item/letter",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "A letter to Steven from the Devon Corp president.",
+  "sprite": "/items/letter.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tropical-shell",
+  "num": 1032,
+  "name": "Tropical Shell",
+  "url": "https://pokeapi.co/api/v2/item/tropical-shell",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/tropical-shell.png"
+}

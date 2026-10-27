@@ -1,0 +1,15 @@
+{
+  "id": "muscle-band",
+  "num": 243,
+  "name": "Muscle Band",
+  "url": "https://pokeapi.co/api/v2/item/muscle-band",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Boosts the damage of physical moves used by the holder by 10%.",
+  "sprite": "/items/muscle-band.png"
+}

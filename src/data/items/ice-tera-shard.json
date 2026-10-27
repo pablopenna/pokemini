@@ -1,0 +1,12 @@
+{
+  "id": "ice-tera-shard",
+  "num": 1683,
+  "name": "Ice Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/ice-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/ice-tera-shard.png"
+}

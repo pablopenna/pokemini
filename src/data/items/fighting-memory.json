@@ -1,0 +1,12 @@
+{
+  "id": "fighting-memory",
+  "num": 902,
+  "name": "Fighting Memory",
+  "url": "https://pokeapi.co/api/v2/item/fighting-memory",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "memories",
+  "description": "Held: Changes Silvally to its Fighting form.  Changes Multi-Attack’s type to Fighting.",
+  "sprite": "/items/fighting-memory.png"
+}

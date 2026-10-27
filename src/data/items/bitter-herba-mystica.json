@@ -1,0 +1,12 @@
+{
+  "id": "bitter-herba-mystica",
+  "num": 1722,
+  "name": "Bitter Herba Mystica",
+  "url": "https://pokeapi.co/api/v2/item/bitter-herba-mystica",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/bitter-herba-mystica.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "roto-boost",
+  "num": 1004,
+  "name": "Roto Boost",
+  "url": "https://pokeapi.co/api/v2/item/roto-boost",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for roto-boost",
+  "sprite": "/items/roto-boost.png"
+}

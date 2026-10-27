@@ -1,0 +1,12 @@
+{
+  "id": "ditto-candy",
+  "num": 1123,
+  "name": "Ditto Candy",
+  "url": "https://pokeapi.co/api/v2/item/ditto-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/ditto-candy.png"
+}

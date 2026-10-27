@@ -1,0 +1,12 @@
+{
+  "id": "mimikyu-scrap",
+  "num": 1885,
+  "name": "Mimikyu Scrap",
+  "url": "https://pokeapi.co/api/v2/item/mimikyu-scrap",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/mimikyu-scrap.png"
+}

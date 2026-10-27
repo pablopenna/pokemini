@@ -1,0 +1,12 @@
+{
+  "id": "z-power-ring",
+  "num": 979,
+  "name": "Z-Power Ring",
+  "url": "https://pokeapi.co/api/v2/item/z-power-ring",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for z-power-ring",
+  "sprite": "/items/z-power-ring.png"
+}

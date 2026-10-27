@@ -1,0 +1,12 @@
+{
+  "id": "tm82",
+  "num": 386,
+  "name": "TM82",
+  "url": "https://pokeapi.co/api/v2/item/tm82",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Dragon Tail to a compatible Pokémon. (Gen IV: Sleep Talk)",
+  "sprite": "/items/tm82.png"
+}

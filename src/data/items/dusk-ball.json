@@ -1,0 +1,17 @@
+{
+  "id": "dusk-ball",
+  "num": 13,
+  "name": "Dusk Ball",
+  "url": "https://pokeapi.co/api/v2/item/dusk-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "special-balls",
+  "description": "Tries to catch a wild Pokémon.  Success rate is 3.5× at night and in caves.",
+  "sprite": "/items/dusk-ball.png"
+}

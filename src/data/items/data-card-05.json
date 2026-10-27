@@ -1,0 +1,12 @@
+{
+  "id": "data-card-05",
+  "num": 490,
+  "name": "Data Card 05",
+  "url": "https://pokeapi.co/api/v2/item/data-card-05",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer has come in first in the Pokéathlon Hurdle Dash.",
+  "sprite": "/items/data-card-05.png"
+}

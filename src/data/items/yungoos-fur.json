@@ -1,0 +1,12 @@
+{
+  "id": "yungoos-fur",
+  "num": 1872,
+  "name": "Yungoos Fur",
+  "url": "https://pokeapi.co/api/v2/item/yungoos-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/yungoos-fur.png"
+}

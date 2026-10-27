@@ -1,0 +1,12 @@
+{
+  "id": "timburr-sweat",
+  "num": 2146,
+  "name": "Timburr Sweat",
+  "url": "https://pokeapi.co/api/v2/item/timburr-sweat",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/timburr-sweat.png"
+}

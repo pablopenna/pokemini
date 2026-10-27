@@ -1,0 +1,12 @@
+{
+  "id": "tm79",
+  "num": 383,
+  "name": "TM79",
+  "url": "https://pokeapi.co/api/v2/item/tm79",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Frost Breath to a compatible Pokémon. (Gen IV: Dark Pulse)",
+  "sprite": "/items/tm79.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "chewtle-claw",
+  "num": 1887,
+  "name": "Chewtle Claw",
+  "url": "https://pokeapi.co/api/v2/item/chewtle-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/chewtle-claw.png"
+}

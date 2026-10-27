@@ -1,0 +1,12 @@
+{
+  "id": "dratini-scales",
+  "num": 1780,
+  "name": "Dratini Scales",
+  "url": "https://pokeapi.co/api/v2/item/dratini-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/dratini-scales.png"
+}

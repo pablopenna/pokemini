@@ -1,0 +1,12 @@
+{
+  "id": "cracked-pot",
+  "num": 1311,
+  "name": "Cracked Pot",
+  "url": "https://pokeapi.co/api/v2/item/cracked-pot",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/cracked-pot.png"
+}

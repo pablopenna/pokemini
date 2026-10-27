@@ -1,0 +1,12 @@
+{
+  "id": "z-ring",
+  "num": 838,
+  "name": "Z-Ring",
+  "url": "https://pokeapi.co/api/v2/item/z-ring",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows the player’s Pokémon to use Z-moves.",
+  "sprite": "/items/z-ring.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tm89",
+  "num": 393,
+  "name": "TM89",
+  "url": "https://pokeapi.co/api/v2/item/tm89",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches U-turn to a compatible Pokémon.",
+  "sprite": "/items/tm89.png"
+}

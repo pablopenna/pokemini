@@ -1,0 +1,16 @@
+{
+  "id": "smooth-rock",
+  "num": 260,
+  "name": "Smooth Rock",
+  "url": "https://pokeapi.co/api/v2/item/smooth-rock",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "held-items",
+  "description": "Held: Sandstorm by the holder lasts 8 rounds instead of 5.",
+  "sprite": "/items/smooth-rock.png"
+}

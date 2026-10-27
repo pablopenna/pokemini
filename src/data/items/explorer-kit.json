@@ -1,0 +1,12 @@
+{
+  "id": "explorer-kit",
+  "num": 405,
+  "name": "Explorer Kit",
+  "url": "https://pokeapi.co/api/v2/item/explorer-kit",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows visiting the Underground.",
+  "sprite": "/items/explorer-kit.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sour-herba-mystica",
+  "num": 1721,
+  "name": "Sour Herba Mystica",
+  "url": "https://pokeapi.co/api/v2/item/sour-herba-mystica",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/sour-herba-mystica.png"
+}

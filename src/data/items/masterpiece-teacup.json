@@ -1,0 +1,12 @@
+{
+  "id": "masterpiece-teacup",
+  "num": 2111,
+  "name": "Masterpiece Teacup",
+  "url": "https://pokeapi.co/api/v2/item/masterpiece-teacup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/masterpiece-teacup.png"
+}

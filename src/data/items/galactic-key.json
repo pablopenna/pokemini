@@ -1,0 +1,12 @@
+{
+  "id": "galactic-key",
+  "num": 417,
+  "name": "Galactic Key",
+  "url": "https://pokeapi.co/api/v2/item/galactic-key",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Grants access to Galactic HQ in Veilstone City.",
+  "sprite": "/items/galactic-key.png"
+}

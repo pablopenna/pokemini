@@ -1,0 +1,12 @@
+{
+  "id": "yellow-petal",
+  "num": 985,
+  "name": "Yellow Petal",
+  "url": "https://pokeapi.co/api/v2/item/yellow-petal",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for yellow-petal",
+  "sprite": "/items/yellow-petal.png"
+}

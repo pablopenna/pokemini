@@ -1,0 +1,12 @@
+{
+  "id": "gardevoirite",
+  "num": 696,
+  "name": "Gardevoirite",
+  "url": "https://pokeapi.co/api/v2/item/gardevoirite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Gardevoir to Mega Evolve into Mega Gardevoir.",
+  "sprite": "/items/gardevoirite.png"
+}

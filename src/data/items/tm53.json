@@ -1,0 +1,12 @@
+{
+  "id": "tm53",
+  "num": 357,
+  "name": "TM53",
+  "url": "https://pokeapi.co/api/v2/item/tm53",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Energy Ball to a compatible Pokémon.",
+  "sprite": "/items/tm53.png"
+}

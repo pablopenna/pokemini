@@ -1,0 +1,12 @@
+{
+  "id": "dna-splicers--merge",
+  "num": 924,
+  "name": "DNA Splicers",
+  "url": "https://pokeapi.co/api/v2/item/dna-splicers--merge",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for dna-splicers--merge",
+  "sprite": "/items/dna-splicers--merge.png"
+}

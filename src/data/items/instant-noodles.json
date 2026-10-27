@@ -1,0 +1,12 @@
+{
+  "id": "instant-noodles",
+  "num": 1320,
+  "name": "Instant Noodles",
+  "url": "https://pokeapi.co/api/v2/item/instant-noodles",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/instant-noodles.png"
+}

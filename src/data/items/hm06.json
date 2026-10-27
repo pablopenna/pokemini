@@ -1,0 +1,12 @@
+{
+  "id": "hm06",
+  "num": 402,
+  "name": "HM06",
+  "url": "https://pokeapi.co/api/v2/item/hm06",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Dive to a compatible Pokémon. (Gen IV & III: Rock Smash Gen II: Whirlpool)",
+  "sprite": "/items/hm06.png"
+}

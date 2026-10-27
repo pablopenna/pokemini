@@ -1,0 +1,12 @@
+{
+  "id": "tm92",
+  "num": 396,
+  "name": "TM92",
+  "url": "https://pokeapi.co/api/v2/item/tm92",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Trick Room to a compatible Pokémon.",
+  "sprite": "/items/tm92.png"
+}

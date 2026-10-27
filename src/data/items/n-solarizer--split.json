@@ -1,0 +1,12 @@
+{
+  "id": "n-solarizer--split",
+  "num": 991,
+  "name": "N-Solarizer",
+  "url": "https://pokeapi.co/api/v2/item/n-solarizer--split",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for n-solarizer--split",
+  "sprite": "/items/n-solarizer--split.png"
+}

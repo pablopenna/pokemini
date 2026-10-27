@@ -1,0 +1,12 @@
+{
+  "id": "polka-dot-bottle",
+  "num": 2018,
+  "name": "Polka-Dot Bottle",
+  "url": "https://pokeapi.co/api/v2/item/polka-dot-bottle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/polka-dot-bottle.png"
+}

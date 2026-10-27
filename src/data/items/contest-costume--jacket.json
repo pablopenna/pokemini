@@ -1,0 +1,12 @@
+{
+  "id": "contest-costume--jacket",
+  "num": 780,
+  "name": "Contest Costume",
+  "url": "https://pokeapi.co/api/v2/item/contest-costume--jacket",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Worn during Pokémon Contests.",
+  "sprite": "/items/contest-costume--jacket.png"
+}

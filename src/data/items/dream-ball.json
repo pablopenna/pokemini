@@ -1,0 +1,12 @@
+{
+  "id": "dream-ball",
+  "num": 617,
+  "name": "Dream Ball",
+  "url": "https://pokeapi.co/api/v2/item/dream-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "special-balls",
+  "description": "Catches Pokémon found in the Dream World.",
+  "sprite": "/items/dream-ball.png"
+}

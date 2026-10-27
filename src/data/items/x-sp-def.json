@@ -1,0 +1,17 @@
+{
+  "id": "x-sp-def",
+  "num": 62,
+  "name": "X Sp. Def",
+  "url": "https://pokeapi.co/api/v2/item/x-sp-def",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "stat-boosts",
+  "description": "Raises Special Defense by one stage in battle.  Raises happiness.",
+  "sprite": "/items/x-sp-def.png"
+}

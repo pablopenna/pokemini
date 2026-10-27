@@ -1,0 +1,12 @@
+{
+  "id": "sandwich",
+  "num": 1666,
+  "name": "Sandwich",
+  "url": "https://pokeapi.co/api/v2/item/sandwich",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "",
+  "sprite": "/items/sandwich.png"
+}

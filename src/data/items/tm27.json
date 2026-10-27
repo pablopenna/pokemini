@@ -1,0 +1,12 @@
+{
+  "id": "tm27",
+  "num": 331,
+  "name": "TM27",
+  "url": "https://pokeapi.co/api/v2/item/tm27",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Return to a compatible Pokémon. (Gen I: Fissure)",
+  "sprite": "/items/tm27.png"
+}

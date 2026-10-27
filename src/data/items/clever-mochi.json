@@ -1,0 +1,12 @@
+{
+  "id": "clever-mochi",
+  "num": 2116,
+  "name": "Clever Mochi",
+  "url": "https://pokeapi.co/api/v2/item/clever-mochi",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/clever-mochi.png"
+}

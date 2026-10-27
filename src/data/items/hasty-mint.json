@@ -1,0 +1,12 @@
+{
+  "id": "hasty-mint",
+  "num": 1306,
+  "name": "Hasty Mint",
+  "url": "https://pokeapi.co/api/v2/item/hasty-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/hasty-mint.png"
+}

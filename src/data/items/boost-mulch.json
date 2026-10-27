@@ -1,0 +1,12 @@
+{
+  "id": "boost-mulch",
+  "num": 693,
+  "name": "Boost Mulch",
+  "url": "https://pokeapi.co/api/v2/item/boost-mulch",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mulch",
+  "description": "Causes soil to dry out in 4 hours.",
+  "sprite": "/items/boost-mulch.png"
+}

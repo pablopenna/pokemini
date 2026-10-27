@@ -1,0 +1,12 @@
+{
+  "id": "kee-berry",
+  "num": 724,
+  "name": "Kee Berry",
+  "url": "https://pokeapi.co/api/v2/item/kee-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [],
+  "category": "other",
+  "description": "Held: When the holder is hit by a physical move, increases its Defense by one stage.",
+  "sprite": "/items/kee-berry.png"
+}

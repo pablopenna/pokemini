@@ -1,0 +1,16 @@
+{
+  "id": "splash-plate",
+  "num": 276,
+  "name": "Splash Plate",
+  "url": "https://pokeapi.co/api/v2/item/splash-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Water-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Water.",
+  "sprite": "/items/splash-plate.png"
+}

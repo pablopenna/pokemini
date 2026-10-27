@@ -1,0 +1,12 @@
+{
+  "id": "jade-orb",
+  "num": 469,
+  "name": "Jade Orb",
+  "url": "https://pokeapi.co/api/v2/item/jade-orb",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Summons Rayquaza to the Embedded Tower.",
+  "sprite": "/items/jade-orb.png"
+}

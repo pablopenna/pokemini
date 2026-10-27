@@ -1,0 +1,12 @@
+{
+  "id": "tm32",
+  "num": 336,
+  "name": "TM32",
+  "url": "https://pokeapi.co/api/v2/item/tm32",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Double Team to a compatible Pokémon.",
+  "sprite": "/items/tm32.png"
+}

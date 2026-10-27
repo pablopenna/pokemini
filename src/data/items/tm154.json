@@ -1,0 +1,12 @@
+{
+  "id": "tm154",
+  "num": 1997,
+  "name": "TM154",
+  "url": "https://pokeapi.co/api/v2/item/tm154",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tm154.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eevee-fur",
+  "num": 1779,
+  "name": "Eevee Fur",
+  "url": "https://pokeapi.co/api/v2/item/eevee-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/eevee-fur.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "shadow-mail",
+  "num": 522,
+  "name": "Shadow Mail",
+  "url": "https://pokeapi.co/api/v2/item/shadow-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/shadow-mail.png"
+}

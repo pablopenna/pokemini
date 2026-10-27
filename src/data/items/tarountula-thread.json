@@ -1,0 +1,12 @@
+{
+  "id": "tarountula-thread",
+  "num": 1907,
+  "name": "Tarountula Thread",
+  "url": "https://pokeapi.co/api/v2/item/tarountula-thread",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/tarountula-thread.png"
+}

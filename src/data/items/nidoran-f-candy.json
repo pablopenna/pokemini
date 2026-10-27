@@ -1,0 +1,12 @@
+{
+  "id": "nidoran-f-candy",
+  "num": 1069,
+  "name": "Nidoran♀ Candy",
+  "url": "https://pokeapi.co/api/v2/item/nidoran-f-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/nidoran-f-candy.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "flame-orb",
+  "num": 250,
+  "name": "Flame Orb",
+  "url": "https://pokeapi.co/api/v2/item/flame-orb",
+  "flingPower": 30,
+  "flingEffect": "burn",
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "bad-held-items",
+  "description": "Held: Inflicts Burn on the holder at the end of the turn. Activates after Burn damage would occur.",
+  "sprite": "/items/flame-orb.png"
+}

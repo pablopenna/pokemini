@@ -1,0 +1,14 @@
+{
+  "id": "old-amber",
+  "num": 103,
+  "name": "Old Amber",
+  "url": "https://pokeapi.co/api/v2/item/old-amber",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "dex-completion",
+  "description": "Can be revived into an Aerodactyl.",
+  "sprite": "/items/old-amber.png"
+}

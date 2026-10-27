@@ -1,0 +1,12 @@
+{
+  "id": "pink-tablecloth",
+  "num": 2079,
+  "name": "Pink Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/pink-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/pink-tablecloth.png"
+}

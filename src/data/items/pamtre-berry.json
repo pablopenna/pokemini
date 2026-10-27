@@ -1,0 +1,12 @@
+{
+  "id": "pamtre-berry",
+  "num": 157,
+  "name": "Pamtre Berry",
+  "url": "https://pokeapi.co/api/v2/item/pamtre-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "baking-only",
+  "description": "Used for creating PokéBlocks and Poffins.",
+  "sprite": "/items/pamtre-berry.png"
+}

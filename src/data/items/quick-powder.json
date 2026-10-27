@@ -1,0 +1,14 @@
+{
+  "id": "quick-powder",
+  "num": 251,
+  "name": "Quick Powder",
+  "url": "https://pokeapi.co/api/v2/item/quick-powder",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable"
+  ],
+  "category": "species-specific",
+  "description": "Doubles Ditto’s Speed when held. The boost is lost after transforming.",
+  "sprite": "/items/quick-powder.png"
+}

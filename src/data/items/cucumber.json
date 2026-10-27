@@ -1,0 +1,12 @@
+{
+  "id": "cucumber",
+  "num": 1727,
+  "name": "Cucumber",
+  "url": "https://pokeapi.co/api/v2/item/cucumber",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/cucumber.png"
+}

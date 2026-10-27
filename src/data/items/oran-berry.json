@@ -1,0 +1,14 @@
+{
+  "id": "oran-berry",
+  "num": 132,
+  "name": "Oran Berry",
+  "url": "https://pokeapi.co/api/v2/item/oran-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "medicine",
+  "description": "Held: Consumed at 1/2 max HP to recover 10 HP.",
+  "sprite": "/items/oran-berry.png"
+}

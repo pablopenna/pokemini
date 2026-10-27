@@ -1,0 +1,12 @@
+{
+  "id": "passimian-fur",
+  "num": 1882,
+  "name": "Passimian Fur",
+  "url": "https://pokeapi.co/api/v2/item/passimian-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/passimian-fur.png"
+}

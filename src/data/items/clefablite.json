@@ -1,0 +1,12 @@
+{
+  "id": "clefablite",
+  "num": 2233,
+  "name": "Clefablite",
+  "url": "https://pokeapi.co/api/v2/item/clefablite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/clefablite.png"
+}

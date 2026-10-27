@@ -1,0 +1,12 @@
+{
+  "id": "belue-berry",
+  "num": 160,
+  "name": "Belue Berry",
+  "url": "https://pokeapi.co/api/v2/item/belue-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "baking-only",
+  "description": "Used for creating PokéBlocks and Poffins.",
+  "sprite": "/items/belue-berry.png"
+}

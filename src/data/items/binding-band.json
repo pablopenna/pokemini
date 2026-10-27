@@ -1,0 +1,12 @@
+{
+  "id": "binding-band",
+  "num": 587,
+  "name": "Binding Band",
+  "url": "https://pokeapi.co/api/v2/item/binding-band",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: Doubles the per-turn damage of multi-turn trapping moves.",
+  "sprite": "/items/binding-band.png"
+}

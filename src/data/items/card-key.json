@@ -1,0 +1,12 @@
+{
+  "id": "card-key",
+  "num": 475,
+  "name": "Card Key",
+  "url": "https://pokeapi.co/api/v2/item/card-key",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "HS: Opens doors in the Radio Tower. Gen III: Unlocks Silph Co Doors.",
+  "sprite": "/items/card-key.png"
+}

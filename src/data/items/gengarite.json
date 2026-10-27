@@ -1,0 +1,12 @@
+{
+  "id": "gengarite",
+  "num": 695,
+  "name": "Gengarite",
+  "url": "https://pokeapi.co/api/v2/item/gengarite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Gengar to Mega Evolve into Mega Gengar.",
+  "sprite": "/items/gengarite.png"
+}

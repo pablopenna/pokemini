@@ -1,0 +1,12 @@
+{
+  "id": "electric-tera-shard",
+  "num": 1681,
+  "name": "Electric Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/electric-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/electric-tera-shard.png"
+}

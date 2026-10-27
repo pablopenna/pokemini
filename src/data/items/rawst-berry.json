@@ -1,0 +1,14 @@
+{
+  "id": "rawst-berry",
+  "num": 129,
+  "name": "Rawst Berry",
+  "url": "https://pokeapi.co/api/v2/item/rawst-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "medicine",
+  "description": "Held: Consumed when burned to cure a burn.",
+  "sprite": "/items/rawst-berry.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "acro-bike",
+  "num": 528,
+  "name": "Acro Bike",
+  "url": "https://pokeapi.co/api/v2/item/acro-bike",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "More maneuverable than the Mach Bike, and allows hopping along rails.",
+  "sprite": "/items/acro-bike.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "butter",
+  "num": 1707,
+  "name": "Butter",
+  "url": "https://pokeapi.co/api/v2/item/butter",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/butter.png"
+}

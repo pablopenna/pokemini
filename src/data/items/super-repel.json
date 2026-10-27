@@ -1,0 +1,12 @@
+{
+  "id": "super-repel",
+  "num": 76,
+  "name": "Super Repel",
+  "url": "https://pokeapi.co/api/v2/item/super-repel",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "spelunking",
+  "description": "For 200 steps, prevents wild encounters of level lower than your party’s lead Pokémon.",
+  "sprite": "/items/super-repel.png"
+}

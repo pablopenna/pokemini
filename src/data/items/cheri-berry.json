@@ -1,0 +1,14 @@
+{
+  "id": "cheri-berry",
+  "num": 126,
+  "name": "Cheri Berry",
+  "url": "https://pokeapi.co/api/v2/item/cheri-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "medicine",
+  "description": "Held: Consumed when paralyzed to cure paralysis.",
+  "sprite": "/items/cheri-berry.png"
+}

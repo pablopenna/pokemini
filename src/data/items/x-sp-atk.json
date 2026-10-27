@@ -1,0 +1,17 @@
+{
+  "id": "x-sp-atk",
+  "num": 61,
+  "name": "X Sp. Atk",
+  "url": "https://pokeapi.co/api/v2/item/x-sp-atk",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "stat-boosts",
+  "description": "Raises Special Attack by one stage in battle.  Raises happiness.",
+  "sprite": "/items/x-sp-atk.png"
+}

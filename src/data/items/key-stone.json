@@ -1,0 +1,12 @@
+{
+  "id": "key-stone",
+  "num": 814,
+  "name": "Key Stone",
+  "url": "https://pokeapi.co/api/v2/item/key-stone",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows the player’s Pokémon to Mega Evolve.",
+  "sprite": "/items/key-stone.png"
+}

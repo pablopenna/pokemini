@@ -1,0 +1,12 @@
+{
+  "id": "relic-statue",
+  "num": 630,
+  "name": "Relic Statue",
+  "url": "https://pokeapi.co/api/v2/item/relic-statue",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Sell to Villa Owner 200000 Pokédollars.",
+  "sprite": "/items/relic-statue.png"
+}

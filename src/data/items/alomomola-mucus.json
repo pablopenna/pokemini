@@ -1,0 +1,12 @@
+{
+  "id": "alomomola-mucus",
+  "num": 1850,
+  "name": "Alomomola Mucus",
+  "url": "https://pokeapi.co/api/v2/item/alomomola-mucus",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/alomomola-mucus.png"
+}

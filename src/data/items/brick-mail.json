@@ -1,0 +1,12 @@
+{
+  "id": "brick-mail",
+  "num": 125,
+  "name": "Brick Mail",
+  "url": "https://pokeapi.co/api/v2/item/brick-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/brick-mail.png"
+}

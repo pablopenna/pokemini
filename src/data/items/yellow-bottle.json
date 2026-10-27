@@ -1,0 +1,12 @@
+{
+  "id": "yellow-bottle",
+  "num": 2049,
+  "name": "Yellow Bottle",
+  "url": "https://pokeapi.co/api/v2/item/yellow-bottle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/yellow-bottle.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "groundium-z--held",
+  "num": 825,
+  "name": "Groundium Z",
+  "url": "https://pokeapi.co/api/v2/item/groundium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Ground moves.",
+  "sprite": "/items/groundium-z--held.png"
+}

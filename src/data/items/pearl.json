@@ -1,0 +1,12 @@
+{
+  "id": "pearl",
+  "num": 88,
+  "name": "Pearl",
+  "url": "https://pokeapi.co/api/v2/item/pearl",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Sell for 700 Pokédollars, or to Ore Collector for 1400 Pokédollars.",
+  "sprite": "/items/pearl.png"
+}

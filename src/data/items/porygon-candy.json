@@ -1,0 +1,12 @@
+{
+  "id": "porygon-candy",
+  "num": 1125,
+  "name": "Porygon Candy",
+  "url": "https://pokeapi.co/api/v2/item/porygon-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/porygon-candy.png"
+}

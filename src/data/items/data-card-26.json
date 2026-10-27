@@ -1,0 +1,12 @@
+{
+  "id": "data-card-26",
+  "num": 511,
+  "name": "Data Card 26",
+  "url": "https://pokeapi.co/api/v2/item/data-card-26",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer has instructed Pokémon in the Pokéathlon.",
+  "sprite": "/items/data-card-26.png"
+}

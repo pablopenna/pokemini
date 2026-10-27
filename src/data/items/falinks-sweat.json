@@ -1,0 +1,12 @@
+{
+  "id": "falinks-sweat",
+  "num": 1892,
+  "name": "Falinks Sweat",
+  "url": "https://pokeapi.co/api/v2/item/falinks-sweat",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/falinks-sweat.png"
+}

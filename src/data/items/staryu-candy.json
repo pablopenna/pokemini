@@ -1,0 +1,12 @@
+{
+  "id": "staryu-candy",
+  "num": 1114,
+  "name": "Staryu Candy",
+  "url": "https://pokeapi.co/api/v2/item/staryu-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/staryu-candy.png"
+}

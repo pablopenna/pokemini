@@ -1,0 +1,12 @@
+{
+  "id": "bagon-scales",
+  "num": 1822,
+  "name": "Bagon Scales",
+  "url": "https://pokeapi.co/api/v2/item/bagon-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/bagon-scales.png"
+}

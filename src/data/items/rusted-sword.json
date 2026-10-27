@@ -1,0 +1,12 @@
+{
+  "id": "rusted-sword",
+  "num": 1161,
+  "name": "Rusted Sword",
+  "url": "https://pokeapi.co/api/v2/item/rusted-sword",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-specific",
+  "description": "",
+  "sprite": "/items/rusted-sword.png"
+}

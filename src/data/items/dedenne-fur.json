@@ -1,0 +1,12 @@
+{
+  "id": "dedenne-fur",
+  "num": 1867,
+  "name": "Dedenne Fur",
+  "url": "https://pokeapi.co/api/v2/item/dedenne-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/dedenne-fur.png"
+}

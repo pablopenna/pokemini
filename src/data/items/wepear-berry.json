@@ -1,0 +1,12 @@
+{
+  "id": "wepear-berry",
+  "num": 144,
+  "name": "Wepear Berry",
+  "url": "https://pokeapi.co/api/v2/item/wepear-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "baking-only",
+  "description": "Used for creating PokéBlocks and Poffins.",
+  "sprite": "/items/wepear-berry.png"
+}

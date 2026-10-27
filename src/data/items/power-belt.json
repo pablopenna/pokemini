@@ -1,0 +1,15 @@
+{
+  "id": "power-belt",
+  "num": 267,
+  "name": "Power Belt",
+  "url": "https://pokeapi.co/api/v2/item/power-belt",
+  "flingPower": 70,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "effort-training",
+  "description": "Held: Holder gains 4 Defense effort values, but has halved Speed in battle.",
+  "sprite": "/items/power-belt.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pink-petal",
+  "num": 980,
+  "name": "Pink Petal",
+  "url": "https://pokeapi.co/api/v2/item/pink-petal",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for pink-petal",
+  "sprite": "/items/pink-petal.png"
+}

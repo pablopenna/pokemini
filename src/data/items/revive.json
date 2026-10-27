@@ -1,0 +1,19 @@
+{
+  "id": "revive",
+  "num": 28,
+  "name": "Revive",
+  "url": "https://pokeapi.co/api/v2/item/revive",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable",
+    "underground"
+  ],
+  "category": "revival",
+  "description": "Revives with half HP.",
+  "sprite": "/items/revive.png"
+}

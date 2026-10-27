@@ -1,0 +1,12 @@
+{
+  "id": "dratini-candy",
+  "num": 1133,
+  "name": "Dratini Candy",
+  "url": "https://pokeapi.co/api/v2/item/dratini-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/dratini-candy.png"
+}

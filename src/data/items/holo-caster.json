@@ -1,0 +1,12 @@
+{
+  "id": "holo-caster",
+  "num": 734,
+  "name": "Holo Caster",
+  "url": "https://pokeapi.co/api/v2/item/holo-caster",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Displays cutscene conversations as the plot advances.",
+  "sprite": "/items/holo-caster.png"
+}

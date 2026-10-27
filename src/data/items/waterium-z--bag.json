@@ -1,0 +1,12 @@
+{
+  "id": "waterium-z--bag",
+  "num": 940,
+  "name": "Waterium Z",
+  "url": "https://pokeapi.co/api/v2/item/waterium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for waterium-z--bag",
+  "sprite": "/items/waterium-z--bag.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "root-fossil",
+  "num": 99,
+  "name": "Root Fossil",
+  "url": "https://pokeapi.co/api/v2/item/root-fossil",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "dex-completion",
+  "description": "Can be revived into a Lileep.",
+  "sprite": "/items/root-fossil.png"
+}

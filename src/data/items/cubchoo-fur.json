@@ -1,0 +1,12 @@
+{
+  "id": "cubchoo-fur",
+  "num": 1853,
+  "name": "Cubchoo Fur",
+  "url": "https://pokeapi.co/api/v2/item/cubchoo-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/cubchoo-fur.png"
+}

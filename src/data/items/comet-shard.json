@@ -1,0 +1,12 @@
+{
+  "id": "comet-shard",
+  "num": 624,
+  "name": "Comet Shard",
+  "url": "https://pokeapi.co/api/v2/item/comet-shard",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Sell to Ore Collector for 60000 Pokédollars.",
+  "sprite": "/items/comet-shard.png"
+}

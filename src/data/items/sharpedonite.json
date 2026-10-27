@@ -1,0 +1,12 @@
+{
+  "id": "sharpedonite",
+  "num": 800,
+  "name": "Sharpedonite",
+  "url": "https://pokeapi.co/api/v2/item/sharpedonite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Sharpedo to Mega Evolve into Mega Sharpedo.",
+  "sprite": "/items/sharpedonite.png"
+}

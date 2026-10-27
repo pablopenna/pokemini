@@ -1,0 +1,12 @@
+{
+  "id": "data-card-13",
+  "num": 498,
+  "name": "Data Card 13",
+  "url": "https://pokeapi.co/api/v2/item/data-card-13",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer’s Pokémon have defeated themselves in the Pokéathlon.",
+  "sprite": "/items/data-card-13.png"
+}

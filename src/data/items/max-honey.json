@@ -1,0 +1,12 @@
+{
+  "id": "max-honey",
+  "num": 1630,
+  "name": "Max Honey",
+  "url": "https://pokeapi.co/api/v2/item/max-honey",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "revival",
+  "description": "",
+  "sprite": "/items/max-honey.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "swift-mochi",
+  "num": 2117,
+  "name": "Swift Mochi",
+  "url": "https://pokeapi.co/api/v2/item/swift-mochi",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/swift-mochi.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tough-candy",
+  "num": 1042,
+  "name": "Tough Candy",
+  "url": "https://pokeapi.co/api/v2/item/tough-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/tough-candy.png"
+}

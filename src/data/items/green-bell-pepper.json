@@ -1,0 +1,12 @@
+{
+  "id": "green-bell-pepper",
+  "num": 1731,
+  "name": "Green Bell Pepper",
+  "url": "https://pokeapi.co/api/v2/item/green-bell-pepper",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/green-bell-pepper.png"
+}

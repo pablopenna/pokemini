@@ -1,0 +1,12 @@
+{
+  "id": "pepper",
+  "num": 1711,
+  "name": "Pepper",
+  "url": "https://pokeapi.co/api/v2/item/pepper",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/pepper.png"
+}

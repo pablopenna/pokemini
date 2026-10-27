@@ -1,0 +1,17 @@
+{
+  "id": "guard-spec",
+  "num": 55,
+  "name": "Guard Spec.",
+  "url": "https://pokeapi.co/api/v2/item/guard-spec",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "stat-boosts",
+  "description": "Prevents stat changes in battle for five turns in battle.  Raises happiness.",
+  "sprite": "/items/guard-spec.png"
+}

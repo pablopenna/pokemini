@@ -1,0 +1,12 @@
+{
+  "id": "wellspring-mask",
+  "num": 2106,
+  "name": "Wellspring Mask",
+  "url": "https://pokeapi.co/api/v2/item/wellspring-mask",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/wellspring-mask.png"
+}

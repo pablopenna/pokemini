@@ -1,0 +1,16 @@
+{
+  "id": "heat-rock",
+  "num": 261,
+  "name": "Heat Rock",
+  "url": "https://pokeapi.co/api/v2/item/heat-rock",
+  "flingPower": 60,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "held-items",
+  "description": "Held: Sunny Day by the holder lasts 8 rounds instead of 5.",
+  "sprite": "/items/heat-rock.png"
+}

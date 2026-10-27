@@ -1,0 +1,12 @@
+{
+  "id": "chill-drive",
+  "num": 566,
+  "name": "Chill Drive",
+  "url": "https://pokeapi.co/api/v2/item/chill-drive",
+  "flingPower": 70,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-specific",
+  "description": "Grants Genesect a white, Ice-type Techno Blast.",
+  "sprite": "/items/chill-drive.png"
+}

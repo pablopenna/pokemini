@@ -1,0 +1,12 @@
+{
+  "id": "tm68",
+  "num": 372,
+  "name": "TM68",
+  "url": "https://pokeapi.co/api/v2/item/tm68",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Giga Impact to a compatible Pokémon.",
+  "sprite": "/items/tm68.png"
+}

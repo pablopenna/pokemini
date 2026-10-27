@@ -1,0 +1,12 @@
+{
+  "id": "yellow-cup",
+  "num": 2059,
+  "name": "Yellow Cup",
+  "url": "https://pokeapi.co/api/v2/item/yellow-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/yellow-cup.png"
+}

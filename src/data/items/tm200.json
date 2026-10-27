@@ -1,0 +1,12 @@
+{
+  "id": "tm200",
+  "num": 2189,
+  "name": "TM200",
+  "url": "https://pokeapi.co/api/v2/item/tm200",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tm200.png"
+}

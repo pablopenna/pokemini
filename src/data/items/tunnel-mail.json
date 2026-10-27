@@ -1,0 +1,12 @@
+{
+  "id": "tunnel-mail",
+  "num": 118,
+  "name": "Tunnel Mail",
+  "url": "https://pokeapi.co/api/v2/item/tunnel-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/tunnel-mail.png"
+}

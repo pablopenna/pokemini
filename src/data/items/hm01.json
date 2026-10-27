@@ -1,0 +1,12 @@
+{
+  "id": "hm01",
+  "num": 397,
+  "name": "HM01",
+  "url": "https://pokeapi.co/api/v2/item/hm01",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Cut to a compatible Pokémon.",
+  "sprite": "/items/hm01.png"
+}

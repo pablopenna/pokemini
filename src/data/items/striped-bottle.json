@@ -1,0 +1,12 @@
+{
+  "id": "striped-bottle",
+  "num": 2019,
+  "name": "Striped Bottle",
+  "url": "https://pokeapi.co/api/v2/item/striped-bottle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/striped-bottle.png"
+}

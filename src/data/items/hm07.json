@@ -1,0 +1,12 @@
+{
+  "id": "hm07",
+  "num": 403,
+  "name": "HM07",
+  "url": "https://pokeapi.co/api/v2/item/hm07",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches a move to a compatible Pokémon. (Gen IV & III & II: Waterfall)",
+  "sprite": "/items/hm07.png"
+}

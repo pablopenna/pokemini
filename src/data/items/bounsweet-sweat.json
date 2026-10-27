@@ -1,0 +1,12 @@
+{
+  "id": "bounsweet-sweat",
+  "num": 1880,
+  "name": "Bounsweet Sweat",
+  "url": "https://pokeapi.co/api/v2/item/bounsweet-sweat",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/bounsweet-sweat.png"
+}

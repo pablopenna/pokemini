@@ -1,0 +1,12 @@
+{
+  "id": "alakazite",
+  "num": 718,
+  "name": "Alakazite",
+  "url": "https://pokeapi.co/api/v2/item/alakazite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Alakazam to Mega Evolve into Mega Alakazam.",
+  "sprite": "/items/alakazite.png"
+}

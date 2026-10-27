@@ -1,0 +1,12 @@
+{
+  "id": "ultranecrozium-z--held",
+  "num": 969,
+  "name": "Ultranecrozium Z",
+  "url": "https://pokeapi.co/api/v2/item/ultranecrozium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for ultranecrozium-z--held",
+  "sprite": "/items/ultranecrozium-z--held.png"
+}

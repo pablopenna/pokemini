@@ -1,0 +1,12 @@
+{
+  "id": "gible-scales",
+  "num": 1836,
+  "name": "Gible Scales",
+  "url": "https://pokeapi.co/api/v2/item/gible-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/gible-scales.png"
+}

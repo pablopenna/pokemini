@@ -1,0 +1,12 @@
+{
+  "id": "data-card-16",
+  "num": 501,
+  "name": "Data Card 16",
+  "url": "https://pokeapi.co/api/v2/item/data-card-16",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer has come in first in the Pokéathlon Ring Drop.",
+  "sprite": "/items/data-card-16.png"
+}

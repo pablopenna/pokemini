@@ -1,0 +1,12 @@
+{
+  "id": "tm88",
+  "num": 392,
+  "name": "TM88",
+  "url": "https://pokeapi.co/api/v2/item/tm88",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Pluck to a compatible Pokémon.",
+  "sprite": "/items/tm88.png"
+}

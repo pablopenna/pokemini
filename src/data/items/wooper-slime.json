@@ -1,0 +1,12 @@
+{
+  "id": "wooper-slime",
+  "num": 1942,
+  "name": "Wooper Slime",
+  "url": "https://pokeapi.co/api/v2/item/wooper-slime",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/wooper-slime.png"
+}

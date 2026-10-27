@@ -1,0 +1,12 @@
+{
+  "id": "spooky-tablecloth",
+  "num": 2030,
+  "name": "Spooky Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/spooky-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/spooky-tablecloth.png"
+}

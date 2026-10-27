@@ -1,0 +1,12 @@
+{
+  "id": "wasabi",
+  "num": 1759,
+  "name": "Wasabi",
+  "url": "https://pokeapi.co/api/v2/item/wasabi",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/wasabi.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fame-checker",
+  "num": 549,
+  "name": "Fame Checker",
+  "url": "https://pokeapi.co/api/v2/item/fame-checker",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Records information about NPCs.",
+  "sprite": "/items/fame-checker.png"
+}

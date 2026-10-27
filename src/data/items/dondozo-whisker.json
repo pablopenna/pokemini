@@ -1,0 +1,12 @@
+{
+  "id": "dondozo-whisker",
+  "num": 1913,
+  "name": "Dondozo Whisker",
+  "url": "https://pokeapi.co/api/v2/item/dondozo-whisker",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/dondozo-whisker.png"
+}

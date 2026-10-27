@@ -1,0 +1,18 @@
+{
+  "id": "zinc",
+  "num": 52,
+  "name": "Zinc",
+  "url": "https://pokeapi.co/api/v2/item/zinc",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "vitamins",
+  "description": "Raises Special Defense and happiness.",
+  "sprite": "/items/zinc.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "petilil-leaf",
+  "num": 1843,
+  "name": "Petilil Leaf",
+  "url": "https://pokeapi.co/api/v2/item/petilil-leaf",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/petilil-leaf.png"
+}

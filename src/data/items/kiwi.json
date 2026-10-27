@@ -1,0 +1,12 @@
+{
+  "id": "kiwi",
+  "num": 1754,
+  "name": "Kiwi",
+  "url": "https://pokeapi.co/api/v2/item/kiwi",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/kiwi.png"
+}

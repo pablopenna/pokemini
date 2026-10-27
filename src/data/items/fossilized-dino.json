@@ -1,0 +1,12 @@
+{
+  "id": "fossilized-dino",
+  "num": 1166,
+  "name": "Fossilized Dino",
+  "url": "https://pokeapi.co/api/v2/item/fossilized-dino",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "dex-completion",
+  "description": "",
+  "sprite": "/items/fossilized-dino.png"
+}

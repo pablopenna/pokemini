@@ -1,0 +1,12 @@
+{
+  "id": "eon-flute",
+  "num": 816,
+  "name": "Eon Flute",
+  "url": "https://pokeapi.co/api/v2/item/eon-flute",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Summons Latias or Latios for a ride.",
+  "sprite": "/items/eon-flute.png"
+}

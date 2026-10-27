@@ -1,0 +1,12 @@
+{
+  "id": "tm21",
+  "num": 325,
+  "name": "TM21",
+  "url": "https://pokeapi.co/api/v2/item/tm21",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Frustration to a compatible Pokémon. (Gen I: Mega Drain)",
+  "sprite": "/items/tm21.png"
+}

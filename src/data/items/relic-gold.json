@@ -1,0 +1,12 @@
+{
+  "id": "relic-gold",
+  "num": 627,
+  "name": "Relic Gold",
+  "url": "https://pokeapi.co/api/v2/item/relic-gold",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Sell to Villa Owner 10000 Pokédollars.",
+  "sprite": "/items/relic-gold.png"
+}

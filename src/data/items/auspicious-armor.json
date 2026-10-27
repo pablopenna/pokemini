@@ -1,0 +1,12 @@
+{
+  "id": "auspicious-armor",
+  "num": 2045,
+  "name": "Auspicious Armor",
+  "url": "https://pokeapi.co/api/v2/item/auspicious-armor",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/auspicious-armor.png"
+}

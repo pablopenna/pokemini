@@ -1,0 +1,12 @@
+{
+  "id": "dropped-item--red",
+  "num": 926,
+  "name": "Dropped Item",
+  "url": "https://pokeapi.co/api/v2/item/dropped-item--red",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for dropped-item--red",
+  "sprite": "/items/dropped-item--red.png"
+}

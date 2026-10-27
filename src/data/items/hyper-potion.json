@@ -1,0 +1,18 @@
+{
+  "id": "hyper-potion",
+  "num": 25,
+  "name": "Hyper Potion",
+  "url": "https://pokeapi.co/api/v2/item/hyper-potion",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "healing",
+  "description": "Restores 200 HP.",
+  "sprite": "/items/hyper-potion.png"
+}

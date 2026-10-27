@@ -1,0 +1,12 @@
+{
+  "id": "hitmonlee-candy",
+  "num": 1104,
+  "name": "Hitmonlee Candy",
+  "url": "https://pokeapi.co/api/v2/item/hitmonlee-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/hitmonlee-candy.png"
+}

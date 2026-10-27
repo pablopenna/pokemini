@@ -1,0 +1,12 @@
+{
+  "id": "rainbow-wing",
+  "num": 482,
+  "name": "Rainbow Wing",
+  "url": "https://pokeapi.co/api/v2/item/rainbow-wing",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Summons Ho-Oh at the top of the Bell Tower.",
+  "sprite": "/items/rainbow-wing.png"
+}

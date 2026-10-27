@@ -1,0 +1,12 @@
+{
+  "id": "maschiff-fang",
+  "num": 1936,
+  "name": "Maschiff Fang",
+  "url": "https://pokeapi.co/api/v2/item/maschiff-fang",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/maschiff-fang.png"
+}

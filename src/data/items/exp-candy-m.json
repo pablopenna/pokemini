@@ -1,0 +1,12 @@
+{
+  "id": "exp-candy-m",
+  "num": 1184,
+  "name": "Exp. Candy M",
+  "url": "https://pokeapi.co/api/v2/item/exp-candy-m",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/exp-candy-m.png"
+}

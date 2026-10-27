@@ -1,0 +1,12 @@
+{
+  "id": "squirt-bottle",
+  "num": 448,
+  "name": "Squirt Bottle",
+  "url": "https://pokeapi.co/api/v2/item/squirt-bottle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Use on Sudowoodo blocking the path on Route 36. Also waters berries.",
+  "sprite": "/items/squirt-bottle.png"
+}

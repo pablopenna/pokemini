@@ -1,0 +1,12 @@
+{
+  "id": "marshadium-z--held",
+  "num": 843,
+  "name": "Marshadium Z",
+  "url": "https://pokeapi.co/api/v2/item/marshadium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows Marshadow to upgrade Spectral Thief into Soul-Stealing 7 Star Strike.",
+  "sprite": "/items/marshadium-z--held.png"
+}

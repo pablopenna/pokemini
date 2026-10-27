@@ -1,0 +1,12 @@
+{
+  "id": "greavard-wax",
+  "num": 1910,
+  "name": "Greavard Wax",
+  "url": "https://pokeapi.co/api/v2/item/greavard-wax",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/greavard-wax.png"
+}

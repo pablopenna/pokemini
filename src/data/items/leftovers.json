@@ -1,0 +1,15 @@
+{
+  "id": "leftovers",
+  "num": 211,
+  "name": "Leftovers",
+  "url": "https://pokeapi.co/api/v2/item/leftovers",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Restores 1/16 (6.25%) holder’s max HP at the end of each turn.",
+  "sprite": "/items/leftovers.png"
+}

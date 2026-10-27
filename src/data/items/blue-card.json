@@ -1,0 +1,12 @@
+{
+  "id": "blue-card",
+  "num": 472,
+  "name": "Blue Card",
+  "url": "https://pokeapi.co/api/v2/item/blue-card",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Keeps track of points from Buena’s show.",
+  "sprite": "/items/blue-card.png"
+}

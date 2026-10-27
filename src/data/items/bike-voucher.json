@@ -1,0 +1,12 @@
+{
+  "id": "bike-voucher",
+  "num": 545,
+  "name": "Bike Voucher",
+  "url": "https://pokeapi.co/api/v2/item/bike-voucher",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Trade in Cerulean bike shop for a Bicycle.",
+  "sprite": "/items/bike-voucher.png"
+}

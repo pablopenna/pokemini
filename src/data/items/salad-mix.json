@@ -1,0 +1,12 @@
+{
+  "id": "salad-mix",
+  "num": 1157,
+  "name": "Salad Mix",
+  "url": "https://pokeapi.co/api/v2/item/salad-mix",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/salad-mix.png"
+}

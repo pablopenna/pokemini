@@ -1,0 +1,12 @@
+{
+  "id": "golisopite",
+  "num": 2272,
+  "name": "Golisopite",
+  "url": "https://pokeapi.co/api/v2/item/golisopite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/golisopite.png"
+}

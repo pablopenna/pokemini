@@ -1,0 +1,12 @@
+{
+  "id": "slugma-lava",
+  "num": 2134,
+  "name": "Slugma Lava",
+  "url": "https://pokeapi.co/api/v2/item/slugma-lava",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/slugma-lava.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dread-plate",
+  "num": 289,
+  "name": "Dread Plate",
+  "url": "https://pokeapi.co/api/v2/item/dread-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Dark-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Dark.",
+  "sprite": "/items/dread-plate.png"
+}

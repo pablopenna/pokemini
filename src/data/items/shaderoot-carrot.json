@@ -1,0 +1,12 @@
+{
+  "id": "shaderoot-carrot",
+  "num": 1654,
+  "name": "Shaderoot Carrot",
+  "url": "https://pokeapi.co/api/v2/item/shaderoot-carrot",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/shaderoot-carrot.png"
+}

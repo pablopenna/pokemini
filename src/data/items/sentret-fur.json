@@ -1,0 +1,12 @@
+{
+  "id": "sentret-fur",
+  "num": 2128,
+  "name": "Sentret Fur",
+  "url": "https://pokeapi.co/api/v2/item/sentret-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/sentret-fur.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mankey-fur",
+  "num": 1766,
+  "name": "Mankey Fur",
+  "url": "https://pokeapi.co/api/v2/item/mankey-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/mankey-fur.png"
+}

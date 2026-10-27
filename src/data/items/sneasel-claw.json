@@ -1,0 +1,12 @@
+{
+  "id": "sneasel-claw",
+  "num": 1793,
+  "name": "Sneasel Claw",
+  "url": "https://pokeapi.co/api/v2/item/sneasel-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/sneasel-claw.png"
+}

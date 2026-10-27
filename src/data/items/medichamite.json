@@ -1,0 +1,12 @@
+{
+  "id": "medichamite",
+  "num": 704,
+  "name": "Medichamite",
+  "url": "https://pokeapi.co/api/v2/item/medichamite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Medicham to Mega Evolve into Mega Medicham.",
+  "sprite": "/items/medichamite.png"
+}

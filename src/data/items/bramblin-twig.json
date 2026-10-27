@@ -1,0 +1,12 @@
+{
+  "id": "bramblin-twig",
+  "num": 1937,
+  "name": "Bramblin Twig",
+  "url": "https://pokeapi.co/api/v2/item/bramblin-twig",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/bramblin-twig.png"
+}

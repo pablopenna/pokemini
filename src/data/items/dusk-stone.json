@@ -1,0 +1,12 @@
+{
+  "id": "dusk-stone",
+  "num": 108,
+  "name": "Dusk Stone",
+  "url": "https://pokeapi.co/api/v2/item/dusk-stone",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Evolves a Lampent into Chandelure, a Misdreavus into Mismagius, or a Murkrow into Honchkrow.",
+  "sprite": "/items/dusk-stone.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "diglett-dirt",
+  "num": 1763,
+  "name": "Diglett Dirt",
+  "url": "https://pokeapi.co/api/v2/item/diglett-dirt",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/diglett-dirt.png"
+}

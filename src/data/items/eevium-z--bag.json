@@ -1,0 +1,12 @@
+{
+  "id": "eevium-z--bag",
+  "num": 964,
+  "name": "Eevium Z",
+  "url": "https://pokeapi.co/api/v2/item/eevium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for eevium-z--bag",
+  "sprite": "/items/eevium-z--bag.png"
+}

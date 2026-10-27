@@ -1,0 +1,12 @@
+{
+  "id": "style-card",
+  "num": 1634,
+  "name": "Style Card",
+  "url": "https://pokeapi.co/api/v2/item/style-card",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/style-card.png"
+}

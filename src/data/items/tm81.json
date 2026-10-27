@@ -1,0 +1,12 @@
+{
+  "id": "tm81",
+  "num": 385,
+  "name": "TM81",
+  "url": "https://pokeapi.co/api/v2/item/tm81",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches X-Scissor to a compatible Pokémon.",
+  "sprite": "/items/tm81.png"
+}

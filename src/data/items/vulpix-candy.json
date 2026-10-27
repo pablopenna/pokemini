@@ -1,0 +1,12 @@
+{
+  "id": "vulpix-candy",
+  "num": 1072,
+  "name": "Vulpix Candy",
+  "url": "https://pokeapi.co/api/v2/item/vulpix-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/vulpix-candy.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "strawberry-sweet",
+  "num": 1167,
+  "name": "Strawberry Sweet",
+  "url": "https://pokeapi.co/api/v2/item/strawberry-sweet",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/strawberry-sweet.png"
+}

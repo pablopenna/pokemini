@@ -1,0 +1,12 @@
+{
+  "id": "ground-memory",
+  "num": 905,
+  "name": "Ground Memory",
+  "url": "https://pokeapi.co/api/v2/item/ground-memory",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "memories",
+  "description": "Held: Changes Silvally to its Ground form.  Changes Multi-Attack’s type to Ground.",
+  "sprite": "/items/ground-memory.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tm02",
+  "num": 306,
+  "name": "TM02",
+  "url": "https://pokeapi.co/api/v2/item/tm02",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Dragon Claw to a compatible Pokémon. (Gen II: Headbutt Gen I: Razor Wind)",
+  "sprite": "/items/tm02.png"
+}

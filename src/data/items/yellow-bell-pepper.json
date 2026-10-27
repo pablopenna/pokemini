@@ -1,0 +1,12 @@
+{
+  "id": "yellow-bell-pepper",
+  "num": 1733,
+  "name": "Yellow Bell Pepper",
+  "url": "https://pokeapi.co/api/v2/item/yellow-bell-pepper",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/yellow-bell-pepper.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "water-tera-shard",
+  "num": 1680,
+  "name": "Water Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/water-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/water-tera-shard.png"
+}

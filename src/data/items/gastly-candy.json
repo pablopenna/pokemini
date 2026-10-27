@@ -1,0 +1,12 @@
+{
+  "id": "gastly-candy",
+  "num": 1097,
+  "name": "Gastly Candy",
+  "url": "https://pokeapi.co/api/v2/item/gastly-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/gastly-candy.png"
+}

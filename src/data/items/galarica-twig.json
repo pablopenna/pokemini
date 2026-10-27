@@ -1,0 +1,12 @@
+{
+  "id": "galarica-twig",
+  "num": 1632,
+  "name": "Galarica Twig",
+  "url": "https://pokeapi.co/api/v2/item/galarica-twig",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "collectibles",
+  "description": "",
+  "sprite": "/items/galarica-twig.png"
+}

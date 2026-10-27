@@ -1,0 +1,12 @@
+{
+  "id": "winking-pika-pick",
+  "num": 2041,
+  "name": "Winking Pika Pick",
+  "url": "https://pokeapi.co/api/v2/item/winking-pika-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/winking-pika-pick.png"
+}

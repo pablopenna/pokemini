@@ -1,0 +1,16 @@
+{
+  "id": "sky-plate",
+  "num": 283,
+  "name": "Sky Plate",
+  "url": "https://pokeapi.co/api/v2/item/sky-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Flying-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Flying.",
+  "sprite": "/items/sky-plate.png"
+}

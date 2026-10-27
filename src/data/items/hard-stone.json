@@ -1,0 +1,16 @@
+{
+  "id": "hard-stone",
+  "num": 215,
+  "name": "Hard Stone",
+  "url": "https://pokeapi.co/api/v2/item/hard-stone",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Rock-Type moves from holder do 20% more damage.",
+  "sprite": "/items/hard-stone.png"
+}

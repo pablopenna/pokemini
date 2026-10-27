@@ -1,0 +1,12 @@
+{
+  "id": "old-rod",
+  "num": 422,
+  "name": "Old Rod",
+  "url": "https://pokeapi.co/api/v2/item/old-rod",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Used to catch Pokémon in bodies of water.",
+  "sprite": "/items/old-rod.png"
+}

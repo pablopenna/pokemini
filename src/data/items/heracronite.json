@@ -1,0 +1,12 @@
+{
+  "id": "heracronite",
+  "num": 719,
+  "name": "Heracronite",
+  "url": "https://pokeapi.co/api/v2/item/heracronite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Heracross to Mega Evolve into Mega Heracross.",
+  "sprite": "/items/heracronite.png"
+}

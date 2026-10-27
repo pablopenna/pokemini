@@ -1,0 +1,12 @@
+{
+  "id": "fashion-case",
+  "num": 412,
+  "name": "Fashion Case",
+  "url": "https://pokeapi.co/api/v2/item/fashion-case",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Holds Pokémon Accessories for use in Contests.",
+  "sprite": "/items/fashion-case.png"
+}

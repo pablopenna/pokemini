@@ -1,0 +1,12 @@
+{
+  "id": "fairy-feather",
+  "num": 2105,
+  "name": "Fairy Feather",
+  "url": "https://pokeapi.co/api/v2/item/fairy-feather",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/fairy-feather.png"
+}

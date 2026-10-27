@@ -1,0 +1,12 @@
+{
+  "id": "barred-cup",
+  "num": 2054,
+  "name": "Barred Cup",
+  "url": "https://pokeapi.co/api/v2/item/barred-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/barred-cup.png"
+}

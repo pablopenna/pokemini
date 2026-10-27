@@ -1,0 +1,12 @@
+{
+  "id": "tm34",
+  "num": 338,
+  "name": "TM34",
+  "url": "https://pokeapi.co/api/v2/item/tm34",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Sludge Wave to a compatible Pokémon. (Gen IV & III: Shock Wave Gen II: Swagger Gen I: Bide)",
+  "sprite": "/items/tm34.png"
+}

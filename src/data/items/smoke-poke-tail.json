@@ -1,0 +1,12 @@
+{
+  "id": "smoke-poke-tail",
+  "num": 1151,
+  "name": "Smoke-Poke Tail",
+  "url": "https://pokeapi.co/api/v2/item/smoke-poke-tail",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/smoke-poke-tail.png"
+}

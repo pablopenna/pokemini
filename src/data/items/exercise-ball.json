@@ -1,0 +1,12 @@
+{
+  "id": "exercise-ball",
+  "num": 2064,
+  "name": "Exercise Ball",
+  "url": "https://pokeapi.co/api/v2/item/exercise-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/exercise-ball.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "rhyhorn-candy",
+  "num": 1108,
+  "name": "Rhyhorn Candy",
+  "url": "https://pokeapi.co/api/v2/item/rhyhorn-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/rhyhorn-candy.png"
+}

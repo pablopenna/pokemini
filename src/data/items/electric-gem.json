@@ -1,0 +1,12 @@
+{
+  "id": "electric-gem",
+  "num": 593,
+  "name": "Electric Gem",
+  "url": "https://pokeapi.co/api/v2/item/electric-gem",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "jewels",
+  "description": "Held: When the holder uses a damaging Electric-type move, the move has 1.5× power and this item is consumed.",
+  "sprite": "/items/electric-gem.png"
+}

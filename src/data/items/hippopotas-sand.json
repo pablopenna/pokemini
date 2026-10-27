@@ -1,0 +1,12 @@
+{
+  "id": "hippopotas-sand",
+  "num": 1838,
+  "name": "Hippopotas Sand",
+  "url": "https://pokeapi.co/api/v2/item/hippopotas-sand",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/hippopotas-sand.png"
+}

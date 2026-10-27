@@ -1,0 +1,12 @@
+{
+  "id": "light-stone",
+  "num": 657,
+  "name": "Light Stone",
+  "url": "https://pokeapi.co/api/v2/item/light-stone",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Summons Reshiram for the final battle against N.",
+  "sprite": "/items/light-stone.png"
+}

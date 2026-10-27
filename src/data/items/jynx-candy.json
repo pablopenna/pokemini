@@ -1,0 +1,12 @@
+{
+  "id": "jynx-candy",
+  "num": 1117,
+  "name": "Jynx Candy",
+  "url": "https://pokeapi.co/api/v2/item/jynx-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/jynx-candy.png"
+}

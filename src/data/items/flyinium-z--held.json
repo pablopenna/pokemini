@@ -1,0 +1,12 @@
+{
+  "id": "flyinium-z--held",
+  "num": 826,
+  "name": "Flyinium Z",
+  "url": "https://pokeapi.co/api/v2/item/flyinium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Flying moves.",
+  "sprite": "/items/flyinium-z--held.png"
+}

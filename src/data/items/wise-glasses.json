@@ -1,0 +1,15 @@
+{
+  "id": "wise-glasses",
+  "num": 244,
+  "name": "Wise Glasses",
+  "url": "https://pokeapi.co/api/v2/item/wise-glasses",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Boosts the damage of special moves used by the holder by 1/10 (10%).",
+  "sprite": "/items/wise-glasses.png"
+}

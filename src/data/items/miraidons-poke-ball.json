@@ -1,0 +1,12 @@
+{
+  "id": "miraidons-poke-ball",
+  "num": 1668,
+  "name": "Miraidon’s Poké Ball",
+  "url": "https://pokeapi.co/api/v2/item/miraidons-poke-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "",
+  "sprite": "/items/miraidons-poke-ball.png"
+}

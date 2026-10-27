@@ -1,0 +1,15 @@
+{
+  "id": "expert-belt",
+  "num": 245,
+  "name": "Expert Belt",
+  "url": "https://pokeapi.co/api/v2/item/expert-belt",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Holder’s Super Effective moves do 20% extra damage.",
+  "sprite": "/items/expert-belt.png"
+}

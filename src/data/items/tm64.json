@@ -1,0 +1,12 @@
+{
+  "id": "tm64",
+  "num": 368,
+  "name": "TM64",
+  "url": "https://pokeapi.co/api/v2/item/tm64",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Explosion to a compatible Pokémon.",
+  "sprite": "/items/tm64.png"
+}

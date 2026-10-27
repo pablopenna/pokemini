@@ -1,0 +1,12 @@
+{
+  "id": "rule-book",
+  "num": 407,
+  "name": "Rule Book",
+  "url": "https://pokeapi.co/api/v2/item/rule-book",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "List of battle types and their rules.",
+  "sprite": "/items/rule-book.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tin-of-beans",
+  "num": 1147,
+  "name": "Tin of Beans",
+  "url": "https://pokeapi.co/api/v2/item/tin-of-beans",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/tin-of-beans.png"
+}

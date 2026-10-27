@@ -1,0 +1,12 @@
+{
+  "id": "reply-mail",
+  "num": 574,
+  "name": "Reply Mail",
+  "url": "https://pokeapi.co/api/v2/item/reply-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/reply-mail.png"
+}

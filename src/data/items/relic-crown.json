@@ -1,0 +1,12 @@
+{
+  "id": "relic-crown",
+  "num": 631,
+  "name": "Relic Crown",
+  "url": "https://pokeapi.co/api/v2/item/relic-crown",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Sell to Villa Owner for 300000 Pokédollars.",
+  "sprite": "/items/relic-crown.png"
+}

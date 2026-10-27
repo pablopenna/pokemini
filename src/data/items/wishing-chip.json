@@ -1,0 +1,12 @@
+{
+  "id": "wishing-chip",
+  "num": 1323,
+  "name": "Wishing Chip",
+  "url": "https://pokeapi.co/api/v2/item/wishing-chip",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "",
+  "sprite": "/items/wishing-chip.png"
+}

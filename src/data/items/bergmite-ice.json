@@ -1,0 +1,12 @@
+{
+  "id": "bergmite-ice",
+  "num": 1870,
+  "name": "Bergmite Ice",
+  "url": "https://pokeapi.co/api/v2/item/bergmite-ice",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/bergmite-ice.png"
+}

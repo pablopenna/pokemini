@@ -1,0 +1,12 @@
+{
+  "id": "yellow-dish",
+  "num": 2099,
+  "name": "Yellow Dish",
+  "url": "https://pokeapi.co/api/v2/item/yellow-dish",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/yellow-dish.png"
+}

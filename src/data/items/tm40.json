@@ -1,0 +1,12 @@
+{
+  "id": "tm40",
+  "num": 344,
+  "name": "TM40",
+  "url": "https://pokeapi.co/api/v2/item/tm40",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Aerial Ace to a compatible Pokémon. (Gen II: Defense Curl Gen I: Skull Bash)",
+  "sprite": "/items/tm40.png"
+}

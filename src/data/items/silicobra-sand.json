@@ -1,0 +1,12 @@
+{
+  "id": "silicobra-sand",
+  "num": 1895,
+  "name": "Silicobra Sand",
+  "url": "https://pokeapi.co/api/v2/item/silicobra-sand",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/silicobra-sand.png"
+}

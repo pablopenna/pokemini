@@ -1,0 +1,12 @@
+{
+  "id": "kabuto-candy",
+  "num": 1127,
+  "name": "Kabuto Candy",
+  "url": "https://pokeapi.co/api/v2/item/kabuto-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/kabuto-candy.png"
+}

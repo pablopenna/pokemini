@@ -1,0 +1,12 @@
+{
+  "id": "misdreavus-tears",
+  "num": 1787,
+  "name": "Misdreavus Tears",
+  "url": "https://pokeapi.co/api/v2/item/misdreavus-tears",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/misdreavus-tears.png"
+}

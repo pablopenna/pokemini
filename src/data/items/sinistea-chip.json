@@ -1,0 +1,12 @@
+{
+  "id": "sinistea-chip",
+  "num": 1901,
+  "name": "Sinistea Chip",
+  "url": "https://pokeapi.co/api/v2/item/sinistea-chip",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/sinistea-chip.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bottle-cap",
+  "num": 836,
+  "name": "Bottle Cap",
+  "url": "https://pokeapi.co/api/v2/item/bottle-cap",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Trade to Mr. Hyper to maximize one of a Pokémon’s genes.",
+  "sprite": "/items/bottle-cap.png"
+}

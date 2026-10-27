@@ -1,0 +1,12 @@
+{
+  "id": "silver-nanab-berry",
+  "num": 1016,
+  "name": "Silver Nanab Berry",
+  "url": "https://pokeapi.co/api/v2/item/silver-nanab-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "catching-bonus",
+  "description": "",
+  "sprite": "/items/silver-nanab-berry.png"
+}

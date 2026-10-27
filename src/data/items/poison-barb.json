@@ -1,0 +1,15 @@
+{
+  "id": "poison-barb",
+  "num": 222,
+  "name": "Poison Barb",
+  "url": "https://pokeapi.co/api/v2/item/poison-barb",
+  "flingPower": 70,
+  "flingEffect": "poison",
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Poison-Type moves from holder do 20% more damage.",
+  "sprite": "/items/poison-barb.png"
+}

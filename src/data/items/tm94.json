@@ -1,0 +1,12 @@
+{
+  "id": "tm94",
+  "num": 660,
+  "name": "TM94",
+  "url": "https://pokeapi.co/api/v2/item/tm94",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Rock Smash to a compatible Pokémon.",
+  "sprite": "/items/tm94.png"
+}

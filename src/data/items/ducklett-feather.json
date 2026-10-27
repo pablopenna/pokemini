@@ -1,0 +1,12 @@
+{
+  "id": "ducklett-feather",
+  "num": 2148,
+  "name": "Ducklett Feather",
+  "url": "https://pokeapi.co/api/v2/item/ducklett-feather",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/ducklett-feather.png"
+}

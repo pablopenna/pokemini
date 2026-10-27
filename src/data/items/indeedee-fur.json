@@ -1,0 +1,12 @@
+{
+  "id": "indeedee-fur",
+  "num": 1896,
+  "name": "Indeedee Fur",
+  "url": "https://pokeapi.co/api/v2/item/indeedee-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/indeedee-fur.png"
+}

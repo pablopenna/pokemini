@@ -1,0 +1,12 @@
+{
+  "id": "cornn-berry",
+  "num": 152,
+  "name": "Cornn Berry",
+  "url": "https://pokeapi.co/api/v2/item/cornn-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "baking-only",
+  "description": "Used for creating PokéBlocks and Poffins.",
+  "sprite": "/items/cornn-berry.png"
+}

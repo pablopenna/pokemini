@@ -1,0 +1,18 @@
+{
+  "id": "soda-pop",
+  "num": 31,
+  "name": "Soda Pop",
+  "url": "https://pokeapi.co/api/v2/item/soda-pop",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "healing",
+  "description": "Restores 60 HP.",
+  "sprite": "/items/soda-pop.png"
+}

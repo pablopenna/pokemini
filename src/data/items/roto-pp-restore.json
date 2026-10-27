@@ -1,0 +1,12 @@
+{
+  "id": "roto-pp-restore",
+  "num": 1003,
+  "name": "Roto PP Restore",
+  "url": "https://pokeapi.co/api/v2/item/roto-pp-restore",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for roto-pp-restore",
+  "sprite": "/items/roto-pp-restore.png"
+}

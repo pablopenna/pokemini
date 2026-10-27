@@ -1,0 +1,12 @@
+{
+  "id": "large-leek",
+  "num": 1152,
+  "name": "Large Leek",
+  "url": "https://pokeapi.co/api/v2/item/large-leek",
+  "flingPower": 20,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/large-leek.png"
+}

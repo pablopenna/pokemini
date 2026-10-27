@@ -1,0 +1,12 @@
+{
+  "id": "data-card-07",
+  "num": 492,
+  "name": "Data Card 07",
+  "url": "https://pokeapi.co/api/v2/item/data-card-07",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer has come in first in the Pokéathlon Pennant Capture.",
+  "sprite": "/items/data-card-07.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "powder-jar",
+  "num": 558,
+  "name": "Powder Jar",
+  "url": "https://pokeapi.co/api/v2/item/powder-jar",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Stores Berry Powder made using a Berry Crusher.",
+  "sprite": "/items/powder-jar.png"
+}

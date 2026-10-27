@@ -1,0 +1,12 @@
+{
+  "id": "lapoke-ball",
+  "num": 2220,
+  "name": "Poké Ball",
+  "url": "https://pokeapi.co/api/v2/item/lapoke-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "standard-balls",
+  "description": "",
+  "sprite": "/items/lapoke-ball.png"
+}

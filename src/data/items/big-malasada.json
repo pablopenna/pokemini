@@ -1,0 +1,12 @@
+{
+  "id": "big-malasada",
+  "num": 888,
+  "name": "Big Malasada",
+  "url": "https://pokeapi.co/api/v2/item/big-malasada",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "status-cures",
+  "description": "Cures major status ailments and confusion.",
+  "sprite": "/items/big-malasada.png"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "moomoo-milk",
+  "num": 33,
+  "name": "Moomoo Milk",
+  "url": "https://pokeapi.co/api/v2/item/moomoo-milk",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "healing",
+  "description": "Restores 100 HP.",
+  "sprite": "/items/moomoo-milk.png"
+}

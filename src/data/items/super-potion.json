@@ -1,0 +1,18 @@
+{
+  "id": "super-potion",
+  "num": 26,
+  "name": "Super Potion",
+  "url": "https://pokeapi.co/api/v2/item/super-potion",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "healing",
+  "description": "Restores 50 HP.",
+  "sprite": "/items/super-potion.png"
+}

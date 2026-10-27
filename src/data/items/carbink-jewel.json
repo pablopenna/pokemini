@@ -1,0 +1,12 @@
+{
+  "id": "carbink-jewel",
+  "num": 2152,
+  "name": "Carbink Jewel",
+  "url": "https://pokeapi.co/api/v2/item/carbink-jewel",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/carbink-jewel.png"
+}

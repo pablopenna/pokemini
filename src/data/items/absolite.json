@@ -1,0 +1,12 @@
+{
+  "id": "absolite",
+  "num": 716,
+  "name": "Absolite",
+  "url": "https://pokeapi.co/api/v2/item/absolite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Absol to Mega Evolve into Mega Absol.",
+  "sprite": "/items/absolite.png"
+}

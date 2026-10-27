@@ -1,0 +1,15 @@
+{
+  "id": "macho-brace",
+  "num": 192,
+  "name": "Macho Brace",
+  "url": "https://pokeapi.co/api/v2/item/macho-brace",
+  "flingPower": 60,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "effort-training",
+  "description": "Held: Holder gains double effort values from battles, but has halved Speed in battle.",
+  "sprite": "/items/macho-brace.png"
+}

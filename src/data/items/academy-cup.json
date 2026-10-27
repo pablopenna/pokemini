@@ -1,0 +1,12 @@
+{
+  "id": "academy-cup",
+  "num": 2021,
+  "name": "Academy Cup",
+  "url": "https://pokeapi.co/api/v2/item/academy-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/academy-cup.png"
+}

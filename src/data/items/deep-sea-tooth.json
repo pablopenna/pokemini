@@ -1,0 +1,14 @@
+{
+  "id": "deep-sea-tooth",
+  "num": 203,
+  "name": "Deep Sea Tooth",
+  "url": "https://pokeapi.co/api/v2/item/deep-sea-tooth",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable"
+  ],
+  "category": "species-specific",
+  "description": "Doubles Clamperl’s Special Attack. Traded on a Clamperl: Holder evolves into Huntail.",
+  "sprite": "/items/deep-sea-tooth.png"
+}

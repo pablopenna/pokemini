@@ -1,0 +1,12 @@
+{
+  "id": "numel-lava",
+  "num": 1810,
+  "name": "Numel Lava",
+  "url": "https://pokeapi.co/api/v2/item/numel-lava",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/numel-lava.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "deep-sea-scale",
+  "num": 204,
+  "name": "Deep Sea Scale",
+  "url": "https://pokeapi.co/api/v2/item/deep-sea-scale",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable"
+  ],
+  "category": "species-specific",
+  "description": "Doubles Clamperl’s Special Defense. Traded on a Clamperl: Holder evolves into Gorebyss.",
+  "sprite": "/items/deep-sea-scale.png"
+}

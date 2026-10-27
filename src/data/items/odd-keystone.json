@@ -1,0 +1,14 @@
+{
+  "id": "odd-keystone",
+  "num": 111,
+  "name": "Odd Keystone",
+  "url": "https://pokeapi.co/api/v2/item/odd-keystone",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "dex-completion",
+  "description": "Use on the tower on Route 209 to encounter Spiritomb if you have at least 32 Underground greetings.",
+  "sprite": "/items/odd-keystone.png"
+}

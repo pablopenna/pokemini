@@ -1,0 +1,12 @@
+{
+  "id": "diamond-pattern-cup",
+  "num": 2055,
+  "name": "Diamond Pattern Cup",
+  "url": "https://pokeapi.co/api/v2/item/diamond-pattern-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/diamond-pattern-cup.png"
+}

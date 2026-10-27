@@ -1,0 +1,12 @@
+{
+  "id": "sun-flute",
+  "num": 893,
+  "name": "Sun Flute",
+  "url": "https://pokeapi.co/api/v2/item/sun-flute",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Evolves Nebby into Solgaleo when used at the Altar of the Sunne.",
+  "sprite": "/items/sun-flute.png"
+}

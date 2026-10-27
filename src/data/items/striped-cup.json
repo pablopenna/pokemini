@@ -1,0 +1,12 @@
+{
+  "id": "striped-cup",
+  "num": 2023,
+  "name": "Striped Cup",
+  "url": "https://pokeapi.co/api/v2/item/striped-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/striped-cup.png"
+}

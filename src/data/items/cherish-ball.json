@@ -1,0 +1,17 @@
+{
+  "id": "cherish-ball",
+  "num": 16,
+  "name": "Cherish Ball",
+  "url": "https://pokeapi.co/api/v2/item/cherish-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "special-balls",
+  "description": "Tries to catch a wild Pokémon.",
+  "sprite": "/items/cherish-ball.png"
+}

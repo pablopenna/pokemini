@@ -1,0 +1,12 @@
+{
+  "id": "houndoominite",
+  "num": 705,
+  "name": "Houndoominite",
+  "url": "https://pokeapi.co/api/v2/item/houndoominite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Houndoom to Mega Evolve into Mega Houndoom.",
+  "sprite": "/items/houndoominite.png"
+}

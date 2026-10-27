@@ -1,0 +1,12 @@
+{
+  "id": "lure",
+  "num": 1036,
+  "name": "Lure",
+  "url": "https://pokeapi.co/api/v2/item/lure",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "spelunking",
+  "description": "",
+  "sprite": "/items/lure.png"
+}

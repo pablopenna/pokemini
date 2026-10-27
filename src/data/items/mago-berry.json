@@ -1,0 +1,14 @@
+{
+  "id": "mago-berry",
+  "num": 138,
+  "name": "Mago Berry",
+  "url": "https://pokeapi.co/api/v2/item/mago-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "picky-healing",
+  "description": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike sweet flavor.",
+  "sprite": "/items/mago-berry.png"
+}

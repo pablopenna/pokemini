@@ -1,0 +1,12 @@
+{
+  "id": "wailmer-pail",
+  "num": 529,
+  "name": "Wailmer Pail",
+  "url": "https://pokeapi.co/api/v2/item/wailmer-pail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Used to water berries.",
+  "sprite": "/items/wailmer-pail.png"
+}

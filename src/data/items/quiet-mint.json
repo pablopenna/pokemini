@@ -1,0 +1,12 @@
+{
+  "id": "quiet-mint",
+  "num": 1300,
+  "name": "Quiet Mint",
+  "url": "https://pokeapi.co/api/v2/item/quiet-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/quiet-mint.png"
+}

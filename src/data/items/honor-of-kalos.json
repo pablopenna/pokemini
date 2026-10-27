@@ -1,0 +1,12 @@
+{
+  "id": "honor-of-kalos",
+  "num": 735,
+  "name": "Honor of Kalos",
+  "url": "https://pokeapi.co/api/v2/item/honor-of-kalos",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Does nothing, but signifies becoming Champion.",
+  "sprite": "/items/honor-of-kalos.png"
+}

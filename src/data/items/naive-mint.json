@@ -1,0 +1,12 @@
+{
+  "id": "naive-mint",
+  "num": 1308,
+  "name": "Naive Mint",
+  "url": "https://pokeapi.co/api/v2/item/naive-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/naive-mint.png"
+}

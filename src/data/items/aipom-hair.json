@@ -1,0 +1,12 @@
+{
+  "id": "aipom-hair",
+  "num": 2131,
+  "name": "Aipom Hair",
+  "url": "https://pokeapi.co/api/v2/item/aipom-hair",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/aipom-hair.png"
+}

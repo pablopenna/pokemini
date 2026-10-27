@@ -1,0 +1,14 @@
+{
+  "id": "yellow-shard",
+  "num": 74,
+  "name": "Yellow Shard",
+  "url": "https://pokeapi.co/api/v2/item/yellow-shard",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "collectibles",
+  "description": "No effect. Can be traded for items or moves.",
+  "sprite": "/items/yellow-shard.png"
+}

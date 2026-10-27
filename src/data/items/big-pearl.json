@@ -1,0 +1,12 @@
+{
+  "id": "big-pearl",
+  "num": 89,
+  "name": "Big Pearl",
+  "url": "https://pokeapi.co/api/v2/item/big-pearl",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Sell for 3750 Pokédollars, or to Ore Collector for 7500 Pokédollars.",
+  "sprite": "/items/big-pearl.png"
+}

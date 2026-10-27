@@ -1,0 +1,12 @@
+{
+  "id": "magnemite-candy",
+  "num": 1091,
+  "name": "Magnemite Candy",
+  "url": "https://pokeapi.co/api/v2/item/magnemite-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/magnemite-candy.png"
+}

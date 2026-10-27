@@ -1,0 +1,12 @@
+{
+  "id": "spearow-candy",
+  "num": 1065,
+  "name": "Spearow Candy",
+  "url": "https://pokeapi.co/api/v2/item/spearow-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/spearow-candy.png"
+}

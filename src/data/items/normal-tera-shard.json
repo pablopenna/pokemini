@@ -1,0 +1,12 @@
+{
+  "id": "normal-tera-shard",
+  "num": 1678,
+  "name": "Normal Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/normal-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/normal-tera-shard.png"
+}

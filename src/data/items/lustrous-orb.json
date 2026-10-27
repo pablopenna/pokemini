@@ -1,0 +1,14 @@
+{
+  "id": "lustrous-orb",
+  "num": 113,
+  "name": "Lustrous Orb",
+  "url": "https://pokeapi.co/api/v2/item/lustrous-orb",
+  "flingPower": 60,
+  "flingEffect": null,
+  "attributes": [
+    "holdable"
+  ],
+  "category": "species-specific",
+  "description": "Boosts the damage from Palkia’s Dragon-type and Water-type moves by 20%.",
+  "sprite": "/items/lustrous-orb.png"
+}

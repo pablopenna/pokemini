@@ -1,0 +1,12 @@
+{
+  "id": "fishing-rod--galar",
+  "num": 1142,
+  "name": "Fishing Rod",
+  "url": "https://pokeapi.co/api/v2/item/fishing-rod--galar",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/fishing-rod--galar.png"
+}

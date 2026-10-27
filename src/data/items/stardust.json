@@ -1,0 +1,12 @@
+{
+  "id": "stardust",
+  "num": 90,
+  "name": "Stardust",
+  "url": "https://pokeapi.co/api/v2/item/stardust",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Sell for 1000 Pokédollars, or to Ore Collector for 2000 Pokédollars.",
+  "sprite": "/items/stardust.png"
+}

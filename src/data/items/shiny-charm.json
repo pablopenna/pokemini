@@ -1,0 +1,12 @@
+{
+  "id": "shiny-charm",
+  "num": 675,
+  "name": "Shiny Charm",
+  "url": "https://pokeapi.co/api/v2/item/shiny-charm",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Raises the chance of finding a shiny Pokémon.",
+  "sprite": "/items/shiny-charm.png"
+}

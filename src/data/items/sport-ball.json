@@ -1,0 +1,12 @@
+{
+  "id": "sport-ball",
+  "num": 457,
+  "name": "Sport Ball",
+  "url": "https://pokeapi.co/api/v2/item/sport-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "standard-balls",
+  "description": "Tries to catch a Pokémon in the Bug-Catching contest in National Park. (Gen II: Park Ball)",
+  "sprite": "/items/sport-ball.png"
+}

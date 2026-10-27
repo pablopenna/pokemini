@@ -1,0 +1,12 @@
+{
+  "id": "endorsement",
+  "num": 1138,
+  "name": "Endorsement",
+  "url": "https://pokeapi.co/api/v2/item/endorsement",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/endorsement.png"
+}

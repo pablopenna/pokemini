@@ -1,0 +1,12 @@
+{
+  "id": "emboarite",
+  "num": 2243,
+  "name": "Emboarite",
+  "url": "https://pokeapi.co/api/v2/item/emboarite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/emboarite.png"
+}

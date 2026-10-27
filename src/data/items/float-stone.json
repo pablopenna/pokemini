@@ -1,0 +1,12 @@
+{
+  "id": "float-stone",
+  "num": 582,
+  "name": "Float Stone",
+  "url": "https://pokeapi.co/api/v2/item/float-stone",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: Holder has 0.5× weight.",
+  "sprite": "/items/float-stone.png"
+}

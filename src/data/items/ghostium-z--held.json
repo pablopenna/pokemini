@@ -1,0 +1,12 @@
+{
+  "id": "ghostium-z--held",
+  "num": 830,
+  "name": "Ghostium Z",
+  "url": "https://pokeapi.co/api/v2/item/ghostium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Ghost moves.",
+  "sprite": "/items/ghostium-z--held.png"
+}

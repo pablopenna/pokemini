@@ -1,0 +1,12 @@
+{
+  "id": "spelon-berry",
+  "num": 156,
+  "name": "Spelon Berry",
+  "url": "https://pokeapi.co/api/v2/item/spelon-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "baking-only",
+  "description": "Used for creating PokéBlocks and Poffins.",
+  "sprite": "/items/spelon-berry.png"
+}

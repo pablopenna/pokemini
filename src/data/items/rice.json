@@ -1,0 +1,12 @@
+{
+  "id": "rice",
+  "num": 1747,
+  "name": "Rice",
+  "url": "https://pokeapi.co/api/v2/item/rice",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/rice.png"
+}

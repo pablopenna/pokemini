@@ -1,0 +1,12 @@
+{
+  "id": "wishing-star",
+  "num": 1140,
+  "name": "Wishing Star",
+  "url": "https://pokeapi.co/api/v2/item/wishing-star",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/wishing-star.png"
+}

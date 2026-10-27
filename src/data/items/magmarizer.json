@@ -1,0 +1,12 @@
+{
+  "id": "magmarizer",
+  "num": 300,
+  "name": "Magmarizer",
+  "url": "https://pokeapi.co/api/v2/item/magmarizer",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Traded on a Magmar: Holder evolves into Magmortar.",
+  "sprite": "/items/magmarizer.png"
+}

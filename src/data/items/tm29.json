@@ -1,0 +1,12 @@
+{
+  "id": "tm29",
+  "num": 333,
+  "name": "TM29",
+  "url": "https://pokeapi.co/api/v2/item/tm29",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Psychic to a compatible Pokémon.",
+  "sprite": "/items/tm29.png"
+}

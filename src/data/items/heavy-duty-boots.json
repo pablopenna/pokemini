@@ -1,0 +1,12 @@
+{
+  "id": "heavy-duty-boots",
+  "num": 1178,
+  "name": "Heavy-Duty Boots",
+  "url": "https://pokeapi.co/api/v2/item/heavy-duty-boots",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/heavy-duty-boots.png"
+}

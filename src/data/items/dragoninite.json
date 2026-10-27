@@ -1,0 +1,12 @@
+{
+  "id": "dragoninite",
+  "num": 2236,
+  "name": "Dragoninite",
+  "url": "https://pokeapi.co/api/v2/item/dragoninite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/dragoninite.png"
+}

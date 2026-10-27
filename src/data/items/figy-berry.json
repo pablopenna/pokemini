@@ -1,0 +1,14 @@
+{
+  "id": "figy-berry",
+  "num": 136,
+  "name": "Figy Berry",
+  "url": "https://pokeapi.co/api/v2/item/figy-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "picky-healing",
+  "description": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike spicy flavor.",
+  "sprite": "/items/figy-berry.png"
+}

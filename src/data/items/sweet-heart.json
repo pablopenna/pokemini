@@ -1,0 +1,12 @@
+{
+  "id": "sweet-heart",
+  "num": 567,
+  "name": "Sweet Heart",
+  "url": "https://pokeapi.co/api/v2/item/sweet-heart",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "healing",
+  "description": "Restores 20 HP.",
+  "sprite": "/items/sweet-heart.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lost-item",
+  "num": 478,
+  "name": "Lost Item",
+  "url": "https://pokeapi.co/api/v2/item/lost-item",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "A Poké Doll lost by the Copycat who lives in Saffron City. Trade for a Pass.",
+  "sprite": "/items/lost-item.png"
+}

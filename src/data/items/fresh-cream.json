@@ -1,0 +1,12 @@
+{
+  "id": "fresh-cream",
+  "num": 1317,
+  "name": "Fresh Cream",
+  "url": "https://pokeapi.co/api/v2/item/fresh-cream",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/fresh-cream.png"
+}

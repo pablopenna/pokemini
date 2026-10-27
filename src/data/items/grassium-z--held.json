@@ -1,0 +1,12 @@
+{
+  "id": "grassium-z--held",
+  "num": 821,
+  "name": "Grassium Z",
+  "url": "https://pokeapi.co/api/v2/item/grassium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Grass moves.",
+  "sprite": "/items/grassium-z--held.png"
+}

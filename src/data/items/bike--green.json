@@ -1,0 +1,12 @@
+{
+  "id": "bike--green",
+  "num": 919,
+  "name": "Bike",
+  "url": "https://pokeapi.co/api/v2/item/bike--green",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for bike--green",
+  "sprite": "/items/bike--green.png"
+}

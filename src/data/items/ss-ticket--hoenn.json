@@ -1,0 +1,12 @@
+{
+  "id": "ss-ticket--hoenn",
+  "num": 933,
+  "name": "S.S. Ticket",
+  "url": "https://pokeapi.co/api/v2/item/ss-ticket--hoenn",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for ss-ticket--hoenn",
+  "sprite": "/items/ss-ticket--hoenn.png"
+}

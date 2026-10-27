@@ -1,0 +1,12 @@
+{
+  "id": "absorb-bulb",
+  "num": 588,
+  "name": "Absorb Bulb",
+  "url": "https://pokeapi.co/api/v2/item/absorb-bulb",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: Raises the holder’s Special Attack by one stage when it takes Water-type damage.",
+  "sprite": "/items/absorb-bulb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skwovet-fur",
+  "num": 1888,
+  "name": "Skwovet Fur",
+  "url": "https://pokeapi.co/api/v2/item/skwovet-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/skwovet-fur.png"
+}

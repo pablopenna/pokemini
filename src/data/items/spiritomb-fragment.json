@@ -1,0 +1,12 @@
+{
+  "id": "spiritomb-fragment",
+  "num": 1835,
+  "name": "Spiritomb Fragment",
+  "url": "https://pokeapi.co/api/v2/item/spiritomb-fragment",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/spiritomb-fragment.png"
+}

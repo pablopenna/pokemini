@@ -1,0 +1,12 @@
+{
+  "id": "fishing-rod",
+  "num": 879,
+  "name": "Fishing Rod",
+  "url": "https://pokeapi.co/api/v2/item/fishing-rod",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows the player to fish for Pokémon.",
+  "sprite": "/items/fishing-rod.png"
+}

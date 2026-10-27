@@ -1,0 +1,12 @@
+{
+  "id": "eiscue-down",
+  "num": 1904,
+  "name": "Eiscue Down",
+  "url": "https://pokeapi.co/api/v2/item/eiscue-down",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/eiscue-down.png"
+}

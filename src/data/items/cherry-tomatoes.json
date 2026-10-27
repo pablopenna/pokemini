@@ -1,0 +1,12 @@
+{
+  "id": "cherry-tomatoes",
+  "num": 1726,
+  "name": "Cherry Tomatoes",
+  "url": "https://pokeapi.co/api/v2/item/cherry-tomatoes",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/cherry-tomatoes.png"
+}

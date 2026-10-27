@@ -1,0 +1,12 @@
+{
+  "id": "hm03",
+  "num": 399,
+  "name": "HM03",
+  "url": "https://pokeapi.co/api/v2/item/hm03",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Surf to a compatible Pokémon.",
+  "sprite": "/items/hm03.png"
+}

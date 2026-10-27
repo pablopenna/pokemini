@@ -1,0 +1,12 @@
+{
+  "id": "sunkern-leaf",
+  "num": 1785,
+  "name": "Sunkern Leaf",
+  "url": "https://pokeapi.co/api/v2/item/sunkern-leaf",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/sunkern-leaf.png"
+}

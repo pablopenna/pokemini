@@ -1,0 +1,14 @@
+{
+  "id": "payapa-berry",
+  "num": 170,
+  "name": "Payapa Berry",
+  "url": "https://pokeapi.co/api/v2/item/payapa-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "type-protection",
+  "description": "Held: Consumed when struck by a super-effective Psychic-type attack to halve the damage.",
+  "sprite": "/items/payapa-berry.png"
+}

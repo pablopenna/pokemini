@@ -1,0 +1,12 @@
+{
+  "id": "ability-shield",
+  "num": 1697,
+  "name": "Ability Shield",
+  "url": "https://pokeapi.co/api/v2/item/ability-shield",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/ability-shield.png"
+}

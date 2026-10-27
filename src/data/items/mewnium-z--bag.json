@@ -1,0 +1,12 @@
+{
+  "id": "mewnium-z--bag",
+  "num": 965,
+  "name": "Mewnium Z",
+  "url": "https://pokeapi.co/api/v2/item/mewnium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for mewnium-z--bag",
+  "sprite": "/items/mewnium-z--bag.png"
+}

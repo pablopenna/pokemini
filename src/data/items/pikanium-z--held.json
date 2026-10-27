@@ -1,0 +1,12 @@
+{
+  "id": "pikanium-z--held",
+  "num": 835,
+  "name": "Pikanium Z",
+  "url": "https://pokeapi.co/api/v2/item/pikanium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows Pikachu to upgrade Volt Tackle into Catastropika.",
+  "sprite": "/items/pikanium-z--held.png"
+}

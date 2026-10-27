@@ -1,0 +1,12 @@
+{
+  "id": "air-mail",
+  "num": 123,
+  "name": "Air Mail",
+  "url": "https://pokeapi.co/api/v2/item/air-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/air-mail.png"
+}

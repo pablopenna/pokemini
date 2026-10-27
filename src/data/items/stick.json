@@ -1,0 +1,14 @@
+{
+  "id": "stick",
+  "num": 236,
+  "name": "Leek",
+  "url": "https://pokeapi.co/api/v2/item/stick",
+  "flingPower": 60,
+  "flingEffect": null,
+  "attributes": [
+    "holdable"
+  ],
+  "category": "species-specific",
+  "description": "Raises Farfetch’d’s critical hit ratio by two stages.",
+  "sprite": "/items/stick.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fluffy-tail",
+  "num": 64,
+  "name": "Fluffy Tail",
+  "url": "https://pokeapi.co/api/v2/item/fluffy-tail",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "spelunking",
+  "description": "Ends a wild battle.",
+  "sprite": "/items/fluffy-tail.png"
+}

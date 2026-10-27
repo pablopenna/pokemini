@@ -1,0 +1,12 @@
+{
+  "id": "sachet",
+  "num": 687,
+  "name": "Sachet",
+  "url": "https://pokeapi.co/api/v2/item/sachet",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Traded on a Spritzee: Holder evolves into Aromatisse.",
+  "sprite": "/items/sachet.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "berry-pots",
+  "num": 447,
+  "name": "Berry Pots",
+  "url": "https://pokeapi.co/api/v2/item/berry-pots",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows portable berry growing.",
+  "sprite": "/items/berry-pots.png"
+}

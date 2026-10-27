@@ -1,0 +1,12 @@
+{
+  "id": "geodude-fragment",
+  "num": 2125,
+  "name": "Geodude Fragment",
+  "url": "https://pokeapi.co/api/v2/item/geodude-fragment",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/geodude-fragment.png"
+}

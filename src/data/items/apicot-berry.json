@@ -1,0 +1,14 @@
+{
+  "id": "apicot-berry",
+  "num": 182,
+  "name": "Apicot Berry",
+  "url": "https://pokeapi.co/api/v2/item/apicot-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "in-a-pinch",
+  "description": "Held: Consumed at 1/4 max HP to boost Special Defense.",
+  "sprite": "/items/apicot-berry.png"
+}

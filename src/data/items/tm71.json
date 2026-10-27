@@ -1,0 +1,12 @@
+{
+  "id": "tm71",
+  "num": 375,
+  "name": "TM71",
+  "url": "https://pokeapi.co/api/v2/item/tm71",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Stone Edge to a compatible Pokémon.",
+  "sprite": "/items/tm71.png"
+}

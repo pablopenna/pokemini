@@ -1,0 +1,12 @@
+{
+  "id": "clothing-trunk",
+  "num": 1011,
+  "name": "Clothing Trunk",
+  "url": "https://pokeapi.co/api/v2/item/clothing-trunk",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "",
+  "sprite": "/items/clothing-trunk.png"
+}

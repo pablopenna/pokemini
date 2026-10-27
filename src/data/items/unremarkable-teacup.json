@@ -1,0 +1,12 @@
+{
+  "id": "unremarkable-teacup",
+  "num": 2110,
+  "name": "Unremarkable Teacup",
+  "url": "https://pokeapi.co/api/v2/item/unremarkable-teacup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/unremarkable-teacup.png"
+}

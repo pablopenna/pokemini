@@ -1,0 +1,12 @@
+{
+  "id": "dynamax-band",
+  "num": 1141,
+  "name": "Dynamax Band",
+  "url": "https://pokeapi.co/api/v2/item/dynamax-band",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/dynamax-band.png"
+}

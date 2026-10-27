@@ -1,0 +1,12 @@
+{
+  "id": "mawilite",
+  "num": 720,
+  "name": "Mawilite",
+  "url": "https://pokeapi.co/api/v2/item/mawilite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Mawile to Mega Evolve into Mega Mawile.",
+  "sprite": "/items/mawilite.png"
+}

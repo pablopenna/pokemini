@@ -1,0 +1,12 @@
+{
+  "id": "violet-book",
+  "num": 1671,
+  "name": "Violet Book",
+  "url": "https://pokeapi.co/api/v2/item/violet-book",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "",
+  "sprite": "/items/violet-book.png"
+}

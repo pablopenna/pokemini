@@ -1,0 +1,12 @@
+{
+  "id": "works-key",
+  "num": 415,
+  "name": "Works Key",
+  "url": "https://pokeapi.co/api/v2/item/works-key",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Grants access to Valley Windworks.",
+  "sprite": "/items/works-key.png"
+}

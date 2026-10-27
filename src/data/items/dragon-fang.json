@@ -1,0 +1,15 @@
+{
+  "id": "dragon-fang",
+  "num": 227,
+  "name": "Dragon Fang",
+  "url": "https://pokeapi.co/api/v2/item/dragon-fang",
+  "flingPower": 70,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Dragon-Type moves from holder do 20% more damage.",
+  "sprite": "/items/dragon-fang.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sceptilite",
+  "num": 794,
+  "name": "Sceptilite",
+  "url": "https://pokeapi.co/api/v2/item/sceptilite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Sceptile to Mega Evolve into Mega Sceptile.",
+  "sprite": "/items/sceptilite.png"
+}

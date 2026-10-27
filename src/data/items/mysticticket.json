@@ -1,0 +1,12 @@
+{
+  "id": "mysticticket",
+  "num": 556,
+  "name": "MysticTicket",
+  "url": "https://pokeapi.co/api/v2/item/mysticticket",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "Allows access to Navel Rock and Lugia or Ho-oh.",
+  "sprite": "/items/mysticticket.png"
+}

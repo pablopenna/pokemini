@@ -1,0 +1,12 @@
+{
+  "id": "data-card-17",
+  "num": 502,
+  "name": "Data Card 17",
+  "url": "https://pokeapi.co/api/v2/item/data-card-17",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer has come in first in the Pokéathlon Lamp Jump.",
+  "sprite": "/items/data-card-17.png"
+}

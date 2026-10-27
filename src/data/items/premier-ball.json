@@ -1,0 +1,17 @@
+{
+  "id": "premier-ball",
+  "num": 12,
+  "name": "Premier Ball",
+  "url": "https://pokeapi.co/api/v2/item/premier-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "special-balls",
+  "description": "Tries to catch a wild Pokémon.",
+  "sprite": "/items/premier-ball.png"
+}

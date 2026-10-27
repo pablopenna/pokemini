@@ -1,0 +1,12 @@
+{
+  "id": "tm20",
+  "num": 324,
+  "name": "TM20",
+  "url": "https://pokeapi.co/api/v2/item/tm20",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Safeguard to a compatible Pokémon. (Gen II: Endure Gen I: Rage)",
+  "sprite": "/items/tm20.png"
+}

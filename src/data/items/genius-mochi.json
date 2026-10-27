@@ -1,0 +1,12 @@
+{
+  "id": "genius-mochi",
+  "num": 2115,
+  "name": "Genius Mochi",
+  "url": "https://pokeapi.co/api/v2/item/genius-mochi",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/genius-mochi.png"
+}

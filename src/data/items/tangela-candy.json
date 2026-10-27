@@ -1,0 +1,12 @@
+{
+  "id": "tangela-candy",
+  "num": 1110,
+  "name": "Tangela Candy",
+  "url": "https://pokeapi.co/api/v2/item/tangela-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/tangela-candy.png"
+}

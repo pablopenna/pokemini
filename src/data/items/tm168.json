@@ -1,0 +1,12 @@
+{
+  "id": "tm168",
+  "num": 2011,
+  "name": "TM168",
+  "url": "https://pokeapi.co/api/v2/item/tm168",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tm168.png"
+}

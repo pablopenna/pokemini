@@ -1,0 +1,15 @@
+{
+  "id": "never-melt-ice",
+  "num": 223,
+  "name": "Never-Melt Ice",
+  "url": "https://pokeapi.co/api/v2/item/never-melt-ice",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Ice-Type moves from holder do 20% more damage.",
+  "sprite": "/items/never-melt-ice.png"
+}

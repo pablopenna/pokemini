@@ -1,0 +1,12 @@
+{
+  "id": "protector",
+  "num": 298,
+  "name": "Protector",
+  "url": "https://pokeapi.co/api/v2/item/protector",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Traded on a Rhydon: Holder evolves into Rhyperior.",
+  "sprite": "/items/protector.png"
+}

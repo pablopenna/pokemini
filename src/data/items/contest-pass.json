@@ -1,0 +1,12 @@
+{
+  "id": "contest-pass",
+  "num": 434,
+  "name": "Contest Pass",
+  "url": "https://pokeapi.co/api/v2/item/contest-pass",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows participation in Pokémon Contests.",
+  "sprite": "/items/contest-pass.png"
+}

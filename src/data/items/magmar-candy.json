@@ -1,0 +1,12 @@
+{
+  "id": "magmar-candy",
+  "num": 1137,
+  "name": "Magmar Candy",
+  "url": "https://pokeapi.co/api/v2/item/magmar-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/magmar-candy.png"
+}

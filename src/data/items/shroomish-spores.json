@@ -1,0 +1,12 @@
+{
+  "id": "shroomish-spores",
+  "num": 1803,
+  "name": "Shroomish Spores",
+  "url": "https://pokeapi.co/api/v2/item/shroomish-spores",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/shroomish-spores.png"
+}

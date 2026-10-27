@@ -1,0 +1,12 @@
+{
+  "id": "yanma-spike",
+  "num": 2132,
+  "name": "Yanma Spike",
+  "url": "https://pokeapi.co/api/v2/item/yanma-spike",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/yanma-spike.png"
+}

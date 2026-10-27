@@ -1,0 +1,15 @@
+{
+  "id": "miracle-seed",
+  "num": 216,
+  "name": "Miracle Seed",
+  "url": "https://pokeapi.co/api/v2/item/miracle-seed",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Grass-Type moves from holder do 20% more damage.",
+  "sprite": "/items/miracle-seed.png"
+}

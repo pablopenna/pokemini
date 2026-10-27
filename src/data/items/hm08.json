@@ -1,0 +1,12 @@
+{
+  "id": "hm08",
+  "num": 404,
+  "name": "HM08",
+  "url": "https://pokeapi.co/api/v2/item/hm08",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches a move to a compatible Pokémon. (Gen IV: Rock Climb Gen III: Dive)",
+  "sprite": "/items/hm08.png"
+}

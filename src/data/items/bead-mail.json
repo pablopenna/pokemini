@@ -1,0 +1,12 @@
+{
+  "id": "bead-mail",
+  "num": 521,
+  "name": "Bead Mail",
+  "url": "https://pokeapi.co/api/v2/item/bead-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/bead-mail.png"
+}

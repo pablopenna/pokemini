@@ -1,0 +1,15 @@
+{
+  "id": "sticky-barb",
+  "num": 265,
+  "name": "Sticky Barb",
+  "url": "https://pokeapi.co/api/v2/item/sticky-barb",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "bad-held-items",
+  "description": "Held: Holder takes 1/8 (12.5%) its max HP at the end of each turn. When the holder is hit by a contact move, the attacking Pokémon takes 1/8 its max HP in damage and receive the item if not holding one.",
+  "sprite": "/items/sticky-barb.png"
+}

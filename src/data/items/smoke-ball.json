@@ -1,0 +1,15 @@
+{
+  "id": "smoke-ball",
+  "num": 205,
+  "name": "Smoke Ball",
+  "url": "https://pokeapi.co/api/v2/item/smoke-ball",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Allows the Holder to escape from any wild battle.",
+  "sprite": "/items/smoke-ball.png"
+}

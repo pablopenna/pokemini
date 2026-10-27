@@ -1,0 +1,12 @@
+{
+  "id": "galarica-wreath",
+  "num": 1643,
+  "name": "Galarica Wreath",
+  "url": "https://pokeapi.co/api/v2/item/galarica-wreath",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "collectibles",
+  "description": "",
+  "sprite": "/items/galarica-wreath.png"
+}

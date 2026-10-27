@@ -1,0 +1,12 @@
+{
+  "id": "applin-juice",
+  "num": 1900,
+  "name": "Applin Juice",
+  "url": "https://pokeapi.co/api/v2/item/applin-juice",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/applin-juice.png"
+}

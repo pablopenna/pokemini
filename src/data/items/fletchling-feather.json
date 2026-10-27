@@ -1,0 +1,12 @@
+{
+  "id": "fletchling-feather",
+  "num": 1859,
+  "name": "Fletchling Feather",
+  "url": "https://pokeapi.co/api/v2/item/fletchling-feather",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/fletchling-feather.png"
+}

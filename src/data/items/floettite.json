@@ -1,0 +1,12 @@
+{
+  "id": "floettite",
+  "num": 2253,
+  "name": "Floettite",
+  "url": "https://pokeapi.co/api/v2/item/floettite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/floettite.png"
+}

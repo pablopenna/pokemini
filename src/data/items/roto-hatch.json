@@ -1,0 +1,12 @@
+{
+  "id": "roto-hatch",
+  "num": 995,
+  "name": "Roto Hatch",
+  "url": "https://pokeapi.co/api/v2/item/roto-hatch",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for roto-hatch",
+  "sprite": "/items/roto-hatch.png"
+}

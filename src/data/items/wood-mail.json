@@ -1,0 +1,12 @@
+{
+  "id": "wood-mail",
+  "num": 519,
+  "name": "Wood Mail",
+  "url": "https://pokeapi.co/api/v2/item/wood-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/wood-mail.png"
+}

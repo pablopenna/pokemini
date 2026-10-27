@@ -1,0 +1,12 @@
+{
+  "id": "cetoddle-grease",
+  "num": 1922,
+  "name": "Cetoddle Grease",
+  "url": "https://pokeapi.co/api/v2/item/cetoddle-grease",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/cetoddle-grease.png"
+}

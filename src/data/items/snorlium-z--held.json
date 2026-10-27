@@ -1,0 +1,12 @@
+{
+  "id": "snorlium-z--held",
+  "num": 845,
+  "name": "Snorlium Z",
+  "url": "https://pokeapi.co/api/v2/item/snorlium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows Snorlax to upgrade Giga Impact into Pulverizing Pancake.",
+  "sprite": "/items/snorlium-z--held.png"
+}

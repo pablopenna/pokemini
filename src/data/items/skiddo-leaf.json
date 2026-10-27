@@ -1,0 +1,12 @@
+{
+  "id": "skiddo-leaf",
+  "num": 1863,
+  "name": "Skiddo Leaf",
+  "url": "https://pokeapi.co/api/v2/item/skiddo-leaf",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/skiddo-leaf.png"
+}

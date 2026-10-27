@@ -1,0 +1,12 @@
+{
+  "id": "yellow-apricorn",
+  "num": 460,
+  "name": "Yellow Apricorn",
+  "url": "https://pokeapi.co/api/v2/item/yellow-apricorn",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "apricorn-box",
+  "description": "Used to make a Moon Ball.",
+  "sprite": "/items/yellow-apricorn.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tm07",
+  "num": 311,
+  "name": "TM07",
+  "url": "https://pokeapi.co/api/v2/item/tm07",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Hail to a compatible Pokémon. (Gen II: Zap Cannon Gen I: Horn Drill)",
+  "sprite": "/items/tm07.png"
+}

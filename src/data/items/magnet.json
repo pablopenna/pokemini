@@ -1,0 +1,15 @@
+{
+  "id": "magnet",
+  "num": 219,
+  "name": "Magnet",
+  "url": "https://pokeapi.co/api/v2/item/magnet",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Electric-Type moves from holder do 20% more damage.",
+  "sprite": "/items/magnet.png"
+}

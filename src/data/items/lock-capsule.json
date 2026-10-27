@@ -1,0 +1,12 @@
+{
+  "id": "lock-capsule",
+  "num": 513,
+  "name": "Lock Capsule",
+  "url": "https://pokeapi.co/api/v2/item/lock-capsule",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Contains TM95 (Snarl).",
+  "sprite": "/items/lock-capsule.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fairium-z--bag",
+  "num": 955,
+  "name": "Fairium Z",
+  "url": "https://pokeapi.co/api/v2/item/fairium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for fairium-z--bag",
+  "sprite": "/items/fairium-z--bag.png"
+}

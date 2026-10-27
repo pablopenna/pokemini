@@ -1,0 +1,12 @@
+{
+  "id": "grassium-z--bag",
+  "num": 942,
+  "name": "Grassium Z",
+  "url": "https://pokeapi.co/api/v2/item/grassium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for grassium-z--bag",
+  "sprite": "/items/grassium-z--bag.png"
+}

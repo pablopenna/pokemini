@@ -1,0 +1,12 @@
+{
+  "id": "n-solarizer--merge",
+  "num": 989,
+  "name": "N-Solarizer",
+  "url": "https://pokeapi.co/api/v2/item/n-solarizer--merge",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for n-solarizer--merge",
+  "sprite": "/items/n-solarizer--merge.png"
+}

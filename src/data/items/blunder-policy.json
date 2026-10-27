@@ -1,0 +1,12 @@
+{
+  "id": "blunder-policy",
+  "num": 1179,
+  "name": "Blunder Policy",
+  "url": "https://pokeapi.co/api/v2/item/blunder-policy",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/blunder-policy.png"
+}

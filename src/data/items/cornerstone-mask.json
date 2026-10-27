@@ -1,0 +1,12 @@
+{
+  "id": "cornerstone-mask",
+  "num": 2108,
+  "name": "Cornerstone Mask",
+  "url": "https://pokeapi.co/api/v2/item/cornerstone-mask",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/cornerstone-mask.png"
+}

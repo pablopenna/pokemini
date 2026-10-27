@@ -1,0 +1,12 @@
+{
+  "id": "relic-silver",
+  "num": 626,
+  "name": "Relic Silver",
+  "url": "https://pokeapi.co/api/v2/item/relic-silver",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Sell to Villa Owner 5000 Pokédollars.",
+  "sprite": "/items/relic-silver.png"
+}

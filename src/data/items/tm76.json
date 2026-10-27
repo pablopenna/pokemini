@@ -1,0 +1,12 @@
+{
+  "id": "tm76",
+  "num": 380,
+  "name": "TM76",
+  "url": "https://pokeapi.co/api/v2/item/tm76",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Struggle Bug to a compatible Pokémon. (Gen IV: Stealth Rock)",
+  "sprite": "/items/tm76.png"
+}

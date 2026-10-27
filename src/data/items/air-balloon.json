@@ -1,0 +1,12 @@
+{
+  "id": "air-balloon",
+  "num": 584,
+  "name": "Air Balloon",
+  "url": "https://pokeapi.co/api/v2/item/air-balloon",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: Grants immunity to Ground-type moves, Spikes, and Toxic Spikes. Consumed when the holder takes damage from a move.",
+  "sprite": "/items/air-balloon.png"
+}

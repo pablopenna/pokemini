@@ -1,0 +1,12 @@
+{
+  "id": "glalitite",
+  "num": 804,
+  "name": "Glalitite",
+  "url": "https://pokeapi.co/api/v2/item/glalitite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Glalie to Mega Evolve into Mega Glalie.",
+  "sprite": "/items/glalitite.png"
+}

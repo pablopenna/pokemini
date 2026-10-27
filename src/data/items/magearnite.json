@@ -1,0 +1,12 @@
+{
+  "id": "magearnite",
+  "num": 2273,
+  "name": "Magearnite",
+  "url": "https://pokeapi.co/api/v2/item/magearnite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/magearnite.png"
+}

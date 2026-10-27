@@ -1,0 +1,12 @@
+{
+  "id": "intriguing-stone",
+  "num": 736,
+  "name": "Intriguing Stone",
+  "url": "https://pokeapi.co/api/v2/item/intriguing-stone",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Trade for a Sun Stone in X and Y, or Pidgeotite in Omega Ruby and Alpha Sapphire.",
+  "sprite": "/items/intriguing-stone.png"
+}

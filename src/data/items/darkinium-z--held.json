@@ -1,0 +1,12 @@
+{
+  "id": "darkinium-z--held",
+  "num": 832,
+  "name": "Darkinium Z",
+  "url": "https://pokeapi.co/api/v2/item/darkinium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Dark moves.",
+  "sprite": "/items/darkinium-z--held.png"
+}

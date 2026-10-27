@@ -1,0 +1,12 @@
+{
+  "id": "tm19",
+  "num": 323,
+  "name": "TM19",
+  "url": "https://pokeapi.co/api/v2/item/tm19",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Telekinesis to a compatible Pokémon. (Gen IV & III & II: Giga Drain Gen I: Seismic Toss)",
+  "sprite": "/items/tm19.png"
+}

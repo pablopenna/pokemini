@@ -1,0 +1,12 @@
+{
+  "id": "tynamo-slime",
+  "num": 1851,
+  "name": "Tynamo Slime",
+  "url": "https://pokeapi.co/api/v2/item/tynamo-slime",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/tynamo-slime.png"
+}

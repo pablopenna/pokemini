@@ -1,0 +1,12 @@
+{
+  "id": "god-stone",
+  "num": 663,
+  "name": "god stone",
+  "url": "https://pokeapi.co/api/v2/item/god-stone",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Unknown.  Currently unused.",
+  "sprite": "/items/god-stone.png"
+}

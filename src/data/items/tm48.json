@@ -1,0 +1,12 @@
+{
+  "id": "tm48",
+  "num": 352,
+  "name": "TM48",
+  "url": "https://pokeapi.co/api/v2/item/tm48",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Round to a compatible Pokémon. (Gen IV & III: Skill Swap Gen II: Fire Punch Gen I: Rock Slide)",
+  "sprite": "/items/tm48.png"
+}

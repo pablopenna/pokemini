@@ -1,0 +1,12 @@
+{
+  "id": "room-service",
+  "num": 1180,
+  "name": "Room Service",
+  "url": "https://pokeapi.co/api/v2/item/room-service",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/room-service.png"
+}

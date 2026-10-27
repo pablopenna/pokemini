@@ -1,0 +1,14 @@
+{
+  "id": "light-ball",
+  "num": 213,
+  "name": "Light Ball",
+  "url": "https://pokeapi.co/api/v2/item/light-ball",
+  "flingPower": 30,
+  "flingEffect": "paralyze",
+  "attributes": [
+    "holdable"
+  ],
+  "category": "species-specific",
+  "description": "Doubles Pikachu’s Attack and Special Attack. Breed on Pikachu or Raichu: Pichu Egg will have Volt Tackle.",
+  "sprite": "/items/light-ball.png"
+}

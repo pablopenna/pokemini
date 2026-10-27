@@ -1,0 +1,12 @@
+{
+  "id": "sandshrew-candy",
+  "num": 1068,
+  "name": "Sandshrew Candy",
+  "url": "https://pokeapi.co/api/v2/item/sandshrew-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/sandshrew-candy.png"
+}

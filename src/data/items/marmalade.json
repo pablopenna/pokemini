@@ -1,0 +1,12 @@
+{
+  "id": "marmalade",
+  "num": 1716,
+  "name": "Marmalade",
+  "url": "https://pokeapi.co/api/v2/item/marmalade",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/marmalade.png"
+}

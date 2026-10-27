@@ -1,0 +1,12 @@
+{
+  "id": "whimsical-tablecloth",
+  "num": 2028,
+  "name": "Whimsical Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/whimsical-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/whimsical-tablecloth.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "vs-seeker",
+  "num": 420,
+  "name": "Vs. Seeker",
+  "url": "https://pokeapi.co/api/v2/item/vs-seeker",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows rebattling of on-screen trainers. 100 steps to recharge.",
+  "sprite": "/items/vs-seeker.png"
+}

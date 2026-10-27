@@ -1,0 +1,12 @@
+{
+  "id": "pikashunium-z--held",
+  "num": 877,
+  "name": "Pikashunium Z",
+  "url": "https://pokeapi.co/api/v2/item/pikashunium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows cap-wearing Pikachu to upgrade Thunderbolt into 10,000,000 Volt Thunderbolt.",
+  "sprite": "/items/pikashunium-z--held.png"
+}

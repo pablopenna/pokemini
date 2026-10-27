@@ -1,0 +1,12 @@
+{
+  "id": "steelium-z--held",
+  "num": 833,
+  "name": "Steelium Z",
+  "url": "https://pokeapi.co/api/v2/item/steelium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Steel moves.",
+  "sprite": "/items/steelium-z--held.png"
+}

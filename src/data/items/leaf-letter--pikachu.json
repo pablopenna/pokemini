@@ -1,0 +1,12 @@
+{
+  "id": "leaf-letter--pikachu",
+  "num": 1033,
+  "name": "Leaf Letter",
+  "url": "https://pokeapi.co/api/v2/item/leaf-letter--pikachu",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/leaf-letter--pikachu.png"
+}

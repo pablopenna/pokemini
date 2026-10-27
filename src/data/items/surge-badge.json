@@ -1,0 +1,12 @@
+{
+  "id": "surge-badge",
+  "num": 988,
+  "name": "Surge Badge",
+  "url": "https://pokeapi.co/api/v2/item/surge-badge",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for surge-badge",
+  "sprite": "/items/surge-badge.png"
+}

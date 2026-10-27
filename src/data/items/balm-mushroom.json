@@ -1,0 +1,12 @@
+{
+  "id": "balm-mushroom",
+  "num": 621,
+  "name": "Balm Mushroom",
+  "url": "https://pokeapi.co/api/v2/item/balm-mushroom",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Sell to Hungry Maid for 25000 Pokédollars.",
+  "sprite": "/items/balm-mushroom.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "slowpoke-claw",
+  "num": 1768,
+  "name": "Slowpoke Claw",
+  "url": "https://pokeapi.co/api/v2/item/slowpoke-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/slowpoke-claw.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fossilized-drake",
+  "num": 1165,
+  "name": "Fossilized Drake",
+  "url": "https://pokeapi.co/api/v2/item/fossilized-drake",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "dex-completion",
+  "description": "",
+  "sprite": "/items/fossilized-drake.png"
+}

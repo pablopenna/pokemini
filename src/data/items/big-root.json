@@ -1,0 +1,15 @@
+{
+  "id": "big-root",
+  "num": 273,
+  "name": "Big Root",
+  "url": "https://pokeapi.co/api/v2/item/big-root",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Increases HP recovered from draining moves, Ingrain, and Aqua Ring by 3/10 (30%).",
+  "sprite": "/items/big-root.png"
+}

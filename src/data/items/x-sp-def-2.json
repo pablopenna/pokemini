@@ -1,0 +1,12 @@
+{
+  "id": "x-sp-def-2",
+  "num": 636,
+  "name": "X Sp. Def 2",
+  "url": "https://pokeapi.co/api/v2/item/x-sp-def-2",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "miracle-shooter",
+  "description": "Raises Special Defense by two stages in battle.  Wonder Launcher only.",
+  "sprite": "/items/x-sp-def-2.png"
+}

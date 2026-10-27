@@ -1,0 +1,12 @@
+{
+  "id": "aqua-suit",
+  "num": 783,
+  "name": "Aqua Suit",
+  "url": "https://pokeapi.co/api/v2/item/aqua-suit",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Allows the player to ride Kyogre in the Cave of Origin.",
+  "sprite": "/items/aqua-suit.png"
+}

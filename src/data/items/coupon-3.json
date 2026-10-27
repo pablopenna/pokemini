@@ -1,0 +1,12 @@
+{
+  "id": "coupon-3",
+  "num": 439,
+  "name": "Coupon 3",
+  "url": "https://pokeapi.co/api/v2/item/coupon-3",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "The last of three tickets used to obtain a Pokétch.",
+  "sprite": "/items/coupon-3.png"
+}

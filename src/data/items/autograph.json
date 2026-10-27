@@ -1,0 +1,12 @@
+{
+  "id": "autograph",
+  "num": 1006,
+  "name": "Autograph",
+  "url": "https://pokeapi.co/api/v2/item/autograph",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "",
+  "sprite": "/items/autograph.png"
+}

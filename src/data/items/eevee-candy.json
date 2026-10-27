@@ -1,0 +1,12 @@
+{
+  "id": "eevee-candy",
+  "num": 1124,
+  "name": "Eevee Candy",
+  "url": "https://pokeapi.co/api/v2/item/eevee-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/eevee-candy.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "chandelurite",
+  "num": 2248,
+  "name": "Chandelurite",
+  "url": "https://pokeapi.co/api/v2/item/chandelurite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/chandelurite.png"
+}

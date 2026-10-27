@@ -1,0 +1,12 @@
+{
+  "id": "cleffa-fur",
+  "num": 2121,
+  "name": "Cleffa Fur",
+  "url": "https://pokeapi.co/api/v2/item/cleffa-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/cleffa-fur.png"
+}

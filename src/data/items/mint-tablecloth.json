@@ -1,0 +1,12 @@
+{
+  "id": "mint-tablecloth",
+  "num": 2075,
+  "name": "Mint Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/mint-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/mint-tablecloth.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "monstrous-tablecloth",
+  "num": 2070,
+  "name": "Monstrous Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/monstrous-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/monstrous-tablecloth.png"
+}

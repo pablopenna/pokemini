@@ -1,0 +1,15 @@
+{
+  "id": "silk-scarf",
+  "num": 228,
+  "name": "Silk Scarf",
+  "url": "https://pokeapi.co/api/v2/item/silk-scarf",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Normal-Type moves from holder do 20% more damage.",
+  "sprite": "/items/silk-scarf.png"
+}

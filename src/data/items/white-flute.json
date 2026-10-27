@@ -1,0 +1,17 @@
+{
+  "id": "white-flute",
+  "num": 69,
+  "name": "White Flute",
+  "url": "https://pokeapi.co/api/v2/item/white-flute",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "holdable"
+  ],
+  "category": "spelunking",
+  "description": "Doubles the wild Pokémon encounter rate.",
+  "sprite": "/items/white-flute.png"
+}

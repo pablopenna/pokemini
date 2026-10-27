@@ -1,0 +1,12 @@
+{
+  "id": "red-flag-pick",
+  "num": 2038,
+  "name": "Red-Flag Pick",
+  "url": "https://pokeapi.co/api/v2/item/red-flag-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/red-flag-pick.png"
+}

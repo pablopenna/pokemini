@@ -1,0 +1,12 @@
+{
+  "id": "radiant-petal",
+  "num": 1650,
+  "name": "Radiant Petal",
+  "url": "https://pokeapi.co/api/v2/item/radiant-petal",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/radiant-petal.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "gracidea",
+  "num": 444,
+  "name": "Gracidea",
+  "url": "https://pokeapi.co/api/v2/item/gracidea",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "Changes an unfrozen Shaymin to Sky Forme in the day.",
+  "sprite": "/items/gracidea.png"
+}

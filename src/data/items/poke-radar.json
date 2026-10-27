@@ -1,0 +1,12 @@
+{
+  "id": "poke-radar",
+  "num": 408,
+  "name": "Poké Radar",
+  "url": "https://pokeapi.co/api/v2/item/poke-radar",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Use to track down rare or shiny Pokémon. 50 steps to recharge.",
+  "sprite": "/items/poke-radar.png"
+}

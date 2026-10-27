@@ -1,0 +1,12 @@
+{
+  "id": "eon-ticket",
+  "num": 534,
+  "name": "Eon Ticket",
+  "url": "https://pokeapi.co/api/v2/item/eon-ticket",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "Provides access to Southern Island and Latias or Latios.",
+  "sprite": "/items/eon-ticket.png"
+}

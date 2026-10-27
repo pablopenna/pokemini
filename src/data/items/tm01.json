@@ -1,0 +1,12 @@
+{
+  "id": "tm01",
+  "num": 305,
+  "name": "TM01",
+  "url": "https://pokeapi.co/api/v2/item/tm01",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Hone Claws to a compatible Pokémon. (Gen IV & III: Focus Punch Gen II: DynamicPunch Gen I: Mega Punch)",
+  "sprite": "/items/tm01.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rock-incense",
+  "num": 292,
+  "name": "Rock Incense",
+  "url": "https://pokeapi.co/api/v2/item/rock-incense",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Rock-Type moves from holder do 20% more damage. Breeding: Sudowoodo begets a Bonsly Egg.",
+  "sprite": "/items/rock-incense.png"
+}

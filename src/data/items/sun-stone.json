@@ -1,0 +1,14 @@
+{
+  "id": "sun-stone",
+  "num": 80,
+  "name": "Sun Stone",
+  "url": "https://pokeapi.co/api/v2/item/sun-stone",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "evolution",
+  "description": "Evolves a Cottonee into Whimsicott, a Gloom into Bellossom, a Petilil into Lilligant, or a Sunkern into Sunflora.",
+  "sprite": "/items/sun-stone.png"
+}

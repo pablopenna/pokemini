@@ -1,0 +1,12 @@
+{
+  "id": "rsvp-mail",
+  "num": 570,
+  "name": "RSVP Mail",
+  "url": "https://pokeapi.co/api/v2/item/rsvp-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/rsvp-mail.png"
+}

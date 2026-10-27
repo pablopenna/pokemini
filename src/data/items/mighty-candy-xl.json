@@ -1,0 +1,12 @@
+{
+  "id": "mighty-candy-xl",
+  "num": 1053,
+  "name": "Mighty Candy XL",
+  "url": "https://pokeapi.co/api/v2/item/mighty-candy-xl",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/mighty-candy-xl.png"
+}

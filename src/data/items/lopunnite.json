@@ -1,0 +1,12 @@
+{
+  "id": "lopunnite",
+  "num": 809,
+  "name": "Lopunnite",
+  "url": "https://pokeapi.co/api/v2/item/lopunnite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Lopunny to Mega Evolve into Mega Lopunny.",
+  "sprite": "/items/lopunnite.png"
+}

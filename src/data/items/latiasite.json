@@ -1,0 +1,12 @@
+{
+  "id": "latiasite",
+  "num": 760,
+  "name": "Latiasite",
+  "url": "https://pokeapi.co/api/v2/item/latiasite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Latias to Mega Evolve into Mega Latias.",
+  "sprite": "/items/latiasite.png"
+}

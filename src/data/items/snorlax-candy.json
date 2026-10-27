@@ -1,0 +1,12 @@
+{
+  "id": "snorlax-candy",
+  "num": 1129,
+  "name": "Snorlax Candy",
+  "url": "https://pokeapi.co/api/v2/item/snorlax-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/snorlax-candy.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "poison-memory",
+  "num": 904,
+  "name": "Poison Memory",
+  "url": "https://pokeapi.co/api/v2/item/poison-memory",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "memories",
+  "description": "Held: Changes Silvally to its Poison form.  Changes Multi-Attack’s type to Poison.",
+  "sprite": "/items/poison-memory.png"
+}

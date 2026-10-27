@@ -1,0 +1,12 @@
+{
+  "id": "grass-mail",
+  "num": 114,
+  "name": "Grass Mail",
+  "url": "https://pokeapi.co/api/v2/item/grass-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/grass-mail.png"
+}

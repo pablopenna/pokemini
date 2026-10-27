@@ -1,0 +1,12 @@
+{
+  "id": "storage-key--galactic-warehouse",
+  "num": 920,
+  "name": "Storage Key",
+  "url": "https://pokeapi.co/api/v2/item/storage-key--galactic-warehouse",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for storage-key--galactic-warehouse",
+  "sprite": "/items/storage-key--galactic-warehouse.png"
+}

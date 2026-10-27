@@ -1,0 +1,12 @@
+{
+  "id": "parcel",
+  "num": 436,
+  "name": "Parcel",
+  "url": "https://pokeapi.co/api/v2/item/parcel",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Given to the trainer’s rival in Jubilife City. Contains Town Maps.",
+  "sprite": "/items/parcel.png"
+}

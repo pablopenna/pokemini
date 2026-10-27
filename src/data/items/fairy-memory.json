@@ -1,0 +1,12 @@
+{
+  "id": "fairy-memory",
+  "num": 918,
+  "name": "Fairy Memory",
+  "url": "https://pokeapi.co/api/v2/item/fairy-memory",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "memories",
+  "description": "Held: Changes Silvally to its Fairy form.  Changes Multi-Attack’s type to Fairy.",
+  "sprite": "/items/fairy-memory.png"
+}

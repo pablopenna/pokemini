@@ -1,0 +1,12 @@
+{
+  "id": "onix-candy",
+  "num": 1098,
+  "name": "Onix Candy",
+  "url": "https://pokeapi.co/api/v2/item/onix-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/onix-candy.png"
+}

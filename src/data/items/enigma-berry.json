@@ -1,0 +1,14 @@
+{
+  "id": "enigma-berry",
+  "num": 185,
+  "name": "Enigma Berry",
+  "url": "https://pokeapi.co/api/v2/item/enigma-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "other",
+  "description": "Held: Consumed when struck by a super-effective attack to restore 1/4 max HP.",
+  "sprite": "/items/enigma-berry.png"
+}

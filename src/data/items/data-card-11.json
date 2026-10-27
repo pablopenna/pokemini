@@ -1,0 +1,12 @@
+{
+  "id": "data-card-11",
+  "num": 496,
+  "name": "Data Card 11",
+  "url": "https://pokeapi.co/api/v2/item/data-card-11",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of points the trainer has earned in the Pokéathlon.",
+  "sprite": "/items/data-card-11.png"
+}

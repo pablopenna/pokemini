@@ -1,0 +1,18 @@
+{
+  "id": "elixir",
+  "num": 40,
+  "name": "Elixir",
+  "url": "https://pokeapi.co/api/v2/item/elixir",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "pp-recovery",
+  "description": "Restores 10 PP for each move.",
+  "sprite": "/items/elixir.png"
+}

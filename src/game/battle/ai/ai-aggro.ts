@@ -27,7 +27,7 @@ export class AiAggro extends BattleStreams.BattlePlayer {
     if ('forceSwitch' in request && request.forceSwitch) {
       const pokemon = request.side.pokemon;
       const chosen: number[] = [];
-      const choices = request.forceSwitch.map((mustSwitch: boolean, i: number) => {
+      const choices = request.forceSwitch.map((mustSwitch: boolean, _i: number) => {
         if (!mustSwitch) return 'pass';
         const canSwitch = [];
         for (let j = 1; j <= 6; j++) {

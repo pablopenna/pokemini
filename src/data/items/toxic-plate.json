@@ -1,0 +1,16 @@
+{
+  "id": "toxic-plate",
+  "num": 281,
+  "name": "Toxic Plate",
+  "url": "https://pokeapi.co/api/v2/item/toxic-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Poison-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Poison.",
+  "sprite": "/items/toxic-plate.png"
+}

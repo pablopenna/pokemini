@@ -1,0 +1,12 @@
+{
+  "id": "chili-sauce",
+  "num": 1709,
+  "name": "Chili Sauce",
+  "url": "https://pokeapi.co/api/v2/item/chili-sauce",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/chili-sauce.png"
+}

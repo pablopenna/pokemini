@@ -1,0 +1,12 @@
+{
+  "id": "ability-capsule",
+  "num": 685,
+  "name": "Ability Capsule",
+  "url": "https://pokeapi.co/api/v2/item/ability-capsule",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "Switches a Pokémon between its two possible (non-Hidden) Abilities.",
+  "sprite": "/items/ability-capsule.png"
+}

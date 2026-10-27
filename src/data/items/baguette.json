@@ -1,0 +1,12 @@
+{
+  "id": "baguette",
+  "num": 1703,
+  "name": "Baguette",
+  "url": "https://pokeapi.co/api/v2/item/baguette",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/baguette.png"
+}

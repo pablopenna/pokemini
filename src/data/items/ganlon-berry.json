@@ -1,0 +1,14 @@
+{
+  "id": "ganlon-berry",
+  "num": 179,
+  "name": "Ganlon Berry",
+  "url": "https://pokeapi.co/api/v2/item/ganlon-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "in-a-pinch",
+  "description": "Held: Consumed at 1/4 max HP to boost Defense.",
+  "sprite": "/items/ganlon-berry.png"
+}

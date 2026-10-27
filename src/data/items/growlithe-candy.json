@@ -1,0 +1,12 @@
+{
+  "id": "growlithe-candy",
+  "num": 1082,
+  "name": "Growlithe Candy",
+  "url": "https://pokeapi.co/api/v2/item/growlithe-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/growlithe-candy.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "basculin-fang",
+  "num": 1844,
+  "name": "Basculin Fang",
+  "url": "https://pokeapi.co/api/v2/item/basculin-fang",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/basculin-fang.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tm15",
+  "num": 319,
+  "name": "TM15",
+  "url": "https://pokeapi.co/api/v2/item/tm15",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Hyper Beam to a compatible Pokémon.",
+  "sprite": "/items/tm15.png"
+}

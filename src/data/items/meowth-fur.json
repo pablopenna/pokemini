@@ -1,0 +1,12 @@
+{
+  "id": "meowth-fur",
+  "num": 1764,
+  "name": "Meowth Fur",
+  "url": "https://pokeapi.co/api/v2/item/meowth-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/meowth-fur.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "meadow-plate",
+  "num": 278,
+  "name": "Meadow Plate",
+  "url": "https://pokeapi.co/api/v2/item/meadow-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Grass-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Grass.",
+  "sprite": "/items/meadow-plate.png"
+}

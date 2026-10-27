@@ -1,0 +1,12 @@
+{
+  "id": "prop-case",
+  "num": 619,
+  "name": "Prop Case",
+  "url": "https://pokeapi.co/api/v2/item/prop-case",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Stores props for the Pokémon Musical.",
+  "sprite": "/items/prop-case.png"
+}

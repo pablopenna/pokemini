@@ -1,0 +1,12 @@
+{
+  "id": "tr18",
+  "num": 1206,
+  "name": "TR18",
+  "url": "https://pokeapi.co/api/v2/item/tr18",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tr18.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "omanyte-candy",
+  "num": 1126,
+  "name": "Omanyte Candy",
+  "url": "https://pokeapi.co/api/v2/item/omanyte-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/omanyte-candy.png"
+}

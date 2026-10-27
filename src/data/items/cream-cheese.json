@@ -1,0 +1,12 @@
+{
+  "id": "cream-cheese",
+  "num": 1714,
+  "name": "Cream Cheese",
+  "url": "https://pokeapi.co/api/v2/item/cream-cheese",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/cream-cheese.png"
+}

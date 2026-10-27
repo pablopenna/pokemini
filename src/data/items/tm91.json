@@ -1,0 +1,12 @@
+{
+  "id": "tm91",
+  "num": 395,
+  "name": "TM91",
+  "url": "https://pokeapi.co/api/v2/item/tm91",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Flash Cannon to a compatible Pokémon.",
+  "sprite": "/items/tm91.png"
+}

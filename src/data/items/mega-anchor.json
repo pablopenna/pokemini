@@ -1,0 +1,12 @@
+{
+  "id": "mega-anchor",
+  "num": 788,
+  "name": "Mega Anchor",
+  "url": "https://pokeapi.co/api/v2/item/mega-anchor",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Unused NPC Key Stone.",
+  "sprite": "/items/mega-anchor.png"
+}

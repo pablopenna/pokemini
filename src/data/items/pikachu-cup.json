@@ -1,0 +1,12 @@
+{
+  "id": "pikachu-cup",
+  "num": 2060,
+  "name": "Pikachu Cup",
+  "url": "https://pokeapi.co/api/v2/item/pikachu-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/pikachu-cup.png"
+}

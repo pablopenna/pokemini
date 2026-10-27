@@ -1,0 +1,12 @@
+{
+  "id": "tm61",
+  "num": 365,
+  "name": "TM61",
+  "url": "https://pokeapi.co/api/v2/item/tm61",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Will-O-Wisp to a compatible Pokémon.",
+  "sprite": "/items/tm61.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "grassy-seed",
+  "num": 901,
+  "name": "Grassy Seed",
+  "url": "https://pokeapi.co/api/v2/item/grassy-seed",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: Consumed on Grassy Terrain and raises the holder’s Defense by one stage.",
+  "sprite": "/items/grassy-seed.png"
+}

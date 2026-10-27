@@ -1,0 +1,12 @@
+{
+  "id": "red-orb",
+  "num": 467,
+  "name": "Red Orb",
+  "url": "https://pokeapi.co/api/v2/item/red-orb",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Summons Groudon to the Embedded Tower.",
+  "sprite": "/items/red-orb.png"
+}

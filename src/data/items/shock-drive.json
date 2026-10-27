@@ -1,0 +1,12 @@
+{
+  "id": "shock-drive",
+  "num": 564,
+  "name": "Shock Drive",
+  "url": "https://pokeapi.co/api/v2/item/shock-drive",
+  "flingPower": 70,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-specific",
+  "description": "Grants Genesect a yellow, Electric-type Techno Blast.",
+  "sprite": "/items/shock-drive.png"
+}

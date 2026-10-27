@@ -1,0 +1,12 @@
+{
+  "id": "photo-album",
+  "num": 514,
+  "name": "Photo Album",
+  "url": "https://pokeapi.co/api/v2/item/photo-album",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Stores photos from your adventure.",
+  "sprite": "/items/photo-album.png"
+}

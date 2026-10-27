@@ -1,0 +1,12 @@
+{
+  "id": "pikachu-candy",
+  "num": 1067,
+  "name": "Pikachu Candy",
+  "url": "https://pokeapi.co/api/v2/item/pikachu-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/pikachu-candy.png"
+}

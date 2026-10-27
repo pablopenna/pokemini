@@ -1,0 +1,12 @@
+{
+  "id": "magical-heart-pick",
+  "num": 2089,
+  "name": "Magical Heart Pick",
+  "url": "https://pokeapi.co/api/v2/item/magical-heart-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/magical-heart-pick.png"
+}

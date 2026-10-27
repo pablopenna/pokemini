@@ -1,0 +1,12 @@
+{
+  "id": "tm187",
+  "num": 2176,
+  "name": "TM187",
+  "url": "https://pokeapi.co/api/v2/item/tm187",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tm187.png"
+}

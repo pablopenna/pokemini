@@ -1,0 +1,12 @@
+{
+  "id": "jangmo-o-scales",
+  "num": 2156,
+  "name": "Jangmo-o Scales",
+  "url": "https://pokeapi.co/api/v2/item/jangmo-o-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/jangmo-o-scales.png"
+}

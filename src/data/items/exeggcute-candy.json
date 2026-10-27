@@ -1,0 +1,12 @@
+{
+  "id": "exeggcute-candy",
+  "num": 1102,
+  "name": "Exeggcute Candy",
+  "url": "https://pokeapi.co/api/v2/item/exeggcute-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/exeggcute-candy.png"
+}

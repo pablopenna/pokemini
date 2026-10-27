@@ -1,0 +1,12 @@
+{
+  "id": "rotom-bike--water-mode",
+  "num": 1324,
+  "name": "Rotom Bike",
+  "url": "https://pokeapi.co/api/v2/item/rotom-bike--water-mode",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "",
+  "sprite": "/items/rotom-bike--water-mode.png"
+}

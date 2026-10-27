@@ -1,0 +1,12 @@
+{
+  "id": "poisonium-z--held",
+  "num": 824,
+  "name": "Poisonium Z",
+  "url": "https://pokeapi.co/api/v2/item/poisonium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Poison moves.",
+  "sprite": "/items/poisonium-z--held.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "azurill-fur",
+  "num": 1806,
+  "name": "Azurill Fur",
+  "url": "https://pokeapi.co/api/v2/item/azurill-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/azurill-fur.png"
+}

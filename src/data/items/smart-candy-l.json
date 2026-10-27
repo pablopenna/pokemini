@@ -1,0 +1,12 @@
+{
+  "id": "smart-candy-l",
+  "num": 1049,
+  "name": "Smart Candy L",
+  "url": "https://pokeapi.co/api/v2/item/smart-candy-l",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/smart-candy-l.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "old-sea-map",
+  "num": 562,
+  "name": "Old Sea Map",
+  "url": "https://pokeapi.co/api/v2/item/old-sea-map",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "Allows access to Faraway Island and Mew. Unreleased outside of Japan.",
+  "sprite": "/items/old-sea-map.png"
+}

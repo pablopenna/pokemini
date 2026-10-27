@@ -1,0 +1,18 @@
+{
+  "id": "max-ether",
+  "num": 39,
+  "name": "Max Ether",
+  "url": "https://pokeapi.co/api/v2/item/max-ether",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "pp-recovery",
+  "description": "Restores PP to full for one move.",
+  "sprite": "/items/max-ether.png"
+}

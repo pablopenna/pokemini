@@ -1,0 +1,12 @@
+{
+  "id": "ghost-tera-shard",
+  "num": 1691,
+  "name": "Ghost Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/ghost-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/ghost-tera-shard.png"
+}

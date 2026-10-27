@@ -1,0 +1,12 @@
+{
+  "id": "rookidee-feather",
+  "num": 1890,
+  "name": "Rookidee Feather",
+  "url": "https://pokeapi.co/api/v2/item/rookidee-feather",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/rookidee-feather.png"
+}

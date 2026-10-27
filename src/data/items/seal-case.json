@@ -1,0 +1,12 @@
+{
+  "id": "seal-case",
+  "num": 411,
+  "name": "Seal Case",
+  "url": "https://pokeapi.co/api/v2/item/seal-case",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Stores Seals that can be applied to Poké Ball capsules.",
+  "sprite": "/items/seal-case.png"
+}

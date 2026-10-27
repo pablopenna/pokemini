@@ -1,0 +1,14 @@
+{
+  "id": "pink-scarf",
+  "num": 239,
+  "name": "Pink Scarf",
+  "url": "https://pokeapi.co/api/v2/item/pink-scarf",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "scarves",
+  "description": "Raises the holder’s Cuteness while in a contest.",
+  "sprite": "/items/pink-scarf.png"
+}

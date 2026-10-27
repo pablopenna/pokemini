@@ -1,0 +1,12 @@
+{
+  "id": "mega-cuff",
+  "num": 807,
+  "name": "Mega Cuff",
+  "url": "https://pokeapi.co/api/v2/item/mega-cuff",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Unused Key Stone.",
+  "sprite": "/items/mega-cuff.png"
+}

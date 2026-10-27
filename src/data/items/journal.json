@@ -1,0 +1,12 @@
+{
+  "id": "journal",
+  "num": 410,
+  "name": "Journal",
+  "url": "https://pokeapi.co/api/v2/item/journal",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Records prior significant activities the player took.",
+  "sprite": "/items/journal.png"
+}

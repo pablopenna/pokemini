@@ -1,0 +1,12 @@
+{
+  "id": "toxel-sparks",
+  "num": 1891,
+  "name": "Toxel Sparks",
+  "url": "https://pokeapi.co/api/v2/item/toxel-sparks",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/toxel-sparks.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "wingull-feather",
+  "num": 1800,
+  "name": "Wingull Feather",
+  "url": "https://pokeapi.co/api/v2/item/wingull-feather",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/wingull-feather.png"
+}

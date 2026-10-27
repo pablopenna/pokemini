@@ -1,0 +1,12 @@
+{
+  "id": "fancy-apple",
+  "num": 1153,
+  "name": "Fancy Apple",
+  "url": "https://pokeapi.co/api/v2/item/fancy-apple",
+  "flingPower": 20,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/fancy-apple.png"
+}

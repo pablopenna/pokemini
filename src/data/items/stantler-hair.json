@@ -1,0 +1,12 @@
+{
+  "id": "stantler-hair",
+  "num": 1798,
+  "name": "Stantler Hair",
+  "url": "https://pokeapi.co/api/v2/item/stantler-hair",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/stantler-hair.png"
+}

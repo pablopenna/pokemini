@@ -1,0 +1,15 @@
+{
+  "id": "shed-shell",
+  "num": 272,
+  "name": "Shed Shell",
+  "url": "https://pokeapi.co/api/v2/item/shed-shell",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Holder can bypass all trapping effects and switch out. Multi-turn moves still cannot be switched out of.",
+  "sprite": "/items/shed-shell.png"
+}

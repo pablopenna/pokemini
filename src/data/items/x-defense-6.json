@@ -1,0 +1,12 @@
+{
+  "id": "x-defense-6",
+  "num": 649,
+  "name": "X Defense 6",
+  "url": "https://pokeapi.co/api/v2/item/x-defense-6",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "miracle-shooter",
+  "description": "Raises Defense by six stages in battle.  Wonder Launcher only.",
+  "sprite": "/items/x-defense-6.png"
+}

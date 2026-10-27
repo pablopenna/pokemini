@@ -1,0 +1,15 @@
+{
+  "id": "toxic-orb",
+  "num": 249,
+  "name": "Toxic Orb",
+  "url": "https://pokeapi.co/api/v2/item/toxic-orb",
+  "flingPower": 30,
+  "flingEffect": "badly-poison",
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "bad-held-items",
+  "description": "Held: Inflicts Toxic on the holder at the end of the turn. Activates after Poison damage would occur.",
+  "sprite": "/items/toxic-orb.png"
+}

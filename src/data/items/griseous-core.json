@@ -1,0 +1,12 @@
+{
+  "id": "griseous-core",
+  "num": 1661,
+  "name": "Griseous Core",
+  "url": "https://pokeapi.co/api/v2/item/griseous-core",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/griseous-core.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "rotom-catalog",
+  "num": 1329,
+  "name": "Rotom Catalog",
+  "url": "https://pokeapi.co/api/v2/item/rotom-catalog",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/rotom-catalog.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "power-anklet",
+  "num": 270,
+  "name": "Power Anklet",
+  "url": "https://pokeapi.co/api/v2/item/power-anklet",
+  "flingPower": 70,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "effort-training",
+  "description": "Held: Holder gains 4 Speed effort values, but has halved Speed in battle.",
+  "sprite": "/items/power-anklet.png"
+}

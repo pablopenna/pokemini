@@ -1,0 +1,12 @@
+{
+  "id": "contest-costume--dress",
+  "num": 934,
+  "name": "Contest Costume",
+  "url": "https://pokeapi.co/api/v2/item/contest-costume--dress",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for contest-costume--dress",
+  "sprite": "/items/contest-costume--dress.png"
+}

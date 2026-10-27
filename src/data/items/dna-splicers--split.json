@@ -1,0 +1,12 @@
+{
+  "id": "dna-splicers--split",
+  "num": 925,
+  "name": "DNA Splicers",
+  "url": "https://pokeapi.co/api/v2/item/dna-splicers--split",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for dna-splicers--split",
+  "sprite": "/items/dna-splicers--split.png"
+}

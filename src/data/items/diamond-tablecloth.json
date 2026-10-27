@@ -1,0 +1,12 @@
+{
+  "id": "diamond-tablecloth",
+  "num": 2072,
+  "name": "Diamond Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/diamond-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/diamond-tablecloth.png"
+}

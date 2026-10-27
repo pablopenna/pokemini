@@ -1,0 +1,12 @@
+{
+  "id": "packaged-curry",
+  "num": 1318,
+  "name": "Packaged Curry",
+  "url": "https://pokeapi.co/api/v2/item/packaged-curry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/packaged-curry.png"
+}

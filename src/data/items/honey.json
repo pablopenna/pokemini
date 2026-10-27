@@ -1,0 +1,12 @@
+{
+  "id": "honey",
+  "num": 94,
+  "name": "Honey",
+  "url": "https://pokeapi.co/api/v2/item/honey",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "dex-completion",
+  "description": "",
+  "sprite": "/items/honey.png"
+}

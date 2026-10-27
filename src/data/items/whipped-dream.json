@@ -1,0 +1,12 @@
+{
+  "id": "whipped-dream",
+  "num": 686,
+  "name": "Whipped Dream",
+  "url": "https://pokeapi.co/api/v2/item/whipped-dream",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Traded on a Swirlix: Holder evolves into Slurpuff.",
+  "sprite": "/items/whipped-dream.png"
+}

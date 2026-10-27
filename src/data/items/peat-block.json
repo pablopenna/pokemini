@@ -1,0 +1,12 @@
+{
+  "id": "peat-block",
+  "num": 2231,
+  "name": "Peat Block",
+  "url": "https://pokeapi.co/api/v2/item/peat-block",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/peat-block.png"
+}

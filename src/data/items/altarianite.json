@@ -1,0 +1,12 @@
+{
+  "id": "altarianite",
+  "num": 796,
+  "name": "Altarianite",
+  "url": "https://pokeapi.co/api/v2/item/altarianite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Altaria to Mega Evolve into Mega Altaria.",
+  "sprite": "/items/altarianite.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "kelpsy-berry",
+  "num": 147,
+  "name": "Kelpsy Berry",
+  "url": "https://pokeapi.co/api/v2/item/kelpsy-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "effort-drop",
+  "description": "Drops Attack Effort Values by 10 and raises happiness.",
+  "sprite": "/items/kelpsy-berry.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "protective-pads",
+  "num": 897,
+  "name": "Protective Pads",
+  "url": "https://pokeapi.co/api/v2/item/protective-pads",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: Prevents side effects of contact moves used on the holder.",
+  "sprite": "/items/protective-pads.png"
+}

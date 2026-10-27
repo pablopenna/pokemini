@@ -1,0 +1,12 @@
+{
+  "id": "delphoxite",
+  "num": 2250,
+  "name": "Delphoxite",
+  "url": "https://pokeapi.co/api/v2/item/delphoxite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/delphoxite.png"
+}

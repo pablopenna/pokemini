@@ -1,0 +1,12 @@
+{
+  "id": "lucarionite",
+  "num": 712,
+  "name": "Lucarionite",
+  "url": "https://pokeapi.co/api/v2/item/lucarionite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Lucario to Mega Evolve into Mega Lucario.",
+  "sprite": "/items/lucarionite.png"
+}

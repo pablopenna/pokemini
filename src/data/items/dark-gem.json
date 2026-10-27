@@ -1,0 +1,12 @@
+{
+  "id": "dark-gem",
+  "num": 604,
+  "name": "Dark Gem",
+  "url": "https://pokeapi.co/api/v2/item/dark-gem",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "jewels",
+  "description": "Held: When the holder uses a damaging Dark-type move, the move has 1.5× power and this item is consumed.",
+  "sprite": "/items/dark-gem.png"
+}

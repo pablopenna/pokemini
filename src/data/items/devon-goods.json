@@ -1,0 +1,12 @@
+{
+  "id": "devon-goods",
+  "num": 530,
+  "name": "Devon Goods",
+  "url": "https://pokeapi.co/api/v2/item/devon-goods",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Contains mechanical parts to be delivered to Captain Stern.",
+  "sprite": "/items/devon-goods.png"
+}

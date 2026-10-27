@@ -1,0 +1,12 @@
+{
+  "id": "beast-ball",
+  "num": 887,
+  "name": "Beast Ball",
+  "url": "https://pokeapi.co/api/v2/item/beast-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "special-balls",
+  "description": "Tries to catch a wild Pokémon.  Success rate is 5× for Ultra Beasts and 0.1× for all other Pokémon.",
+  "sprite": "/items/beast-ball.png"
+}

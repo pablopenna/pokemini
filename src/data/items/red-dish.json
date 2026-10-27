@@ -1,0 +1,12 @@
+{
+  "id": "red-dish",
+  "num": 2097,
+  "name": "Red Dish",
+  "url": "https://pokeapi.co/api/v2/item/red-dish",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/red-dish.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "serious-mint",
+  "num": 1309,
+  "name": "Serious Mint",
+  "url": "https://pokeapi.co/api/v2/item/serious-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/serious-mint.png"
+}

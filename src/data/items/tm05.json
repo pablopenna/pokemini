@@ -1,0 +1,12 @@
+{
+  "id": "tm05",
+  "num": 309,
+  "name": "TM05",
+  "url": "https://pokeapi.co/api/v2/item/tm05",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Roar to a compatible Pokémon. (Gen I: Mega Kick)",
+  "sprite": "/items/tm05.png"
+}

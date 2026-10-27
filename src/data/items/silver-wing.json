@@ -1,0 +1,12 @@
+{
+  "id": "silver-wing",
+  "num": 481,
+  "name": "Silver Wing",
+  "url": "https://pokeapi.co/api/v2/item/silver-wing",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Summons Lugia to the Whirl Islands.",
+  "sprite": "/items/silver-wing.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tm-case",
+  "num": 550,
+  "name": "TM Case",
+  "url": "https://pokeapi.co/api/v2/item/tm-case",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Holds TMs.",
+  "sprite": "/items/tm-case.png"
+}

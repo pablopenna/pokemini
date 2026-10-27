@@ -1,0 +1,16 @@
+{
+  "id": "insect-plate",
+  "num": 285,
+  "name": "Insect Plate",
+  "url": "https://pokeapi.co/api/v2/item/insect-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Bug-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Bug.",
+  "sprite": "/items/insect-plate.png"
+}

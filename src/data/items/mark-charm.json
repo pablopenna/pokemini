@@ -1,0 +1,12 @@
+{
+  "id": "mark-charm",
+  "num": 1640,
+  "name": "Mark Charm",
+  "url": "https://pokeapi.co/api/v2/item/mark-charm",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/mark-charm.png"
+}

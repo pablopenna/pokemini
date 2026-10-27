@@ -1,0 +1,12 @@
+{
+  "id": "hoppip-leaf",
+  "num": 1784,
+  "name": "Hoppip Leaf",
+  "url": "https://pokeapi.co/api/v2/item/hoppip-leaf",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/hoppip-leaf.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mega-charm",
+  "num": 768,
+  "name": "Mega Charm",
+  "url": "https://pokeapi.co/api/v2/item/mega-charm",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Unused Key Stone.",
+  "sprite": "/items/mega-charm.png"
+}

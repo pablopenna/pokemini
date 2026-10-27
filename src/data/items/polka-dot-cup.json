@@ -1,0 +1,12 @@
+{
+  "id": "polka-dot-cup",
+  "num": 2024,
+  "name": "Polka-Dot Cup",
+  "url": "https://pokeapi.co/api/v2/item/polka-dot-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/polka-dot-cup.png"
+}

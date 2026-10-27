@@ -1,0 +1,12 @@
+{
+  "id": "murkrow-bauble",
+  "num": 1786,
+  "name": "Murkrow Bauble",
+  "url": "https://pokeapi.co/api/v2/item/murkrow-bauble",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/murkrow-bauble.png"
+}

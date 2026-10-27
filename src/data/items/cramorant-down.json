@@ -1,0 +1,12 @@
+{
+  "id": "cramorant-down",
+  "num": 2157,
+  "name": "Cramorant Down",
+  "url": "https://pokeapi.co/api/v2/item/cramorant-down",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/cramorant-down.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "munchlax-fang",
+  "num": 2127,
+  "name": "Munchlax Fang",
+  "url": "https://pokeapi.co/api/v2/item/munchlax-fang",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/munchlax-fang.png"
+}

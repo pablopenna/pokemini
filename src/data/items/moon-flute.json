@@ -1,0 +1,12 @@
+{
+  "id": "moon-flute",
+  "num": 894,
+  "name": "Moon Flute",
+  "url": "https://pokeapi.co/api/v2/item/moon-flute",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Evolves Nebby into Lunala when used at the Altar of the Moone.",
+  "sprite": "/items/moon-flute.png"
+}

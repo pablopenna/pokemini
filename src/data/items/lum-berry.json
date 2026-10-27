@@ -1,0 +1,14 @@
+{
+  "id": "lum-berry",
+  "num": 134,
+  "name": "Lum Berry",
+  "url": "https://pokeapi.co/api/v2/item/lum-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "medicine",
+  "description": "Held: Consumed to cure any status condition or confusion.",
+  "sprite": "/items/lum-berry.png"
+}

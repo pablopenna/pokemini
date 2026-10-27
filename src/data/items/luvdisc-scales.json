@@ -1,0 +1,12 @@
+{
+  "id": "luvdisc-scales",
+  "num": 1821,
+  "name": "Luvdisc Scales",
+  "url": "https://pokeapi.co/api/v2/item/luvdisc-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/luvdisc-scales.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ss-ticket",
+  "num": 433,
+  "name": "S.S. Ticket",
+  "url": "https://pokeapi.co/api/v2/item/ss-ticket",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Ticket for a ship. (RSE: S.S. Tidal LF: S.S. Anne HG: S.S. Aqua)",
+  "sprite": "/items/ss-ticket.png"
+}

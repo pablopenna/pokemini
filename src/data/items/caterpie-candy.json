@@ -1,0 +1,12 @@
+{
+  "id": "caterpie-candy",
+  "num": 1061,
+  "name": "Caterpie Candy",
+  "url": "https://pokeapi.co/api/v2/item/caterpie-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/caterpie-candy.png"
+}

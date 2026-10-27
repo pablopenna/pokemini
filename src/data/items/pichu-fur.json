@@ -1,0 +1,12 @@
+{
+  "id": "pichu-fur",
+  "num": 1781,
+  "name": "Pichu Fur",
+  "url": "https://pokeapi.co/api/v2/item/pichu-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/pichu-fur.png"
+}

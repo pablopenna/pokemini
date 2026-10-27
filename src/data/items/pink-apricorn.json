@@ -1,0 +1,12 @@
+{
+  "id": "pink-apricorn",
+  "num": 462,
+  "name": "Pink Apricorn",
+  "url": "https://pokeapi.co/api/v2/item/pink-apricorn",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "apricorn-box",
+  "description": "Used to make a Love Ball.",
+  "sprite": "/items/pink-apricorn.png"
+}

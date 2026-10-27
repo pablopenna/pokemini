@@ -1,0 +1,12 @@
+{
+  "id": "rage-candy-bar",
+  "num": 466,
+  "name": "Rage Candy Bar",
+  "url": "https://pokeapi.co/api/v2/item/rage-candy-bar",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "HS: Traded for TM64. Gen II & Gen V: Acts as a Potion.",
+  "sprite": "/items/rage-candy-bar.png"
+}

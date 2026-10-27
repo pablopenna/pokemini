@@ -61,7 +61,7 @@
 {:else}
   <main>
     {#if showDebugMenu}
-      <DebugMenu bind:gameFlags={player.gameFlags} />
+      <DebugMenu bind:gameFlags={player.gameFlags} bind:player={player} />
     {/if}
     <h1>PokéMini</h1>
     <PlayerInfo bind:player />

@@ -1,0 +1,12 @@
+{
+  "id": "love-ball",
+  "num": 455,
+  "name": "Love Ball",
+  "url": "https://pokeapi.co/api/v2/item/love-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "apricorn-balls",
+  "description": "8× effectiveness on opposite sex, same species targets of the Active Pokémon. Made from Pnk Apricorn.",
+  "sprite": "/items/love-ball.png"
+}

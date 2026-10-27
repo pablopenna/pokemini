@@ -1,0 +1,12 @@
+{
+  "id": "toedscool-flaps",
+  "num": 1941,
+  "name": "Toedscool Flaps",
+  "url": "https://pokeapi.co/api/v2/item/toedscool-flaps",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/toedscool-flaps.png"
+}

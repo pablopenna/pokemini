@@ -1,0 +1,12 @@
+{
+  "id": "tm46",
+  "num": 350,
+  "name": "TM46",
+  "url": "https://pokeapi.co/api/v2/item/tm46",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Thief to a compatible Pokémon. (Gen I: Psywave)",
+  "sprite": "/items/tm46.png"
+}

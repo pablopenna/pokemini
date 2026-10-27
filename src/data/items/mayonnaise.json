@@ -1,0 +1,12 @@
+{
+  "id": "mayonnaise",
+  "num": 1704,
+  "name": "Mayonnaise",
+  "url": "https://pokeapi.co/api/v2/item/mayonnaise",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/mayonnaise.png"
+}

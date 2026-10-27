@@ -1,0 +1,14 @@
+{
+  "id": "moon-stone",
+  "num": 81,
+  "name": "Moon Stone",
+  "url": "https://pokeapi.co/api/v2/item/moon-stone",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "evolution",
+  "description": "Evolves a Clefairy into Clefable, a Jigglypuff into Wigglytuff, a Munna into Musharna, a Nidorina into Nidoqueen, a Nidorino into Nidoking, or a Skitty into Delcatty.",
+  "sprite": "/items/moon-stone.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "go-goggles",
+  "num": 536,
+  "name": "Go-Goggles",
+  "url": "https://pokeapi.co/api/v2/item/go-goggles",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows passage through windy deserts.",
+  "sprite": "/items/go-goggles.png"
+}

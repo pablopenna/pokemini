@@ -1,0 +1,12 @@
+{
+  "id": "tm28",
+  "num": 332,
+  "name": "TM28",
+  "url": "https://pokeapi.co/api/v2/item/tm28",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Dig to a compatible Pokémon.",
+  "sprite": "/items/tm28.png"
+}

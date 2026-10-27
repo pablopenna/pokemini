@@ -1,0 +1,12 @@
+{
+  "id": "tera-orb",
+  "num": 1669,
+  "name": "Tera Orb",
+  "url": "https://pokeapi.co/api/v2/item/tera-orb",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "",
+  "sprite": "/items/tera-orb.png"
+}

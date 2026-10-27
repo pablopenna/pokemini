@@ -1,0 +1,12 @@
+{
+  "id": "growth-mulch",
+  "num": 95,
+  "name": "Growth Mulch",
+  "url": "https://pokeapi.co/api/v2/item/growth-mulch",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mulch",
+  "description": "Growing time of berries is reduced, but the soil dries out faster.",
+  "sprite": "/items/growth-mulch.png"
+}

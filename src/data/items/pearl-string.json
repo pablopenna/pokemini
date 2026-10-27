@@ -1,0 +1,12 @@
+{
+  "id": "pearl-string",
+  "num": 623,
+  "name": "Pearl String",
+  "url": "https://pokeapi.co/api/v2/item/pearl-string",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Sell to Ore Collector for 25000 Pokédollars.",
+  "sprite": "/items/pearl-string.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tm24",
+  "num": 328,
+  "name": "TM24",
+  "url": "https://pokeapi.co/api/v2/item/tm24",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Thunderbolt to a compatible Pokémon. (Gen II: DragonBreath)",
+  "sprite": "/items/tm24.png"
+}

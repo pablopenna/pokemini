@@ -1,0 +1,12 @@
+{
+  "id": "charcadet-soot",
+  "num": 1940,
+  "name": "Charcadet Soot",
+  "url": "https://pokeapi.co/api/v2/item/charcadet-soot",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/charcadet-soot.png"
+}

@@ -13,6 +13,8 @@
     "scrapeall": "node src/scripts/scrape-routes/scrape-routes.ts --id route1 --crawl",
     "scrapepkmn": "node src/scripts/scrape-pkmn/scrape-pkmn.ts",
     "scrapeallpkmn": "node src/scripts/scrape-pkmn/scrape-pkmn.ts --all",
+    "scrapeitem": "node src/scripts/scrape-items/scrape-items.ts",
+    "scrapeallitems": "node src/scripts/scrape-items/scrape-items.ts --all",
     "rescraperoutes": "for f in src/data/routes/*.json; do node src/scripts/scrape-routes/scrape-routes.ts --id \"$(basename \"$f\" .json)\" --force; done"
   },
   "devDependencies": {

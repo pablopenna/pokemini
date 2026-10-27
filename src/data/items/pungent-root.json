@@ -1,0 +1,12 @@
+{
+  "id": "pungent-root",
+  "num": 1156,
+  "name": "Pungent Root",
+  "url": "https://pokeapi.co/api/v2/item/pungent-root",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/pungent-root.png"
+}

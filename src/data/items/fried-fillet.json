@@ -1,0 +1,12 @@
+{
+  "id": "fried-fillet",
+  "num": 1743,
+  "name": "Fried Fillet",
+  "url": "https://pokeapi.co/api/v2/item/fried-fillet",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/fried-fillet.png"
+}

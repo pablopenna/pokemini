@@ -1,0 +1,12 @@
+{
+  "id": "herbed-sausage",
+  "num": 1739,
+  "name": "Herbed Sausage",
+  "url": "https://pokeapi.co/api/v2/item/herbed-sausage",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/herbed-sausage.png"
+}

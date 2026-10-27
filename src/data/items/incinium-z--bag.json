@@ -1,0 +1,12 @@
+{
+  "id": "incinium-z--bag",
+  "num": 958,
+  "name": "Incinium Z",
+  "url": "https://pokeapi.co/api/v2/item/incinium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for incinium-z--bag",
+  "sprite": "/items/incinium-z--bag.png"
+}

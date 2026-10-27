@@ -1,0 +1,12 @@
+{
+  "id": "flittle-down",
+  "num": 1911,
+  "name": "Flittle Down",
+  "url": "https://pokeapi.co/api/v2/item/flittle-down",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/flittle-down.png"
+}

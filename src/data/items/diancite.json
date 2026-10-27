@@ -1,0 +1,12 @@
+{
+  "id": "diancite",
+  "num": 805,
+  "name": "Diancite",
+  "url": "https://pokeapi.co/api/v2/item/diancite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Diancie to Mega Evolve into Mega Diancie.",
+  "sprite": "/items/diancite.png"
+}

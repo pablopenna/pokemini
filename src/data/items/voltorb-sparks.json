@@ -1,0 +1,12 @@
+{
+  "id": "voltorb-sparks",
+  "num": 1774,
+  "name": "Voltorb Sparks",
+  "url": "https://pokeapi.co/api/v2/item/voltorb-sparks",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/voltorb-sparks.png"
+}

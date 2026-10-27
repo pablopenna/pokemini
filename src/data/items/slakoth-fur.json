@@ -1,0 +1,12 @@
+{
+  "id": "slakoth-fur",
+  "num": 1804,
+  "name": "Slakoth Fur",
+  "url": "https://pokeapi.co/api/v2/item/slakoth-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/slakoth-fur.png"
+}

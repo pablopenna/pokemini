@@ -1,0 +1,12 @@
+{
+  "id": "x-sp-atk-3",
+  "num": 641,
+  "name": "X Sp. Atk 3",
+  "url": "https://pokeapi.co/api/v2/item/x-sp-atk-3",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "miracle-shooter",
+  "description": "Raises Special Attack by three stages in battle.  Wonder Launcher only.",
+  "sprite": "/items/x-sp-atk-3.png"
+}

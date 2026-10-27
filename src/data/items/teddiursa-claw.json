@@ -1,0 +1,12 @@
+{
+  "id": "teddiursa-claw",
+  "num": 1794,
+  "name": "Teddiursa Claw",
+  "url": "https://pokeapi.co/api/v2/item/teddiursa-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/teddiursa-claw.png"
+}

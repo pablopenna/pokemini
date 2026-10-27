@@ -1,0 +1,12 @@
+{
+  "id": "brave-mint",
+  "num": 1292,
+  "name": "Brave Mint",
+  "url": "https://pokeapi.co/api/v2/item/brave-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/brave-mint.png"
+}

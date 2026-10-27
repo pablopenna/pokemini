@@ -1,0 +1,12 @@
+{
+  "id": "wiglett-sand",
+  "num": 1912,
+  "name": "Wiglett Sand",
+  "url": "https://pokeapi.co/api/v2/item/wiglett-sand",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/wiglett-sand.png"
+}

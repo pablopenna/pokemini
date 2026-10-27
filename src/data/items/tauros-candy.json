@@ -1,0 +1,12 @@
+{
+  "id": "tauros-candy",
+  "num": 1120,
+  "name": "Tauros Candy",
+  "url": "https://pokeapi.co/api/v2/item/tauros-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/tauros-candy.png"
+}

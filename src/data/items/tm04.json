@@ -1,0 +1,12 @@
+{
+  "id": "tm04",
+  "num": 308,
+  "name": "TM04",
+  "url": "https://pokeapi.co/api/v2/item/tm04",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Calm Mind to a compatible Pokémon. (Gen II: Rollout Gen I: Whirlwind)",
+  "sprite": "/items/tm04.png"
+}

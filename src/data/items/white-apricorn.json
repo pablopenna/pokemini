@@ -1,0 +1,12 @@
+{
+  "id": "white-apricorn",
+  "num": 463,
+  "name": "White Apricorn",
+  "url": "https://pokeapi.co/api/v2/item/white-apricorn",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "apricorn-box",
+  "description": "Used to make a Fast Ball.",
+  "sprite": "/items/white-apricorn.png"
+}

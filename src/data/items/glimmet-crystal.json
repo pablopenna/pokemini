@@ -1,0 +1,12 @@
+{
+  "id": "glimmet-crystal",
+  "num": 1933,
+  "name": "Glimmet Crystal",
+  "url": "https://pokeapi.co/api/v2/item/glimmet-crystal",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/glimmet-crystal.png"
+}

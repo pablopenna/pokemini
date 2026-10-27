@@ -1,0 +1,12 @@
+{
+  "id": "health-mochi",
+  "num": 2112,
+  "name": "Health Mochi",
+  "url": "https://pokeapi.co/api/v2/item/health-mochi",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/health-mochi.png"
+}

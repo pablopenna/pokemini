@@ -1,0 +1,12 @@
+{
+  "id": "salandit-gas",
+  "num": 1879,
+  "name": "Salandit Gas",
+  "url": "https://pokeapi.co/api/v2/item/salandit-gas",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/salandit-gas.png"
+}

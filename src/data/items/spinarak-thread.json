@@ -1,0 +1,12 @@
+{
+  "id": "spinarak-thread",
+  "num": 2130,
+  "name": "Spinarak Thread",
+  "url": "https://pokeapi.co/api/v2/item/spinarak-thread",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/spinarak-thread.png"
+}

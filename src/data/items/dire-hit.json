@@ -1,0 +1,17 @@
+{
+  "id": "dire-hit",
+  "num": 56,
+  "name": "Dire Hit",
+  "url": "https://pokeapi.co/api/v2/item/dire-hit",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "stat-boosts",
+  "description": "Increases the chance of a critical hit in battle.  Raises happiness.",
+  "sprite": "/items/dire-hit.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "power-up-pocket",
+  "num": 1010,
+  "name": "Power-Up Pocket",
+  "url": "https://pokeapi.co/api/v2/item/power-up-pocket",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "",
+  "sprite": "/items/power-up-pocket.png"
+}

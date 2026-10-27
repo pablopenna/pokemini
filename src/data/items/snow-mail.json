@@ -1,0 +1,12 @@
+{
+  "id": "snow-mail",
+  "num": 121,
+  "name": "Snow Mail",
+  "url": "https://pokeapi.co/api/v2/item/snow-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/snow-mail.png"
+}

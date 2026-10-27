@@ -1,0 +1,12 @@
+{
+  "id": "sandygast-sand",
+  "num": 1883,
+  "name": "Sandygast Sand",
+  "url": "https://pokeapi.co/api/v2/item/sandygast-sand",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/sandygast-sand.png"
+}

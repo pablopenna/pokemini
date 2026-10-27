@@ -1,0 +1,12 @@
+{
+  "id": "grimer-toxin",
+  "num": 1770,
+  "name": "Grimer Toxin",
+  "url": "https://pokeapi.co/api/v2/item/grimer-toxin",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/grimer-toxin.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fightinium-z--held",
+  "num": 823,
+  "name": "Fightinium Z",
+  "url": "https://pokeapi.co/api/v2/item/fightinium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Fighting moves.",
+  "sprite": "/items/fightinium-z--held.png"
+}

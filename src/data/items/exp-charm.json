@@ -1,0 +1,12 @@
+{
+  "id": "exp-charm",
+  "num": 1638,
+  "name": "Exp. Charm",
+  "url": "https://pokeapi.co/api/v2/item/exp-charm",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/exp-charm.png"
+}

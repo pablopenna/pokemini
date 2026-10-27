@@ -1,0 +1,12 @@
+{
+  "id": "prison-bottle",
+  "num": 806,
+  "name": "Prison Bottle",
+  "url": "https://pokeapi.co/api/v2/item/prison-bottle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Transforms Hoopa into its Unbound form for up to three days.",
+  "sprite": "/items/prison-bottle.png"
+}

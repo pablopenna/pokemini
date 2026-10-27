@@ -1,0 +1,12 @@
+{
+  "id": "data-card-08",
+  "num": 493,
+  "name": "Data Card 08",
+  "url": "https://pokeapi.co/api/v2/item/data-card-08",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer has come in first in the Pokéathlon Block Smash.",
+  "sprite": "/items/data-card-08.png"
+}

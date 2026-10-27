@@ -1,0 +1,17 @@
+{
+  "id": "x-attack",
+  "num": 57,
+  "name": "X Attack",
+  "url": "https://pokeapi.co/api/v2/item/x-attack",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "stat-boosts",
+  "description": "Raises Attack by one stage in battle.  Raises happiness.",
+  "sprite": "/items/x-attack.png"
+}

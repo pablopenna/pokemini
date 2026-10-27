@@ -1,0 +1,12 @@
+{
+  "id": "tm65",
+  "num": 369,
+  "name": "TM65",
+  "url": "https://pokeapi.co/api/v2/item/tm65",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Shadow Claw to a compatible Pokémon.",
+  "sprite": "/items/tm65.png"
+}

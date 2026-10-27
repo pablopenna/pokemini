@@ -1,0 +1,12 @@
+{
+  "id": "chesnaughtite",
+  "num": 2249,
+  "name": "Chesnaughtite",
+  "url": "https://pokeapi.co/api/v2/item/chesnaughtite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/chesnaughtite.png"
+}

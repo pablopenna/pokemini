@@ -1,0 +1,12 @@
+{
+  "id": "banana",
+  "num": 1751,
+  "name": "Banana",
+  "url": "https://pokeapi.co/api/v2/item/banana",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/banana.png"
+}

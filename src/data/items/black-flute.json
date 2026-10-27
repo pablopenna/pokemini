@@ -1,0 +1,17 @@
+{
+  "id": "black-flute",
+  "num": 68,
+  "name": "Black Flute",
+  "url": "https://pokeapi.co/api/v2/item/black-flute",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "holdable"
+  ],
+  "category": "spelunking",
+  "description": "Halves the wild Pokémon encounter rate.",
+  "sprite": "/items/black-flute.png"
+}

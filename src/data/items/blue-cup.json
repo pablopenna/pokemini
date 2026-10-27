@@ -1,0 +1,12 @@
+{
+  "id": "blue-cup",
+  "num": 2058,
+  "name": "Blue Cup",
+  "url": "https://pokeapi.co/api/v2/item/blue-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/blue-cup.png"
+}

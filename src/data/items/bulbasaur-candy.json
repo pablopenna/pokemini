@@ -1,0 +1,12 @@
+{
+  "id": "bulbasaur-candy",
+  "num": 1058,
+  "name": "Bulbasaur Candy",
+  "url": "https://pokeapi.co/api/v2/item/bulbasaur-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/bulbasaur-candy.png"
+}

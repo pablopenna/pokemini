@@ -1,0 +1,12 @@
+{
+  "id": "common-stone",
+  "num": 762,
+  "name": "Common Stone",
+  "url": "https://pokeapi.co/api/v2/item/common-stone",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Unknown.",
+  "sprite": "/items/common-stone.png"
+}

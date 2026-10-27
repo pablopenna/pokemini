@@ -1,0 +1,12 @@
+{
+  "id": "rock-gem",
+  "num": 602,
+  "name": "Rock Gem",
+  "url": "https://pokeapi.co/api/v2/item/rock-gem",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "jewels",
+  "description": "Held: When the holder uses a damaging Rock-type move, the move has 1.5× power and this item is consumed.",
+  "sprite": "/items/rock-gem.png"
+}

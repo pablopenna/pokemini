@@ -1,0 +1,17 @@
+{
+  "id": "quick-ball",
+  "num": 15,
+  "name": "Quick Ball",
+  "url": "https://pokeapi.co/api/v2/item/quick-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "special-balls",
+  "description": "Tries to catch a wild Pokémon. Success rate is 4× (Gen V: 5×), but only on the first turn.",
+  "sprite": "/items/quick-ball.png"
+}

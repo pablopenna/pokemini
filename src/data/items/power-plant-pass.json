@@ -1,0 +1,12 @@
+{
+  "id": "power-plant-pass",
+  "num": 740,
+  "name": "Power Plant Pass",
+  "url": "https://pokeapi.co/api/v2/item/power-plant-pass",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Permits entry to the Kalos Power Plant.",
+  "sprite": "/items/power-plant-pass.png"
+}

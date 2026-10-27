@@ -1,0 +1,12 @@
+{
+  "id": "bronze-bottle",
+  "num": 2081,
+  "name": "Bronze Bottle",
+  "url": "https://pokeapi.co/api/v2/item/bronze-bottle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/bronze-bottle.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "shalour-sable",
+  "num": 765,
+  "name": "Shalour Sable",
+  "url": "https://pokeapi.co/api/v2/item/shalour-sable",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "status-cures",
+  "description": "Cures any major status ailment and confusion.",
+  "sprite": "/items/shalour-sable.png"
+}

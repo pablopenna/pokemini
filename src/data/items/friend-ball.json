@@ -1,0 +1,12 @@
+{
+  "id": "friend-ball",
+  "num": 454,
+  "name": "Friend Ball",
+  "url": "https://pokeapi.co/api/v2/item/friend-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "apricorn-balls",
+  "description": "Caught Pokémon start with 200 happiness. Made from Grn Apricorn.",
+  "sprite": "/items/friend-ball.png"
+}

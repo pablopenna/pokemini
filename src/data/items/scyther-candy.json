@@ -1,0 +1,12 @@
+{
+  "id": "scyther-candy",
+  "num": 1116,
+  "name": "Scyther Candy",
+  "url": "https://pokeapi.co/api/v2/item/scyther-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/scyther-candy.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "poisonium-z--bag",
+  "num": 945,
+  "name": "Poisonium Z",
+  "url": "https://pokeapi.co/api/v2/item/poisonium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for poisonium-z--bag",
+  "sprite": "/items/poisonium-z--bag.png"
+}

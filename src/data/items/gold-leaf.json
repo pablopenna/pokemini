@@ -1,0 +1,12 @@
+{
+  "id": "gold-leaf",
+  "num": 1029,
+  "name": "Gold Leaf",
+  "url": "https://pokeapi.co/api/v2/item/gold-leaf",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/gold-leaf.png"
+}

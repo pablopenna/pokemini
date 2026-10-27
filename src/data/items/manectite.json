@@ -1,0 +1,12 @@
+{
+  "id": "manectite",
+  "num": 721,
+  "name": "Manectite",
+  "url": "https://pokeapi.co/api/v2/item/manectite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Manectric to Mega Evolve into Mega Manectric.",
+  "sprite": "/items/manectite.png"
+}

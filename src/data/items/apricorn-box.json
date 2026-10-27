@@ -1,0 +1,12 @@
+{
+  "id": "apricorn-box",
+  "num": 446,
+  "name": "Apricorn Box",
+  "url": "https://pokeapi.co/api/v2/item/apricorn-box",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Holds Apricorns.",
+  "sprite": "/items/apricorn-box.png"
+}

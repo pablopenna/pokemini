@@ -1,0 +1,12 @@
+{
+  "id": "bread",
+  "num": 1148,
+  "name": "Bread",
+  "url": "https://pokeapi.co/api/v2/item/bread",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/bread.png"
+}

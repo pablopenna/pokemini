@@ -1,0 +1,12 @@
+{
+  "id": "noodles",
+  "num": 1748,
+  "name": "Noodles",
+  "url": "https://pokeapi.co/api/v2/item/noodles",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/noodles.png"
+}

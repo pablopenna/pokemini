@@ -1,0 +1,16 @@
+{
+  "id": "zap-plate",
+  "num": 277,
+  "name": "Zap Plate",
+  "url": "https://pokeapi.co/api/v2/item/zap-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Electric-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Electric.",
+  "sprite": "/items/zap-plate.png"
+}

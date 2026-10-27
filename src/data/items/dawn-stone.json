@@ -1,0 +1,12 @@
+{
+  "id": "dawn-stone",
+  "num": 109,
+  "name": "Dawn Stone",
+  "url": "https://pokeapi.co/api/v2/item/dawn-stone",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Evolves a male Kirlia into Gallade or a female Snorunt into Froslass.",
+  "sprite": "/items/dawn-stone.png"
+}

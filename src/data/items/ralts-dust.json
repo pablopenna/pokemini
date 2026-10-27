@@ -1,0 +1,12 @@
+{
+  "id": "ralts-dust",
+  "num": 1801,
+  "name": "Ralts Dust",
+  "url": "https://pokeapi.co/api/v2/item/ralts-dust",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/ralts-dust.png"
+}

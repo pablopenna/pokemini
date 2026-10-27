@@ -1,0 +1,12 @@
+{
+  "id": "poliwag-candy",
+  "num": 1083,
+  "name": "Poliwag Candy",
+  "url": "https://pokeapi.co/api/v2/item/poliwag-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/poliwag-candy.png"
+}

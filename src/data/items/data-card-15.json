@@ -1,0 +1,12 @@
+{
+  "id": "data-card-15",
+  "num": 500,
+  "name": "Data Card 15",
+  "url": "https://pokeapi.co/api/v2/item/data-card-15",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer’s Pokémon have fallen in the Pokéathlon.",
+  "sprite": "/items/data-card-15.png"
+}

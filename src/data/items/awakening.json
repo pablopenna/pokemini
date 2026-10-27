@@ -1,0 +1,18 @@
+{
+  "id": "awakening",
+  "num": 21,
+  "name": "Awakening",
+  "url": "https://pokeapi.co/api/v2/item/awakening",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "status-cures",
+  "description": "Cures sleep.",
+  "sprite": "/items/awakening.png"
+}

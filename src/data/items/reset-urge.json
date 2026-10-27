@@ -1,0 +1,12 @@
+{
+  "id": "reset-urge",
+  "num": 655,
+  "name": "Reset Urge",
+  "url": "https://pokeapi.co/api/v2/item/reset-urge",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "miracle-shooter",
+  "description": "Resets a friendly Pokémon’s stat changes.",
+  "sprite": "/items/reset-urge.png"
+}

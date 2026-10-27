@@ -1,0 +1,14 @@
+{
+  "id": "thick-club",
+  "num": 235,
+  "name": "Thick Club",
+  "url": "https://pokeapi.co/api/v2/item/thick-club",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable"
+  ],
+  "category": "species-specific",
+  "description": "Doubles Cubone or Marowak’s Attack.",
+  "sprite": "/items/thick-club.png"
+}

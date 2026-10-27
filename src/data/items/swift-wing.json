@@ -1,0 +1,12 @@
+{
+  "id": "swift-wing",
+  "num": 611,
+  "name": "Swift Feather",
+  "url": "https://pokeapi.co/api/v2/item/swift-wing",
+  "flingPower": 20,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "Increases Speed effort by 1.",
+  "sprite": "/items/swift-wing.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pincurchin-spines",
+  "num": 1897,
+  "name": "Pincurchin Spines",
+  "url": "https://pokeapi.co/api/v2/item/pincurchin-spines",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/pincurchin-spines.png"
+}

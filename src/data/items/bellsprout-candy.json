@@ -1,0 +1,12 @@
+{
+  "id": "bellsprout-candy",
+  "num": 1086,
+  "name": "Bellsprout Candy",
+  "url": "https://pokeapi.co/api/v2/item/bellsprout-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/bellsprout-candy.png"
+}

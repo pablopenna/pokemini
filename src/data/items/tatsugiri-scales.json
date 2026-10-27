@@ -1,0 +1,12 @@
+{
+  "id": "tatsugiri-scales",
+  "num": 1924,
+  "name": "Tatsugiri Scales",
+  "url": "https://pokeapi.co/api/v2/item/tatsugiri-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/tatsugiri-scales.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tri-pass",
+  "num": 553,
+  "name": "Tri-Pass",
+  "url": "https://pokeapi.co/api/v2/item/tri-pass",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Grants access to the first three Sevii Islands.",
+  "sprite": "/items/tri-pass.png"
+}

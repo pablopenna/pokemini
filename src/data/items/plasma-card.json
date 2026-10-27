@@ -1,0 +1,12 @@
+{
+  "id": "plasma-card",
+  "num": 676,
+  "name": "Plasma Card",
+  "url": "https://pokeapi.co/api/v2/item/plasma-card",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Required to progress in the Plasma Frigate.",
+  "sprite": "/items/plasma-card.png"
+}

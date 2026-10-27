@@ -1,0 +1,12 @@
+{
+  "id": "magma-stone",
+  "num": 435,
+  "name": "Magma Stone",
+  "url": "https://pokeapi.co/api/v2/item/magma-stone",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Magma is sealed inside.",
+  "sprite": "/items/magma-stone.png"
+}

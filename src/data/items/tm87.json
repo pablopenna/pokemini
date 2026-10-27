@@ -1,0 +1,12 @@
+{
+  "id": "tm87",
+  "num": 391,
+  "name": "TM87",
+  "url": "https://pokeapi.co/api/v2/item/tm87",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Swagger to a compatible Pokémon.",
+  "sprite": "/items/tm87.png"
+}

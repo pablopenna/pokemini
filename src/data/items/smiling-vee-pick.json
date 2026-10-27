@@ -1,0 +1,12 @@
+{
+  "id": "smiling-vee-pick",
+  "num": 2043,
+  "name": "Smiling Vee Pick",
+  "url": "https://pokeapi.co/api/v2/item/smiling-vee-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/smiling-vee-pick.png"
+}

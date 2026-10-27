@@ -1,0 +1,12 @@
+{
+  "id": "tmv-pass",
+  "num": 744,
+  "name": "TMV Pass",
+  "url": "https://pokeapi.co/api/v2/item/tmv-pass",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Permits access to Kiloude City.",
+  "sprite": "/items/tmv-pass.png"
+}

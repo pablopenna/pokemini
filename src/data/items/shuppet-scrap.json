@@ -1,0 +1,12 @@
+{
+  "id": "shuppet-scrap",
+  "num": 1818,
+  "name": "Shuppet Scrap",
+  "url": "https://pokeapi.co/api/v2/item/shuppet-scrap",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/shuppet-scrap.png"
+}

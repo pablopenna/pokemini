@@ -1,0 +1,12 @@
+{
+  "id": "orange-petal",
+  "num": 981,
+  "name": "Orange Petal",
+  "url": "https://pokeapi.co/api/v2/item/orange-petal",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for orange-petal",
+  "sprite": "/items/orange-petal.png"
+}

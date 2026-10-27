@@ -1,0 +1,12 @@
+{
+  "id": "meltan-candy",
+  "num": 1136,
+  "name": "Meltan Candy",
+  "url": "https://pokeapi.co/api/v2/item/meltan-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/meltan-candy.png"
+}

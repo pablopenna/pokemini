@@ -1,0 +1,12 @@
+{
+  "id": "scolipite",
+  "num": 2245,
+  "name": "Scolipite",
+  "url": "https://pokeapi.co/api/v2/item/scolipite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/scolipite.png"
+}

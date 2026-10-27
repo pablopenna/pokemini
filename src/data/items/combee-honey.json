@@ -1,0 +1,12 @@
+{
+  "id": "combee-honey",
+  "num": 1826,
+  "name": "Combee Honey",
+  "url": "https://pokeapi.co/api/v2/item/combee-honey",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/combee-honey.png"
+}

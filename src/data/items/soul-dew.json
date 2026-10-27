@@ -1,0 +1,14 @@
+{
+  "id": "soul-dew",
+  "num": 202,
+  "name": "Soul Dew",
+  "url": "https://pokeapi.co/api/v2/item/soul-dew",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable"
+  ],
+  "category": "species-specific",
+  "description": "Raises Latias and Latios’s Special Attack and Special Defense by 50%.",
+  "sprite": "/items/soul-dew.png"
+}

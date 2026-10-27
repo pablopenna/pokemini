@@ -1,0 +1,12 @@
+{
+  "id": "mega-glasses",
+  "num": 787,
+  "name": "Mega Glasses",
+  "url": "https://pokeapi.co/api/v2/item/mega-glasses",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Unused NPC Key Stone.",
+  "sprite": "/items/mega-glasses.png"
+}

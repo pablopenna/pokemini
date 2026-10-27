@@ -1,0 +1,12 @@
+{
+  "id": "grimer-candy",
+  "num": 1095,
+  "name": "Grimer Candy",
+  "url": "https://pokeapi.co/api/v2/item/grimer-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/grimer-candy.png"
+}

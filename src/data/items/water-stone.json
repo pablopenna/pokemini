@@ -1,0 +1,14 @@
+{
+  "id": "water-stone",
+  "num": 84,
+  "name": "Water Stone",
+  "url": "https://pokeapi.co/api/v2/item/water-stone",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "evolution",
+  "description": "Evolves an Eevee into Vaporeon, a Lombre into Ludicolo, a Panpour into Simipour, a Poliwhirl into Poliwrath, a Shellder into Cloyster, or a Staryu into Starmie.",
+  "sprite": "/items/water-stone.png"
+}

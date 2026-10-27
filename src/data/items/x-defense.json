@@ -1,0 +1,17 @@
+{
+  "id": "x-defense",
+  "num": 58,
+  "name": "X Defense",
+  "url": "https://pokeapi.co/api/v2/item/x-defense",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "stat-boosts",
+  "description": "Raises Defense by one stage in battle.  Raises happiness.",
+  "sprite": "/items/x-defense.png"
+}

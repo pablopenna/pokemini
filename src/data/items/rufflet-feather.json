@@ -1,0 +1,12 @@
+{
+  "id": "rufflet-feather",
+  "num": 1856,
+  "name": "Rufflet Feather",
+  "url": "https://pokeapi.co/api/v2/item/rufflet-feather",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/rufflet-feather.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "larvitar-claw",
+  "num": 1799,
+  "name": "Larvitar Claw",
+  "url": "https://pokeapi.co/api/v2/item/larvitar-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/larvitar-claw.png"
+}

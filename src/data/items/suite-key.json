@@ -1,0 +1,12 @@
+{
+  "id": "suite-key",
+  "num": 428,
+  "name": "Suite Key",
+  "url": "https://pokeapi.co/api/v2/item/suite-key",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "Opens a locked building in the Lakeside Resort.",
+  "sprite": "/items/suite-key.png"
+}

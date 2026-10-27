@@ -1,0 +1,12 @@
+{
+  "id": "tm72",
+  "num": 376,
+  "name": "TM72",
+  "url": "https://pokeapi.co/api/v2/item/tm72",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Volt Switch to a compatible Pokémon. (Gen IV: Avalanche)",
+  "sprite": "/items/tm72.png"
+}

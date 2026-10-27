@@ -1,0 +1,12 @@
+{
+  "id": "striped-tablecloth",
+  "num": 2071,
+  "name": "Striped Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/striped-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/striped-tablecloth.png"
+}

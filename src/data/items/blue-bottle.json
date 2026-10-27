@@ -1,0 +1,12 @@
+{
+  "id": "blue-bottle",
+  "num": 2048,
+  "name": "Blue Bottle",
+  "url": "https://pokeapi.co/api/v2/item/blue-bottle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/blue-bottle.png"
+}

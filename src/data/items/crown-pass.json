@@ -1,0 +1,12 @@
+{
+  "id": "crown-pass",
+  "num": 1648,
+  "name": "Crown Pass",
+  "url": "https://pokeapi.co/api/v2/item/crown-pass",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/crown-pass.png"
+}

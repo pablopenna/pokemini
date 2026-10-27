@@ -1,0 +1,12 @@
+{
+  "id": "soot-sack",
+  "num": 531,
+  "name": "Soot Sack",
+  "url": "https://pokeapi.co/api/v2/item/soot-sack",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Stores volcanic ash from Route 113.",
+  "sprite": "/items/soot-sack.png"
+}

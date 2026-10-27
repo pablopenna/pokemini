@@ -1,0 +1,12 @@
+{
+  "id": "curry-powder",
+  "num": 1758,
+  "name": "Curry Powder",
+  "url": "https://pokeapi.co/api/v2/item/curry-powder",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/curry-powder.png"
+}

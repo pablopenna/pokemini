@@ -1,0 +1,12 @@
+{
+  "id": "tm78",
+  "num": 382,
+  "name": "TM78",
+  "url": "https://pokeapi.co/api/v2/item/tm78",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Bulldoze to a compatible Pokémon. (Gen IV: Captivate)",
+  "sprite": "/items/tm78.png"
+}

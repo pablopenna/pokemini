@@ -1,0 +1,18 @@
+{
+  "id": "full-restore",
+  "num": 23,
+  "name": "Full Restore",
+  "url": "https://pokeapi.co/api/v2/item/full-restore",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "healing",
+  "description": "Restores HP to full and cures any status ailment and confusion.",
+  "sprite": "/items/full-restore.png"
+}

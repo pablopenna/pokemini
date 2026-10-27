@@ -1,0 +1,12 @@
+{
+  "id": "tm70",
+  "num": 374,
+  "name": "TM70",
+  "url": "https://pokeapi.co/api/v2/item/tm70",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Flash to a compatible Pokémon.",
+  "sprite": "/items/tm70.png"
+}

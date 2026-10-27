@@ -1,0 +1,12 @@
+{
+  "id": "terrain-extender",
+  "num": 896,
+  "name": "Terrain Extender",
+  "url": "https://pokeapi.co/api/v2/item/terrain-extender",
+  "flingPower": 60,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: Extends the holder’s Terrain effects to 8 turns.",
+  "sprite": "/items/terrain-extender.png"
+}

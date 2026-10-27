@@ -1,0 +1,12 @@
+{
+  "id": "nacli-salt",
+  "num": 1932,
+  "name": "Nacli Salt",
+  "url": "https://pokeapi.co/api/v2/item/nacli-salt",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/nacli-salt.png"
+}

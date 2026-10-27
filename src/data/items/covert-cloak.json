@@ -1,0 +1,12 @@
+{
+  "id": "covert-cloak",
+  "num": 1701,
+  "name": "Covert Cloak",
+  "url": "https://pokeapi.co/api/v2/item/covert-cloak",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/covert-cloak.png"
+}

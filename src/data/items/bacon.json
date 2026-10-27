@@ -1,0 +1,12 @@
+{
+  "id": "bacon",
+  "num": 1735,
+  "name": "Bacon",
+  "url": "https://pokeapi.co/api/v2/item/bacon",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/bacon.png"
+}

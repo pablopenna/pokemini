@@ -1,0 +1,12 @@
+{
+  "id": "squirtle-candy",
+  "num": 1060,
+  "name": "Squirtle Candy",
+  "url": "https://pokeapi.co/api/v2/item/squirtle-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/squirtle-candy.png"
+}

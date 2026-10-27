@@ -1,0 +1,12 @@
+{
+  "id": "metagrossite",
+  "num": 799,
+  "name": "Metagrossite",
+  "url": "https://pokeapi.co/api/v2/item/metagrossite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Metagross to Mega Evolve into Mega Metagross.",
+  "sprite": "/items/metagrossite.png"
+}

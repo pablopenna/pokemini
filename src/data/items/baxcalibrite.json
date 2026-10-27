@@ -1,0 +1,12 @@
+{
+  "id": "baxcalibrite",
+  "num": 2275,
+  "name": "Baxcalibrite",
+  "url": "https://pokeapi.co/api/v2/item/baxcalibrite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/baxcalibrite.png"
+}

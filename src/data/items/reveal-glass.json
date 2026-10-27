@@ -1,0 +1,12 @@
+{
+  "id": "reveal-glass",
+  "num": 681,
+  "name": "Reveal Glass",
+  "url": "https://pokeapi.co/api/v2/item/reveal-glass",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Switches Tornadus, Thundurus, and Landorus between Incarnate and Therian Forme.",
+  "sprite": "/items/reveal-glass.png"
+}

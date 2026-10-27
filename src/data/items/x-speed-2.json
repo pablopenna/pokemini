@@ -1,0 +1,12 @@
+{
+  "id": "x-speed-2",
+  "num": 634,
+  "name": "X Speed 2",
+  "url": "https://pokeapi.co/api/v2/item/x-speed-2",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "miracle-shooter",
+  "description": "Raises Speed by two stages in battle.  Wonder Launcher only.",
+  "sprite": "/items/x-speed-2.png"
+}

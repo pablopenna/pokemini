@@ -1,0 +1,12 @@
+{
+  "id": "tm126",
+  "num": 1969,
+  "name": "TM126",
+  "url": "https://pokeapi.co/api/v2/item/tm126",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tm126.png"
+}

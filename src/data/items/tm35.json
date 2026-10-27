@@ -1,0 +1,12 @@
+{
+  "id": "tm35",
+  "num": 339,
+  "name": "TM35",
+  "url": "https://pokeapi.co/api/v2/item/tm35",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Flamethrower to a compatible Pokémon. (Gen II: Sleep Talk Gen I: Metronome)",
+  "sprite": "/items/tm35.png"
+}

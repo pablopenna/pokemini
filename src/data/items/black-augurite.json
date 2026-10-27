@@ -1,0 +1,12 @@
+{
+  "id": "black-augurite",
+  "num": 2230,
+  "name": "Black Augurite",
+  "url": "https://pokeapi.co/api/v2/item/black-augurite",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/black-augurite.png"
+}

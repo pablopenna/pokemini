@@ -1,0 +1,12 @@
+{
+  "id": "tr45",
+  "num": 1233,
+  "name": "TR45",
+  "url": "https://pokeapi.co/api/v2/item/tr45",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tr45.png"
+}

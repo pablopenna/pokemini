@@ -1,0 +1,16 @@
+{
+  "id": "earth-plate",
+  "num": 282,
+  "name": "Earth Plate",
+  "url": "https://pokeapi.co/api/v2/item/earth-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Ground-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ground.",
+  "sprite": "/items/earth-plate.png"
+}

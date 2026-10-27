@@ -1,0 +1,12 @@
+{
+  "id": "rotom-bike",
+  "num": 1143,
+  "name": "Rotom Bike",
+  "url": "https://pokeapi.co/api/v2/item/rotom-bike",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/rotom-bike.png"
+}

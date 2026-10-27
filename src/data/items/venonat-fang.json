@@ -1,0 +1,12 @@
+{
+  "id": "venonat-fang",
+  "num": 1762,
+  "name": "Venonat Fang",
+  "url": "https://pokeapi.co/api/v2/item/venonat-fang",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/venonat-fang.png"
+}

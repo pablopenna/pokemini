@@ -1,0 +1,12 @@
+{
+  "id": "basement-key--new-mauville",
+  "num": 931,
+  "name": "Basement Key",
+  "url": "https://pokeapi.co/api/v2/item/basement-key--new-mauville",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for basement-key--new-mauville",
+  "sprite": "/items/basement-key--new-mauville.png"
+}

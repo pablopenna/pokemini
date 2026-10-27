@@ -1,0 +1,12 @@
+{
+  "id": "fire-gem",
+  "num": 591,
+  "name": "Fire Gem",
+  "url": "https://pokeapi.co/api/v2/item/fire-gem",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "jewels",
+  "description": "Held: When the holder uses a damaging Fire-type move, the move has 1.5× power and this item is consumed.",
+  "sprite": "/items/fire-gem.png"
+}

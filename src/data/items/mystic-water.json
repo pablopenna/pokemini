@@ -1,0 +1,15 @@
+{
+  "id": "mystic-water",
+  "num": 220,
+  "name": "Mystic Water",
+  "url": "https://pokeapi.co/api/v2/item/mystic-water",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Water-Type moves from holder do 20% more damage.",
+  "sprite": "/items/mystic-water.png"
+}

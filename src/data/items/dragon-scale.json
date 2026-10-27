@@ -1,0 +1,12 @@
+{
+  "id": "dragon-scale",
+  "num": 212,
+  "name": "Dragon Scale",
+  "url": "https://pokeapi.co/api/v2/item/dragon-scale",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Traded on a Seadra: Holder evolves into Kingdra.",
+  "sprite": "/items/dragon-scale.png"
+}

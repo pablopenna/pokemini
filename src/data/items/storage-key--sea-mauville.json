@@ -1,0 +1,12 @@
+{
+  "id": "storage-key--sea-mauville",
+  "num": 932,
+  "name": "Storage Key",
+  "url": "https://pokeapi.co/api/v2/item/storage-key--sea-mauville",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for storage-key--sea-mauville",
+  "sprite": "/items/storage-key--sea-mauville.png"
+}

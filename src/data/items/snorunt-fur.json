@@ -1,0 +1,12 @@
+{
+  "id": "snorunt-fur",
+  "num": 1820,
+  "name": "Snorunt Fur",
+  "url": "https://pokeapi.co/api/v2/item/snorunt-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/snorunt-fur.png"
+}

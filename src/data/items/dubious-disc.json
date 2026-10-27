@@ -1,0 +1,12 @@
+{
+  "id": "dubious-disc",
+  "num": 301,
+  "name": "Dubious Disc",
+  "url": "https://pokeapi.co/api/v2/item/dubious-disc",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Traded on a Porygon2: Holder evolves into Porygon-Z.",
+  "sprite": "/items/dubious-disc.png"
+}

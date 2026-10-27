@@ -1,0 +1,12 @@
+{
+  "id": "heart-mail",
+  "num": 120,
+  "name": "Heart Mail",
+  "url": "https://pokeapi.co/api/v2/item/heart-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/heart-mail.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "silph-scope",
+  "num": 548,
+  "name": "Silph Scope",
+  "url": "https://pokeapi.co/api/v2/item/silph-scope",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Used to identify the true forms of ghosts in Pokémon Tower.",
+  "sprite": "/items/silph-scope.png"
+}

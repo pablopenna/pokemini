@@ -1,0 +1,12 @@
+{
+  "id": "fairy-tera-shard",
+  "num": 1695,
+  "name": "Fairy Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/fairy-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/fairy-tera-shard.png"
+}

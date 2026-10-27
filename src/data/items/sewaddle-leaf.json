@@ -1,0 +1,12 @@
+{
+  "id": "sewaddle-leaf",
+  "num": 2147,
+  "name": "Sewaddle Leaf",
+  "url": "https://pokeapi.co/api/v2/item/sewaddle-leaf",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/sewaddle-leaf.png"
+}

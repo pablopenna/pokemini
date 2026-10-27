@@ -1,0 +1,12 @@
+{
+  "id": "silver-bottle",
+  "num": 2053,
+  "name": "Silver Bottle",
+  "url": "https://pokeapi.co/api/v2/item/silver-bottle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/silver-bottle.png"
+}

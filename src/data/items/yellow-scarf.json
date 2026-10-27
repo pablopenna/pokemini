@@ -1,0 +1,14 @@
+{
+  "id": "yellow-scarf",
+  "num": 241,
+  "name": "Yellow Scarf",
+  "url": "https://pokeapi.co/api/v2/item/yellow-scarf",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "scarves",
+  "description": "Raises the holder’s Toughness while in a contest.",
+  "sprite": "/items/yellow-scarf.png"
+}

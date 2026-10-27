@@ -1,0 +1,12 @@
+{
+  "id": "phanpy-nail",
+  "num": 1797,
+  "name": "Phanpy Nail",
+  "url": "https://pokeapi.co/api/v2/item/phanpy-nail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/phanpy-nail.png"
+}

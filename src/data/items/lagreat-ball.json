@@ -1,0 +1,12 @@
+{
+  "id": "lagreat-ball",
+  "num": 2221,
+  "name": "Great Ball",
+  "url": "https://pokeapi.co/api/v2/item/lagreat-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "standard-balls",
+  "description": "",
+  "sprite": "/items/lagreat-ball.png"
+}

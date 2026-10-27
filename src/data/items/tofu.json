@@ -1,0 +1,12 @@
+{
+  "id": "tofu",
+  "num": 1746,
+  "name": "Tofu",
+  "url": "https://pokeapi.co/api/v2/item/tofu",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/tofu.png"
+}

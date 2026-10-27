@@ -1,0 +1,12 @@
+{
+  "id": "moltres-candy",
+  "num": 1132,
+  "name": "Moltres Candy",
+  "url": "https://pokeapi.co/api/v2/item/moltres-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/moltres-candy.png"
+}

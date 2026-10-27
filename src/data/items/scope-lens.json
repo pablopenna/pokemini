@@ -1,0 +1,15 @@
+{
+  "id": "scope-lens",
+  "num": 209,
+  "name": "Scope Lens",
+  "url": "https://pokeapi.co/api/v2/item/scope-lens",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Raises the holder’s critical hit ratio by one stage.",
+  "sprite": "/items/scope-lens.png"
+}

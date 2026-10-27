@@ -1,0 +1,12 @@
+{
+  "id": "pewter-crunchies",
+  "num": 1039,
+  "name": "Pewter Crunchies",
+  "url": "https://pokeapi.co/api/v2/item/pewter-crunchies",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "status-cures",
+  "description": "",
+  "sprite": "/items/pewter-crunchies.png"
+}

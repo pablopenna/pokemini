@@ -1,0 +1,12 @@
+{
+  "id": "geodude-candy",
+  "num": 1088,
+  "name": "Geodude Candy",
+  "url": "https://pokeapi.co/api/v2/item/geodude-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/geodude-candy.png"
+}

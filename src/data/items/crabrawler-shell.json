@@ -1,0 +1,12 @@
+{
+  "id": "crabrawler-shell",
+  "num": 1873,
+  "name": "Crabrawler Shell",
+  "url": "https://pokeapi.co/api/v2/item/crabrawler-shell",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/crabrawler-shell.png"
+}

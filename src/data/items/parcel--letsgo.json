@@ -1,0 +1,12 @@
+{
+  "id": "parcel--letsgo",
+  "num": 1022,
+  "name": "Parcel",
+  "url": "https://pokeapi.co/api/v2/item/parcel--letsgo",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/parcel--letsgo.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fossilized-fish",
+  "num": 1164,
+  "name": "Fossilized Fish",
+  "url": "https://pokeapi.co/api/v2/item/fossilized-fish",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "dex-completion",
+  "description": "",
+  "sprite": "/items/fossilized-fish.png"
+}

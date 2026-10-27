@@ -1,0 +1,12 @@
+{
+  "id": "marshadium-z--bag",
+  "num": 961,
+  "name": "Marshadium Z",
+  "url": "https://pokeapi.co/api/v2/item/marshadium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for marshadium-z--bag",
+  "sprite": "/items/marshadium-z--bag.png"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "revival-herb",
+  "num": 37,
+  "name": "Revival Herb",
+  "url": "https://pokeapi.co/api/v2/item/revival-herb",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "revival",
+  "description": "Revives with full HP, but lowers happiness.",
+  "sprite": "/items/revival-herb.png"
+}

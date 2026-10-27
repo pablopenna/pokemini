@@ -1,0 +1,12 @@
+{
+  "id": "ring-target",
+  "num": 586,
+  "name": "Ring Target",
+  "url": "https://pokeapi.co/api/v2/item/ring-target",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: Negates the holder’s type immunities. Ability immunities are not removed.",
+  "sprite": "/items/ring-target.png"
+}

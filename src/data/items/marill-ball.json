@@ -1,0 +1,12 @@
+{
+  "id": "marill-ball",
+  "num": 2033,
+  "name": "Marill Ball",
+  "url": "https://pokeapi.co/api/v2/item/marill-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/marill-ball.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cameruptite",
+  "num": 808,
+  "name": "Cameruptite",
+  "url": "https://pokeapi.co/api/v2/item/cameruptite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Camerupt to Mega Evolve into Mega Camerupt.",
+  "sprite": "/items/cameruptite.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "white-herb",
+  "num": 191,
+  "name": "White Herb",
+  "url": "https://pokeapi.co/api/v2/item/white-herb",
+  "flingPower": 10,
+  "flingEffect": "herb-effect",
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Resets all lowered stats to normal at end of turn. Consumed after use.",
+  "sprite": "/items/white-herb.png"
+}

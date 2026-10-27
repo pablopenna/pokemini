@@ -1,0 +1,14 @@
+{
+  "id": "custap-berry",
+  "num": 187,
+  "name": "Custap Berry",
+  "url": "https://pokeapi.co/api/v2/item/custap-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "in-a-pinch",
+  "description": "Held: Consumed at 1/4 max HP when using a move to go first.",
+  "sprite": "/items/custap-berry.png"
+}

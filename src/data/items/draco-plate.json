@@ -1,0 +1,16 @@
+{
+  "id": "draco-plate",
+  "num": 288,
+  "name": "Draco Plate",
+  "url": "https://pokeapi.co/api/v2/item/draco-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Dragon-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Dragon.",
+  "sprite": "/items/draco-plate.png"
+}

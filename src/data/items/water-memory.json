@@ -1,0 +1,12 @@
+{
+  "id": "water-memory",
+  "num": 911,
+  "name": "Water Memory",
+  "url": "https://pokeapi.co/api/v2/item/water-memory",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "memories",
+  "description": "Held: Changes Silvally to its Water form.  Changes Multi-Attack’s type to Water.",
+  "sprite": "/items/water-memory.png"
+}

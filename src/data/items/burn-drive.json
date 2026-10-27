@@ -1,0 +1,12 @@
+{
+  "id": "burn-drive",
+  "num": 565,
+  "name": "Burn Drive",
+  "url": "https://pokeapi.co/api/v2/item/burn-drive",
+  "flingPower": 70,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-specific",
+  "description": "Grants Genesect a red, Fire-type Techno Blast.",
+  "sprite": "/items/burn-drive.png"
+}

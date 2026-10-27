@@ -1,0 +1,14 @@
+{
+  "id": "helix-fossil",
+  "num": 101,
+  "name": "Helix Fossil",
+  "url": "https://pokeapi.co/api/v2/item/helix-fossil",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "dex-completion",
+  "description": "Can be revived into an Omanyte.",
+  "sprite": "/items/helix-fossil.png"
+}

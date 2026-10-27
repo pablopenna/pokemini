@@ -1,0 +1,12 @@
+{
+  "id": "psychic-seed",
+  "num": 899,
+  "name": "Psychic Seed",
+  "url": "https://pokeapi.co/api/v2/item/psychic-seed",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: Consumed on Psychic Terrain and raises the holder’s Special Defense by one stage.",
+  "sprite": "/items/psychic-seed.png"
+}

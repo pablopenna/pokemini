@@ -1,0 +1,12 @@
+{
+  "id": "tm39",
+  "num": 343,
+  "name": "TM39",
+  "url": "https://pokeapi.co/api/v2/item/tm39",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Rock Tomb to a compatible Pokémon. (Gen II & I: Swift)",
+  "sprite": "/items/tm39.png"
+}

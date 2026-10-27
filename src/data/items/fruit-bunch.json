@@ -1,0 +1,12 @@
+{
+  "id": "fruit-bunch",
+  "num": 1314,
+  "name": "Fruit Bunch",
+  "url": "https://pokeapi.co/api/v2/item/fruit-bunch",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/fruit-bunch.png"
+}

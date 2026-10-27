@@ -1,0 +1,12 @@
+{
+  "id": "vullaby-feather",
+  "num": 2151,
+  "name": "Vullaby Feather",
+  "url": "https://pokeapi.co/api/v2/item/vullaby-feather",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/vullaby-feather.png"
+}

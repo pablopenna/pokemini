@@ -1,0 +1,12 @@
+{
+  "id": "oval-charm",
+  "num": 674,
+  "name": "Oval Charm",
+  "url": "https://pokeapi.co/api/v2/item/oval-charm",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Doubles the chance of two Pokémon producing an egg at the daycare every 255 steps.",
+  "sprite": "/items/oval-charm.png"
+}

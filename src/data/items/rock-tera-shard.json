@@ -1,0 +1,12 @@
+{
+  "id": "rock-tera-shard",
+  "num": 1690,
+  "name": "Rock Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/rock-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/rock-tera-shard.png"
+}

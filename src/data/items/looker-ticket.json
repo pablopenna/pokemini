@@ -1,0 +1,12 @@
+{
+  "id": "looker-ticket",
+  "num": 738,
+  "name": "Looker Ticket",
+  "url": "https://pokeapi.co/api/v2/item/looker-ticket",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Advances the Looker postgame plot.",
+  "sprite": "/items/looker-ticket.png"
+}

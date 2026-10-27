@@ -1,0 +1,12 @@
+{
+  "id": "pidgeotite",
+  "num": 803,
+  "name": "Pidgeotite",
+  "url": "https://pokeapi.co/api/v2/item/pidgeotite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Pidgeot to Mega Evolve into Mega Pidgeot.",
+  "sprite": "/items/pidgeotite.png"
+}

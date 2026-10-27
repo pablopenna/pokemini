@@ -1,0 +1,12 @@
+{
+  "id": "dynamax-candy",
+  "num": 1187,
+  "name": "Dynamax Candy",
+  "url": "https://pokeapi.co/api/v2/item/dynamax-candy",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/dynamax-candy.png"
+}

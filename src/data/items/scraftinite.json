@@ -1,0 +1,12 @@
+{
+  "id": "scraftinite",
+  "num": 2246,
+  "name": "Scraftinite",
+  "url": "https://pokeapi.co/api/v2/item/scraftinite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/scraftinite.png"
+}

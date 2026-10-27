@@ -1,0 +1,12 @@
+{
+  "id": "prosciutto",
+  "num": 1737,
+  "name": "Prosciutto",
+  "url": "https://pokeapi.co/api/v2/item/prosciutto",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/prosciutto.png"
+}

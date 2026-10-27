@@ -1,0 +1,12 @@
+{
+  "id": "electabuzz-candy",
+  "num": 1118,
+  "name": "Electabuzz Candy",
+  "url": "https://pokeapi.co/api/v2/item/electabuzz-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/electabuzz-candy.png"
+}

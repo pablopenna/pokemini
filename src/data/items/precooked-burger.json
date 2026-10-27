@@ -1,0 +1,12 @@
+{
+  "id": "precooked-burger",
+  "num": 1321,
+  "name": "Precooked Burger",
+  "url": "https://pokeapi.co/api/v2/item/precooked-burger",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/precooked-burger.png"
+}

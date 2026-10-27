@@ -1,0 +1,12 @@
+{
+  "id": "firium-z--held",
+  "num": 818,
+  "name": "Firium Z",
+  "url": "https://pokeapi.co/api/v2/item/firium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Fire moves.",
+  "sprite": "/items/firium-z--held.png"
+}

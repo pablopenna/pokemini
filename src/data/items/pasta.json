@@ -1,0 +1,12 @@
+{
+  "id": "pasta",
+  "num": 1149,
+  "name": "Pasta",
+  "url": "https://pokeapi.co/api/v2/item/pasta",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/pasta.png"
+}

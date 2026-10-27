@@ -1,0 +1,12 @@
+{
+  "id": "tm09",
+  "num": 313,
+  "name": "TM09",
+  "url": "https://pokeapi.co/api/v2/item/tm09",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Venoshock to a compatible Pokémon. (Gen IV & III: Bullet Seed Gen II: Psych Up Gen I: Take Down)",
+  "sprite": "/items/tm09.png"
+}

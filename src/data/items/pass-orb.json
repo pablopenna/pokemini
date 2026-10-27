@@ -1,0 +1,12 @@
+{
+  "id": "pass-orb",
+  "num": 616,
+  "name": "Pass Orb",
+  "url": "https://pokeapi.co/api/v2/item/pass-orb",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Activates Pass Powers.",
+  "sprite": "/items/pass-orb.png"
+}

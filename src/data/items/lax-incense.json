@@ -1,0 +1,15 @@
+{
+  "id": "lax-incense",
+  "num": 232,
+  "name": "Lax Incense",
+  "url": "https://pokeapi.co/api/v2/item/lax-incense",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Holder’s evasion is increased by 5%. Breeding: Wobbuffet begets a Wynaut Egg.",
+  "sprite": "/items/lax-incense.png"
+}

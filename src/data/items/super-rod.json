@@ -1,0 +1,12 @@
+{
+  "id": "super-rod",
+  "num": 424,
+  "name": "Super Rod",
+  "url": "https://pokeapi.co/api/v2/item/super-rod",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Used to catch Pokémon in bodies of water.",
+  "sprite": "/items/super-rod.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sweet-herba-mystica",
+  "num": 1719,
+  "name": "Sweet Herba Mystica",
+  "url": "https://pokeapi.co/api/v2/item/sweet-herba-mystica",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/sweet-herba-mystica.png"
+}

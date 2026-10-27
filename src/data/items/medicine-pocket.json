@@ -1,0 +1,12 @@
+{
+  "id": "medicine-pocket",
+  "num": 1008,
+  "name": "Medicine Pocket",
+  "url": "https://pokeapi.co/api/v2/item/medicine-pocket",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "",
+  "sprite": "/items/medicine-pocket.png"
+}

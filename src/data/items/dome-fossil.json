@@ -1,0 +1,14 @@
+{
+  "id": "dome-fossil",
+  "num": 102,
+  "name": "Dome Fossil",
+  "url": "https://pokeapi.co/api/v2/item/dome-fossil",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "dex-completion",
+  "description": "Can be revived into a Kabuto.",
+  "sprite": "/items/dome-fossil.png"
+}

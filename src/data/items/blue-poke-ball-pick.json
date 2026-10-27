@@ -1,0 +1,12 @@
+{
+  "id": "blue-poke-ball-pick",
+  "num": 2044,
+  "name": "Blue Poké Ball Pick",
+  "url": "https://pokeapi.co/api/v2/item/blue-poke-ball-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/blue-poke-ball-pick.png"
+}

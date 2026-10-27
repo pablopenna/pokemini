@@ -1,0 +1,12 @@
+{
+  "id": "jalapeno",
+  "num": 1756,
+  "name": "Jalapeño",
+  "url": "https://pokeapi.co/api/v2/item/jalapeno",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/jalapeno.png"
+}

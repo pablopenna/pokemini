@@ -1,0 +1,12 @@
+{
+  "id": "ability-urge",
+  "num": 652,
+  "name": "Ability Urge",
+  "url": "https://pokeapi.co/api/v2/item/ability-urge",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "miracle-shooter",
+  "description": "Forcibly activates a friendly Pokémon’s ability.",
+  "sprite": "/items/ability-urge.png"
+}

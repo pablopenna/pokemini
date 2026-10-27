@@ -1,0 +1,12 @@
+{
+  "id": "dna-splicers",
+  "num": 671,
+  "name": "DNA Splicers",
+  "url": "https://pokeapi.co/api/v2/item/dna-splicers",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Fuses Kyurem with Reshiram or Zekrom, or splits them apart again.",
+  "sprite": "/items/dna-splicers.png"
+}

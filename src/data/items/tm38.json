@@ -1,0 +1,12 @@
+{
+  "id": "tm38",
+  "num": 342,
+  "name": "TM38",
+  "url": "https://pokeapi.co/api/v2/item/tm38",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Fire Blast to a compatible Pokémon.",
+  "sprite": "/items/tm38.png"
+}

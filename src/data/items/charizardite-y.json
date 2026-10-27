@@ -1,0 +1,12 @@
+{
+  "id": "charizardite-y",
+  "num": 717,
+  "name": "Charizardite Y",
+  "url": "https://pokeapi.co/api/v2/item/charizardite-y",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Charizard to Mega Evolve into Mega Charizard Y.",
+  "sprite": "/items/charizardite-y.png"
+}

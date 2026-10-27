@@ -1,0 +1,12 @@
+{
+  "id": "vinegar",
+  "num": 1718,
+  "name": "Vinegar",
+  "url": "https://pokeapi.co/api/v2/item/vinegar",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/vinegar.png"
+}

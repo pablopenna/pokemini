@@ -1,0 +1,12 @@
+{
+  "id": "ability-patch",
+  "num": 1657,
+  "name": "Ability Patch",
+  "url": "https://pokeapi.co/api/v2/item/ability-patch",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/ability-patch.png"
+}

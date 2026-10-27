@@ -1,0 +1,12 @@
+{
+  "id": "psychic-tera-shard",
+  "num": 1688,
+  "name": "Psychic Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/psychic-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/psychic-tera-shard.png"
+}

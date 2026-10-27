@@ -1,0 +1,12 @@
+{
+  "id": "deino-scales",
+  "num": 1857,
+  "name": "Deino Scales",
+  "url": "https://pokeapi.co/api/v2/item/deino-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/deino-scales.png"
+}

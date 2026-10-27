@@ -1,0 +1,12 @@
+{
+  "id": "green-apricorn",
+  "num": 461,
+  "name": "Green Apricorn",
+  "url": "https://pokeapi.co/api/v2/item/green-apricorn",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "apricorn-box",
+  "description": "Used to make a Friend Ball.",
+  "sprite": "/items/green-apricorn.png"
+}

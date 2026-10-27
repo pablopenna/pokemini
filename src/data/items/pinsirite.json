@@ -1,0 +1,12 @@
+{
+  "id": "pinsirite",
+  "num": 710,
+  "name": "Pinsirite",
+  "url": "https://pokeapi.co/api/v2/item/pinsirite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Pinsir to Mega Evolve into Mega Pinsir.",
+  "sprite": "/items/pinsirite.png"
+}

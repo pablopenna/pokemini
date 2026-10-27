@@ -1,0 +1,12 @@
+{
+  "id": "roto-stick",
+  "num": 2100,
+  "name": "Roto Stick",
+  "url": "https://pokeapi.co/api/v2/item/roto-stick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/roto-stick.png"
+}

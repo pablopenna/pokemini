@@ -1,0 +1,15 @@
+{
+  "id": "black-belt",
+  "num": 218,
+  "name": "Black Belt",
+  "url": "https://pokeapi.co/api/v2/item/black-belt",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Fighting-Type moves from holder do 20% more damage.",
+  "sprite": "/items/black-belt.png"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "old-gateau",
+  "num": 54,
+  "name": "Old Gateau",
+  "url": "https://pokeapi.co/api/v2/item/old-gateau",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "status-cures",
+  "description": "Cures any status ailment and confusion.",
+  "sprite": "/items/old-gateau.png"
+}

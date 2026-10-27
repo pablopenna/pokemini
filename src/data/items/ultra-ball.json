@@ -1,0 +1,17 @@
+{
+  "id": "ultra-ball",
+  "num": 2,
+  "name": "Ultra Ball",
+  "url": "https://pokeapi.co/api/v2/item/ultra-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "standard-balls",
+  "description": "Tries to catch a wild Pokémon.  Success rate is 2×.",
+  "sprite": "/items/ultra-ball.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "red-bell-pepper",
+  "num": 1732,
+  "name": "Red Bell Pepper",
+  "url": "https://pokeapi.co/api/v2/item/red-bell-pepper",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/red-bell-pepper.png"
+}

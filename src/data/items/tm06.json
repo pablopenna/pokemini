@@ -1,0 +1,12 @@
+{
+  "id": "tm06",
+  "num": 310,
+  "name": "TM06",
+  "url": "https://pokeapi.co/api/v2/item/tm06",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Toxic to a compatible Pokémon.",
+  "sprite": "/items/tm06.png"
+}

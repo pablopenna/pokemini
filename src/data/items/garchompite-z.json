@@ -1,0 +1,12 @@
+{
+  "id": "garchompite-z",
+  "num": 2267,
+  "name": "Garchompite Z",
+  "url": "https://pokeapi.co/api/v2/item/garchompite-z",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/garchompite-z.png"
+}

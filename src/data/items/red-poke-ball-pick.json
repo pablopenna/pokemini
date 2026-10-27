@@ -1,0 +1,12 @@
+{
+  "id": "red-poke-ball-pick",
+  "num": 2085,
+  "name": "Red Poké Ball Pick",
+  "url": "https://pokeapi.co/api/v2/item/red-poke-ball-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/red-poke-ball-pick.png"
+}

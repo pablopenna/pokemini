@@ -1,0 +1,12 @@
+{
+  "id": "liberty-pass",
+  "num": 615,
+  "name": "Liberty Pass",
+  "url": "https://pokeapi.co/api/v2/item/liberty-pass",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "Allows access to Liberty Garden and Victini.",
+  "sprite": "/items/liberty-pass.png"
+}

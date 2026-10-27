@@ -1,0 +1,12 @@
+{
+  "id": "scroll-of-waters",
+  "num": 1676,
+  "name": "Scroll of Waters",
+  "url": "https://pokeapi.co/api/v2/item/scroll-of-waters",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/scroll-of-waters.png"
+}

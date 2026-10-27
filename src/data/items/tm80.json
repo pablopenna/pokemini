@@ -1,0 +1,12 @@
+{
+  "id": "tm80",
+  "num": 384,
+  "name": "TM80",
+  "url": "https://pokeapi.co/api/v2/item/tm80",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Rock Slide to a compatible Pokémon.",
+  "sprite": "/items/tm80.png"
+}

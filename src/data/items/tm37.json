@@ -1,0 +1,12 @@
+{
+  "id": "tm37",
+  "num": 341,
+  "name": "TM37",
+  "url": "https://pokeapi.co/api/v2/item/tm37",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Sandstorm to a compatible Pokémon. (Gen I: Egg Bomb)",
+  "sprite": "/items/tm37.png"
+}

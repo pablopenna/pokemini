@@ -1,0 +1,12 @@
+{
+  "id": "ekans-candy",
+  "num": 1066,
+  "name": "Ekans Candy",
+  "url": "https://pokeapi.co/api/v2/item/ekans-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/ekans-candy.png"
+}

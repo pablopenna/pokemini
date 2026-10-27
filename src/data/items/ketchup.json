@@ -1,0 +1,12 @@
+{
+  "id": "ketchup",
+  "num": 1705,
+  "name": "Ketchup",
+  "url": "https://pokeapi.co/api/v2/item/ketchup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/ketchup.png"
+}

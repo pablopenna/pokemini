@@ -1,0 +1,12 @@
+{
+  "id": "salamencite",
+  "num": 810,
+  "name": "Salamencite",
+  "url": "https://pokeapi.co/api/v2/item/salamencite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Salamence to Mega Evolve into Mega Salamence.",
+  "sprite": "/items/salamencite.png"
+}

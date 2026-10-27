@@ -1,0 +1,12 @@
+{
+  "id": "greet-mail",
+  "num": 568,
+  "name": "Greet Mail",
+  "url": "https://pokeapi.co/api/v2/item/greet-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/greet-mail.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "resist-mochi",
+  "num": 2114,
+  "name": "Resist Mochi",
+  "url": "https://pokeapi.co/api/v2/item/resist-mochi",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/resist-mochi.png"
+}

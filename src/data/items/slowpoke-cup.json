@@ -1,0 +1,12 @@
+{
+  "id": "slowpoke-cup",
+  "num": 2062,
+  "name": "Slowpoke Cup",
+  "url": "https://pokeapi.co/api/v2/item/slowpoke-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/slowpoke-cup.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "diamond-bottle",
+  "num": 2020,
+  "name": "Diamond Bottle",
+  "url": "https://pokeapi.co/api/v2/item/diamond-bottle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/diamond-bottle.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "golden-nanab-berry",
+  "num": 1017,
+  "name": "Golden Nanab Berry",
+  "url": "https://pokeapi.co/api/v2/item/golden-nanab-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "catching-bonus",
+  "description": "",
+  "sprite": "/items/golden-nanab-berry.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "retro-mail",
+  "num": 526,
+  "name": "Retro Mail",
+  "url": "https://pokeapi.co/api/v2/item/retro-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/retro-mail.png"
+}

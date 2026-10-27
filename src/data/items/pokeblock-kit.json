@@ -1,0 +1,12 @@
+{
+  "id": "pokeblock-kit",
+  "num": 772,
+  "name": "Pokéblock Kit",
+  "url": "https://pokeapi.co/api/v2/item/pokeblock-kit",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Creates and stores Pokéblocks.",
+  "sprite": "/items/pokeblock-kit.png"
+}

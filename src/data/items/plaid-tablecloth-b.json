@@ -1,0 +1,12 @@
+{
+  "id": "plaid-tablecloth-b",
+  "num": 2066,
+  "name": "Plaid Tablecloth (B)",
+  "url": "https://pokeapi.co/api/v2/item/plaid-tablecloth-b",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/plaid-tablecloth-b.png"
+}

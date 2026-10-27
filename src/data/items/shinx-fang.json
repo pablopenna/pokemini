@@ -1,0 +1,12 @@
+{
+  "id": "shinx-fang",
+  "num": 1825,
+  "name": "Shinx Fang",
+  "url": "https://pokeapi.co/api/v2/item/shinx-fang",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/shinx-fang.png"
+}

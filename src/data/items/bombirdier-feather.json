@@ -1,0 +1,12 @@
+{
+  "id": "bombirdier-feather",
+  "num": 1928,
+  "name": "Bombirdier Feather",
+  "url": "https://pokeapi.co/api/v2/item/bombirdier-feather",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/bombirdier-feather.png"
+}

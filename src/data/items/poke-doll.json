@@ -1,0 +1,17 @@
+{
+  "id": "poke-doll",
+  "num": 63,
+  "name": "Poké Doll",
+  "url": "https://pokeapi.co/api/v2/item/poke-doll",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "spelunking",
+  "description": "Ends a wild battle.",
+  "sprite": "/items/poke-doll.png"
+}

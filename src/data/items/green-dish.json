@@ -1,0 +1,12 @@
+{
+  "id": "green-dish",
+  "num": 2095,
+  "name": "Green Dish",
+  "url": "https://pokeapi.co/api/v2/item/green-dish",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/green-dish.png"
+}

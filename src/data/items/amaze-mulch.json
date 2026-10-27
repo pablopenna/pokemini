@@ -1,0 +1,12 @@
+{
+  "id": "amaze-mulch",
+  "num": 694,
+  "name": "Amaze Mulch",
+  "url": "https://pokeapi.co/api/v2/item/amaze-mulch",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mulch",
+  "description": "Increases the total number of Berries by 2, increases the chance of Berry mutation, and causes soil to dry out in 4 hours.",
+  "sprite": "/items/amaze-mulch.png"
+}

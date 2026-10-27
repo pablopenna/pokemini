@@ -1,0 +1,12 @@
+{
+  "id": "hawluchanite",
+  "num": 2257,
+  "name": "Hawluchanite",
+  "url": "https://pokeapi.co/api/v2/item/hawluchanite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/hawluchanite.png"
+}

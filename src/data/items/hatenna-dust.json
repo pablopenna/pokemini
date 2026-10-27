@@ -1,0 +1,12 @@
+{
+  "id": "hatenna-dust",
+  "num": 1902,
+  "name": "Hatenna Dust",
+  "url": "https://pokeapi.co/api/v2/item/hatenna-dust",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/hatenna-dust.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pair-of-tickets",
+  "num": 784,
+  "name": "Pair of Tickets",
+  "url": "https://pokeapi.co/api/v2/item/pair-of-tickets",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Allows the player and their mother to see the star show in the Mossdeep Space Center.",
+  "sprite": "/items/pair-of-tickets.png"
+}

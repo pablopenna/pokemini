@@ -1,0 +1,12 @@
+{
+  "id": "pineco-husk",
+  "num": 1789,
+  "name": "Pineco Husk",
+  "url": "https://pokeapi.co/api/v2/item/pineco-husk",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/pineco-husk.png"
+}

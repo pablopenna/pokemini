@@ -1,0 +1,17 @@
+{
+  "id": "heal-ball",
+  "num": 14,
+  "name": "Heal Ball",
+  "url": "https://pokeapi.co/api/v2/item/heal-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "special-balls",
+  "description": "Tries to catch a wild Pokémon.  Caught Pokémon are immediately healed.",
+  "sprite": "/items/heal-ball.png"
+}

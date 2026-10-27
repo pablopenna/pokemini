@@ -1,0 +1,12 @@
+{
+  "id": "loaded-dice",
+  "num": 1702,
+  "name": "Loaded Dice",
+  "url": "https://pokeapi.co/api/v2/item/loaded-dice",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/loaded-dice.png"
+}

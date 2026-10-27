@@ -1,0 +1,12 @@
+{
+  "id": "ghostium-z--bag",
+  "num": 951,
+  "name": "Ghostium Z",
+  "url": "https://pokeapi.co/api/v2/item/ghostium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for ghostium-z--bag",
+  "sprite": "/items/ghostium-z--bag.png"
+}

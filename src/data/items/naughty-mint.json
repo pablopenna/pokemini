@@ -1,0 +1,12 @@
+{
+  "id": "naughty-mint",
+  "num": 1291,
+  "name": "Naughty Mint",
+  "url": "https://pokeapi.co/api/v2/item/naughty-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/naughty-mint.png"
+}

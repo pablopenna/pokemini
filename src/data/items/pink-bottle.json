@@ -1,0 +1,12 @@
+{
+  "id": "pink-bottle",
+  "num": 2047,
+  "name": "Pink Bottle",
+  "url": "https://pokeapi.co/api/v2/item/pink-bottle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/pink-bottle.png"
+}

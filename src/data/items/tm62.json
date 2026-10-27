@@ -1,0 +1,12 @@
+{
+  "id": "tm62",
+  "num": 366,
+  "name": "TM62",
+  "url": "https://pokeapi.co/api/v2/item/tm62",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Acrobatics to a compatible Pokémon. (Gen IV: Silver Wind)",
+  "sprite": "/items/tm62.png"
+}

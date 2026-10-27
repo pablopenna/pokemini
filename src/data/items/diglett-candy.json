@@ -1,0 +1,12 @@
+{
+  "id": "diglett-candy",
+  "num": 1078,
+  "name": "Diglett Candy",
+  "url": "https://pokeapi.co/api/v2/item/diglett-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/diglett-candy.png"
+}

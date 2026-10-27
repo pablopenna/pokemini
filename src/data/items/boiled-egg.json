@@ -1,0 +1,12 @@
+{
+  "id": "boiled-egg",
+  "num": 1159,
+  "name": "Boiled Egg",
+  "url": "https://pokeapi.co/api/v2/item/boiled-egg",
+  "flingPower": 20,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/boiled-egg.png"
+}

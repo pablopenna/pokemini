@@ -1,0 +1,12 @@
+{
+  "id": "clever-wing",
+  "num": 610,
+  "name": "Clever Feather",
+  "url": "https://pokeapi.co/api/v2/item/clever-wing",
+  "flingPower": 20,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "Increases Special Defense effort by 1.",
+  "sprite": "/items/clever-wing.png"
+}

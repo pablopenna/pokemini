@@ -1,0 +1,12 @@
+{
+  "id": "academy-ball",
+  "num": 2031,
+  "name": "Academy Ball",
+  "url": "https://pokeapi.co/api/v2/item/academy-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/academy-ball.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "gothita-eyelash",
+  "num": 1847,
+  "name": "Gothita Eyelash",
+  "url": "https://pokeapi.co/api/v2/item/gothita-eyelash",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/gothita-eyelash.png"
+}

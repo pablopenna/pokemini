@@ -1,0 +1,12 @@
+{
+  "id": "white-dish",
+  "num": 2098,
+  "name": "White Dish",
+  "url": "https://pokeapi.co/api/v2/item/white-dish",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/white-dish.png"
+}

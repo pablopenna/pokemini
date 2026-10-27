@@ -1,0 +1,12 @@
+{
+  "id": "vulpix-fur",
+  "num": 2122,
+  "name": "Vulpix Fur",
+  "url": "https://pokeapi.co/api/v2/item/vulpix-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/vulpix-fur.png"
+}

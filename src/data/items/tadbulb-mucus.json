@@ -1,0 +1,12 @@
+{
+  "id": "tadbulb-mucus",
+  "num": 1918,
+  "name": "Tadbulb Mucus",
+  "url": "https://pokeapi.co/api/v2/item/tadbulb-mucus",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/tadbulb-mucus.png"
+}

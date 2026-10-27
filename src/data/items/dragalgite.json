@@ -1,0 +1,12 @@
+{
+  "id": "dragalgite",
+  "num": 2256,
+  "name": "Dragalgite",
+  "url": "https://pokeapi.co/api/v2/item/dragalgite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/dragalgite.png"
+}

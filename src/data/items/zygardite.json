@@ -1,0 +1,12 @@
+{
+  "id": "zygardite",
+  "num": 2258,
+  "name": "Zygardite",
+  "url": "https://pokeapi.co/api/v2/item/zygardite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/zygardite.png"
+}

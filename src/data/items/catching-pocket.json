@@ -1,0 +1,12 @@
+{
+  "id": "catching-pocket",
+  "num": 1012,
+  "name": "Catching Pocket",
+  "url": "https://pokeapi.co/api/v2/item/catching-pocket",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "",
+  "sprite": "/items/catching-pocket.png"
+}

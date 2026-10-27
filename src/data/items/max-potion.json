@@ -1,0 +1,18 @@
+{
+  "id": "max-potion",
+  "num": 24,
+  "name": "Max Potion",
+  "url": "https://pokeapi.co/api/v2/item/max-potion",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "healing",
+  "description": "Restores HP to full.",
+  "sprite": "/items/max-potion.png"
+}

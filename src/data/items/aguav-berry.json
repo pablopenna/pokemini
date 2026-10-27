@@ -1,0 +1,14 @@
+{
+  "id": "aguav-berry",
+  "num": 139,
+  "name": "Aguav Berry",
+  "url": "https://pokeapi.co/api/v2/item/aguav-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "picky-healing",
+  "description": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike bitter flavor.",
+  "sprite": "/items/aguav-berry.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "wattrel-feather",
+  "num": 1927,
+  "name": "Wattrel Feather",
+  "url": "https://pokeapi.co/api/v2/item/wattrel-feather",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/wattrel-feather.png"
+}

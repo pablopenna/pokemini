@@ -1,0 +1,12 @@
+{
+  "id": "mankey-candy",
+  "num": 1081,
+  "name": "Mankey Candy",
+  "url": "https://pokeapi.co/api/v2/item/mankey-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/mankey-candy.png"
+}

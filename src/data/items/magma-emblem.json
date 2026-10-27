@@ -1,0 +1,12 @@
+{
+  "id": "magma-emblem",
+  "num": 561,
+  "name": "Magma Emblem",
+  "url": "https://pokeapi.co/api/v2/item/magma-emblem",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Provides access to the Team Magma Hideout in the Jagged Pass.",
+  "sprite": "/items/magma-emblem.png"
+}

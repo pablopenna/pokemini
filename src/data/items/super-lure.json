@@ -1,0 +1,12 @@
+{
+  "id": "super-lure",
+  "num": 1037,
+  "name": "Super Lure",
+  "url": "https://pokeapi.co/api/v2/item/super-lure",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "spelunking",
+  "description": "",
+  "sprite": "/items/super-lure.png"
+}

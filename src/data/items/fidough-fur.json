@@ -1,0 +1,12 @@
+{
+  "id": "fidough-fur",
+  "num": 1935,
+  "name": "Fidough Fur",
+  "url": "https://pokeapi.co/api/v2/item/fidough-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/fidough-fur.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "blank-plate",
+  "num": 1662,
+  "name": "Blank Plate",
+  "url": "https://pokeapi.co/api/v2/item/blank-plate",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plates",
+  "description": "",
+  "sprite": "/items/blank-plate.png"
+}

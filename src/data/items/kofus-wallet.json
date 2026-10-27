@@ -1,0 +1,12 @@
+{
+  "id": "kofus-wallet",
+  "num": 1672,
+  "name": "Kofu’s Wallet",
+  "url": "https://pokeapi.co/api/v2/item/kofus-wallet",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/kofus-wallet.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tentacool-candy",
+  "num": 1087,
+  "name": "Tentacool Candy",
+  "url": "https://pokeapi.co/api/v2/item/tentacool-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/tentacool-candy.png"
+}

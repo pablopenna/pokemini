@@ -1,0 +1,12 @@
+{
+  "id": "tart-apple",
+  "num": 1175,
+  "name": "Tart Apple",
+  "url": "https://pokeapi.co/api/v2/item/tart-apple",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/tart-apple.png"
+}

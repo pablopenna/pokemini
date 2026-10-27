@@ -1,0 +1,12 @@
+{
+  "id": "farfetchd-candy",
+  "num": 1092,
+  "name": "Farfetch’d Candy",
+  "url": "https://pokeapi.co/api/v2/item/farfetchd-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/farfetchd-candy.png"
+}

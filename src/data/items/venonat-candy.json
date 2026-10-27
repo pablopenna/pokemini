@@ -1,0 +1,12 @@
+{
+  "id": "venonat-candy",
+  "num": 1077,
+  "name": "Venonat Candy",
+  "url": "https://pokeapi.co/api/v2/item/venonat-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/venonat-candy.png"
+}

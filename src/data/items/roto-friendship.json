@@ -1,0 +1,12 @@
+{
+  "id": "roto-friendship",
+  "num": 999,
+  "name": "Roto Friendship",
+  "url": "https://pokeapi.co/api/v2/item/roto-friendship",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for roto-friendship",
+  "sprite": "/items/roto-friendship.png"
+}

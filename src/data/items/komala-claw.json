@@ -1,0 +1,12 @@
+{
+  "id": "komala-claw",
+  "num": 1884,
+  "name": "Komala Claw",
+  "url": "https://pokeapi.co/api/v2/item/komala-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/komala-claw.png"
+}

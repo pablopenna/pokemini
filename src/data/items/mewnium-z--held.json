@@ -1,0 +1,12 @@
+{
+  "id": "mewnium-z--held",
+  "num": 847,
+  "name": "Mewnium Z",
+  "url": "https://pokeapi.co/api/v2/item/mewnium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows Mew to upgrade Psychic into Genesis Supernova.",
+  "sprite": "/items/mewnium-z--held.png"
+}

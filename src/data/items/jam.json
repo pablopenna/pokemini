@@ -1,0 +1,12 @@
+{
+  "id": "jam",
+  "num": 1715,
+  "name": "Jam",
+  "url": "https://pokeapi.co/api/v2/item/jam",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/jam.png"
+}

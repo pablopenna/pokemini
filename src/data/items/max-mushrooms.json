@@ -1,0 +1,12 @@
+{
+  "id": "max-mushrooms",
+  "num": 1631,
+  "name": "Max Mushrooms",
+  "url": "https://pokeapi.co/api/v2/item/max-mushrooms",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "stat-boosts",
+  "description": "",
+  "sprite": "/items/max-mushrooms.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "magnemite-screw",
+  "num": 1769,
+  "name": "Magnemite Screw",
+  "url": "https://pokeapi.co/api/v2/item/magnemite-screw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/magnemite-screw.png"
+}

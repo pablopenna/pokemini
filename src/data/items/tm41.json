@@ -1,0 +1,12 @@
+{
+  "id": "tm41",
+  "num": 345,
+  "name": "TM41",
+  "url": "https://pokeapi.co/api/v2/item/tm41",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Torment to a compatible Pokémon. (Gen II: ThunderPunch Gen I: Softboiled)",
+  "sprite": "/items/tm41.png"
+}

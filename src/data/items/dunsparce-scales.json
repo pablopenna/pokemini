@@ -1,0 +1,12 @@
+{
+  "id": "dunsparce-scales",
+  "num": 1790,
+  "name": "Dunsparce Scales",
+  "url": "https://pokeapi.co/api/v2/item/dunsparce-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/dunsparce-scales.png"
+}

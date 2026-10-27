@@ -1,0 +1,12 @@
+{
+  "id": "absolite-z",
+  "num": 2265,
+  "name": "Absolite Z",
+  "url": "https://pokeapi.co/api/v2/item/absolite-z",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/absolite-z.png"
+}

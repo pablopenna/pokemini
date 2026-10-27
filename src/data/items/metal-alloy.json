@@ -1,0 +1,12 @@
+{
+  "id": "metal-alloy",
+  "num": 2232,
+  "name": "Metal Alloy",
+  "url": "https://pokeapi.co/api/v2/item/metal-alloy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/metal-alloy.png"
+}

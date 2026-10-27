@@ -1,0 +1,12 @@
+{
+  "id": "red-scale",
+  "num": 477,
+  "name": "Red Scale",
+  "url": "https://pokeapi.co/api/v2/item/red-scale",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Trade to Mr. Pokémon for an Exp. Share.",
+  "sprite": "/items/red-scale.png"
+}

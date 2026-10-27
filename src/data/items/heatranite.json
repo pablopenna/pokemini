@@ -1,0 +1,12 @@
+{
+  "id": "heatranite",
+  "num": 2241,
+  "name": "Heatranite",
+  "url": "https://pokeapi.co/api/v2/item/heatranite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/heatranite.png"
+}

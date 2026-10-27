@@ -1,0 +1,12 @@
+{
+  "id": "klawf-stick",
+  "num": 1741,
+  "name": "Klawf Stick",
+  "url": "https://pokeapi.co/api/v2/item/klawf-stick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/klawf-stick.png"
+}

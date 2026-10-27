@@ -1,0 +1,12 @@
+{
+  "id": "ilimas-normalium-z",
+  "num": 993,
+  "name": "Ilima Normalium Z",
+  "url": "https://pokeapi.co/api/v2/item/ilimas-normalium-z",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for ilimas-normalium-z",
+  "sprite": "/items/ilimas-normalium-z.png"
+}

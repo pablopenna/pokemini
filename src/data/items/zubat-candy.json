@@ -1,0 +1,12 @@
+{
+  "id": "zubat-candy",
+  "num": 1074,
+  "name": "Zubat Candy",
+  "url": "https://pokeapi.co/api/v2/item/zubat-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/zubat-candy.png"
+}

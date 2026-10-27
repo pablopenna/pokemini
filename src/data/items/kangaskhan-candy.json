@@ -1,0 +1,12 @@
+{
+  "id": "kangaskhan-candy",
+  "num": 1111,
+  "name": "Kangaskhan Candy",
+  "url": "https://pokeapi.co/api/v2/item/kangaskhan-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/kangaskhan-candy.png"
+}

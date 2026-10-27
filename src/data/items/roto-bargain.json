@@ -1,0 +1,12 @@
+{
+  "id": "roto-bargain",
+  "num": 996,
+  "name": "Roto Bargain",
+  "url": "https://pokeapi.co/api/v2/item/roto-bargain",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for roto-bargain",
+  "sprite": "/items/roto-bargain.png"
+}

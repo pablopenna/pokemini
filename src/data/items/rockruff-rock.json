@@ -1,0 +1,12 @@
+{
+  "id": "rockruff-rock",
+  "num": 1875,
+  "name": "Rockruff Rock",
+  "url": "https://pokeapi.co/api/v2/item/rockruff-rock",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/rockruff-rock.png"
+}

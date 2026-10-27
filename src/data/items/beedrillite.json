@@ -1,0 +1,12 @@
+{
+  "id": "beedrillite",
+  "num": 811,
+  "name": "Beedrillite",
+  "url": "https://pokeapi.co/api/v2/item/beedrillite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Beedrill to Mega Evolve into Mega Beedrill.",
+  "sprite": "/items/beedrillite.png"
+}

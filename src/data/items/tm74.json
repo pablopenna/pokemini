@@ -1,0 +1,12 @@
+{
+  "id": "tm74",
+  "num": 378,
+  "name": "TM74",
+  "url": "https://pokeapi.co/api/v2/item/tm74",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Gyro Ball to a compatible Pokémon.",
+  "sprite": "/items/tm74.png"
+}

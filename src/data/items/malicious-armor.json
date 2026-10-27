@@ -1,0 +1,12 @@
+{
+  "id": "malicious-armor",
+  "num": 1677,
+  "name": "Malicious Armor",
+  "url": "https://pokeapi.co/api/v2/item/malicious-armor",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/malicious-armor.png"
+}

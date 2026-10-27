@@ -1,0 +1,12 @@
+{
+  "id": "ice-stone",
+  "num": 885,
+  "name": "Ice Stone",
+  "url": "https://pokeapi.co/api/v2/item/ice-stone",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Evolves an Alola Sandshrew into Alola Sandslash or an Alola Vulpix into Alola Ninetales.",
+  "sprite": "/items/ice-stone.png"
+}

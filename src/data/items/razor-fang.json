@@ -1,0 +1,15 @@
+{
+  "id": "razor-fang",
+  "num": 304,
+  "name": "Razor Fang",
+  "url": "https://pokeapi.co/api/v2/item/razor-fang",
+  "flingPower": 30,
+  "flingEffect": "flinch",
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Damaging moves gain a 10% chance to make their target flinch. Held by a Gligar while levelling up: Holder evolves into Gliscor.",
+  "sprite": "/items/razor-fang.png"
+}

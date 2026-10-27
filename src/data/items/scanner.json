@@ -1,0 +1,12 @@
+{
+  "id": "scanner",
+  "num": 535,
+  "name": "Scanner",
+  "url": "https://pokeapi.co/api/v2/item/scanner",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Trade to Captain Stern for a DeepSeaTooth or DeepSeaScale.",
+  "sprite": "/items/scanner.png"
+}

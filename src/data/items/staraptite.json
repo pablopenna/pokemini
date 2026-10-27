@@ -1,0 +1,12 @@
+{
+  "id": "staraptite",
+  "num": 2266,
+  "name": "Staraptite",
+  "url": "https://pokeapi.co/api/v2/item/staraptite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/staraptite.png"
+}

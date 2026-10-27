@@ -1,0 +1,12 @@
+{
+  "id": "relaxed-mint",
+  "num": 1296,
+  "name": "Relaxed Mint",
+  "url": "https://pokeapi.co/api/v2/item/relaxed-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/relaxed-mint.png"
+}

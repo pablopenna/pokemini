@@ -1,0 +1,17 @@
+{
+  "id": "x-accuracy",
+  "num": 60,
+  "name": "X Accuracy",
+  "url": "https://pokeapi.co/api/v2/item/x-accuracy",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "stat-boosts",
+  "description": "Raises accuracy by one stage in battle.  Raises happiness.",
+  "sprite": "/items/x-accuracy.png"
+}

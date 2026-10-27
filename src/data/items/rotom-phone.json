@@ -1,0 +1,12 @@
+{
+  "id": "rotom-phone",
+  "num": 1665,
+  "name": "Rotom Phone",
+  "url": "https://pokeapi.co/api/v2/item/rotom-phone",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "",
+  "sprite": "/items/rotom-phone.png"
+}

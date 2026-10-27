@@ -1,0 +1,12 @@
+{
+  "id": "colress-machine",
+  "num": 678,
+  "name": "Colress Machine",
+  "url": "https://pokeapi.co/api/v2/item/colress-machine",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Wakes up the Crustle blocking the way in Seaside Cave.",
+  "sprite": "/items/colress-machine.png"
+}

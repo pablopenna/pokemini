@@ -1,0 +1,14 @@
+{
+  "id": "micle-berry",
+  "num": 186,
+  "name": "Micle Berry",
+  "url": "https://pokeapi.co/api/v2/item/micle-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "in-a-pinch",
+  "description": "Held: Consumed at 1/4 max HP to boost accuracy of next move by 20%. (Gen IV: Perfect accuracy)",
+  "sprite": "/items/micle-berry.png"
+}

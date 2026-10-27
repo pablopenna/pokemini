@@ -1,0 +1,12 @@
+{
+  "id": "darkinium-z--bag",
+  "num": 953,
+  "name": "Darkinium Z",
+  "url": "https://pokeapi.co/api/v2/item/darkinium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for darkinium-z--bag",
+  "sprite": "/items/darkinium-z--bag.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "iron-ball",
+  "num": 255,
+  "name": "Iron Ball",
+  "url": "https://pokeapi.co/api/v2/item/iron-ball",
+  "flingPower": 130,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "bad-held-items",
+  "description": "Held: Holder’s Speed is halved. Negates all Ground-type immunities, and makes Flying-types take neutral damage from Ground-type moves. Arena Trap. Spikes, and Toxic Spikes affect the holder.",
+  "sprite": "/items/iron-ball.png"
+}

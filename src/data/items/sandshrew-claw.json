@@ -1,0 +1,12 @@
+{
+  "id": "sandshrew-claw",
+  "num": 2120,
+  "name": "Sandshrew Claw",
+  "url": "https://pokeapi.co/api/v2/item/sandshrew-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/sandshrew-claw.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "aerodactylite",
+  "num": 711,
+  "name": "Aerodactylite",
+  "url": "https://pokeapi.co/api/v2/item/aerodactylite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Aerodactyl to Mega Evolve into Mega Aerodactyl.",
+  "sprite": "/items/aerodactylite.png"
+}

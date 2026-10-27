@@ -1,0 +1,12 @@
+{
+  "id": "pawmi-fur",
+  "num": 1926,
+  "name": "Pawmi Fur",
+  "url": "https://pokeapi.co/api/v2/item/pawmi-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/pawmi-fur.png"
+}

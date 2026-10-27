@@ -1,0 +1,12 @@
+{
+  "id": "favored-mail",
+  "num": 569,
+  "name": "Favored Mail",
+  "url": "https://pokeapi.co/api/v2/item/favored-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/favored-mail.png"
+}

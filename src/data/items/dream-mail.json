@@ -1,0 +1,12 @@
+{
+  "id": "dream-mail",
+  "num": 524,
+  "name": "Dream Mail",
+  "url": "https://pokeapi.co/api/v2/item/dream-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/dream-mail.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "girafarig-fur",
+  "num": 1788,
+  "name": "Girafarig Fur",
+  "url": "https://pokeapi.co/api/v2/item/girafarig-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/girafarig-fur.png"
+}

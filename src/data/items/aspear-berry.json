@@ -1,0 +1,14 @@
+{
+  "id": "aspear-berry",
+  "num": 130,
+  "name": "Aspear Berry",
+  "url": "https://pokeapi.co/api/v2/item/aspear-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "medicine",
+  "description": "Held: Consumed when frozen to cure frozen.",
+  "sprite": "/items/aspear-berry.png"
+}

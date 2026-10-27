@@ -1,0 +1,12 @@
+{
+  "id": "wishing-piece",
+  "num": 1310,
+  "name": "Wishing Piece",
+  "url": "https://pokeapi.co/api/v2/item/wishing-piece",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "collectibles",
+  "description": "",
+  "sprite": "/items/wishing-piece.png"
+}

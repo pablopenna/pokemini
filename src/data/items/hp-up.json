@@ -1,0 +1,18 @@
+{
+  "id": "hp-up",
+  "num": 45,
+  "name": "HP Up",
+  "url": "https://pokeapi.co/api/v2/item/hp-up",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "vitamins",
+  "description": "Raises HP effort and happiness.",
+  "sprite": "/items/hp-up.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "data-card-10",
+  "num": 495,
+  "name": "Data Card 10",
+  "url": "https://pokeapi.co/api/v2/item/data-card-10",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer has come in first in the Pokéathlon Snow Throw.",
+  "sprite": "/items/data-card-10.png"
+}

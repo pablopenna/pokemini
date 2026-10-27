@@ -1,0 +1,12 @@
+{
+  "id": "red-petal",
+  "num": 983,
+  "name": "Red Petal",
+  "url": "https://pokeapi.co/api/v2/item/red-petal",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for red-petal",
+  "sprite": "/items/red-petal.png"
+}

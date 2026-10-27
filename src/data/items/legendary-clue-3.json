@@ -1,0 +1,12 @@
+{
+  "id": "legendary-clue-3",
+  "num": 1646,
+  "name": "Legendary Clue 3",
+  "url": "https://pokeapi.co/api/v2/item/legendary-clue-3",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/legendary-clue-3.png"
+}

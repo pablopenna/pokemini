@@ -1,0 +1,12 @@
+{
+  "id": "basement-key--goldenrod",
+  "num": 921,
+  "name": "Basement Key",
+  "url": "https://pokeapi.co/api/v2/item/basement-key--goldenrod",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for basement-key--goldenrod",
+  "sprite": "/items/basement-key--goldenrod.png"
+}

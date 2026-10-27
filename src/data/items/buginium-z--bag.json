@@ -1,0 +1,12 @@
+{
+  "id": "buginium-z--bag",
+  "num": 949,
+  "name": "Buginium Z",
+  "url": "https://pokeapi.co/api/v2/item/buginium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for buginium-z--bag",
+  "sprite": "/items/buginium-z--bag.png"
+}

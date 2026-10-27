@@ -1,0 +1,12 @@
+{
+  "id": "tm33",
+  "num": 337,
+  "name": "TM33",
+  "url": "https://pokeapi.co/api/v2/item/tm33",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Reflect to a compatible Pokémon. (Gen II: Ice Punch)",
+  "sprite": "/items/tm33.png"
+}

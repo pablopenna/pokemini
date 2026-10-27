@@ -1,0 +1,12 @@
+{
+  "id": "jaw-fossil",
+  "num": 729,
+  "name": "Jaw Fossil",
+  "url": "https://pokeapi.co/api/v2/item/jaw-fossil",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "dex-completion",
+  "description": "Can be revived into a Tyrunt.",
+  "sprite": "/items/jaw-fossil.png"
+}

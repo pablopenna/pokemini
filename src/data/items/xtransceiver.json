@@ -1,0 +1,12 @@
+{
+  "id": "xtransceiver",
+  "num": 662,
+  "name": "Xtransceiver",
+  "url": "https://pokeapi.co/api/v2/item/xtransceiver",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Makes four-way video calls.",
+  "sprite": "/items/xtransceiver.png"
+}

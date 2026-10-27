@@ -1,0 +1,15 @@
+{
+  "id": "zoom-lens",
+  "num": 253,
+  "name": "Zoom Lens",
+  "url": "https://pokeapi.co/api/v2/item/zoom-lens",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Provides a 1/5 (20%) boost in accuracy if the holder moves after the target.",
+  "sprite": "/items/zoom-lens.png"
+}

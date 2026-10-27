@@ -1,0 +1,12 @@
+{
+  "id": "fightinium-z--bag",
+  "num": 944,
+  "name": "Fightinium Z",
+  "url": "https://pokeapi.co/api/v2/item/fightinium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for fightinium-z--bag",
+  "sprite": "/items/fightinium-z--bag.png"
+}

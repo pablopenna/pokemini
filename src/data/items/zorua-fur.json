@@ -1,0 +1,12 @@
+{
+  "id": "zorua-fur",
+  "num": 1846,
+  "name": "Zorua Fur",
+  "url": "https://pokeapi.co/api/v2/item/zorua-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/zorua-fur.png"
+}

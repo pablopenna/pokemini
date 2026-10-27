@@ -1,0 +1,12 @@
+{
+  "id": "level-ball",
+  "num": 450,
+  "name": "Level Ball",
+  "url": "https://pokeapi.co/api/v2/item/level-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "apricorn-balls",
+  "description": "Success rate based off of fraction target Pokémon is of user’s Pokémon. Made from Red Apricorn.",
+  "sprite": "/items/level-ball.png"
+}

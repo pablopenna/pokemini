@@ -1,0 +1,12 @@
+{
+  "id": "lickitung-candy",
+  "num": 1106,
+  "name": "Lickitung Candy",
+  "url": "https://pokeapi.co/api/v2/item/lickitung-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/lickitung-candy.png"
+}

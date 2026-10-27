@@ -1,0 +1,12 @@
+{
+  "id": "corphish-shell",
+  "num": 2142,
+  "name": "Corphish Shell",
+  "url": "https://pokeapi.co/api/v2/item/corphish-shell",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/corphish-shell.png"
+}

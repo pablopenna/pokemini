@@ -1,0 +1,12 @@
+{
+  "id": "bruxish-tooth",
+  "num": 1886,
+  "name": "Bruxish Tooth",
+  "url": "https://pokeapi.co/api/v2/item/bruxish-tooth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/bruxish-tooth.png"
+}

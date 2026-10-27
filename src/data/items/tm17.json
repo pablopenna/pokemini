@@ -1,0 +1,12 @@
+{
+  "id": "tm17",
+  "num": 321,
+  "name": "TM17",
+  "url": "https://pokeapi.co/api/v2/item/tm17",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Protect to a compatible Pokémon. (Gen I: Submission)",
+  "sprite": "/items/tm17.png"
+}

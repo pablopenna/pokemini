@@ -1,0 +1,12 @@
+{
+  "id": "safety-goggles",
+  "num": 690,
+  "name": "Safety Goggles",
+  "url": "https://pokeapi.co/api/v2/item/safety-goggles",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: Prevents damage from powder moves and the damage from Hail and Sandstorm.",
+  "sprite": "/items/safety-goggles.png"
+}

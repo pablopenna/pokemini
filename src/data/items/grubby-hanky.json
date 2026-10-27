@@ -1,0 +1,12 @@
+{
+  "id": "grubby-hanky",
+  "num": 677,
+  "name": "Grubby Hanky",
+  "url": "https://pokeapi.co/api/v2/item/grubby-hanky",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Appears in the Café Warehouse on Sunday; return to the customer with a Patrat on Thursday.",
+  "sprite": "/items/grubby-hanky.png"
+}

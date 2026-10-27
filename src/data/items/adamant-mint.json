@@ -1,0 +1,12 @@
+{
+  "id": "adamant-mint",
+  "num": 1290,
+  "name": "Adamant Mint",
+  "url": "https://pokeapi.co/api/v2/item/adamant-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/adamant-mint.png"
+}

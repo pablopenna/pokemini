@@ -1,0 +1,12 @@
+{
+  "id": "bachs-food-tin",
+  "num": 1146,
+  "name": "Bach’s Food Tin",
+  "url": "https://pokeapi.co/api/v2/item/bachs-food-tin",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/bachs-food-tin.png"
+}

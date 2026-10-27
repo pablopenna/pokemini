@@ -1,0 +1,12 @@
+{
+  "id": "enigmatic-card",
+  "num": 895,
+  "name": "Enigmatic Card",
+  "url": "https://pokeapi.co/api/v2/item/enigmatic-card",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Unlocks Looker’s motel room on Route 8.",
+  "sprite": "/items/enigmatic-card.png"
+}

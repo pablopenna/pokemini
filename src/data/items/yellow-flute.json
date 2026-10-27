@@ -1,0 +1,17 @@
+{
+  "id": "yellow-flute",
+  "num": 66,
+  "name": "Yellow Flute",
+  "url": "https://pokeapi.co/api/v2/item/yellow-flute",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "flutes",
+  "description": "Cures confusion.",
+  "sprite": "/items/yellow-flute.png"
+}

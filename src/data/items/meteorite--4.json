@@ -1,0 +1,12 @@
+{
+  "id": "meteorite--4",
+  "num": 937,
+  "name": "Meteorite",
+  "url": "https://pokeapi.co/api/v2/item/meteorite--4",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for meteorite--4",
+  "sprite": "/items/meteorite--4.png"
+}

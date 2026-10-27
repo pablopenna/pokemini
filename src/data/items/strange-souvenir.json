@@ -1,0 +1,12 @@
+{
+  "id": "strange-souvenir",
+  "num": 727,
+  "name": "Strange Souvenir",
+  "url": "https://pokeapi.co/api/v2/item/strange-souvenir",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Vendor trash.",
+  "sprite": "/items/strange-souvenir.png"
+}

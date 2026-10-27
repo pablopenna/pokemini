@@ -1,0 +1,12 @@
+{
+  "id": "moon-ball",
+  "num": 451,
+  "name": "Moon Ball",
+  "url": "https://pokeapi.co/api/v2/item/moon-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "apricorn-balls",
+  "description": "4× effectiveness on familes of Pokémon with a Moon Stone evolution. Made from Ylw Apricorn.",
+  "sprite": "/items/moon-ball.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "small-bouquet",
+  "num": 1035,
+  "name": "Small Bouquet",
+  "url": "https://pokeapi.co/api/v2/item/small-bouquet",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/small-bouquet.png"
+}

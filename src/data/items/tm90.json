@@ -1,0 +1,12 @@
+{
+  "id": "tm90",
+  "num": 394,
+  "name": "TM90",
+  "url": "https://pokeapi.co/api/v2/item/tm90",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Substitute to a compatible Pokémon.",
+  "sprite": "/items/tm90.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eevium-z--held",
+  "num": 846,
+  "name": "Eevium Z",
+  "url": "https://pokeapi.co/api/v2/item/eevium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows Eevee to upgrade Last Resort into Extreme Evoboost.",
+  "sprite": "/items/eevium-z--held.png"
+}

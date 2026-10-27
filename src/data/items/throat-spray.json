@@ -1,0 +1,12 @@
+{
+  "id": "throat-spray",
+  "num": 1176,
+  "name": "Throat Spray",
+  "url": "https://pokeapi.co/api/v2/item/throat-spray",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/throat-spray.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "poltchageist-powder",
+  "num": 2159,
+  "name": "Poltchageist Powder",
+  "url": "https://pokeapi.co/api/v2/item/poltchageist-powder",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/poltchageist-powder.png"
+}

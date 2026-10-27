@@ -1,0 +1,17 @@
+{
+  "id": "repeat-ball",
+  "num": 9,
+  "name": "Repeat Ball",
+  "url": "https://pokeapi.co/api/v2/item/repeat-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "special-balls",
+  "description": "Tries to catch a wild Pokémon.  Success rate is 3× for previously-caught Pokémon.",
+  "sprite": "/items/repeat-ball.png"
+}

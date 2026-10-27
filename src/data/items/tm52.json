@@ -1,0 +1,12 @@
+{
+  "id": "tm52",
+  "num": 356,
+  "name": "TM52",
+  "url": "https://pokeapi.co/api/v2/item/tm52",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Focus Blast to a compatible Pokémon.",
+  "sprite": "/items/tm52.png"
+}

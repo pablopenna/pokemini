@@ -1,0 +1,12 @@
+{
+  "id": "lax-mint",
+  "num": 1295,
+  "name": "Lax Mint",
+  "url": "https://pokeapi.co/api/v2/item/lax-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/lax-mint.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "froslassite",
+  "num": 2240,
+  "name": "Froslassite",
+  "url": "https://pokeapi.co/api/v2/item/froslassite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/froslassite.png"
+}

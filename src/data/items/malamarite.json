@@ -1,0 +1,12 @@
+{
+  "id": "malamarite",
+  "num": 2254,
+  "name": "Malamarite",
+  "url": "https://pokeapi.co/api/v2/item/malamarite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/malamarite.png"
+}

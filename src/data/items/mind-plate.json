@@ -1,0 +1,16 @@
+{
+  "id": "mind-plate",
+  "num": 284,
+  "name": "Mind Plate",
+  "url": "https://pokeapi.co/api/v2/item/mind-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Psychic-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Psychic.",
+  "sprite": "/items/mind-plate.png"
+}

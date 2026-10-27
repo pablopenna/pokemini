@@ -1,0 +1,12 @@
+{
+  "id": "tm44",
+  "num": 348,
+  "name": "TM44",
+  "url": "https://pokeapi.co/api/v2/item/tm44",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Rest to a compatible Pokémon.",
+  "sprite": "/items/tm44.png"
+}

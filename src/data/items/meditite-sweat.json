@@ -1,0 +1,12 @@
+{
+  "id": "meditite-sweat",
+  "num": 1808,
+  "name": "Meditite Sweat",
+  "url": "https://pokeapi.co/api/v2/item/meditite-sweat",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/meditite-sweat.png"
+}

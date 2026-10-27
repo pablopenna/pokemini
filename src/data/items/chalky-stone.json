@@ -1,0 +1,12 @@
+{
+  "id": "chalky-stone",
+  "num": 1025,
+  "name": "Chalky Stone",
+  "url": "https://pokeapi.co/api/v2/item/chalky-stone",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/chalky-stone.png"
+}

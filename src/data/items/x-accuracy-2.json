@@ -1,0 +1,12 @@
+{
+  "id": "x-accuracy-2",
+  "num": 639,
+  "name": "X Accuracy 2",
+  "url": "https://pokeapi.co/api/v2/item/x-accuracy-2",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "miracle-shooter",
+  "description": "Raises accuracy by two stages in battle.  Wonder Launcher only.",
+  "sprite": "/items/x-accuracy-2.png"
+}

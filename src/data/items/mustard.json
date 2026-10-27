@@ -1,0 +1,12 @@
+{
+  "id": "mustard",
+  "num": 1706,
+  "name": "Mustard",
+  "url": "https://pokeapi.co/api/v2/item/mustard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/mustard.png"
+}

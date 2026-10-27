@@ -1,0 +1,12 @@
+{
+  "id": "poke-flute",
+  "num": 544,
+  "name": "Poké Flute",
+  "url": "https://pokeapi.co/api/v2/item/poke-flute",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Use to awaken sleeping Pokémon, including Snorlax on roads.",
+  "sprite": "/items/poke-flute.png"
+}

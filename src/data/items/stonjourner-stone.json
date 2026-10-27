@@ -1,0 +1,12 @@
+{
+  "id": "stonjourner-stone",
+  "num": 1903,
+  "name": "Stonjourner Stone",
+  "url": "https://pokeapi.co/api/v2/item/stonjourner-stone",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/stonjourner-stone.png"
+}

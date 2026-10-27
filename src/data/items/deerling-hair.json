@@ -1,0 +1,12 @@
+{
+  "id": "deerling-hair",
+  "num": 1848,
+  "name": "Deerling Hair",
+  "url": "https://pokeapi.co/api/v2/item/deerling-hair",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/deerling-hair.png"
+}

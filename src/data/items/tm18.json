@@ -1,0 +1,12 @@
+{
+  "id": "tm18",
+  "num": 322,
+  "name": "TM18",
+  "url": "https://pokeapi.co/api/v2/item/tm18",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Rain Dance to a compatible Pokémon. (Gen I: Counter)",
+  "sprite": "/items/tm18.png"
+}

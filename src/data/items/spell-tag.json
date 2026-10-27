@@ -1,0 +1,15 @@
+{
+  "id": "spell-tag",
+  "num": 224,
+  "name": "Spell Tag",
+  "url": "https://pokeapi.co/api/v2/item/spell-tag",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Ghost-Type moves from holder do 20% more damage.",
+  "sprite": "/items/spell-tag.png"
+}

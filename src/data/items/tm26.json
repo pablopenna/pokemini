@@ -1,0 +1,12 @@
+{
+  "id": "tm26",
+  "num": 330,
+  "name": "TM26",
+  "url": "https://pokeapi.co/api/v2/item/tm26",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Earthquake to a compatible Pokémon.",
+  "sprite": "/items/tm26.png"
+}

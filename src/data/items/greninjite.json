@@ -1,0 +1,12 @@
+{
+  "id": "greninjite",
+  "num": 2251,
+  "name": "Greninjite",
+  "url": "https://pokeapi.co/api/v2/item/greninjite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/greninjite.png"
+}

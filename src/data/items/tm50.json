@@ -1,0 +1,12 @@
+{
+  "id": "tm50",
+  "num": 354,
+  "name": "TM50",
+  "url": "https://pokeapi.co/api/v2/item/tm50",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Overheat to a compatible Pokémon. (Gen II: Nightmare Gen I: Substitute)",
+  "sprite": "/items/tm50.png"
+}

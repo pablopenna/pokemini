@@ -1,0 +1,12 @@
+{
+  "id": "hearthflame-mask",
+  "num": 2107,
+  "name": "Hearthflame Mask",
+  "url": "https://pokeapi.co/api/v2/item/hearthflame-mask",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/hearthflame-mask.png"
+}

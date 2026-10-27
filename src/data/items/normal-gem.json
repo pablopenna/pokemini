@@ -1,0 +1,12 @@
+{
+  "id": "normal-gem",
+  "num": 669,
+  "name": "Normal Gem",
+  "url": "https://pokeapi.co/api/v2/item/normal-gem",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "jewels",
+  "description": "Held: When the holder uses a damaging Normal-type move, the move has 1.5× power and this item is consumed.",
+  "sprite": "/items/normal-gem.png"
+}

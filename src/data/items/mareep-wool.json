@@ -1,0 +1,12 @@
+{
+  "id": "mareep-wool",
+  "num": 1783,
+  "name": "Mareep Wool",
+  "url": "https://pokeapi.co/api/v2/item/mareep-wool",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/mareep-wool.png"
+}

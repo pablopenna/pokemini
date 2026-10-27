@@ -1,0 +1,15 @@
+{
+  "id": "silver-powder",
+  "num": 199,
+  "name": "Silver Powder",
+  "url": "https://pokeapi.co/api/v2/item/silver-powder",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Bug-Type moves from holder do 20% more damage.",
+  "sprite": "/items/silver-powder.png"
+}

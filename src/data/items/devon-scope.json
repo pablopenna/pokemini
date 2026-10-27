@@ -1,0 +1,12 @@
+{
+  "id": "devon-scope",
+  "num": 542,
+  "name": "Devon Scope",
+  "url": "https://pokeapi.co/api/v2/item/devon-scope",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows spotting of invisible Kecleon.",
+  "sprite": "/items/devon-scope.png"
+}

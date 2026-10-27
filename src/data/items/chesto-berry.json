@@ -1,0 +1,14 @@
+{
+  "id": "chesto-berry",
+  "num": 127,
+  "name": "Chesto Berry",
+  "url": "https://pokeapi.co/api/v2/item/chesto-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "medicine",
+  "description": "Held: Consumed when asleep to cure sleep.",
+  "sprite": "/items/chesto-berry.png"
+}

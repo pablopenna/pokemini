@@ -1,0 +1,12 @@
+{
+  "id": "litwick-soot",
+  "num": 2149,
+  "name": "Litwick Soot",
+  "url": "https://pokeapi.co/api/v2/item/litwick-soot",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/litwick-soot.png"
+}

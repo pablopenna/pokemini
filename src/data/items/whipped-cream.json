@@ -1,0 +1,12 @@
+{
+  "id": "whipped-cream",
+  "num": 1713,
+  "name": "Whipped Cream",
+  "url": "https://pokeapi.co/api/v2/item/whipped-cream",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/whipped-cream.png"
+}

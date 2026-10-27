@@ -1,0 +1,12 @@
+{
+  "id": "magikarp-scales",
+  "num": 1777,
+  "name": "Magikarp Scales",
+  "url": "https://pokeapi.co/api/v2/item/magikarp-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/magikarp-scales.png"
+}

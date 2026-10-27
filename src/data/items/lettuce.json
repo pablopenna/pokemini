@@ -1,0 +1,12 @@
+{
+  "id": "lettuce",
+  "num": 1724,
+  "name": "Lettuce",
+  "url": "https://pokeapi.co/api/v2/item/lettuce",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/lettuce.png"
+}

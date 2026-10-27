@@ -1,0 +1,15 @@
+{
+  "id": "sharp-beak",
+  "num": 221,
+  "name": "Sharp Beak",
+  "url": "https://pokeapi.co/api/v2/item/sharp-beak",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Flying-Type moves from holder do 20% more damage.",
+  "sprite": "/items/sharp-beak.png"
+}

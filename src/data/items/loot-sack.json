@@ -1,0 +1,12 @@
+{
+  "id": "loot-sack",
+  "num": 406,
+  "name": "Loot Sack",
+  "url": "https://pokeapi.co/api/v2/item/loot-sack",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Carries coal mine loot.",
+  "sprite": "/items/loot-sack.png"
+}

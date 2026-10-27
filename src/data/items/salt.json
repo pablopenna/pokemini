@@ -1,0 +1,12 @@
+{
+  "id": "salt",
+  "num": 1710,
+  "name": "Salt",
+  "url": "https://pokeapi.co/api/v2/item/salt",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/salt.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ribbon-sweet",
+  "num": 1173,
+  "name": "Ribbon Sweet",
+  "url": "https://pokeapi.co/api/v2/item/ribbon-sweet",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/ribbon-sweet.png"
+}

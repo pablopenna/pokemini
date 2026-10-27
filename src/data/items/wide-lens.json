@@ -1,0 +1,15 @@
+{
+  "id": "wide-lens",
+  "num": 242,
+  "name": "Wide Lens",
+  "url": "https://pokeapi.co/api/v2/item/wide-lens",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Provides a 1/10 (10%) boost in accuracy to the holder.",
+  "sprite": "/items/wide-lens.png"
+}

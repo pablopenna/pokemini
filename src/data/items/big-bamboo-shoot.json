@@ -1,0 +1,12 @@
+{
+  "id": "big-bamboo-shoot",
+  "num": 1674,
+  "name": "Big Bamboo Shoot",
+  "url": "https://pokeapi.co/api/v2/item/big-bamboo-shoot",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/big-bamboo-shoot.png"
+}

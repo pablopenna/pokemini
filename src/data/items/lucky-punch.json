@@ -1,0 +1,14 @@
+{
+  "id": "lucky-punch",
+  "num": 233,
+  "name": "Lucky Punch",
+  "url": "https://pokeapi.co/api/v2/item/lucky-punch",
+  "flingPower": 40,
+  "flingEffect": null,
+  "attributes": [
+    "holdable"
+  ],
+  "category": "species-specific",
+  "description": "Raises Chansey’s critical hit ratio by two stages.",
+  "sprite": "/items/lucky-punch.png"
+}

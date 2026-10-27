@@ -1,0 +1,12 @@
+{
+  "id": "red-card",
+  "num": 585,
+  "name": "Red Card",
+  "url": "https://pokeapi.co/api/v2/item/red-card",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: When the holder takes damage from a move, the opponent switches out for another random party Pokémon. Consumed after use.",
+  "sprite": "/items/red-card.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "shiny-stone",
+  "num": 107,
+  "name": "Shiny Stone",
+  "url": "https://pokeapi.co/api/v2/item/shiny-stone",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Evolves a Minccino into Cinccino, a Roselia into Roserade, or a Togetic into Togekiss.",
+  "sprite": "/items/shiny-stone.png"
+}

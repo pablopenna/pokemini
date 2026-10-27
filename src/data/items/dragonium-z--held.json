@@ -1,0 +1,12 @@
+{
+  "id": "dragonium-z--held",
+  "num": 831,
+  "name": "Dragonium Z",
+  "url": "https://pokeapi.co/api/v2/item/dragonium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Dragon moves.",
+  "sprite": "/items/dragonium-z--held.png"
+}

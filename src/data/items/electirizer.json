@@ -1,0 +1,12 @@
+{
+  "id": "electirizer",
+  "num": 299,
+  "name": "Electirizer",
+  "url": "https://pokeapi.co/api/v2/item/electirizer",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Traded on an Electabuzz: Holder evolves into Electivire.",
+  "sprite": "/items/electirizer.png"
+}

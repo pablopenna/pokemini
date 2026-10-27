@@ -1,0 +1,12 @@
+{
+  "id": "flower-pattern-cup",
+  "num": 2025,
+  "name": "Flower Pattern Cup",
+  "url": "https://pokeapi.co/api/v2/item/flower-pattern-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/flower-pattern-cup.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "amulet-coin",
+  "num": 200,
+  "name": "Amulet Coin",
+  "url": "https://pokeapi.co/api/v2/item/amulet-coin",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "training",
+  "description": "Held: Doubles the money earned from a battle. Does not stack with Luck Incense.",
+  "sprite": "/items/amulet-coin.png"
+}

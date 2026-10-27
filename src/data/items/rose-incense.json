@@ -1,0 +1,15 @@
+{
+  "id": "rose-incense",
+  "num": 295,
+  "name": "Rose Incense",
+  "url": "https://pokeapi.co/api/v2/item/rose-incense",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Grass-Type moves from holder do 20% more damage. Breeding: Roselia or Roserade beget a Budew Egg.",
+  "sprite": "/items/rose-incense.png"
+}

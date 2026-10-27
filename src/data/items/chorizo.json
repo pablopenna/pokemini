@@ -1,0 +1,12 @@
+{
+  "id": "chorizo",
+  "num": 1738,
+  "name": "Chorizo",
+  "url": "https://pokeapi.co/api/v2/item/chorizo",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/chorizo.png"
+}

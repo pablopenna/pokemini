@@ -1,0 +1,12 @@
+{
+  "id": "tidal-bell",
+  "num": 485,
+  "name": "Tidal Bell",
+  "url": "https://pokeapi.co/api/v2/item/tidal-bell",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Allows Kimono-girls to summon Lugia.",
+  "sprite": "/items/tidal-bell.png"
+}

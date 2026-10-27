@@ -1,0 +1,12 @@
+{
+  "id": "bw-grass-tablecloth",
+  "num": 2068,
+  "name": "B&W Grass Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/bw-grass-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/bw-grass-tablecloth.png"
+}

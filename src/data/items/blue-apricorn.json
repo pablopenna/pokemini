@@ -1,0 +1,12 @@
+{
+  "id": "blue-apricorn",
+  "num": 459,
+  "name": "Blue Apricorn",
+  "url": "https://pokeapi.co/api/v2/item/blue-apricorn",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "apricorn-box",
+  "description": "Used to make a Lure Ball.",
+  "sprite": "/items/blue-apricorn.png"
+}

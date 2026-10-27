@@ -1,0 +1,12 @@
+{
+  "id": "left-poke-ball",
+  "num": 994,
+  "name": "Left Poké Ball",
+  "url": "https://pokeapi.co/api/v2/item/left-poke-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for left-poke-ball",
+  "sprite": "/items/left-poke-ball.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "candy-jar",
+  "num": 1009,
+  "name": "Candy Jar",
+  "url": "https://pokeapi.co/api/v2/item/candy-jar",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "",
+  "sprite": "/items/candy-jar.png"
+}

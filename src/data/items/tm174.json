@@ -1,0 +1,12 @@
+{
+  "id": "tm174",
+  "num": 2163,
+  "name": "TM174",
+  "url": "https://pokeapi.co/api/v2/item/tm174",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tm174.png"
+}

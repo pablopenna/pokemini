@@ -1,0 +1,12 @@
+{
+  "id": "eviolite",
+  "num": 581,
+  "name": "Eviolite",
+  "url": "https://pokeapi.co/api/v2/item/eviolite",
+  "flingPower": 40,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: Holder has 1.5× Defense and Special Defense, as long as it’s not fully evolved.",
+  "sprite": "/items/eviolite.png"
+}

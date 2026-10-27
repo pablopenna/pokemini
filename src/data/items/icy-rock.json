@@ -1,0 +1,16 @@
+{
+  "id": "icy-rock",
+  "num": 259,
+  "name": "Icy Rock",
+  "url": "https://pokeapi.co/api/v2/item/icy-rock",
+  "flingPower": 40,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "held-items",
+  "description": "Held: Hail by the holder lasts 8 rounds instead of 5.",
+  "sprite": "/items/icy-rock.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "slowpoke-tail",
+  "num": 473,
+  "name": "Slowpoke Tail",
+  "url": "https://pokeapi.co/api/v2/item/slowpoke-tail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "A tasty tail that sells for a high price.",
+  "sprite": "/items/slowpoke-tail.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "flying-tera-shard",
+  "num": 1687,
+  "name": "Flying Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/flying-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/flying-tera-shard.png"
+}

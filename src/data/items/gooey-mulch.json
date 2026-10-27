@@ -1,0 +1,12 @@
+{
+  "id": "gooey-mulch",
+  "num": 98,
+  "name": "Gooey Mulch",
+  "url": "https://pokeapi.co/api/v2/item/gooey-mulch",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mulch",
+  "description": "Berries regrow from dead plants an increased number of times.",
+  "sprite": "/items/gooey-mulch.png"
+}

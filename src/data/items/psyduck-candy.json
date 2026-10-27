@@ -1,0 +1,12 @@
+{
+  "id": "psyduck-candy",
+  "num": 1080,
+  "name": "Psyduck Candy",
+  "url": "https://pokeapi.co/api/v2/item/psyduck-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/psyduck-candy.png"
+}

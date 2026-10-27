@@ -1,0 +1,17 @@
+{
+  "id": "nest-ball",
+  "num": 8,
+  "name": "Nest Ball",
+  "url": "https://pokeapi.co/api/v2/item/nest-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "special-balls",
+  "description": "Tries to catch a wild Pokémon.  Success rate is 3.9× for level 1 Pokémon, and drops steadily to 1× at level 30.",
+  "sprite": "/items/nest-ball.png"
+}

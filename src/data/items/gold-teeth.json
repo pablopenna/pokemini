@@ -1,0 +1,12 @@
+{
+  "id": "gold-teeth",
+  "num": 546,
+  "name": "Gold Teeth",
+  "url": "https://pokeapi.co/api/v2/item/gold-teeth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "The Safari Zone Warden’s dentures. Trade for HM04 (Strength).",
+  "sprite": "/items/gold-teeth.png"
+}

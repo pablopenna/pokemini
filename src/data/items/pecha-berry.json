@@ -1,0 +1,14 @@
+{
+  "id": "pecha-berry",
+  "num": 128,
+  "name": "Pecha Berry",
+  "url": "https://pokeapi.co/api/v2/item/pecha-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "medicine",
+  "description": "Held: Consumed when poisoned to cure poison.",
+  "sprite": "/items/pecha-berry.png"
+}

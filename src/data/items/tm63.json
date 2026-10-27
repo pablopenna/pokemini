@@ -1,0 +1,12 @@
+{
+  "id": "tm63",
+  "num": 367,
+  "name": "TM63",
+  "url": "https://pokeapi.co/api/v2/item/tm63",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Embargo to a compatible Pokémon.",
+  "sprite": "/items/tm63.png"
+}

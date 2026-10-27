@@ -1,0 +1,15 @@
+{
+  "id": "odd-incense",
+  "num": 291,
+  "name": "Odd Incense",
+  "url": "https://pokeapi.co/api/v2/item/odd-incense",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Psychic-Type moves from holder do 20% more damage. Breeding: Mr. Mime begets a Mime Jr. Egg.",
+  "sprite": "/items/odd-incense.png"
+}

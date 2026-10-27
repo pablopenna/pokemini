@@ -1,0 +1,18 @@
+{
+  "id": "paralyze-heal",
+  "num": 22,
+  "name": "Paralyze Heal",
+  "url": "https://pokeapi.co/api/v2/item/paralyze-heal",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "status-cures",
+  "description": "Cures paralysis.",
+  "sprite": "/items/paralyze-heal.png"
+}

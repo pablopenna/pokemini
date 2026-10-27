@@ -1,0 +1,12 @@
+{
+  "id": "enigma-stone",
+  "num": 470,
+  "name": "Enigma Stone",
+  "url": "https://pokeapi.co/api/v2/item/enigma-stone",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "S: Summons Latias H: Summons Latios.",
+  "sprite": "/items/enigma-stone.png"
+}

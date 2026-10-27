@@ -1,0 +1,12 @@
+{
+  "id": "meganiumite",
+  "num": 2237,
+  "name": "Meganiumite",
+  "url": "https://pokeapi.co/api/v2/item/meganiumite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/meganiumite.png"
+}

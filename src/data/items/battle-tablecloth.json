@@ -1,0 +1,12 @@
+{
+  "id": "battle-tablecloth",
+  "num": 2069,
+  "name": "Battle Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/battle-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/battle-tablecloth.png"
+}

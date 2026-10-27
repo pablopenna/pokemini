@@ -1,0 +1,15 @@
+{
+  "id": "power-band",
+  "num": 269,
+  "name": "Power Band",
+  "url": "https://pokeapi.co/api/v2/item/power-band",
+  "flingPower": 70,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "effort-training",
+  "description": "Held: Holder gains 4 Special Defense effort values, but has halved Speed in battle.",
+  "sprite": "/items/power-band.png"
+}

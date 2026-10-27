@@ -1,0 +1,12 @@
+{
+  "id": "max-lure",
+  "num": 1038,
+  "name": "Max Lure",
+  "url": "https://pokeapi.co/api/v2/item/max-lure",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "spelunking",
+  "description": "",
+  "sprite": "/items/max-lure.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pawniard-blade",
+  "num": 1855,
+  "name": "Pawniard Blade",
+  "url": "https://pokeapi.co/api/v2/item/pawniard-blade",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/pawniard-blade.png"
+}

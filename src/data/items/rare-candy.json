@@ -1,0 +1,18 @@
+{
+  "id": "rare-candy",
+  "num": 50,
+  "name": "Rare Candy",
+  "url": "https://pokeapi.co/api/v2/item/rare-candy",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "vitamins",
+  "description": "Causes a level-up and raises happiness.",
+  "sprite": "/items/rare-candy.png"
+}

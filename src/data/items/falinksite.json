@@ -1,0 +1,12 @@
+{
+  "id": "falinksite",
+  "num": 2261,
+  "name": "Falinksite",
+  "url": "https://pokeapi.co/api/v2/item/falinksite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/falinksite.png"
+}

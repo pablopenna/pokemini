@@ -1,0 +1,12 @@
+{
+  "id": "teal-mask",
+  "num": 2102,
+  "name": "Teal Mask",
+  "url": "https://pokeapi.co/api/v2/item/teal-mask",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "",
+  "sprite": "/items/teal-mask.png"
+}

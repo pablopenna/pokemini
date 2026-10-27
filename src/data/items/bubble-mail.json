@@ -1,0 +1,12 @@
+{
+  "id": "bubble-mail",
+  "num": 116,
+  "name": "Bubble Mail",
+  "url": "https://pokeapi.co/api/v2/item/bubble-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/bubble-mail.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meteorite-shard",
+  "num": 815,
+  "name": "Meteorite Shard",
+  "url": "https://pokeapi.co/api/v2/item/meteorite-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Causes the Meteorite to transform to its final form, allowing Rayquaza to Mega Evolve.",
+  "sprite": "/items/meteorite-shard.png"
+}

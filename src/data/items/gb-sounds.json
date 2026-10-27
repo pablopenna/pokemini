@@ -1,0 +1,12 @@
+{
+  "id": "gb-sounds",
+  "num": 484,
+  "name": "GB Sounds",
+  "url": "https://pokeapi.co/api/v2/item/gb-sounds",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Use to listen to GameBoy era audio.",
+  "sprite": "/items/gb-sounds.png"
+}

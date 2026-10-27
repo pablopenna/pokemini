@@ -1,0 +1,12 @@
+{
+  "id": "lift-key",
+  "num": 547,
+  "name": "Lift Key",
+  "url": "https://pokeapi.co/api/v2/item/lift-key",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Operates the elevator in Team Rocket’s Celadon Hideout.",
+  "sprite": "/items/lift-key.png"
+}

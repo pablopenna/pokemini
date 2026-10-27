@@ -1,0 +1,12 @@
+{
+  "id": "drowzee-candy",
+  "num": 1099,
+  "name": "Drowzee Candy",
+  "url": "https://pokeapi.co/api/v2/item/drowzee-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/drowzee-candy.png"
+}

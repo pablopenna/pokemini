@@ -1,0 +1,12 @@
+{
+  "id": "blue-orb",
+  "num": 468,
+  "name": "Blue Orb",
+  "url": "https://pokeapi.co/api/v2/item/blue-orb",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Summons Kyogre to the Embedded Tower.",
+  "sprite": "/items/blue-orb.png"
+}

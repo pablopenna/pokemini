@@ -1,0 +1,12 @@
+{
+  "id": "like-mail",
+  "num": 573,
+  "name": "Like Mail",
+  "url": "https://pokeapi.co/api/v2/item/like-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/like-mail.png"
+}

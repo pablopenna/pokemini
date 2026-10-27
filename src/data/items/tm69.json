@@ -1,0 +1,12 @@
+{
+  "id": "tm69",
+  "num": 373,
+  "name": "TM69",
+  "url": "https://pokeapi.co/api/v2/item/tm69",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Rock Polish to a compatible Pokémon.",
+  "sprite": "/items/tm69.png"
+}

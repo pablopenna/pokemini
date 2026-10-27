@@ -1,0 +1,18 @@
+{
+  "id": "fresh-water",
+  "num": 30,
+  "name": "Fresh Water",
+  "url": "https://pokeapi.co/api/v2/item/fresh-water",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "healing",
+  "description": "Restores 50 HP.",
+  "sprite": "/items/fresh-water.png"
+}

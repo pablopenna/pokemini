@@ -1,0 +1,12 @@
+{
+  "id": "makuhita-sweat",
+  "num": 1805,
+  "name": "Makuhita Sweat",
+  "url": "https://pokeapi.co/api/v2/item/makuhita-sweat",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/makuhita-sweat.png"
+}

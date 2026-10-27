@@ -1,0 +1,12 @@
+{
+  "id": "elevator-key",
+  "num": 733,
+  "name": "Elevator Key",
+  "url": "https://pokeapi.co/api/v2/item/elevator-key",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Unlocks the elevator in Lysandre Labs.",
+  "sprite": "/items/elevator-key.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "electrium-z--bag",
+  "num": 941,
+  "name": "Electrium Z",
+  "url": "https://pokeapi.co/api/v2/item/electrium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for electrium-z--bag",
+  "sprite": "/items/electrium-z--bag.png"
+}

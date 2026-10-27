@@ -1,0 +1,12 @@
+{
+  "id": "band-autograph",
+  "num": 1327,
+  "name": "Band Autograph",
+  "url": "https://pokeapi.co/api/v2/item/band-autograph",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "",
+  "sprite": "/items/band-autograph.png"
+}

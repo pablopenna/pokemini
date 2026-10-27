@@ -1,0 +1,15 @@
+{
+  "id": "exp-share",
+  "num": 193,
+  "name": "Exp. Share",
+  "url": "https://pokeapi.co/api/v2/item/exp-share",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "training",
+  "description": "Held: Half the experience from a battle is split between Pokémon holding this item.",
+  "sprite": "/items/exp-share.png"
+}

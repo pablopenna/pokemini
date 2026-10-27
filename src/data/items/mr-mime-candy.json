@@ -1,0 +1,12 @@
+{
+  "id": "mr-mime-candy",
+  "num": 1115,
+  "name": "Mr. Mime Candy",
+  "url": "https://pokeapi.co/api/v2/item/mr-mime-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/mr-mime-candy.png"
+}

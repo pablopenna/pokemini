@@ -1,0 +1,12 @@
+{
+  "id": "psyduck-down",
+  "num": 1765,
+  "name": "Psyduck Down",
+  "url": "https://pokeapi.co/api/v2/item/psyduck-down",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/psyduck-down.png"
+}

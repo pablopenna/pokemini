@@ -1,0 +1,12 @@
+{
+  "id": "roto-encounter",
+  "num": 1000,
+  "name": "Roto Encounter",
+  "url": "https://pokeapi.co/api/v2/item/roto-encounter",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for roto-encounter",
+  "sprite": "/items/roto-encounter.png"
+}

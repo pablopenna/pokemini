@@ -1,0 +1,12 @@
+{
+  "id": "tinkatink-hair",
+  "num": 1939,
+  "name": "Tinkatink Hair",
+  "url": "https://pokeapi.co/api/v2/item/tinkatink-hair",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/tinkatink-hair.png"
+}

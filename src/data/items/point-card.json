@@ -1,0 +1,12 @@
+{
+  "id": "point-card",
+  "num": 409,
+  "name": "Point Card",
+  "url": "https://pokeapi.co/api/v2/item/point-card",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Keeps count of Battle Points earned.",
+  "sprite": "/items/point-card.png"
+}

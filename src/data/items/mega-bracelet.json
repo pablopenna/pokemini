@@ -1,0 +1,12 @@
+{
+  "id": "mega-bracelet",
+  "num": 785,
+  "name": "Mega Bracelet",
+  "url": "https://pokeapi.co/api/v2/item/mega-bracelet",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows the player’s Pokémon to Mega Evolve.",
+  "sprite": "/items/mega-bracelet.png"
+}

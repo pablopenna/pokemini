@@ -1,0 +1,12 @@
+{
+  "id": "mega-glove",
+  "num": 769,
+  "name": "Mega Glove",
+  "url": "https://pokeapi.co/api/v2/item/mega-glove",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Unused NPC Key Stone.",
+  "sprite": "/items/mega-glove.png"
+}

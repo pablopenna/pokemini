@@ -1,0 +1,12 @@
+{
+  "id": "egg",
+  "num": 1744,
+  "name": "Egg",
+  "url": "https://pokeapi.co/api/v2/item/egg",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/egg.png"
+}

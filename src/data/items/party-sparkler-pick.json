@@ -1,0 +1,12 @@
+{
+  "id": "party-sparkler-pick",
+  "num": 2086,
+  "name": "Party Sparkler Pick",
+  "url": "https://pokeapi.co/api/v2/item/party-sparkler-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/party-sparkler-pick.png"
+}

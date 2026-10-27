@@ -1,0 +1,12 @@
+{
+  "id": "lilac-tablecloth",
+  "num": 2074,
+  "name": "Lilac Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/lilac-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/lilac-tablecloth.png"
+}

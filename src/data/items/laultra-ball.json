@@ -1,0 +1,12 @@
+{
+  "id": "laultra-ball",
+  "num": 2222,
+  "name": "Ultra Ball",
+  "url": "https://pokeapi.co/api/v2/item/laultra-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "standard-balls",
+  "description": "",
+  "sprite": "/items/laultra-ball.png"
+}

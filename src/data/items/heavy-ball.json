@@ -1,0 +1,12 @@
+{
+  "id": "heavy-ball",
+  "num": 452,
+  "name": "Heavy Ball",
+  "url": "https://pokeapi.co/api/v2/item/heavy-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "apricorn-balls",
+  "description": "Has flat bonus or penalty to catch rate depending on weight class of target. Made from Blk Apricorn.",
+  "sprite": "/items/heavy-ball.png"
+}

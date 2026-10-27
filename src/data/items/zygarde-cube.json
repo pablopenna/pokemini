@@ -1,0 +1,12 @@
+{
+  "id": "zygarde-cube",
+  "num": 884,
+  "name": "Zygarde Cube",
+  "url": "https://pokeapi.co/api/v2/item/zygarde-cube",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Contains collected Zygarde cells/cores.  Can teach Zygarde moves.",
+  "sprite": "/items/zygarde-cube.png"
+}

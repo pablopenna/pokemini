@@ -1,0 +1,12 @@
+{
+  "id": "fire-tera-shard",
+  "num": 1679,
+  "name": "Fire Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/fire-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/fire-tera-shard.png"
+}

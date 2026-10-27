@@ -1,0 +1,18 @@
+{
+  "id": "lava-cookie",
+  "num": 42,
+  "name": "Lava Cookie",
+  "url": "https://pokeapi.co/api/v2/item/lava-cookie",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "status-cures",
+  "description": "Cures any status ailment and confusion.",
+  "sprite": "/items/lava-cookie.png"
+}

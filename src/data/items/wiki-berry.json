@@ -1,0 +1,14 @@
+{
+  "id": "wiki-berry",
+  "num": 137,
+  "name": "Wiki Berry",
+  "url": "https://pokeapi.co/api/v2/item/wiki-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "picky-healing",
+  "description": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike dry flavor.",
+  "sprite": "/items/wiki-berry.png"
+}

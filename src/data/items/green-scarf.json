@@ -1,0 +1,14 @@
+{
+  "id": "green-scarf",
+  "num": 240,
+  "name": "Green Scarf",
+  "url": "https://pokeapi.co/api/v2/item/green-scarf",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "scarves",
+  "description": "Raises the holder’s Smartness while in a contest.",
+  "sprite": "/items/green-scarf.png"
+}

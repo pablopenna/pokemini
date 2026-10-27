@@ -1,0 +1,12 @@
+{
+  "id": "tm225",
+  "num": 2214,
+  "name": "TM225",
+  "url": "https://pokeapi.co/api/v2/item/tm225",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tm225.png"
+}

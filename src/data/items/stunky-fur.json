@@ -1,0 +1,12 @@
+{
+  "id": "stunky-fur",
+  "num": 1831,
+  "name": "Stunky Fur",
+  "url": "https://pokeapi.co/api/v2/item/stunky-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/stunky-fur.png"
+}

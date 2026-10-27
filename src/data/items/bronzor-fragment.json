@@ -1,0 +1,12 @@
+{
+  "id": "bronzor-fragment",
+  "num": 1832,
+  "name": "Bronzor Fragment",
+  "url": "https://pokeapi.co/api/v2/item/bronzor-fragment",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/bronzor-fragment.png"
+}

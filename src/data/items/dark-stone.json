@@ -1,0 +1,12 @@
+{
+  "id": "dark-stone",
+  "num": 658,
+  "name": "Dark Stone",
+  "url": "https://pokeapi.co/api/v2/item/dark-stone",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Summons Zekrom for the final battle against N.",
+  "sprite": "/items/dark-stone.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "primarium-z--held",
+  "num": 841,
+  "name": "Primarium Z",
+  "url": "https://pokeapi.co/api/v2/item/primarium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows Primarina to upgrade Sparkling Aria into Oceanic Operetta.",
+  "sprite": "/items/primarium-z--held.png"
+}

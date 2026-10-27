@@ -1,0 +1,12 @@
+{
+  "id": "lycanium-z--bag",
+  "num": 977,
+  "name": "Lycanium Z",
+  "url": "https://pokeapi.co/api/v2/item/lycanium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for lycanium-z--bag",
+  "sprite": "/items/lycanium-z--bag.png"
+}

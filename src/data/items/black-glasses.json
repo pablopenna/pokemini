@@ -1,0 +1,15 @@
+{
+  "id": "black-glasses",
+  "num": 217,
+  "name": "Black Glasses",
+  "url": "https://pokeapi.co/api/v2/item/black-glasses",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Dark-Type moves from holder do 20% more damage.",
+  "sprite": "/items/black-glasses.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lotad-leaf",
+  "num": 2137,
+  "name": "Lotad Leaf",
+  "url": "https://pokeapi.co/api/v2/item/lotad-leaf",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/lotad-leaf.png"
+}

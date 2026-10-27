@@ -1,0 +1,12 @@
+{
+  "id": "ditto-goo",
+  "num": 1778,
+  "name": "Ditto Goo",
+  "url": "https://pokeapi.co/api/v2/item/ditto-goo",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/ditto-goo.png"
+}

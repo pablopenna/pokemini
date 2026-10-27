@@ -1,0 +1,12 @@
+{
+  "id": "magma-suit",
+  "num": 782,
+  "name": "Magma Suit",
+  "url": "https://pokeapi.co/api/v2/item/magma-suit",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Allows the player to ride Groudon in the Cave of Origin.",
+  "sprite": "/items/magma-suit.png"
+}

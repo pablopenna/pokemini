@@ -1,0 +1,12 @@
+{
+  "id": "litleo-tuft",
+  "num": 1861,
+  "name": "Litleo Tuft",
+  "url": "https://pokeapi.co/api/v2/item/litleo-tuft",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/litleo-tuft.png"
+}

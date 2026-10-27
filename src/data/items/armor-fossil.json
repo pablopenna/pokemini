@@ -1,0 +1,14 @@
+{
+  "id": "armor-fossil",
+  "num": 104,
+  "name": "Armor Fossil",
+  "url": "https://pokeapi.co/api/v2/item/armor-fossil",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "dex-completion",
+  "description": "Can be revived into a Shieldon.",
+  "sprite": "/items/armor-fossil.png"
+}

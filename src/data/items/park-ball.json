@@ -1,0 +1,12 @@
+{
+  "id": "park-ball",
+  "num": 456,
+  "name": "Park Ball",
+  "url": "https://pokeapi.co/api/v2/item/park-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "standard-balls",
+  "description": "Catches Pokémon in the Pal Park every time.",
+  "sprite": "/items/park-ball.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "xtransceiver--red",
+  "num": 922,
+  "name": "Xtransceiver",
+  "url": "https://pokeapi.co/api/v2/item/xtransceiver--red",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for xtranceiver--red",
+  "sprite": "/items/xtransceiver--red.png"
+}

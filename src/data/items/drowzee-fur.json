@@ -1,0 +1,12 @@
+{
+  "id": "drowzee-fur",
+  "num": 1773,
+  "name": "Drowzee Fur",
+  "url": "https://pokeapi.co/api/v2/item/drowzee-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/drowzee-fur.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tm13",
+  "num": 317,
+  "name": "TM13",
+  "url": "https://pokeapi.co/api/v2/item/tm13",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Ice Beam to a compatible Pokémon. (Gen II: Snore)",
+  "sprite": "/items/tm13.png"
+}

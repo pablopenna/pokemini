@@ -1,0 +1,12 @@
+{
+  "id": "dragon-tera-shard",
+  "num": 1692,
+  "name": "Dragon Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/dragon-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/dragon-tera-shard.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "klawf-claw",
+  "num": 1931,
+  "name": "Klawf Claw",
+  "url": "https://pokeapi.co/api/v2/item/klawf-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/klawf-claw.png"
+}

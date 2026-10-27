@@ -1,0 +1,12 @@
+{
+  "id": "tm12",
+  "num": 316,
+  "name": "TM12",
+  "url": "https://pokeapi.co/api/v2/item/tm12",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Taunt to a compatible Pokémon. (Gen II: Sweet Scent Gen I: Water Gun)",
+  "sprite": "/items/tm12.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "gold-bottle",
+  "num": 2080,
+  "name": "Gold Bottle",
+  "url": "https://pokeapi.co/api/v2/item/gold-bottle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/gold-bottle.png"
+}

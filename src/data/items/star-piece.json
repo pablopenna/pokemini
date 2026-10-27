@@ -1,0 +1,14 @@
+{
+  "id": "star-piece",
+  "num": 91,
+  "name": "Star Piece",
+  "url": "https://pokeapi.co/api/v2/item/star-piece",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "loot",
+  "description": "Platinum: Trade for one of each color Shard. Black and White: Trade for PP Up. Sell for 4900 Pokédollars, or to Ore Collector for 9800 Pokédollars.",
+  "sprite": "/items/star-piece.png"
+}

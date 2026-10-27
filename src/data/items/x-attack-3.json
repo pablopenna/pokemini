@@ -1,0 +1,12 @@
+{
+  "id": "x-attack-3",
+  "num": 644,
+  "name": "X Attack 3",
+  "url": "https://pokeapi.co/api/v2/item/x-attack-3",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "miracle-shooter",
+  "description": "Raises Attack by three stages in battle.  Wonder Launcher only.",
+  "sprite": "/items/x-attack-3.png"
+}

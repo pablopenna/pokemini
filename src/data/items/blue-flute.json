@@ -1,0 +1,18 @@
+{
+  "id": "blue-flute",
+  "num": 65,
+  "name": "Blue Flute",
+  "url": "https://pokeapi.co/api/v2/item/blue-flute",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "flutes",
+  "description": "Cures sleep.",
+  "sprite": "/items/blue-flute.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "polished-mud-ball",
+  "num": 1031,
+  "name": "Polished Mud Ball",
+  "url": "https://pokeapi.co/api/v2/item/polished-mud-ball",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/polished-mud-ball.png"
+}

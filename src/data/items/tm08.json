@@ -1,0 +1,12 @@
+{
+  "id": "tm08",
+  "num": 312,
+  "name": "TM08",
+  "url": "https://pokeapi.co/api/v2/item/tm08",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Bulk Up to a compatible Pokémon. (Gen II: Rock Smash Gen I: Body Slam)",
+  "sprite": "/items/tm08.png"
+}

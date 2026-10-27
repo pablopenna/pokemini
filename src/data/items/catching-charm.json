@@ -1,0 +1,12 @@
+{
+  "id": "catching-charm",
+  "num": 1325,
+  "name": "Catching Charm",
+  "url": "https://pokeapi.co/api/v2/item/catching-charm",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/catching-charm.png"
+}

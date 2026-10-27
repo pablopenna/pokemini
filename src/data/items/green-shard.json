@@ -1,0 +1,14 @@
+{
+  "id": "green-shard",
+  "num": 75,
+  "name": "Green Shard",
+  "url": "https://pokeapi.co/api/v2/item/green-shard",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "collectibles",
+  "description": "No effect. Can be traded for items or moves.",
+  "sprite": "/items/green-shard.png"
+}

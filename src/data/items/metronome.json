@@ -1,0 +1,15 @@
+{
+  "id": "metronome",
+  "num": 254,
+  "name": "Metronome",
+  "url": "https://pokeapi.co/api/v2/item/metronome",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Consectutive uses of the same attack have a cumulative damage boost of 10%. Maximum 100% boost.",
+  "sprite": "/items/metronome.png"
+}

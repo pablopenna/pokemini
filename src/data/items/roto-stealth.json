@@ -1,0 +1,12 @@
+{
+  "id": "roto-stealth",
+  "num": 1001,
+  "name": "Roto Stealth",
+  "url": "https://pokeapi.co/api/v2/item/roto-stealth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for roto-stealth",
+  "sprite": "/items/roto-stealth.png"
+}

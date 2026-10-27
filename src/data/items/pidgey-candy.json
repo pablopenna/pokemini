@@ -1,0 +1,12 @@
+{
+  "id": "pidgey-candy",
+  "num": 1063,
+  "name": "Pidgey Candy",
+  "url": "https://pokeapi.co/api/v2/item/pidgey-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/pidgey-candy.png"
+}

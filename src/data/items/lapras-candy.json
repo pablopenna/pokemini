@@ -1,0 +1,12 @@
+{
+  "id": "lapras-candy",
+  "num": 1122,
+  "name": "Lapras Candy",
+  "url": "https://pokeapi.co/api/v2/item/lapras-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/lapras-candy.png"
+}

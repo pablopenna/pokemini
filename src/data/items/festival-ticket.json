@@ -1,0 +1,12 @@
+{
+  "id": "festival-ticket",
+  "num": 881,
+  "name": "Festival Ticket",
+  "url": "https://pokeapi.co/api/v2/item/festival-ticket",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Hosts a mission in Festival Plaza.",
+  "sprite": "/items/festival-ticket.png"
+}

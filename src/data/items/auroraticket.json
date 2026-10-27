@@ -1,0 +1,12 @@
+{
+  "id": "auroraticket",
+  "num": 557,
+  "name": "AuroraTicket",
+  "url": "https://pokeapi.co/api/v2/item/auroraticket",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "Allows access to Birth Island and Deoxys.",
+  "sprite": "/items/auroraticket.png"
+}

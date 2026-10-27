@@ -1,0 +1,12 @@
+{
+  "id": "cell-battery",
+  "num": 589,
+  "name": "Cell Battery",
+  "url": "https://pokeapi.co/api/v2/item/cell-battery",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: Raises the holder’s Attack by one stage when it takes Electric-type damage.",
+  "sprite": "/items/cell-battery.png"
+}

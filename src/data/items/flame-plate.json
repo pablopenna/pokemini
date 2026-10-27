@@ -1,0 +1,16 @@
+{
+  "id": "flame-plate",
+  "num": 275,
+  "name": "Flame Plate",
+  "url": "https://pokeapi.co/api/v2/item/flame-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Fire-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fire.",
+  "sprite": "/items/flame-plate.png"
+}

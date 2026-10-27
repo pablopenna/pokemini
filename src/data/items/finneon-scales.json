@@ -1,0 +1,12 @@
+{
+  "id": "finneon-scales",
+  "num": 1840,
+  "name": "Finneon Scales",
+  "url": "https://pokeapi.co/api/v2/item/finneon-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/finneon-scales.png"
+}

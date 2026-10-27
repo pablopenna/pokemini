@@ -1,0 +1,12 @@
+{
+  "id": "capsakid-seed",
+  "num": 1917,
+  "name": "Capsakid Seed",
+  "url": "https://pokeapi.co/api/v2/item/capsakid-seed",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/capsakid-seed.png"
+}

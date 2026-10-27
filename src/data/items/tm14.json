@@ -1,0 +1,12 @@
+{
+  "id": "tm14",
+  "num": 318,
+  "name": "TM14",
+  "url": "https://pokeapi.co/api/v2/item/tm14",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Blizzard to a compatible Pokémon.",
+  "sprite": "/items/tm14.png"
+}

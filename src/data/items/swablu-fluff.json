@@ -1,0 +1,12 @@
+{
+  "id": "swablu-fluff",
+  "num": 1814,
+  "name": "Swablu Fluff",
+  "url": "https://pokeapi.co/api/v2/item/swablu-fluff",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/swablu-fluff.png"
+}

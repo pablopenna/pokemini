@@ -1,0 +1,12 @@
+{
+  "id": "tiny-bamboo-shoot",
+  "num": 1673,
+  "name": "Tiny Bamboo Shoot",
+  "url": "https://pokeapi.co/api/v2/item/tiny-bamboo-shoot",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/tiny-bamboo-shoot.png"
+}

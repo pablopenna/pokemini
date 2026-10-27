@@ -1,0 +1,12 @@
+{
+  "id": "feebas-scales",
+  "num": 2143,
+  "name": "Feebas Scales",
+  "url": "https://pokeapi.co/api/v2/item/feebas-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/feebas-scales.png"
+}

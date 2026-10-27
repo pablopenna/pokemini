@@ -1,0 +1,12 @@
+{
+  "id": "dark-tera-shard",
+  "num": 1693,
+  "name": "Dark Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/dark-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/dark-tera-shard.png"
+}

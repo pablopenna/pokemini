@@ -1,0 +1,12 @@
+{
+  "id": "eject-button",
+  "num": 590,
+  "name": "Eject Button",
+  "url": "https://pokeapi.co/api/v2/item/eject-button",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: When the holder takes damage from a move, it switches out for a party Pokémon of the Trainer’s choice.",
+  "sprite": "/items/eject-button.png"
+}

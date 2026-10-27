@@ -1,0 +1,12 @@
+{
+  "id": "laorigin-ball",
+  "num": 2229,
+  "name": "Origin Ball",
+  "url": "https://pokeapi.co/api/v2/item/laorigin-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "standard-balls",
+  "description": "",
+  "sprite": "/items/laorigin-ball.png"
+}

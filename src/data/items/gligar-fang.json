@@ -1,0 +1,12 @@
+{
+  "id": "gligar-fang",
+  "num": 2133,
+  "name": "Gligar Fang",
+  "url": "https://pokeapi.co/api/v2/item/gligar-fang",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/gligar-fang.png"
+}

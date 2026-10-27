@@ -1,0 +1,15 @@
+{
+  "id": "grip-claw",
+  "num": 263,
+  "name": "Grip Claw",
+  "url": "https://pokeapi.co/api/v2/item/grip-claw",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Holder’s multi-turn trapping moves last 5 turns.",
+  "sprite": "/items/grip-claw.png"
+}

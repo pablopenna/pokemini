@@ -1,0 +1,12 @@
+{
+  "id": "roto-exp-points",
+  "num": 998,
+  "name": "Roto Exp. Points",
+  "url": "https://pokeapi.co/api/v2/item/roto-exp-points",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for roto-exp-points",
+  "sprite": "/items/roto-exp-points.png"
+}

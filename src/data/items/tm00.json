@@ -1,0 +1,12 @@
+{
+  "id": "tm00",
+  "num": 1288,
+  "name": "TM00",
+  "url": "https://pokeapi.co/api/v2/item/tm00",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tm00.png"
+}

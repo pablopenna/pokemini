@@ -1,0 +1,12 @@
+{
+  "id": "muscle-mochi",
+  "num": 2113,
+  "name": "Muscle Mochi",
+  "url": "https://pokeapi.co/api/v2/item/muscle-mochi",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/muscle-mochi.png"
+}

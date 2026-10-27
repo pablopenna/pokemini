@@ -1,0 +1,12 @@
+{
+  "id": "poffin-case",
+  "num": 426,
+  "name": "Poffin Case",
+  "url": "https://pokeapi.co/api/v2/item/poffin-case",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Holds Poffins.",
+  "sprite": "/items/poffin-case.png"
+}

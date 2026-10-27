@@ -1,0 +1,12 @@
+{
+  "id": "forage-bag",
+  "num": 878,
+  "name": "Forage Bag",
+  "url": "https://pokeapi.co/api/v2/item/forage-bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Holds ingredients during Mallow’s trial.",
+  "sprite": "/items/forage-bag.png"
+}

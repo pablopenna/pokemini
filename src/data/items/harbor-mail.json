@@ -1,0 +1,12 @@
+{
+  "id": "harbor-mail",
+  "num": 516,
+  "name": "Harbor Mail",
+  "url": "https://pokeapi.co/api/v2/item/harbor-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/harbor-mail.png"
+}

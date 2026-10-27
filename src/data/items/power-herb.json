@@ -1,0 +1,15 @@
+{
+  "id": "power-herb",
+  "num": 248,
+  "name": "Power Herb",
+  "url": "https://pokeapi.co/api/v2/item/power-herb",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Both turns of a two-turn charge move happen at once. Consumed upon use.",
+  "sprite": "/items/power-herb.png"
+}

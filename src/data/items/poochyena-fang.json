@@ -1,0 +1,12 @@
+{
+  "id": "poochyena-fang",
+  "num": 2136,
+  "name": "Poochyena Fang",
+  "url": "https://pokeapi.co/api/v2/item/poochyena-fang",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/poochyena-fang.png"
+}

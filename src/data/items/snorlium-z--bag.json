@@ -1,0 +1,12 @@
+{
+  "id": "snorlium-z--bag",
+  "num": 963,
+  "name": "Snorlium Z",
+  "url": "https://pokeapi.co/api/v2/item/snorlium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for snorlium-z--bag",
+  "sprite": "/items/snorlium-z--bag.png"
+}

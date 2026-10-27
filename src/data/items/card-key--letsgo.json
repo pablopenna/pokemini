@@ -1,0 +1,12 @@
+{
+  "id": "card-key--letsgo",
+  "num": 1023,
+  "name": "Card Key",
+  "url": "https://pokeapi.co/api/v2/item/card-key--letsgo",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/card-key--letsgo.png"
+}

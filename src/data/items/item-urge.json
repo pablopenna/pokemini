@@ -1,0 +1,12 @@
+{
+  "id": "item-urge",
+  "num": 654,
+  "name": "Item Urge",
+  "url": "https://pokeapi.co/api/v2/item/item-urge",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "miracle-shooter",
+  "description": "Forcibly activates a friendly Pokémon’s held item.",
+  "sprite": "/items/item-urge.png"
+}

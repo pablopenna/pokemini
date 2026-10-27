@@ -1,0 +1,12 @@
+{
+  "id": "tm16",
+  "num": 320,
+  "name": "TM16",
+  "url": "https://pokeapi.co/api/v2/item/tm16",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Light Screen to a compatible Pokémon. (Gen II: Icy Wind Gen I: Pay Day)",
+  "sprite": "/items/tm16.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "swinub-hair",
+  "num": 2135,
+  "name": "Swinub Hair",
+  "url": "https://pokeapi.co/api/v2/item/swinub-hair",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/swinub-hair.png"
+}

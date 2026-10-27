@@ -1,0 +1,18 @@
+{
+  "id": "burn-heal",
+  "num": 19,
+  "name": "Burn Heal",
+  "url": "https://pokeapi.co/api/v2/item/burn-heal",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "status-cures",
+  "description": "Cures a burn.",
+  "sprite": "/items/burn-heal.png"
+}

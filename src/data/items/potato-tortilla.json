@@ -1,0 +1,12 @@
+{
+  "id": "potato-tortilla",
+  "num": 1745,
+  "name": "Potato Tortilla",
+  "url": "https://pokeapi.co/api/v2/item/potato-tortilla",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/potato-tortilla.png"
+}

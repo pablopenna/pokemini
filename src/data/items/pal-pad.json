@@ -1,0 +1,12 @@
+{
+  "id": "pal-pad",
+  "num": 414,
+  "name": "Pal Pad",
+  "url": "https://pokeapi.co/api/v2/item/pal-pad",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Use to record Friend Codes and check your own.",
+  "sprite": "/items/pal-pad.png"
+}

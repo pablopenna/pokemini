@@ -1,0 +1,12 @@
+{
+  "id": "mewtwo-candy",
+  "num": 1134,
+  "name": "Mewtwo Candy",
+  "url": "https://pokeapi.co/api/v2/item/mewtwo-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/mewtwo-candy.png"
+}

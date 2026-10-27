@@ -1,0 +1,12 @@
+{
+  "id": "magical-star-pick",
+  "num": 2088,
+  "name": "Magical Star Pick",
+  "url": "https://pokeapi.co/api/v2/item/magical-star-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/magical-star-pick.png"
+}

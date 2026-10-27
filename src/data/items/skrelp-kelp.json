@@ -1,0 +1,12 @@
+{
+  "id": "skrelp-kelp",
+  "num": 1864,
+  "name": "Skrelp Kelp",
+  "url": "https://pokeapi.co/api/v2/item/skrelp-kelp",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/skrelp-kelp.png"
+}

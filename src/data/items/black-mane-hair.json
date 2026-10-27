@@ -1,0 +1,12 @@
+{
+  "id": "black-mane-hair",
+  "num": 1652,
+  "name": "Black Mane Hair",
+  "url": "https://pokeapi.co/api/v2/item/black-mane-hair",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/black-mane-hair.png"
+}

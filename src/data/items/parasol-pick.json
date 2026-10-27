@@ -1,0 +1,12 @@
+{
+  "id": "parasol-pick",
+  "num": 2090,
+  "name": "Parasol Pick",
+  "url": "https://pokeapi.co/api/v2/item/parasol-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/parasol-pick.png"
+}

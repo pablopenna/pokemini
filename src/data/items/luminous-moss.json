@@ -1,0 +1,12 @@
+{
+  "id": "luminous-moss",
+  "num": 688,
+  "name": "Luminous Moss",
+  "url": "https://pokeapi.co/api/v2/item/luminous-moss",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: If the holder is hit by a damaging Water move, raises its Special Defense by one stage.",
+  "sprite": "/items/luminous-moss.png"
+}

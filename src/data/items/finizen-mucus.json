@@ -1,0 +1,12 @@
+{
+  "id": "finizen-mucus",
+  "num": 1915,
+  "name": "Finizen Mucus",
+  "url": "https://pokeapi.co/api/v2/item/finizen-mucus",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/finizen-mucus.png"
+}

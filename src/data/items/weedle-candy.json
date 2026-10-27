@@ -1,0 +1,12 @@
+{
+  "id": "weedle-candy",
+  "num": 1062,
+  "name": "Weedle Candy",
+  "url": "https://pokeapi.co/api/v2/item/weedle-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/weedle-candy.png"
+}

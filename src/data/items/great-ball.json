@@ -1,0 +1,17 @@
+{
+  "id": "great-ball",
+  "num": 3,
+  "name": "Great Ball",
+  "url": "https://pokeapi.co/api/v2/item/great-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "standard-balls",
+  "description": "Tries to catch a wild Pokémon.  Success rate is 1.5×.",
+  "sprite": "/items/great-ball.png"
+}

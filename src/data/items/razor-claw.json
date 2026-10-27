@@ -1,0 +1,15 @@
+{
+  "id": "razor-claw",
+  "num": 303,
+  "name": "Razor Claw",
+  "url": "https://pokeapi.co/api/v2/item/razor-claw",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Raises the holder’s critical hit ratio by one stage. Held by a Sneasel while levelling up at night: Holder evolves into Weavile.",
+  "sprite": "/items/razor-claw.png"
+}

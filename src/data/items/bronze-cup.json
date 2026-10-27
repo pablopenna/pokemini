@@ -1,0 +1,12 @@
+{
+  "id": "bronze-cup",
+  "num": 2083,
+  "name": "Bronze Cup",
+  "url": "https://pokeapi.co/api/v2/item/bronze-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/bronze-cup.png"
+}

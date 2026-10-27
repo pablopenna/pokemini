@@ -1,0 +1,12 @@
+{
+  "id": "clauncher-claw",
+  "num": 1865,
+  "name": "Clauncher Claw",
+  "url": "https://pokeapi.co/api/v2/item/clauncher-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/clauncher-claw.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ruby",
+  "num": 559,
+  "name": "Ruby",
+  "url": "https://pokeapi.co/api/v2/item/ruby",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Give to Celio with Sapphire to activate Network Machine and get Rainbow Pass.",
+  "sprite": "/items/ruby.png"
+}

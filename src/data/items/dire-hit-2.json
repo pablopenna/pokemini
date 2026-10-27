@@ -1,0 +1,12 @@
+{
+  "id": "dire-hit-2",
+  "num": 633,
+  "name": "Dire Hit 2",
+  "url": "https://pokeapi.co/api/v2/item/dire-hit-2",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "miracle-shooter",
+  "description": "Raises critical hit rate by two stages in battle.  Wonder Launcher only.",
+  "sprite": "/items/dire-hit-2.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tr82",
+  "num": 1270,
+  "name": "TR82",
+  "url": "https://pokeapi.co/api/v2/item/tr82",
+  "flingPower": 20,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tr82.png"
+}

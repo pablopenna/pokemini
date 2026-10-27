@@ -1,0 +1,12 @@
+{
+  "id": "gold-cup",
+  "num": 2082,
+  "name": "Gold Cup",
+  "url": "https://pokeapi.co/api/v2/item/gold-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/gold-cup.png"
+}

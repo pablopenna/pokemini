@@ -1,0 +1,12 @@
+{
+  "id": "data-card-27",
+  "num": 512,
+  "name": "Data Card 27",
+  "url": "https://pokeapi.co/api/v2/item/data-card-27",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the total time spent in the Pokéathlon.",
+  "sprite": "/items/data-card-27.png"
+}

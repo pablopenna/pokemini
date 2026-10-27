@@ -1,0 +1,12 @@
+{
+  "id": "orthworm-tarnish",
+  "num": 1920,
+  "name": "Orthworm Tarnish",
+  "url": "https://pokeapi.co/api/v2/item/orthworm-tarnish",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/orthworm-tarnish.png"
+}

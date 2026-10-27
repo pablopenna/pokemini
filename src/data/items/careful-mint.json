@@ -1,0 +1,12 @@
+{
+  "id": "careful-mint",
+  "num": 1303,
+  "name": "Careful Mint",
+  "url": "https://pokeapi.co/api/v2/item/careful-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/careful-mint.png"
+}

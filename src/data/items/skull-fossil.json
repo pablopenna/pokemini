@@ -1,0 +1,14 @@
+{
+  "id": "skull-fossil",
+  "num": 105,
+  "name": "Skull Fossil",
+  "url": "https://pokeapi.co/api/v2/item/skull-fossil",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "dex-completion",
+  "description": "Can be revived into a Cranidos.",
+  "sprite": "/items/skull-fossil.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fire-pattern-cup",
+  "num": 2056,
+  "name": "Fire Pattern Cup",
+  "url": "https://pokeapi.co/api/v2/item/fire-pattern-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/fire-pattern-cup.png"
+}

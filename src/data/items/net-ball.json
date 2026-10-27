@@ -1,0 +1,17 @@
+{
+  "id": "net-ball",
+  "num": 6,
+  "name": "Net Ball",
+  "url": "https://pokeapi.co/api/v2/item/net-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "special-balls",
+  "description": "Tries to catch a wild Pokémon.  Success rate is 3× for water and bug Pokémon.",
+  "sprite": "/items/net-ball.png"
+}

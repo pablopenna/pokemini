@@ -1,0 +1,12 @@
+{
+  "id": "armor-pass",
+  "num": 1635,
+  "name": "Armor Pass",
+  "url": "https://pokeapi.co/api/v2/item/armor-pass",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/armor-pass.png"
+}

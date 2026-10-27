@@ -1,0 +1,12 @@
+{
+  "id": "volbeat-fluid",
+  "num": 2140,
+  "name": "Volbeat Fluid",
+  "url": "https://pokeapi.co/api/v2/item/volbeat-fluid",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/volbeat-fluid.png"
+}

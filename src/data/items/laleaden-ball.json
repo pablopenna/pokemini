@@ -1,0 +1,12 @@
+{
+  "id": "laleaden-ball",
+  "num": 2224,
+  "name": "Leaden Ball",
+  "url": "https://pokeapi.co/api/v2/item/laleaden-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "standard-balls",
+  "description": "",
+  "sprite": "/items/laleaden-ball.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "squawkabilly-feather",
+  "num": 1929,
+  "name": "Squawkabilly Feather",
+  "url": "https://pokeapi.co/api/v2/item/squawkabilly-feather",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/squawkabilly-feather.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "starly-feather",
+  "num": 1823,
+  "name": "Starly Feather",
+  "url": "https://pokeapi.co/api/v2/item/starly-feather",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/starly-feather.png"
+}

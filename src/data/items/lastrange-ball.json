@@ -1,0 +1,12 @@
+{
+  "id": "lastrange-ball",
+  "num": 2219,
+  "name": "Strange Ball",
+  "url": "https://pokeapi.co/api/v2/item/lastrange-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "standard-balls",
+  "description": "",
+  "sprite": "/items/lastrange-ball.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "kings-rock",
+  "num": 198,
+  "name": "King’s Rock",
+  "url": "https://pokeapi.co/api/v2/item/kings-rock",
+  "flingPower": 30,
+  "flingEffect": "flinch",
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Damaging moves gain a 10% chance to make their target flinch. Traded on a Poliwhirl: Holder evolves into Politoed. Traded on a Slowpoke: Holder evolves into Slowking.",
+  "sprite": "/items/kings-rock.png"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "carbos",
+  "num": 48,
+  "name": "Carbos",
+  "url": "https://pokeapi.co/api/v2/item/carbos",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "vitamins",
+  "description": "Raises Speed effort and happiness.",
+  "sprite": "/items/carbos.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "strange-ball",
+  "num": 1663,
+  "name": "Strange Ball",
+  "url": "https://pokeapi.co/api/v2/item/strange-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "",
+  "sprite": "/items/strange-ball.png"
+}

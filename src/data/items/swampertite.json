@@ -1,0 +1,12 @@
+{
+  "id": "swampertite",
+  "num": 793,
+  "name": "Swampertite",
+  "url": "https://pokeapi.co/api/v2/item/swampertite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Swampert to Mega Evolve into Mega Swampert.",
+  "sprite": "/items/swampertite.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "grass-tera-shard",
+  "num": 1682,
+  "name": "Grass Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/grass-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/grass-tera-shard.png"
+}

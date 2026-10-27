@@ -1,0 +1,12 @@
+{
+  "id": "eevee-cup",
+  "num": 2061,
+  "name": "Eevee Cup",
+  "url": "https://pokeapi.co/api/v2/item/eevee-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/eevee-cup.png"
+}

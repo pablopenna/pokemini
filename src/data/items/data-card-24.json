@@ -1,0 +1,12 @@
+{
+  "id": "data-card-24",
+  "num": 509,
+  "name": "Data Card 24",
+  "url": "https://pokeapi.co/api/v2/item/data-card-24",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer has come in first in the Pokéathlon Goal Roll.",
+  "sprite": "/items/data-card-24.png"
+}

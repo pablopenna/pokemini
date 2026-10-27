@@ -1,0 +1,15 @@
+{
+  "id": "quick-claw",
+  "num": 194,
+  "name": "Quick Claw",
+  "url": "https://pokeapi.co/api/v2/item/quick-claw",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Holder has a 3/16 (18.75%) chance to move first.",
+  "sprite": "/items/quick-claw.png"
+}

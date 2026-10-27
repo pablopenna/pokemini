@@ -1,0 +1,12 @@
+{
+  "id": "fab-mail",
+  "num": 525,
+  "name": "Fab Mail",
+  "url": "https://pokeapi.co/api/v2/item/fab-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/fab-mail.png"
+}

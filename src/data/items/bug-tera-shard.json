@@ -1,0 +1,12 @@
+{
+  "id": "bug-tera-shard",
+  "num": 1689,
+  "name": "Bug Tera Shard",
+  "url": "https://pokeapi.co/api/v2/item/bug-tera-shard",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tera-shard",
+  "description": "",
+  "sprite": "/items/bug-tera-shard.png"
+}

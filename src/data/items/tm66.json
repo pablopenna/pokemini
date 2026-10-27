@@ -1,0 +1,12 @@
+{
+  "id": "tm66",
+  "num": 370,
+  "name": "TM66",
+  "url": "https://pokeapi.co/api/v2/item/tm66",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Payback to a compatible Pokémon.",
+  "sprite": "/items/tm66.png"
+}

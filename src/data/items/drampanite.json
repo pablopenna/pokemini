@@ -1,0 +1,12 @@
+{
+  "id": "drampanite",
+  "num": 2259,
+  "name": "Drampanite",
+  "url": "https://pokeapi.co/api/v2/item/drampanite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/drampanite.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "impish-mint",
+  "num": 1294,
+  "name": "Impish Mint",
+  "url": "https://pokeapi.co/api/v2/item/impish-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/impish-mint.png"
+}

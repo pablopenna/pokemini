@@ -1,0 +1,14 @@
+{
+  "id": "oval-stone",
+  "num": 110,
+  "name": "Oval Stone",
+  "url": "https://pokeapi.co/api/v2/item/oval-stone",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "evolution",
+  "description": "Level-up during Day on a Happiny: Holder evolves into Chansey.",
+  "sprite": "/items/oval-stone.png"
+}

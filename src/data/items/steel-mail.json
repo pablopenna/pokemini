@@ -1,0 +1,12 @@
+{
+  "id": "steel-mail",
+  "num": 119,
+  "name": "Steel Mail",
+  "url": "https://pokeapi.co/api/v2/item/steel-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/steel-mail.png"
+}

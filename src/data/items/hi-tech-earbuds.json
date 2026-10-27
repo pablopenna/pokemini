@@ -1,0 +1,12 @@
+{
+  "id": "hi-tech-earbuds",
+  "num": 1313,
+  "name": "Hi-tech Earbuds",
+  "url": "https://pokeapi.co/api/v2/item/hi-tech-earbuds",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/hi-tech-earbuds.png"
+}

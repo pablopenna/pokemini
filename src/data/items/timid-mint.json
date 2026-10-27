@@ -1,0 +1,12 @@
+{
+  "id": "timid-mint",
+  "num": 1305,
+  "name": "Timid Mint",
+  "url": "https://pokeapi.co/api/v2/item/timid-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/timid-mint.png"
+}

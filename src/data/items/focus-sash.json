@@ -1,0 +1,15 @@
+{
+  "id": "focus-sash",
+  "num": 252,
+  "name": "Focus Sash",
+  "url": "https://pokeapi.co/api/v2/item/focus-sash",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Holder survives any single-hit attack at 1 HP if at max HP, then the item is consumed.",
+  "sprite": "/items/focus-sash.png"
+}

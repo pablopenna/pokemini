@@ -1,0 +1,12 @@
+{
+  "id": "aggronite",
+  "num": 706,
+  "name": "Aggronite",
+  "url": "https://pokeapi.co/api/v2/item/aggronite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Aggron to Mega Evolve into Mega Aggron.",
+  "sprite": "/items/aggronite.png"
+}

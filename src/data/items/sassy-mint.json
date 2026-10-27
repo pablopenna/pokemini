@@ -1,0 +1,12 @@
+{
+  "id": "sassy-mint",
+  "num": 1304,
+  "name": "Sassy Mint",
+  "url": "https://pokeapi.co/api/v2/item/sassy-mint",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "nature-mints",
+  "description": "",
+  "sprite": "/items/sassy-mint.png"
+}

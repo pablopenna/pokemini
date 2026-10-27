@@ -1,0 +1,18 @@
+{
+  "id": "sacred-ash",
+  "num": 44,
+  "name": "Sacred Ash",
+  "url": "https://pokeapi.co/api/v2/item/sacred-ash",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "revival",
+  "description": "Revives all fainted Pokémon with full HP.",
+  "sprite": "/items/sacred-ash.png"
+}

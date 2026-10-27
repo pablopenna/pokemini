@@ -1,0 +1,12 @@
+{
+  "id": "reaper-cloth",
+  "num": 302,
+  "name": "Reaper Cloth",
+  "url": "https://pokeapi.co/api/v2/item/reaper-cloth",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Traded on a Dusclops: Holder evolves into Dusknoir.",
+  "sprite": "/items/reaper-cloth.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "academy-bottle",
+  "num": 2016,
+  "name": "Academy Bottle",
+  "url": "https://pokeapi.co/api/v2/item/academy-bottle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/academy-bottle.png"
+}

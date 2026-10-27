@@ -1,0 +1,15 @@
+{
+  "id": "choice-specs",
+  "num": 274,
+  "name": "Choice Specs",
+  "url": "https://pokeapi.co/api/v2/item/choice-specs",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "choice",
+  "description": "Held: Increases Special Attack by 50%, but restricts the holder to only one move.",
+  "sprite": "/items/choice-specs.png"
+}

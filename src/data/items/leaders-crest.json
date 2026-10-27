@@ -1,0 +1,12 @@
+{
+  "id": "leaders-crest",
+  "num": 2046,
+  "name": "Leader’s Crest",
+  "url": "https://pokeapi.co/api/v2/item/leaders-crest",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/leaders-crest.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "leafy-tablecloth",
+  "num": 2029,
+  "name": "Leafy Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/leafy-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/leafy-tablecloth.png"
+}

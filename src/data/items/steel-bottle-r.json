@@ -1,0 +1,12 @@
+{
+  "id": "steel-bottle-r",
+  "num": 2050,
+  "name": "Steel Bottle (R)",
+  "url": "https://pokeapi.co/api/v2/item/steel-bottle-r",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/steel-bottle-r.png"
+}

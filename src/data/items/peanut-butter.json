@@ -1,0 +1,12 @@
+{
+  "id": "peanut-butter",
+  "num": 1708,
+  "name": "Peanut Butter",
+  "url": "https://pokeapi.co/api/v2/item/peanut-butter",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/peanut-butter.png"
+}

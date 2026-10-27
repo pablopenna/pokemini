@@ -1,0 +1,12 @@
+{
+  "id": "battle-pocket",
+  "num": 1013,
+  "name": "Battle Pocket",
+  "url": "https://pokeapi.co/api/v2/item/battle-pocket",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "",
+  "sprite": "/items/battle-pocket.png"
+}

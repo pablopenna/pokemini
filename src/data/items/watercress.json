@@ -1,0 +1,12 @@
+{
+  "id": "watercress",
+  "num": 1760,
+  "name": "Watercress",
+  "url": "https://pokeapi.co/api/v2/item/watercress",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/watercress.png"
+}

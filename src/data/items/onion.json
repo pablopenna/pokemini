@@ -1,0 +1,12 @@
+{
+  "id": "onion",
+  "num": 1729,
+  "name": "Onion",
+  "url": "https://pokeapi.co/api/v2/item/onion",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/onion.png"
+}

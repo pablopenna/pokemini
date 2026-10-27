@@ -1,0 +1,14 @@
+{
+  "id": "rare-bone",
+  "num": 106,
+  "name": "Rare Bone",
+  "url": "https://pokeapi.co/api/v2/item/rare-bone",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "loot",
+  "description": "Sell for 5000 Pokédollars, or to Bone Man for 10000 Pokédollars.",
+  "sprite": "/items/rare-bone.png"
+}

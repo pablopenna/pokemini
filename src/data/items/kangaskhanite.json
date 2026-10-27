@@ -1,0 +1,12 @@
+{
+  "id": "kangaskhanite",
+  "num": 714,
+  "name": "Kangaskhanite",
+  "url": "https://pokeapi.co/api/v2/item/kangaskhanite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Kangaskhan to Mega Evolve into Mega Kangaskhan.",
+  "sprite": "/items/kangaskhanite.png"
+}

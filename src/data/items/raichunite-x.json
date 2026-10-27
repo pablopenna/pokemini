@@ -1,0 +1,12 @@
+{
+  "id": "raichunite-x",
+  "num": 2262,
+  "name": "Raichunite X",
+  "url": "https://pokeapi.co/api/v2/item/raichunite-x",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/raichunite-x.png"
+}

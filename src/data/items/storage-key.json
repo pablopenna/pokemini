@@ -1,0 +1,12 @@
+{
+  "id": "storage-key",
+  "num": 440,
+  "name": "Storage Key",
+  "url": "https://pokeapi.co/api/v2/item/storage-key",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Grants access to the Team Galactic warehouse in Veilstone City.",
+  "sprite": "/items/storage-key.png"
+}

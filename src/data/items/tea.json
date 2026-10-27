@@ -1,0 +1,12 @@
+{
+  "id": "tea",
+  "num": 555,
+  "name": "Tea",
+  "url": "https://pokeapi.co/api/v2/item/tea",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Grants access to Saffron City.",
+  "sprite": "/items/tea.png"
+}

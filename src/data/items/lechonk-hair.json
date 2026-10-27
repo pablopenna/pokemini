@@ -1,0 +1,12 @@
+{
+  "id": "lechonk-hair",
+  "num": 1906,
+  "name": "Lechonk Hair",
+  "url": "https://pokeapi.co/api/v2/item/lechonk-hair",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/lechonk-hair.png"
+}

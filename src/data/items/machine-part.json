@@ -1,0 +1,12 @@
+{
+  "id": "machine-part",
+  "num": 480,
+  "name": "Machine Part",
+  "url": "https://pokeapi.co/api/v2/item/machine-part",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Must be replaced in the Power Plant to power the Magnet Train.",
+  "sprite": "/items/machine-part.png"
+}

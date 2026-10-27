@@ -1,0 +1,12 @@
+{
+  "id": "teal-style-card",
+  "num": 2101,
+  "name": "Teal Style Card",
+  "url": "https://pokeapi.co/api/v2/item/teal-style-card",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/teal-style-card.png"
+}

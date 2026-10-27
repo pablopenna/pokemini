@@ -1,0 +1,12 @@
+{
+  "id": "gold-pick",
+  "num": 2036,
+  "name": "Gold Pick",
+  "url": "https://pokeapi.co/api/v2/item/gold-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/gold-pick.png"
+}

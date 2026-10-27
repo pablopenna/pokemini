@@ -1,0 +1,12 @@
+{
+  "id": "yellow-nectar",
+  "num": 890,
+  "name": "Yellow Nectar",
+  "url": "https://pokeapi.co/api/v2/item/yellow-nectar",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-specific",
+  "description": "Changes Oricorio to Pom-Pom Style.",
+  "sprite": "/items/yellow-nectar.png"
+}

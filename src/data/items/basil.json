@@ -1,0 +1,12 @@
+{
+  "id": "basil",
+  "num": 1761,
+  "name": "Basil",
+  "url": "https://pokeapi.co/api/v2/item/basil",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/basil.png"
+}

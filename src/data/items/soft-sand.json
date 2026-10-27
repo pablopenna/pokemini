@@ -1,0 +1,15 @@
+{
+  "id": "soft-sand",
+  "num": 214,
+  "name": "Soft Sand",
+  "url": "https://pokeapi.co/api/v2/item/soft-sand",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Ground-Type moves from holder do 20% more damage.",
+  "sprite": "/items/soft-sand.png"
+}

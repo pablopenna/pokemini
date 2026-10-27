@@ -1,0 +1,12 @@
+{
+  "id": "oranguru-fur",
+  "num": 1881,
+  "name": "Oranguru Fur",
+  "url": "https://pokeapi.co/api/v2/item/oranguru-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/oranguru-fur.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lycanium-z--held",
+  "num": 971,
+  "name": "Lycanium Z",
+  "url": "https://pokeapi.co/api/v2/item/lycanium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for lycanium-z--held",
+  "sprite": "/items/lycanium-z--held.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ultranecrozium-z--bag",
+  "num": 975,
+  "name": "Ultranecrozium Z",
+  "url": "https://pokeapi.co/api/v2/item/ultranecrozium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for ultranecrozium-z--bag",
+  "sprite": "/items/ultranecrozium-z--bag.png"
+}

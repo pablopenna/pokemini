@@ -1,0 +1,12 @@
+{
+  "id": "smoked-fillet",
+  "num": 1742,
+  "name": "Smoked Fillet",
+  "url": "https://pokeapi.co/api/v2/item/smoked-fillet",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/smoked-fillet.png"
+}

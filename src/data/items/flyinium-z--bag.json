@@ -1,0 +1,12 @@
+{
+  "id": "flyinium-z--bag",
+  "num": 947,
+  "name": "Flyinium Z",
+  "url": "https://pokeapi.co/api/v2/item/flyinium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for flyinium-z--bag",
+  "sprite": "/items/flyinium-z--bag.png"
+}

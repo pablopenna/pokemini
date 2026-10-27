@@ -1,0 +1,12 @@
+{
+  "id": "delibird-parcel",
+  "num": 1795,
+  "name": "Delibird Parcel",
+  "url": "https://pokeapi.co/api/v2/item/delibird-parcel",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/delibird-parcel.png"
+}

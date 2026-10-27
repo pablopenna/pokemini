@@ -1,0 +1,18 @@
+{
+  "id": "full-heal",
+  "num": 27,
+  "name": "Full Heal",
+  "url": "https://pokeapi.co/api/v2/item/full-heal",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "status-cures",
+  "description": "Cures any status ailment and confusion.",
+  "sprite": "/items/full-heal.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "polka-dot-tablecloth",
+  "num": 2073,
+  "name": "Polka-Dot Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/polka-dot-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/polka-dot-tablecloth.png"
+}

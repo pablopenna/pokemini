@@ -1,0 +1,12 @@
+{
+  "id": "normalium-z--bag",
+  "num": 938,
+  "name": "Normalium Z",
+  "url": "https://pokeapi.co/api/v2/item/normalium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for normalium-z--bag",
+  "sprite": "/items/normalium-z--bag.png"
+}

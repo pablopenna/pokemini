@@ -1,0 +1,12 @@
+{
+  "id": "star-sweet",
+  "num": 1172,
+  "name": "Star Sweet",
+  "url": "https://pokeapi.co/api/v2/item/star-sweet",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/star-sweet.png"
+}

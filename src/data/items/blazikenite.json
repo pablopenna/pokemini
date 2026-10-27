@@ -1,0 +1,12 @@
+{
+  "id": "blazikenite",
+  "num": 703,
+  "name": "Blazikenite",
+  "url": "https://pokeapi.co/api/v2/item/blazikenite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Blaziken to Mega Evolve into Mega Blaziken.",
+  "sprite": "/items/blazikenite.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "academy-tablecloth",
+  "num": 2026,
+  "name": "Academy Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/academy-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/academy-tablecloth.png"
+}

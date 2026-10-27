@@ -1,0 +1,12 @@
+{
+  "id": "psychium-z--held",
+  "num": 827,
+  "name": "Psychium Z",
+  "url": "https://pokeapi.co/api/v2/item/psychium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Psychic moves.",
+  "sprite": "/items/psychium-z--held.png"
+}

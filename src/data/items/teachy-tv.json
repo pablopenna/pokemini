@@ -1,0 +1,12 @@
+{
+  "id": "teachy-tv",
+  "num": 552,
+  "name": "Teachy TV",
+  "url": "https://pokeapi.co/api/v2/item/teachy-tv",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Teachers basic trainer advice.",
+  "sprite": "/items/teachy-tv.png"
+}

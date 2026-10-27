@@ -1,0 +1,12 @@
+{
+  "id": "bluk-berry",
+  "num": 142,
+  "name": "Bluk Berry",
+  "url": "https://pokeapi.co/api/v2/item/bluk-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "baking-only",
+  "description": "Used for creating PokéBlocks and Poffins.",
+  "sprite": "/items/bluk-berry.png"
+}

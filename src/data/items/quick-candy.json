@@ -1,0 +1,12 @@
+{
+  "id": "quick-candy",
+  "num": 1045,
+  "name": "Quick Candy",
+  "url": "https://pokeapi.co/api/v2/item/quick-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/quick-candy.png"
+}

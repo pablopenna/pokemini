@@ -1,0 +1,12 @@
+{
+  "id": "meteorite",
+  "num": 537,
+  "name": "Meteorite",
+  "url": "https://pokeapi.co/api/v2/item/meteorite",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "FL: Deliver to Lostelle’s father. RSE: Trade to Professor Cozmo for TM27 (Return).",
+  "sprite": "/items/meteorite.png"
+}

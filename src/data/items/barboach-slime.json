@@ -1,0 +1,12 @@
+{
+  "id": "barboach-slime",
+  "num": 1817,
+  "name": "Barboach Slime",
+  "url": "https://pokeapi.co/api/v2/item/barboach-slime",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/barboach-slime.png"
+}

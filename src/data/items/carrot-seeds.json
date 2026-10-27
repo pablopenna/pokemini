@@ -1,0 +1,12 @@
+{
+  "id": "carrot-seeds",
+  "num": 1656,
+  "name": "Carrot Seeds",
+  "url": "https://pokeapi.co/api/v2/item/carrot-seeds",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/carrot-seeds.png"
+}

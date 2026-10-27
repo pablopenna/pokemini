@@ -1,0 +1,12 @@
+{
+  "id": "icium-z--bag",
+  "num": 943,
+  "name": "Icium Z",
+  "url": "https://pokeapi.co/api/v2/item/icium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for icium-z--bag",
+  "sprite": "/items/icium-z--bag.png"
+}

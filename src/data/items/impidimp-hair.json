@@ -1,0 +1,12 @@
+{
+  "id": "impidimp-hair",
+  "num": 1899,
+  "name": "Impidimp Hair",
+  "url": "https://pokeapi.co/api/v2/item/impidimp-hair",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/impidimp-hair.png"
+}

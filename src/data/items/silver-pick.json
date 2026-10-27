@@ -1,0 +1,12 @@
+{
+  "id": "silver-pick",
+  "num": 2037,
+  "name": "Silver Pick",
+  "url": "https://pokeapi.co/api/v2/item/silver-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/silver-pick.png"
+}

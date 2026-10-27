@@ -1,0 +1,12 @@
+{
+  "id": "damp-mulch",
+  "num": 96,
+  "name": "Damp Mulch",
+  "url": "https://pokeapi.co/api/v2/item/damp-mulch",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mulch",
+  "description": "Growing time of berries is increased, but the soil dries out slower.",
+  "sprite": "/items/damp-mulch.png"
+}

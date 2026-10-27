@@ -1,0 +1,12 @@
+{
+  "id": "old-letter",
+  "num": 1326,
+  "name": "Old Letter",
+  "url": "https://pokeapi.co/api/v2/item/old-letter",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/old-letter.png"
+}

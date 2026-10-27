@@ -1,0 +1,12 @@
+{
+  "id": "data-card-03",
+  "num": 488,
+  "name": "Data Card 03",
+  "url": "https://pokeapi.co/api/v2/item/data-card-03",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer’s Pokémon have dashed in the Pokéathlon.",
+  "sprite": "/items/data-card-03.png"
+}

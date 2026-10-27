@@ -1,0 +1,12 @@
+{
+  "id": "yarn-ball",
+  "num": 2034,
+  "name": "Yarn Ball",
+  "url": "https://pokeapi.co/api/v2/item/yarn-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/yarn-ball.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "legend-plate",
+  "num": 1664,
+  "name": "Legend Plate",
+  "url": "https://pokeapi.co/api/v2/item/legend-plate",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plates",
+  "description": "",
+  "sprite": "/items/legend-plate.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "koffing-candy",
+  "num": 1107,
+  "name": "Koffing Candy",
+  "url": "https://pokeapi.co/api/v2/item/koffing-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/koffing-candy.png"
+}

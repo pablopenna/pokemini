@@ -1,0 +1,12 @@
+{
+  "id": "chimechite",
+  "num": 2264,
+  "name": "Chimechite",
+  "url": "https://pokeapi.co/api/v2/item/chimechite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/chimechite.png"
+}

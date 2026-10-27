@@ -1,0 +1,12 @@
+{
+  "id": "ride-pager",
+  "num": 886,
+  "name": "Ride Pager",
+  "url": "https://pokeapi.co/api/v2/item/ride-pager",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Allows the player to summon a Ride Pokémon.",
+  "sprite": "/items/ride-pager.png"
+}

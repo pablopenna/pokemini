@@ -1,0 +1,12 @@
+{
+  "id": "grass-memory",
+  "num": 912,
+  "name": "Grass Memory",
+  "url": "https://pokeapi.co/api/v2/item/grass-memory",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "memories",
+  "description": "Held: Changes Silvally to its Grass form.  Changes Multi-Attack’s type to Grass.",
+  "sprite": "/items/grass-memory.png"
+}

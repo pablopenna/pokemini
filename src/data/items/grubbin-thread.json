@@ -1,0 +1,12 @@
+{
+  "id": "grubbin-thread",
+  "num": 2154,
+  "name": "Grubbin Thread",
+  "url": "https://pokeapi.co/api/v2/item/grubbin-thread",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/grubbin-thread.png"
+}

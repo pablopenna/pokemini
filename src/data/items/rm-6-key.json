@@ -1,0 +1,12 @@
+{
+  "id": "rm-6-key",
+  "num": 541,
+  "name": "Rm. 6 Key",
+  "url": "https://pokeapi.co/api/v2/item/rm-6-key",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Unlocks room 6 on the Abandoned Ship.",
+  "sprite": "/items/rm-6-key.png"
+}

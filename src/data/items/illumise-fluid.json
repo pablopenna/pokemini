@@ -1,0 +1,12 @@
+{
+  "id": "illumise-fluid",
+  "num": 2141,
+  "name": "Illumise Fluid",
+  "url": "https://pokeapi.co/api/v2/item/illumise-fluid",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/illumise-fluid.png"
+}

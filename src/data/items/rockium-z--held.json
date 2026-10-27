@@ -1,0 +1,12 @@
+{
+  "id": "rockium-z--held",
+  "num": 829,
+  "name": "Rockium Z",
+  "url": "https://pokeapi.co/api/v2/item/rockium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Rock moves.",
+  "sprite": "/items/rockium-z--held.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "grepa-berry",
+  "num": 150,
+  "name": "Grepa Berry",
+  "url": "https://pokeapi.co/api/v2/item/grepa-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "effort-drop",
+  "description": "Drops Special Defense Effort Values by 10 and raises happiness.",
+  "sprite": "/items/grepa-berry.png"
+}

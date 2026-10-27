@@ -1,0 +1,12 @@
+{
+  "id": "adamant-crystal",
+  "num": 1659,
+  "name": "Adamant Crystal",
+  "url": "https://pokeapi.co/api/v2/item/adamant-crystal",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/adamant-crystal.png"
+}

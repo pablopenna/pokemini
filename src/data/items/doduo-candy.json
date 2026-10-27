@@ -1,0 +1,12 @@
+{
+  "id": "doduo-candy",
+  "num": 1093,
+  "name": "Doduo Candy",
+  "url": "https://pokeapi.co/api/v2/item/doduo-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/doduo-candy.png"
+}

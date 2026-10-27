@@ -1,0 +1,18 @@
+{
+  "id": "max-elixir",
+  "num": 41,
+  "name": "Max Elixir",
+  "url": "https://pokeapi.co/api/v2/item/max-elixir",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "pp-recovery",
+  "description": "Restores PP to full for each move.",
+  "sprite": "/items/max-elixir.png"
+}

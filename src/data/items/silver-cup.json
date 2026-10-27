@@ -1,0 +1,12 @@
+{
+  "id": "silver-cup",
+  "num": 2063,
+  "name": "Silver Cup",
+  "url": "https://pokeapi.co/api/v2/item/silver-cup",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/silver-cup.png"
+}

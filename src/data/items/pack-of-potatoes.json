@@ -1,0 +1,12 @@
+{
+  "id": "pack-of-potatoes",
+  "num": 1155,
+  "name": "Pack of Potatoes",
+  "url": "https://pokeapi.co/api/v2/item/pack-of-potatoes",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/pack-of-potatoes.png"
+}

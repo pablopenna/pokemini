@@ -1,0 +1,12 @@
+{
+  "id": "pink-nectar",
+  "num": 891,
+  "name": "Pink Nectar",
+  "url": "https://pokeapi.co/api/v2/item/pink-nectar",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-specific",
+  "description": "Changes Oricorio to Pa’u Style.",
+  "sprite": "/items/pink-nectar.png"
+}

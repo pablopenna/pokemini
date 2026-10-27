@@ -1,0 +1,12 @@
+{
+  "id": "galarica-cuff",
+  "num": 1633,
+  "name": "Galarica Cuff",
+  "url": "https://pokeapi.co/api/v2/item/galarica-cuff",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "collectibles",
+  "description": "",
+  "sprite": "/items/galarica-cuff.png"
+}

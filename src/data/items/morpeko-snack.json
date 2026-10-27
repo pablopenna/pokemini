@@ -1,0 +1,12 @@
+{
+  "id": "morpeko-snack",
+  "num": 2158,
+  "name": "Morpeko Snack",
+  "url": "https://pokeapi.co/api/v2/item/morpeko-snack",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/morpeko-snack.png"
+}

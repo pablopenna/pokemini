@@ -1,0 +1,12 @@
+{
+  "id": "holo-caster--green",
+  "num": 928,
+  "name": "Holo Caster",
+  "url": "https://pokeapi.co/api/v2/item/holo-caster--green",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for holo-caster--green",
+  "sprite": "/items/holo-caster--green.png"
+}

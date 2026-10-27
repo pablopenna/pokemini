@@ -1,0 +1,17 @@
+{
+  "id": "dive-ball",
+  "num": 7,
+  "name": "Dive Ball",
+  "url": "https://pokeapi.co/api/v2/item/dive-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "special-balls",
+  "description": "Tries to catch a wild Pokémon. Success rate is 3.5× when underwater, fishing, or surfing.",
+  "sprite": "/items/dive-ball.png"
+}

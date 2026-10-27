@@ -1,0 +1,12 @@
+{
+  "id": "larvesta-fuzz",
+  "num": 1858,
+  "name": "Larvesta Fuzz",
+  "url": "https://pokeapi.co/api/v2/item/larvesta-fuzz",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/larvesta-fuzz.png"
+}

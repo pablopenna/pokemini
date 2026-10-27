@@ -1,0 +1,12 @@
+{
+  "id": "spice-mix",
+  "num": 1316,
+  "name": "Spice Mix",
+  "url": "https://pokeapi.co/api/v2/item/spice-mix",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/spice-mix.png"
+}

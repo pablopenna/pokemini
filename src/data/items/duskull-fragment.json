@@ -1,0 +1,12 @@
+{
+  "id": "duskull-fragment",
+  "num": 2144,
+  "name": "Duskull Fragment",
+  "url": "https://pokeapi.co/api/v2/item/duskull-fragment",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/duskull-fragment.png"
+}

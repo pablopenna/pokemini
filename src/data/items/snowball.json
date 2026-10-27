@@ -1,0 +1,12 @@
+{
+  "id": "snowball",
+  "num": 689,
+  "name": "Snowball",
+  "url": "https://pokeapi.co/api/v2/item/snowball",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "Held: If the holder is hit by a damaging Ice move, raises its Attack by one stage.",
+  "sprite": "/items/snowball.png"
+}

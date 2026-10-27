@@ -1,0 +1,17 @@
+{
+  "id": "safari-ball",
+  "num": 5,
+  "name": "Safari Ball",
+  "url": "https://pokeapi.co/api/v2/item/safari-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "standard-balls",
+  "description": "Tries to catch a wild Pokémon in the Great Marsh or Safari Zone.  Success rate is 1.5×.",
+  "sprite": "/items/safari-ball.png"
+}

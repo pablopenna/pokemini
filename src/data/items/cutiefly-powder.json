@@ -1,0 +1,12 @@
+{
+  "id": "cutiefly-powder",
+  "num": 2155,
+  "name": "Cutiefly Powder",
+  "url": "https://pokeapi.co/api/v2/item/cutiefly-powder",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/cutiefly-powder.png"
+}

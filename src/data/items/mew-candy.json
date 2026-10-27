@@ -1,0 +1,12 @@
+{
+  "id": "mew-candy",
+  "num": 1135,
+  "name": "Mew Candy",
+  "url": "https://pokeapi.co/api/v2/item/mew-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/mew-candy.png"
+}

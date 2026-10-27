@@ -1,0 +1,12 @@
+{
+  "id": "gyaradosite",
+  "num": 715,
+  "name": "Gyaradosite",
+  "url": "https://pokeapi.co/api/v2/item/gyaradosite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Gyarados to Mega Evolve into Mega Gyarados.",
+  "sprite": "/items/gyaradosite.png"
+}

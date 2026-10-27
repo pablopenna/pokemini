@@ -1,0 +1,12 @@
+{
+  "id": "beach-glass",
+  "num": 1028,
+  "name": "Beach Glass",
+  "url": "https://pokeapi.co/api/v2/item/beach-glass",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/beach-glass.png"
+}

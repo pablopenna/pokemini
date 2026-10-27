@@ -1,0 +1,18 @@
+{
+  "id": "potion",
+  "num": 17,
+  "name": "Potion",
+  "url": "https://pokeapi.co/api/v2/item/potion",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "healing",
+  "description": "Restores 20 HP.",
+  "sprite": "/items/potion.png"
+}

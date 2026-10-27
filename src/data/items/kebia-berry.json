@@ -1,0 +1,14 @@
+{
+  "id": "kebia-berry",
+  "num": 167,
+  "name": "Kebia Berry",
+  "url": "https://pokeapi.co/api/v2/item/kebia-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "type-protection",
+  "description": "Held: Consumed when struck by a super-effective Poison-type attack to halve the damage.",
+  "sprite": "/items/kebia-berry.png"
+}

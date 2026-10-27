@@ -1,0 +1,12 @@
+{
+  "id": "tm75",
+  "num": 379,
+  "name": "TM75",
+  "url": "https://pokeapi.co/api/v2/item/tm75",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Swords Dance to a compatible Pokémon.",
+  "sprite": "/items/tm75.png"
+}

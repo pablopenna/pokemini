@@ -1,0 +1,12 @@
+{
+  "id": "medal-box",
+  "num": 670,
+  "name": "Medal Box",
+  "url": "https://pokeapi.co/api/v2/item/medal-box",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Holds medals recieved in the medal rally.",
+  "sprite": "/items/medal-box.png"
+}

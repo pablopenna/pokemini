@@ -1,0 +1,12 @@
+{
+  "id": "decidium-z--held",
+  "num": 839,
+  "name": "Decidium Z",
+  "url": "https://pokeapi.co/api/v2/item/decidium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows Decidueye to upgrade Spirit Shackle into Sinister Arrow Raid.",
+  "sprite": "/items/decidium-z--held.png"
+}

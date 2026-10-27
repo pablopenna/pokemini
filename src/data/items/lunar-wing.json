@@ -1,0 +1,12 @@
+{
+  "id": "lunar-wing",
+  "num": 430,
+  "name": "Lunar Wing",
+  "url": "https://pokeapi.co/api/v2/item/lunar-wing",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "Cures sailor’s son of nightmares in Canalave City.",
+  "sprite": "/items/lunar-wing.png"
+}

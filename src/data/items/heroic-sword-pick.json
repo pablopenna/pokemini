@@ -1,0 +1,12 @@
+{
+  "id": "heroic-sword-pick",
+  "num": 2087,
+  "name": "Heroic Sword Pick",
+  "url": "https://pokeapi.co/api/v2/item/heroic-sword-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/heroic-sword-pick.png"
+}

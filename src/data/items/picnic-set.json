@@ -1,0 +1,12 @@
+{
+  "id": "picnic-set",
+  "num": 2015,
+  "name": "Picnic Set",
+  "url": "https://pokeapi.co/api/v2/item/picnic-set",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/picnic-set.png"
+}

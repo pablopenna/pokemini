@@ -1,0 +1,12 @@
+{
+  "id": "red-chain",
+  "num": 418,
+  "name": "Red Chain",
+  "url": "https://pokeapi.co/api/v2/item/red-chain",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Used to bind Palkia and Dialga.",
+  "sprite": "/items/red-chain.png"
+}

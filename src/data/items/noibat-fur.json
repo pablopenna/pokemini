@@ -1,0 +1,12 @@
+{
+  "id": "noibat-fur",
+  "num": 1871,
+  "name": "Noibat Fur",
+  "url": "https://pokeapi.co/api/v2/item/noibat-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/noibat-fur.png"
+}

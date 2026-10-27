@@ -1,0 +1,12 @@
+{
+  "id": "cover-fossil",
+  "num": 613,
+  "name": "Cover Fossil",
+  "url": "https://pokeapi.co/api/v2/item/cover-fossil",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "dex-completion",
+  "description": "Can be revived into a Tirtouga.",
+  "sprite": "/items/cover-fossil.png"
+}

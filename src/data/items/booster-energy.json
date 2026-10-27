@@ -1,0 +1,12 @@
+{
+  "id": "booster-energy",
+  "num": 1696,
+  "name": "Booster Energy",
+  "url": "https://pokeapi.co/api/v2/item/booster-energy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/booster-energy.png"
+}

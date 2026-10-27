@@ -1,0 +1,12 @@
+{
+  "id": "scyther-claw",
+  "num": 1775,
+  "name": "Scyther Claw",
+  "url": "https://pokeapi.co/api/v2/item/scyther-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/scyther-claw.png"
+}

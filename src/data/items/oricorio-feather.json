@@ -1,0 +1,12 @@
+{
+  "id": "oricorio-feather",
+  "num": 1874,
+  "name": "Oricorio Feather",
+  "url": "https://pokeapi.co/api/v2/item/oricorio-feather",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/oricorio-feather.png"
+}

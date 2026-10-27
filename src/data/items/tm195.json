@@ -1,0 +1,12 @@
+{
+  "id": "tm195",
+  "num": 2184,
+  "name": "TM195",
+  "url": "https://pokeapi.co/api/v2/item/tm195",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tm195.png"
+}

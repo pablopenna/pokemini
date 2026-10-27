@@ -1,0 +1,12 @@
+{
+  "id": "red-nectar",
+  "num": 889,
+  "name": "Red Nectar",
+  "url": "https://pokeapi.co/api/v2/item/red-nectar",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-specific",
+  "description": "Changes Oricorio to Baile Style.",
+  "sprite": "/items/red-nectar.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "arrokuda-scales",
+  "num": 1889,
+  "name": "Arrokuda Scales",
+  "url": "https://pokeapi.co/api/v2/item/arrokuda-scales",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/arrokuda-scales.png"
+}

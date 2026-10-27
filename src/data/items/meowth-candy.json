@@ -1,0 +1,12 @@
+{
+  "id": "meowth-candy",
+  "num": 1079,
+  "name": "Meowth Candy",
+  "url": "https://pokeapi.co/api/v2/item/meowth-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/meowth-candy.png"
+}

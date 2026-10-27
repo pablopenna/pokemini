@@ -1,0 +1,12 @@
+{
+  "id": "heracross-claw",
+  "num": 1792,
+  "name": "Heracross Claw",
+  "url": "https://pokeapi.co/api/v2/item/heracross-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/heracross-claw.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sandile-claw",
+  "num": 1845,
+  "name": "Sandile Claw",
+  "url": "https://pokeapi.co/api/v2/item/sandile-claw",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/sandile-claw.png"
+}

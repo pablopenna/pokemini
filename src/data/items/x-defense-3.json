@@ -1,0 +1,12 @@
+{
+  "id": "x-defense-3",
+  "num": 643,
+  "name": "X Defense 3",
+  "url": "https://pokeapi.co/api/v2/item/x-defense-3",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "miracle-shooter",
+  "description": "Raises Defense by three stages in battle.  Wonder Launcher only.",
+  "sprite": "/items/x-defense-3.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "black-apricorn",
+  "num": 464,
+  "name": "Black Apricorn",
+  "url": "https://pokeapi.co/api/v2/item/black-apricorn",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "apricorn-box",
+  "description": "Used to make a Heavy Ball.",
+  "sprite": "/items/black-apricorn.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sablenite",
+  "num": 795,
+  "name": "Sablenite",
+  "url": "https://pokeapi.co/api/v2/item/sablenite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Sableye to Mega Evolve into Mega Sableye.",
+  "sprite": "/items/sablenite.png"
+}

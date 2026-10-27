@@ -1,0 +1,12 @@
+{
+  "id": "pokeblock-case",
+  "num": 532,
+  "name": "Pokéblock Case",
+  "url": "https://pokeapi.co/api/v2/item/pokeblock-case",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Holds Pokéblocks.",
+  "sprite": "/items/pokeblock-case.png"
+}

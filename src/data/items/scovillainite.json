@@ -1,0 +1,12 @@
+{
+  "id": "scovillainite",
+  "num": 2274,
+  "name": "Scovillainite",
+  "url": "https://pokeapi.co/api/v2/item/scovillainite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/scovillainite.png"
+}

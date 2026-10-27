@@ -1,0 +1,12 @@
+{
+  "id": "pinsir-candy",
+  "num": 1119,
+  "name": "Pinsir Candy",
+  "url": "https://pokeapi.co/api/v2/item/pinsir-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/pinsir-candy.png"
+}

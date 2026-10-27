@@ -1,0 +1,12 @@
+{
+  "id": "mimikium-z--bag",
+  "num": 976,
+  "name": "Mimikium Z",
+  "url": "https://pokeapi.co/api/v2/item/mimikium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for mimikium-z--bag",
+  "sprite": "/items/mimikium-z--bag.png"
+}

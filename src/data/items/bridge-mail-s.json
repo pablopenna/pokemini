@@ -1,0 +1,12 @@
+{
+  "id": "bridge-mail-s",
+  "num": 575,
+  "name": "Bridge Mail S",
+  "url": "https://pokeapi.co/api/v2/item/bridge-mail-s",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/bridge-mail-s.png"
+}

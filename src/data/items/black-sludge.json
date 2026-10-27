@@ -1,0 +1,15 @@
+{
+  "id": "black-sludge",
+  "num": 258,
+  "name": "Black Sludge",
+  "url": "https://pokeapi.co/api/v2/item/black-sludge",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Poison-type holder recovers 1/16 (6.25%) max HP each turn. Non-Poison-Types take 1/8 (12.5%) max HP damage.",
+  "sprite": "/items/black-sludge.png"
+}

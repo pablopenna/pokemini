@@ -1,0 +1,12 @@
+{
+  "id": "ekans-fang",
+  "num": 2119,
+  "name": "Ekans Fang",
+  "url": "https://pokeapi.co/api/v2/item/ekans-fang",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/ekans-fang.png"
+}

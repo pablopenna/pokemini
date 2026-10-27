@@ -1,0 +1,12 @@
+{
+  "id": "tamato-berry",
+  "num": 151,
+  "name": "Tamato Berry",
+  "url": "https://pokeapi.co/api/v2/item/tamato-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "effort-drop",
+  "description": "Drops Speed Effort Values by 10 and raises happiness.",
+  "sprite": "/items/tamato-berry.png"
+}

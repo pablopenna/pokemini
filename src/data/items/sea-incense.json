@@ -1,0 +1,15 @@
+{
+  "id": "sea-incense",
+  "num": 231,
+  "name": "Sea Incense",
+  "url": "https://pokeapi.co/api/v2/item/sea-incense",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Water-Type moves from holder do 20% more damage. Breeding: Marill or Azumarill beget an Azurill Egg.",
+  "sprite": "/items/sea-incense.png"
+}

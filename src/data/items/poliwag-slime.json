@@ -1,0 +1,12 @@
+{
+  "id": "poliwag-slime",
+  "num": 2123,
+  "name": "Poliwag Slime",
+  "url": "https://pokeapi.co/api/v2/item/poliwag-slime",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/poliwag-slime.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tm85",
+  "num": 389,
+  "name": "TM85",
+  "url": "https://pokeapi.co/api/v2/item/tm85",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Dream Eater to a compatible Pokémon.",
+  "sprite": "/items/tm85.png"
+}

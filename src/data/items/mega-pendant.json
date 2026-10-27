@@ -1,0 +1,12 @@
+{
+  "id": "mega-pendant",
+  "num": 786,
+  "name": "Mega Pendant",
+  "url": "https://pokeapi.co/api/v2/item/mega-pendant",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Unused NPC Key Stone.",
+  "sprite": "/items/mega-pendant.png"
+}

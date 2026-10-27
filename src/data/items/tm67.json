@@ -1,0 +1,12 @@
+{
+  "id": "tm67",
+  "num": 371,
+  "name": "TM67",
+  "url": "https://pokeapi.co/api/v2/item/tm67",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Retaliate to a compatible Pokémon. (Gen IV: Recycle)",
+  "sprite": "/items/tm67.png"
+}

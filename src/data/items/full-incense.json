@@ -1,0 +1,15 @@
+{
+  "id": "full-incense",
+  "num": 293,
+  "name": "Full Incense",
+  "url": "https://pokeapi.co/api/v2/item/full-incense",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "bad-held-items",
+  "description": "Held: Holder moves last in its priority bracket. Breeding: Snorlax begets a Munchlax Egg.",
+  "sprite": "/items/full-incense.png"
+}

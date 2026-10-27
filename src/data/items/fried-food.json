@@ -1,0 +1,12 @@
+{
+  "id": "fried-food",
+  "num": 1158,
+  "name": "Fried Food",
+  "url": "https://pokeapi.co/api/v2/item/fried-food",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/fried-food.png"
+}

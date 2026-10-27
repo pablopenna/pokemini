@@ -1,0 +1,14 @@
+{
+  "id": "yache-berry",
+  "num": 165,
+  "name": "Yache Berry",
+  "url": "https://pokeapi.co/api/v2/item/yache-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "type-protection",
+  "description": "Held: Consumed when struck by a super-effective Ice-type attack to halve the damage.",
+  "sprite": "/items/yache-berry.png"
+}

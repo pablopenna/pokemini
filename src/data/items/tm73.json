@@ -1,0 +1,12 @@
+{
+  "id": "tm73",
+  "num": 377,
+  "name": "TM73",
+  "url": "https://pokeapi.co/api/v2/item/tm73",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Thunder Wave to a compatible Pokémon.",
+  "sprite": "/items/tm73.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dynite-ore",
+  "num": 1655,
+  "name": "Dynite Ore",
+  "url": "https://pokeapi.co/api/v2/item/dynite-ore",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "collectibles",
+  "description": "",
+  "sprite": "/items/dynite-ore.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "makeup-bag",
+  "num": 763,
+  "name": "Makeup Bag",
+  "url": "https://pokeapi.co/api/v2/item/makeup-bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Allows the player to change their lipstick color.",
+  "sprite": "/items/makeup-bag.png"
+}

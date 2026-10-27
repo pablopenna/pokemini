@@ -1,0 +1,12 @@
+{
+  "id": "tm55",
+  "num": 359,
+  "name": "TM55",
+  "url": "https://pokeapi.co/api/v2/item/tm55",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Scald to a compatible Pokémon. (Gen IV: Brine)",
+  "sprite": "/items/tm55.png"
+}

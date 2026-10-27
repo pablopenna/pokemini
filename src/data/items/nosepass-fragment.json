@@ -1,0 +1,12 @@
+{
+  "id": "nosepass-fragment",
+  "num": 2139,
+  "name": "Nosepass Fragment",
+  "url": "https://pokeapi.co/api/v2/item/nosepass-fragment",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/nosepass-fragment.png"
+}

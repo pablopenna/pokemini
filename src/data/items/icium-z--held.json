@@ -1,0 +1,12 @@
+{
+  "id": "icium-z--held",
+  "num": 822,
+  "name": "Icium Z",
+  "url": "https://pokeapi.co/api/v2/item/icium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows a Pokémon to use the Z-move equivalents of its Ice moves.",
+  "sprite": "/items/icium-z--held.png"
+}

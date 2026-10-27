@@ -1,0 +1,14 @@
+{
+  "id": "petaya-berry",
+  "num": 181,
+  "name": "Petaya Berry",
+  "url": "https://pokeapi.co/api/v2/item/petaya-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "in-a-pinch",
+  "description": "Held: Consumed at 1/4 max HP to boost Special Attack.",
+  "sprite": "/items/petaya-berry.png"
+}

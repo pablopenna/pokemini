@@ -1,0 +1,17 @@
+{
+  "id": "x-speed",
+  "num": 59,
+  "name": "X Speed",
+  "url": "https://pokeapi.co/api/v2/item/x-speed",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "stat-boosts",
+  "description": "Raises Speed by one stage in battle.  Raises happiness.",
+  "sprite": "/items/x-speed.png"
+}

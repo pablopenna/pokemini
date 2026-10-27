@@ -1,0 +1,15 @@
+{
+  "id": "bright-powder",
+  "num": 190,
+  "name": "Bright Powder",
+  "url": "https://pokeapi.co/api/v2/item/bright-powder",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Increases the holder’s evasion by 1/9 (11 1/9%).",
+  "sprite": "/items/bright-powder.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pikashunium-z--bag",
+  "num": 966,
+  "name": "Pikashunium Z",
+  "url": "https://pokeapi.co/api/v2/item/pikashunium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for pikashunium-z--bag",
+  "sprite": "/items/pikashunium-z--bag.png"
+}

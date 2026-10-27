@@ -1,0 +1,12 @@
+{
+  "id": "key-to-room-6",
+  "num": 776,
+  "name": "Key to Room 6",
+  "url": "https://pokeapi.co/api/v2/item/key-to-room-6",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Unlocks the door to Room 6 in Sea Mauville.",
+  "sprite": "/items/key-to-room-6.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mega-tiara",
+  "num": 790,
+  "name": "Mega Tiara",
+  "url": "https://pokeapi.co/api/v2/item/mega-tiara",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "Unused NPC Key Stone.",
+  "sprite": "/items/mega-tiara.png"
+}

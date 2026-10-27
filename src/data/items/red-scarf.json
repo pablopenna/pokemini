@@ -1,0 +1,14 @@
+{
+  "id": "red-scarf",
+  "num": 237,
+  "name": "Red Scarf",
+  "url": "https://pokeapi.co/api/v2/item/red-scarf",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "scarves",
+  "description": "Raises the holder’s Coolness while in a contest.",
+  "sprite": "/items/red-scarf.png"
+}

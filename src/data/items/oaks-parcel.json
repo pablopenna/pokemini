@@ -1,0 +1,12 @@
+{
+  "id": "oaks-parcel",
+  "num": 543,
+  "name": "Oak’s Parcel",
+  "url": "https://pokeapi.co/api/v2/item/oaks-parcel",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Trade to Prof. Oak for a Pokédex.",
+  "sprite": "/items/oaks-parcel.png"
+}

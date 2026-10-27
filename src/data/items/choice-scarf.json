@@ -1,0 +1,15 @@
+{
+  "id": "choice-scarf",
+  "num": 264,
+  "name": "Choice Scarf",
+  "url": "https://pokeapi.co/api/v2/item/choice-scarf",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "choice",
+  "description": "Held: Increases Speed by 50%, but restricts the holder to only one move.",
+  "sprite": "/items/choice-scarf.png"
+}

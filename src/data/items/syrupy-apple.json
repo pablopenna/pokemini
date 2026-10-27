@@ -1,0 +1,12 @@
+{
+  "id": "syrupy-apple",
+  "num": 2109,
+  "name": "Syrupy Apple",
+  "url": "https://pokeapi.co/api/v2/item/syrupy-apple",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/syrupy-apple.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tm36",
+  "num": 340,
+  "name": "TM36",
+  "url": "https://pokeapi.co/api/v2/item/tm36",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Sludge Bomb to a compatible Pokémon. (Gen I: Selfdestruct)",
+  "sprite": "/items/tm36.png"
+}

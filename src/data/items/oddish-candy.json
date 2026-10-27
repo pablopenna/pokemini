@@ -1,0 +1,12 @@
+{
+  "id": "oddish-candy",
+  "num": 1075,
+  "name": "Oddish Candy",
+  "url": "https://pokeapi.co/api/v2/item/oddish-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/oddish-candy.png"
+}

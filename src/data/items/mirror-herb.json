@@ -1,0 +1,12 @@
+{
+  "id": "mirror-herb",
+  "num": 1699,
+  "name": "Mirror Herb",
+  "url": "https://pokeapi.co/api/v2/item/mirror-herb",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/mirror-herb.png"
+}

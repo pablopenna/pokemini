@@ -1,0 +1,12 @@
+{
+  "id": "scroll-of-darkness",
+  "num": 1675,
+  "name": "Scroll of Darkness",
+  "url": "https://pokeapi.co/api/v2/item/scroll-of-darkness",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "",
+  "sprite": "/items/scroll-of-darkness.png"
+}

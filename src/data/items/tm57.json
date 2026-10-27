@@ -1,0 +1,12 @@
+{
+  "id": "tm57",
+  "num": 361,
+  "name": "TM57",
+  "url": "https://pokeapi.co/api/v2/item/tm57",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Charge Beam to a compatible Pokémon.",
+  "sprite": "/items/tm57.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "blue-dish",
+  "num": 2094,
+  "name": "Blue Dish",
+  "url": "https://pokeapi.co/api/v2/item/blue-dish",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/blue-dish.png"
+}

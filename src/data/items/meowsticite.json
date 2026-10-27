@@ -1,0 +1,12 @@
+{
+  "id": "meowsticite",
+  "num": 2270,
+  "name": "Meowsticite",
+  "url": "https://pokeapi.co/api/v2/item/meowsticite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/meowsticite.png"
+}

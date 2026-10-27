@@ -1,0 +1,12 @@
+{
+  "id": "tm22",
+  "num": 326,
+  "name": "TM22",
+  "url": "https://pokeapi.co/api/v2/item/tm22",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches SolarBeam to a compatible Pokémon.",
+  "sprite": "/items/tm22.png"
+}

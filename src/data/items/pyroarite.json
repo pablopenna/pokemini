@@ -1,0 +1,12 @@
+{
+  "id": "pyroarite",
+  "num": 2252,
+  "name": "Pyroarite",
+  "url": "https://pokeapi.co/api/v2/item/pyroarite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/pyroarite.png"
+}

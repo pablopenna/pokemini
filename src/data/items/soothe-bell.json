@@ -1,0 +1,15 @@
+{
+  "id": "soothe-bell",
+  "num": 195,
+  "name": "Soothe Bell",
+  "url": "https://pokeapi.co/api/v2/item/soothe-bell",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "training",
+  "description": "Held: Doubles the happiness earned by the holder.",
+  "sprite": "/items/soothe-bell.png"
+}

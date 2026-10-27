@@ -1,0 +1,12 @@
+{
+  "id": "inquiry-mail",
+  "num": 572,
+  "name": "Inquiry Mail",
+  "url": "https://pokeapi.co/api/v2/item/inquiry-mail",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-mail",
+  "description": "Lets a Trainer write a message and send it via Pokémon trade.",
+  "sprite": "/items/inquiry-mail.png"
+}

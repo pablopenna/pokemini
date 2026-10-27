@@ -1,0 +1,12 @@
+{
+  "id": "abra-candy",
+  "num": 1084,
+  "name": "Abra Candy",
+  "url": "https://pokeapi.co/api/v2/item/abra-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/abra-candy.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lagigaton-ball",
+  "num": 2225,
+  "name": "Gigaton Ball",
+  "url": "https://pokeapi.co/api/v2/item/lagigaton-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "standard-balls",
+  "description": "",
+  "sprite": "/items/lagigaton-ball.png"
+}

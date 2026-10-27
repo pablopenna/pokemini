@@ -1,0 +1,12 @@
+{
+  "id": "clear-amulet",
+  "num": 1698,
+  "name": "Clear Amulet",
+  "url": "https://pokeapi.co/api/v2/item/clear-amulet",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/clear-amulet.png"
+}

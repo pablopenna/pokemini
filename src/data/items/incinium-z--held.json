@@ -1,0 +1,12 @@
+{
+  "id": "incinium-z--held",
+  "num": 840,
+  "name": "Incinium Z",
+  "url": "https://pokeapi.co/api/v2/item/incinium-z--held",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "z-crystals",
+  "description": "Held: Allows Incineroar to upgrade Darkest Lariat into Malicious Moonsault.",
+  "sprite": "/items/incinium-z--held.png"
+}

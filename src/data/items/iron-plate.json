@@ -1,0 +1,16 @@
+{
+  "id": "iron-plate",
+  "num": 290,
+  "name": "Iron Plate",
+  "url": "https://pokeapi.co/api/v2/item/iron-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Steel-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Steel.",
+  "sprite": "/items/iron-plate.png"
+}

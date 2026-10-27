@@ -1,0 +1,12 @@
+{
+  "id": "oaks-letter",
+  "num": 429,
+  "name": "Oak’s Letter",
+  "url": "https://pokeapi.co/api/v2/item/oaks-letter",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "Allows access to Seabreak path, Flower Paradise, and Shaymin.",
+  "sprite": "/items/oaks-letter.png"
+}

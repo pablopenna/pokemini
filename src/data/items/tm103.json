@@ -1,0 +1,12 @@
+{
+  "id": "tm103",
+  "num": 1946,
+  "name": "TM103",
+  "url": "https://pokeapi.co/api/v2/item/tm103",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tm103.png"
+}

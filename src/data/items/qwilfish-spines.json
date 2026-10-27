@@ -1,0 +1,12 @@
+{
+  "id": "qwilfish-spines",
+  "num": 1791,
+  "name": "Qwilfish Spines",
+  "url": "https://pokeapi.co/api/v2/item/qwilfish-spines",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/qwilfish-spines.png"
+}

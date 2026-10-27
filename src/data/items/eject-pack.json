@@ -1,0 +1,12 @@
+{
+  "id": "eject-pack",
+  "num": 1177,
+  "name": "Eject Pack",
+  "url": "https://pokeapi.co/api/v2/item/eject-pack",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "held-items",
+  "description": "",
+  "sprite": "/items/eject-pack.png"
+}

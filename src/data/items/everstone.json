@@ -1,0 +1,16 @@
+{
+  "id": "everstone",
+  "num": 206,
+  "name": "Everstone",
+  "url": "https://pokeapi.co/api/v2/item/everstone",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "training",
+  "description": "Held: Prevents level-based evolution from occuring.",
+  "sprite": "/items/everstone.png"
+}

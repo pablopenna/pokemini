@@ -1,0 +1,12 @@
+{
+  "id": "leaf-letter--eevee",
+  "num": 1034,
+  "name": "Leaf Letter",
+  "url": "https://pokeapi.co/api/v2/item/leaf-letter--eevee",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "",
+  "sprite": "/items/leaf-letter--eevee.png"
+}

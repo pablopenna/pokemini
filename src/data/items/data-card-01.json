@@ -1,0 +1,12 @@
+{
+  "id": "data-card-01",
+  "num": 486,
+  "name": "Data Card 01",
+  "url": "https://pokeapi.co/api/v2/item/data-card-01",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer has come in first place overall in the Pokéathlon.",
+  "sprite": "/items/data-card-01.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sitrus-berry",
+  "num": 135,
+  "name": "Sitrus Berry",
+  "url": "https://pokeapi.co/api/v2/item/sitrus-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "medicine",
+  "description": "Held: Consumed at 1/2 max HP to recover 1/4 max HP.",
+  "sprite": "/items/sitrus-berry.png"
+}

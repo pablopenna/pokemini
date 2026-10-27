@@ -1,0 +1,12 @@
+{
+  "id": "ss-ticket--letsgo",
+  "num": 1021,
+  "name": "S.S. Ticket",
+  "url": "https://pokeapi.co/api/v2/item/ss-ticket--letsgo",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "",
+  "sprite": "/items/ss-ticket--letsgo.png"
+}

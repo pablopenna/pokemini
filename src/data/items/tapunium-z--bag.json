@@ -1,0 +1,12 @@
+{
+  "id": "tapunium-z--bag",
+  "num": 960,
+  "name": "Tapunium Z",
+  "url": "https://pokeapi.co/api/v2/item/tapunium-z--bag",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for tapunium-z--bag",
+  "sprite": "/items/tapunium-z--bag.png"
+}

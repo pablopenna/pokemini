@@ -1,0 +1,12 @@
+{
+  "id": "tomato",
+  "num": 1725,
+  "name": "Tomato",
+  "url": "https://pokeapi.co/api/v2/item/tomato",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/tomato.png"
+}

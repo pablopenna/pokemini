@@ -1,0 +1,12 @@
+{
+  "id": "sunrise-flower-pick",
+  "num": 2093,
+  "name": "Sunrise Flower Pick",
+  "url": "https://pokeapi.co/api/v2/item/sunrise-flower-pick",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/sunrise-flower-pick.png"
+}

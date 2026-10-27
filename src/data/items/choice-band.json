@@ -1,0 +1,15 @@
+{
+  "id": "choice-band",
+  "num": 197,
+  "name": "Choice Band",
+  "url": "https://pokeapi.co/api/v2/item/choice-band",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "choice",
+  "description": "Held: Increases Attack by 50%, but restricts the holder to only one move.",
+  "sprite": "/items/choice-band.png"
+}

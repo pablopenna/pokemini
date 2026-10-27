@@ -1,0 +1,12 @@
+{
+  "id": "discount-coupon",
+  "num": 726,
+  "name": "Discount Coupon",
+  "url": "https://pokeapi.co/api/v2/item/discount-coupon",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Can be used at a boutique for a 50% discount.  Consumed once used.",
+  "sprite": "/items/discount-coupon.png"
+}

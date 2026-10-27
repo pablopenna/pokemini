@@ -1,0 +1,12 @@
+{
+  "id": "hm04",
+  "num": 400,
+  "name": "HM04",
+  "url": "https://pokeapi.co/api/v2/item/hm04",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Strength to a compatible Pokémon.",
+  "sprite": "/items/hm04.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "plume-fossil",
+  "num": 614,
+  "name": "Plume Fossil",
+  "url": "https://pokeapi.co/api/v2/item/plume-fossil",
+  "flingPower": 100,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "dex-completion",
+  "description": "Can be revived into an Archen.",
+  "sprite": "/items/plume-fossil.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "liechi-berry",
+  "num": 178,
+  "name": "Liechi Berry",
+  "url": "https://pokeapi.co/api/v2/item/liechi-berry",
+  "flingPower": 10,
+  "flingEffect": "berry-effect",
+  "attributes": [
+    "holdable-active"
+  ],
+  "category": "in-a-pinch",
+  "description": "Held: Consumed at 1/4 max HP to boost Attack.",
+  "sprite": "/items/liechi-berry.png"
+}

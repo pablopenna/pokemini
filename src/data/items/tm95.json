@@ -1,0 +1,12 @@
+{
+  "id": "tm95",
+  "num": 661,
+  "name": "TM95",
+  "url": "https://pokeapi.co/api/v2/item/tm95",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Snarl to a compatible Pokémon.",
+  "sprite": "/items/tm95.png"
+}

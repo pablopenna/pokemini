@@ -1,0 +1,12 @@
+{
+  "id": "snover-berries",
+  "num": 1841,
+  "name": "Snover Berries",
+  "url": "https://pokeapi.co/api/v2/item/snover-berries",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/snover-berries.png"
+}

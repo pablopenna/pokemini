@@ -1,0 +1,12 @@
+{
+  "id": "basement-key",
+  "num": 476,
+  "name": "Basement Key",
+  "url": "https://pokeapi.co/api/v2/item/basement-key",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "HS: Key to the tunnel under Goldenrod City. Gen III: Key to New Mauville.",
+  "sprite": "/items/basement-key.png"
+}

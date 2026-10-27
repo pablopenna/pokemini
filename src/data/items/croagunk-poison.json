@@ -1,0 +1,12 @@
+{
+  "id": "croagunk-poison",
+  "num": 1839,
+  "name": "Croagunk Poison",
+  "url": "https://pokeapi.co/api/v2/item/croagunk-poison",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/croagunk-poison.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "shellos-mucus",
+  "num": 1829,
+  "name": "Shellos Mucus",
+  "url": "https://pokeapi.co/api/v2/item/shellos-mucus",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/shellos-mucus.png"
+}

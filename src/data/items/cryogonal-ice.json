@@ -1,0 +1,12 @@
+{
+  "id": "cryogonal-ice",
+  "num": 1854,
+  "name": "Cryogonal Ice",
+  "url": "https://pokeapi.co/api/v2/item/cryogonal-ice",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/cryogonal-ice.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "leaf-stone",
+  "num": 85,
+  "name": "Leaf Stone",
+  "url": "https://pokeapi.co/api/v2/item/leaf-stone",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "evolution",
+  "description": "Evolves an Exeggcute into Exeggutor, a Gloom into Vileplume, a Nuzleaf into Shiftry, a Pansage into Simisage, or a Weepinbell into Victreebel.",
+  "sprite": "/items/leaf-stone.png"
+}

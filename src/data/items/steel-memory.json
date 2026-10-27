@@ -1,0 +1,12 @@
+{
+  "id": "steel-memory",
+  "num": 909,
+  "name": "Steel Memory",
+  "url": "https://pokeapi.co/api/v2/item/steel-memory",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "memories",
+  "description": "Held: Changes Silvally to its Steel form.  Changes Multi-Attack’s type to Steel.",
+  "sprite": "/items/steel-memory.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tyranitarite",
+  "num": 708,
+  "name": "Tyranitarite",
+  "url": "https://pokeapi.co/api/v2/item/tyranitarite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Tyranitar to Mega Evolve into Mega Tyranitar.",
+  "sprite": "/items/tyranitarite.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dreepy-powder",
+  "num": 1905,
+  "name": "Dreepy Powder",
+  "url": "https://pokeapi.co/api/v2/item/dreepy-powder",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/dreepy-powder.png"
+}

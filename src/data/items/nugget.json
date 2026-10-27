@@ -1,0 +1,12 @@
+{
+  "id": "nugget",
+  "num": 92,
+  "name": "Nugget",
+  "url": "https://pokeapi.co/api/v2/item/nugget",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "loot",
+  "description": "Sell for 5000 Pokédollars, or to Ore Collector for 10000 Pokédollars.",
+  "sprite": "/items/nugget.png"
+}

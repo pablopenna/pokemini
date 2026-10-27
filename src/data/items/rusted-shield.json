@@ -1,0 +1,12 @@
+{
+  "id": "rusted-shield",
+  "num": 1162,
+  "name": "Rusted Shield",
+  "url": "https://pokeapi.co/api/v2/item/rusted-shield",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-specific",
+  "description": "",
+  "sprite": "/items/rusted-shield.png"
+}

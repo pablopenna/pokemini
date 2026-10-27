@@ -1,0 +1,12 @@
+{
+  "id": "goomy-goo",
+  "num": 1868,
+  "name": "Goomy Goo",
+  "url": "https://pokeapi.co/api/v2/item/goomy-goo",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/goomy-goo.png"
+}

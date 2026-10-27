@@ -1,0 +1,12 @@
+{
+  "id": "n-lunarizer--split",
+  "num": 992,
+  "name": "N-Lunarizer",
+  "url": "https://pokeapi.co/api/v2/item/n-lunarizer--split",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "XXX new effect for n-lunarizer--split",
+  "sprite": "/items/n-lunarizer--split.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ampharosite",
+  "num": 697,
+  "name": "Ampharosite",
+  "url": "https://pokeapi.co/api/v2/item/ampharosite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Ampharos to Mega Evolve into Mega Ampharos.",
+  "sprite": "/items/ampharosite.png"
+}

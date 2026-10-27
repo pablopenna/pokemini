@@ -1,0 +1,12 @@
+{
+  "id": "mach-bike",
+  "num": 527,
+  "name": "Mach Bike",
+  "url": "https://pokeapi.co/api/v2/item/mach-bike",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Faster than the Acro Bike, and can ride up sandy slopes and across cracked floors.",
+  "sprite": "/items/mach-bike.png"
+}

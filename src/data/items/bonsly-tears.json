@@ -1,0 +1,12 @@
+{
+  "id": "bonsly-tears",
+  "num": 1833,
+  "name": "Bonsly Tears",
+  "url": "https://pokeapi.co/api/v2/item/bonsly-tears",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/bonsly-tears.png"
+}

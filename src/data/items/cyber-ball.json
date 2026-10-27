@@ -1,0 +1,12 @@
+{
+  "id": "cyber-ball",
+  "num": 2035,
+  "name": "Cyber Ball",
+  "url": "https://pokeapi.co/api/v2/item/cyber-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/cyber-ball.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tatsugirinite",
+  "num": 2276,
+  "name": "Tatsugirinite",
+  "url": "https://pokeapi.co/api/v2/item/tatsugirinite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/tatsugirinite.png"
+}

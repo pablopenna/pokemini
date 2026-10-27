@@ -1,0 +1,12 @@
+{
+  "id": "scizorite",
+  "num": 709,
+  "name": "Scizorite",
+  "url": "https://pokeapi.co/api/v2/item/scizorite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "Held: Allows Scizor to Mega Evolve into Mega Scizor.",
+  "sprite": "/items/scizorite.png"
+}

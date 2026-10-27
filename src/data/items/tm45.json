@@ -1,0 +1,12 @@
+{
+  "id": "tm45",
+  "num": 349,
+  "name": "TM45",
+  "url": "https://pokeapi.co/api/v2/item/tm45",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Attract to a compatible Pokémon. (Gen I: Thunder Wave)",
+  "sprite": "/items/tm45.png"
+}

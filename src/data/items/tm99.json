@@ -1,0 +1,12 @@
+{
+  "id": "tm99",
+  "num": 748,
+  "name": "TM99",
+  "url": "https://pokeapi.co/api/v2/item/tm99",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches a Pokémon TM99.",
+  "sprite": "/items/tm99.png"
+}

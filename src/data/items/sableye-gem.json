@@ -1,0 +1,12 @@
+{
+  "id": "sableye-gem",
+  "num": 1807,
+  "name": "Sableye Gem",
+  "url": "https://pokeapi.co/api/v2/item/sableye-gem",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/sableye-gem.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "articuno-candy",
+  "num": 1130,
+  "name": "Articuno Candy",
+  "url": "https://pokeapi.co/api/v2/item/articuno-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/articuno-candy.png"
+}

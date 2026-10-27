@@ -1,0 +1,17 @@
+{
+  "id": "luxury-ball",
+  "num": 11,
+  "name": "Luxury Ball",
+  "url": "https://pokeapi.co/api/v2/item/luxury-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "special-balls",
+  "description": "Tries to catch a wild Pokémon.  Caught Pokémon start with 200 happiness.",
+  "sprite": "/items/luxury-ball.png"
+}

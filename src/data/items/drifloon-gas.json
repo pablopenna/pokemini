@@ -1,0 +1,12 @@
+{
+  "id": "drifloon-gas",
+  "num": 1830,
+  "name": "Drifloon Gas",
+  "url": "https://pokeapi.co/api/v2/item/drifloon-gas",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/drifloon-gas.png"
+}

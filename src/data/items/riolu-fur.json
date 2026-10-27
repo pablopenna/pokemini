@@ -1,0 +1,12 @@
+{
+  "id": "riolu-fur",
+  "num": 1837,
+  "name": "Riolu Fur",
+  "url": "https://pokeapi.co/api/v2/item/riolu-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/riolu-fur.png"
+}

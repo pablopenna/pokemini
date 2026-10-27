@@ -1,0 +1,12 @@
+{
+  "id": "clear-bell",
+  "num": 474,
+  "name": "Clear Bell",
+  "url": "https://pokeapi.co/api/v2/item/clear-bell",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "HS: Allows Kimono-girls to summon Ho-oh. C: Summons Suicune to the Tin Tower.",
+  "sprite": "/items/clear-bell.png"
+}

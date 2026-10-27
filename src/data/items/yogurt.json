@@ -1,0 +1,12 @@
+{
+  "id": "yogurt",
+  "num": 1712,
+  "name": "Yogurt",
+  "url": "https://pokeapi.co/api/v2/item/yogurt",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "sandwich-ingredients",
+  "description": "",
+  "sprite": "/items/yogurt.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "durin-berry",
+  "num": 159,
+  "name": "Durin Berry",
+  "url": "https://pokeapi.co/api/v2/item/durin-berry",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "baking-only",
+  "description": "Used for creating PokéBlocks and Poffins.",
+  "sprite": "/items/durin-berry.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "foongus-spores",
+  "num": 1849,
+  "name": "Foongus Spores",
+  "url": "https://pokeapi.co/api/v2/item/foongus-spores",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/foongus-spores.png"
+}

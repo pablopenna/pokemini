@@ -1,0 +1,12 @@
+{
+  "id": "pachirisu-fur",
+  "num": 1827,
+  "name": "Pachirisu Fur",
+  "url": "https://pokeapi.co/api/v2/item/pachirisu-fur",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/pachirisu-fur.png"
+}

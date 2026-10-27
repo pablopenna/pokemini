@@ -1,0 +1,12 @@
+{
+  "id": "up-grade",
+  "num": 229,
+  "name": "Upgrade",
+  "url": "https://pokeapi.co/api/v2/item/up-grade",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "Traded on a Porygon: Holder evolves into Porygon2.",
+  "sprite": "/items/up-grade.png"
+}

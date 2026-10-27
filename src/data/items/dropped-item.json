@@ -1,0 +1,12 @@
+{
+  "id": "dropped-item",
+  "num": 679,
+  "name": "Dropped Item",
+  "url": "https://pokeapi.co/api/v2/item/dropped-item",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "plot-advancement",
+  "description": "Returned to Curtis or Yancy as part of a sidequest.",
+  "sprite": "/items/dropped-item.png"
+}

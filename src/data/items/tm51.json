@@ -1,0 +1,12 @@
+{
+  "id": "tm51",
+  "num": 355,
+  "name": "TM51",
+  "url": "https://pokeapi.co/api/v2/item/tm51",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Ally Switch to a compatible Pokémon. (Gen IV: Roost)",
+  "sprite": "/items/tm51.png"
+}

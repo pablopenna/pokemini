@@ -1,0 +1,12 @@
+{
+  "id": "tm206",
+  "num": 2195,
+  "name": "TM206",
+  "url": "https://pokeapi.co/api/v2/item/tm206",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "",
+  "sprite": "/items/tm206.png"
+}

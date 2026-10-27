@@ -1,0 +1,12 @@
+{
+  "id": "data-card-23",
+  "num": 508,
+  "name": "Data Card 23",
+  "url": "https://pokeapi.co/api/v2/item/data-card-23",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer has switched Pokémon in the Pokéathlon.",
+  "sprite": "/items/data-card-23.png"
+}

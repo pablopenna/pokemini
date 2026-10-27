@@ -1,0 +1,12 @@
+{
+  "id": "tm03",
+  "num": 307,
+  "name": "TM03",
+  "url": "https://pokeapi.co/api/v2/item/tm03",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Psyshock to a compatible Pokémon. (Gen IV & III: Water Pulse Gen II: Curse Gen I: Swords Dance)",
+  "sprite": "/items/tm03.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mudbray-mud",
+  "num": 1877,
+  "name": "Mudbray Mud",
+  "url": "https://pokeapi.co/api/v2/item/mudbray-mud",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/mudbray-mud.png"
+}

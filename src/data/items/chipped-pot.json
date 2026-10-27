@@ -1,0 +1,12 @@
+{
+  "id": "chipped-pot",
+  "num": 1312,
+  "name": "Chipped Pot",
+  "url": "https://pokeapi.co/api/v2/item/chipped-pot",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "evolution",
+  "description": "",
+  "sprite": "/items/chipped-pot.png"
+}

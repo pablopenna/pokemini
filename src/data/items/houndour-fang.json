@@ -1,0 +1,12 @@
+{
+  "id": "houndour-fang",
+  "num": 1796,
+  "name": "Houndour Fang",
+  "url": "https://pokeapi.co/api/v2/item/houndour-fang",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/houndour-fang.png"
+}

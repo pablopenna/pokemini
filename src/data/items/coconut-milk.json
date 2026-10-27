@@ -1,0 +1,12 @@
+{
+  "id": "coconut-milk",
+  "num": 1319,
+  "name": "Coconut Milk",
+  "url": "https://pokeapi.co/api/v2/item/coconut-milk",
+  "flingPower": 10,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "curry-ingredients",
+  "description": "",
+  "sprite": "/items/coconut-milk.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "stone-plate",
+  "num": 286,
+  "name": "Stone Plate",
+  "url": "https://pokeapi.co/api/v2/item/stone-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Rock-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Rock.",
+  "sprite": "/items/stone-plate.png"
+}

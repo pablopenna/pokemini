@@ -1,0 +1,12 @@
+{
+  "id": "cacnea-needle",
+  "num": 1813,
+  "name": "Cacnea Needle",
+  "url": "https://pokeapi.co/api/v2/item/cacnea-needle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/cacnea-needle.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "feraligite",
+  "num": 2238,
+  "name": "Feraligite",
+  "url": "https://pokeapi.co/api/v2/item/feraligite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/feraligite.png"
+}

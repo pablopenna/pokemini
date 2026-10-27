@@ -1,0 +1,12 @@
+{
+  "id": "paras-candy",
+  "num": 1076,
+  "name": "Paras Candy",
+  "url": "https://pokeapi.co/api/v2/item/paras-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/paras-candy.png"
+}

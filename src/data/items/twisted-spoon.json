@@ -1,0 +1,15 @@
+{
+  "id": "twisted-spoon",
+  "num": 225,
+  "name": "Twisted Spoon",
+  "url": "https://pokeapi.co/api/v2/item/twisted-spoon",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "type-enhancement",
+  "description": "Held: Psychic-Type moves from holder do 20% more damage.",
+  "sprite": "/items/twisted-spoon.png"
+}

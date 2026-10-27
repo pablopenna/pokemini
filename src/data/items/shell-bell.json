@@ -1,0 +1,15 @@
+{
+  "id": "shell-bell",
+  "num": 230,
+  "name": "Shell Bell",
+  "url": "https://pokeapi.co/api/v2/item/shell-bell",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "held-items",
+  "description": "Held: Holder receives 1/8 of the damage it deals when attacking.",
+  "sprite": "/items/shell-bell.png"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pp-up",
+  "num": 51,
+  "name": "PP Up",
+  "url": "https://pokeapi.co/api/v2/item/pp-up",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "vitamins",
+  "description": "Raises a move’s max PP by 20%.",
+  "sprite": "/items/pp-up.png"
+}

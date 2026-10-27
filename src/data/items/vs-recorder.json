@@ -1,0 +1,12 @@
+{
+  "id": "vs-recorder",
+  "num": 443,
+  "name": "Vs. Recorder",
+  "url": "https://pokeapi.co/api/v2/item/vs-recorder",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Records wireless, Wi-Fi, or Battle Frontier battles, and stores points.",
+  "sprite": "/items/vs-recorder.png"
+}

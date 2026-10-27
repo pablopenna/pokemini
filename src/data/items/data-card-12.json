@@ -1,0 +1,12 @@
+{
+  "id": "data-card-12",
+  "num": 497,
+  "name": "Data Card 12",
+  "url": "https://pokeapi.co/api/v2/item/data-card-12",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "data-cards",
+  "description": "Records the number of times the trainer’s Pokémon have messed up in the Pokéathlon.",
+  "sprite": "/items/data-card-12.png"
+}

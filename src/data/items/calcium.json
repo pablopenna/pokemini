@@ -1,0 +1,18 @@
+{
+  "id": "calcium",
+  "num": 49,
+  "name": "Calcium",
+  "url": "https://pokeapi.co/api/v2/item/calcium",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "countable",
+    "consumable",
+    "usable-overworld",
+    "usable-in-battle",
+    "holdable"
+  ],
+  "category": "vitamins",
+  "description": "Raises Special Attack effort and happiness.",
+  "sprite": "/items/calcium.png"
+}

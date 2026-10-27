@@ -1,0 +1,12 @@
+{
+  "id": "bicycle",
+  "num": 427,
+  "name": "Bicycle",
+  "url": "https://pokeapi.co/api/v2/item/bicycle",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Use for fast transit.",
+  "sprite": "/items/bicycle.png"
+}

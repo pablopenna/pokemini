@@ -1,0 +1,12 @@
+{
+  "id": "scarlet-book",
+  "num": 1670,
+  "name": "Scarlet Book",
+  "url": "https://pokeapi.co/api/v2/item/scarlet-book",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "",
+  "sprite": "/items/scarlet-book.png"
+}

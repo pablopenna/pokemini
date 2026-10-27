@@ -1,0 +1,12 @@
+{
+  "id": "laheavy-ball",
+  "num": 2223,
+  "name": "Heavy Ball",
+  "url": "https://pokeapi.co/api/v2/item/laheavy-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "standard-balls",
+  "description": "",
+  "sprite": "/items/laheavy-ball.png"
+}

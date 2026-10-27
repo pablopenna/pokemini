@@ -1,0 +1,12 @@
+{
+  "id": "hopo-berry",
+  "num": 2278,
+  "name": "Hopo Berry",
+  "url": "https://pokeapi.co/api/v2/item/hopo-berry",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "pp-recovery",
+  "description": "",
+  "sprite": "/items/hopo-berry.png"
+}

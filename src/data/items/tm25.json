@@ -1,0 +1,12 @@
+{
+  "id": "tm25",
+  "num": 329,
+  "name": "TM25",
+  "url": "https://pokeapi.co/api/v2/item/tm25",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Thunder to a compatible Pokémon.",
+  "sprite": "/items/tm25.png"
+}

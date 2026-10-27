@@ -1,0 +1,12 @@
+{
+  "id": "crystal-cluster",
+  "num": 2104,
+  "name": "Crystal Cluster",
+  "url": "https://pokeapi.co/api/v2/item/crystal-cluster",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "",
+  "sprite": "/items/crystal-cluster.png"
+}

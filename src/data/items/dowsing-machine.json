@@ -1,0 +1,12 @@
+{
+  "id": "dowsing-machine",
+  "num": 465,
+  "name": "Dowsing Machine",
+  "url": "https://pokeapi.co/api/v2/item/dowsing-machine",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "gameplay",
+  "description": "Use to find hidden items on the field. AKA Itemfinder.",
+  "sprite": "/items/dowsing-machine.png"
+}

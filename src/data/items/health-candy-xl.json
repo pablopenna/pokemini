@@ -1,0 +1,12 @@
+{
+  "id": "health-candy-xl",
+  "num": 1052,
+  "name": "Health Candy XL",
+  "url": "https://pokeapi.co/api/v2/item/health-candy-xl",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "vitamins",
+  "description": "",
+  "sprite": "/items/health-candy-xl.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tm86",
+  "num": 390,
+  "name": "TM86",
+  "url": "https://pokeapi.co/api/v2/item/tm86",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Grass Knot to a compatible Pokémon.",
+  "sprite": "/items/tm86.png"
+}

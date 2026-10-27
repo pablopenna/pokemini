@@ -1,0 +1,16 @@
+{
+  "id": "fist-plate",
+  "num": 280,
+  "name": "Fist Plate",
+  "url": "https://pokeapi.co/api/v2/item/fist-plate",
+  "flingPower": 90,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active",
+    "underground"
+  ],
+  "category": "plates",
+  "description": "Held: Fighting-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fighting.",
+  "sprite": "/items/fist-plate.png"
+}

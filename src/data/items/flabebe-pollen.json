@@ -1,0 +1,12 @@
+{
+  "id": "flabebe-pollen",
+  "num": 1862,
+  "name": "Flabébé Pollen",
+  "url": "https://pokeapi.co/api/v2/item/flabebe-pollen",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/flabebe-pollen.png"
+}

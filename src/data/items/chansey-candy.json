@@ -1,0 +1,12 @@
+{
+  "id": "chansey-candy",
+  "num": 1109,
+  "name": "Chansey Candy",
+  "url": "https://pokeapi.co/api/v2/item/chansey-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/chansey-candy.png"
+}

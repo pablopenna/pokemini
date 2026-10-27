@@ -1,0 +1,12 @@
+{
+  "id": "pokemon-box",
+  "num": 1007,
+  "name": "Pokémon Box Link",
+  "url": "https://pokeapi.co/api/v2/item/pokemon-box",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "unused",
+  "description": "",
+  "sprite": "/items/pokemon-box.png"
+}

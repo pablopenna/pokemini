@@ -1,0 +1,12 @@
+{
+  "id": "koraidons-poke-ball",
+  "num": 1667,
+  "name": "Koraidon’s Poké Ball",
+  "url": "https://pokeapi.co/api/v2/item/koraidons-poke-ball",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "event-items",
+  "description": "",
+  "sprite": "/items/koraidons-poke-ball.png"
+}

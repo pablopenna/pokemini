@@ -1,0 +1,12 @@
+{
+  "id": "jigglypuff-candy",
+  "num": 1073,
+  "name": "Jigglypuff Candy",
+  "url": "https://pokeapi.co/api/v2/item/jigglypuff-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/jigglypuff-candy.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "glimmoranite",
+  "num": 2277,
+  "name": "Glimmoranite",
+  "url": "https://pokeapi.co/api/v2/item/glimmoranite",
+  "flingPower": 80,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "mega-stones",
+  "description": "",
+  "sprite": "/items/glimmoranite.png"
+}

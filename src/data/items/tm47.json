@@ -1,0 +1,12 @@
+{
+  "id": "tm47",
+  "num": 351,
+  "name": "TM47",
+  "url": "https://pokeapi.co/api/v2/item/tm47",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "all-machines",
+  "description": "Teaches Low Sweep to a compatible Pokémon. (Gen IV & III & II: Steel Wing Gen I: Explosion)",
+  "sprite": "/items/tm47.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mareanie-spike",
+  "num": 1876,
+  "name": "Mareanie Spike",
+  "url": "https://pokeapi.co/api/v2/item/mareanie-spike",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "tm-materials",
+  "description": "",
+  "sprite": "/items/mareanie-spike.png"
+}

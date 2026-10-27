@@ -1,0 +1,12 @@
+{
+  "id": "peach-tablecloth",
+  "num": 2076,
+  "name": "Peach Tablecloth",
+  "url": "https://pokeapi.co/api/v2/item/peach-tablecloth",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "picnic",
+  "description": "",
+  "sprite": "/items/peach-tablecloth.png"
+}

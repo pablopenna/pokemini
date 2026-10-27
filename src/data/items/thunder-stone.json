@@ -1,0 +1,14 @@
+{
+  "id": "thunder-stone",
+  "num": 83,
+  "name": "Thunder Stone",
+  "url": "https://pokeapi.co/api/v2/item/thunder-stone",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "underground"
+  ],
+  "category": "evolution",
+  "description": "Evolves an Eelektrik into Eelektross, an Eevee into Jolteon, or a Pikachu into Raichu.",
+  "sprite": "/items/thunder-stone.png"
+}

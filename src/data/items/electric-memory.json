@@ -1,0 +1,12 @@
+{
+  "id": "electric-memory",
+  "num": 913,
+  "name": "Electric Memory",
+  "url": "https://pokeapi.co/api/v2/item/electric-memory",
+  "flingPower": 50,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "memories",
+  "description": "Held: Changes Silvally to its Electric form.  Changes Multi-Attack’s type to Electric.",
+  "sprite": "/items/electric-memory.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "lucky-egg",
+  "num": 208,
+  "name": "Lucky Egg",
+  "url": "https://pokeapi.co/api/v2/item/lucky-egg",
+  "flingPower": 30,
+  "flingEffect": null,
+  "attributes": [
+    "holdable",
+    "holdable-active"
+  ],
+  "category": "training",
+  "description": "Held: Increases EXP earned in battle by 50%.",
+  "sprite": "/items/lucky-egg.png"
+}

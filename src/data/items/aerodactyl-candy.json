@@ -1,0 +1,12 @@
+{
+  "id": "aerodactyl-candy",
+  "num": 1128,
+  "name": "Aerodactyl Candy",
+  "url": "https://pokeapi.co/api/v2/item/aerodactyl-candy",
+  "flingPower": null,
+  "flingEffect": null,
+  "attributes": [],
+  "category": "species-candies",
+  "description": "",
+  "sprite": "/items/aerodactyl-candy.png"
+}
