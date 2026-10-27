@@ -74,7 +74,7 @@
 </script>
 
 {#if view === 'battle'}
-  <Battle team1={player.team} team2={opponentTeam} wild={wildBattle} player1Control={PlayerControl.AI_AGGRO} onFinish={onBattleFinish} />
+  <Battle team1={player.team} team2={opponentTeam} wild={wildBattle} player1Control={PlayerControl.UI} onFinish={onBattleFinish} />
 {:else}
   <main>
     {#if showDebugMenu}
