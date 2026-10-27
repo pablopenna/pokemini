@@ -13,6 +13,10 @@
           <span class="level">Lv{$battleState.p1Level}</span>
           <div class="hp-bar"><div class="hp-fill" class:low={$battleState.p1Hp <= 50} class:critical={$battleState.p1Hp <= 20} style:width="{$battleState.p1Hp}%"></div></div>
         </div>
+        <div class="exp-row">
+          <span class="exp-label">EXP</span>
+          <div class="exp-bar"><div class="exp-fill" class:snap={$battleState.p1ExpSnap} style:width="{$battleState.p1Exp}%"></div></div>
+        </div>
       {/key}
     {/if}
   </div>
@@ -77,5 +81,11 @@
   /* Duration matches BLINK_MS in battle-animations.ts so the bar finishes with the hit. */
   .hp-fill { height: 100%; background: #4c4; transition: width 0.4s linear, background-color 0.4s; }
   .hp-fill.low { background: #ec3; }
+  /* Gen 2 style: a thin, square bar with a bracketed end, filling in blue. */
+  .exp-row { display: flex; align-items: center; gap: 4px; margin-top: 2px; }
+  .exp-label { font-size: 8px; font-weight: bold; color: #fff; text-shadow: 1px 1px 1px #000; }
+  .exp-bar { flex: 1; height: 4px; background: #222; border: 1px solid #000; border-right-width: 2px; box-sizing: content-box; }
+  .exp-fill { height: 100%; background: #3a6fe8; transition: width 0.6s linear; }
+  .exp-fill.snap { transition: none; }
   .hp-fill.critical { background: #d33; }
 </style>

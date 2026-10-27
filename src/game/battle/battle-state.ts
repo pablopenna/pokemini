@@ -11,6 +11,10 @@ const initialState = () => ({
     p2Level: -1,
     p1Hp: 100,
     p2Hp: 100,
+    /** Progress of the player's active Pokémon towards its next level, 0-100. */
+    p1Exp: 0,
+    /** Move the EXP bar without easing, to empty it on a level-up. */
+    p1ExpSnap: false,
     blink: { p1: false, p2: false },
     moves: [] as { label: string; choice: string; disabled: boolean }[],
     switches: [] as { label: string; choice: string }[],

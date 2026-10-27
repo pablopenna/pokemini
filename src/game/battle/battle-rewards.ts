@@ -33,8 +33,11 @@ export async function awardExperience(
             baseHp: Dex.forGen(3).species.get(species).baseStats.hp,
             movesAt: level => movesLearnedAt(species, level),
         });
-        // The sim keeps the old level, but its HP follows the new max.
+        // Bring the sim to the new level: its other stats are rebuilt from the set, and HP grows with the max.
         const grown = (gain.pokemon.hp ?? 0) - (current[i].hp ?? 0);
+        (simMon as { level: number }).level = simMon.set.level = gain.pokemon.level; // typed read-only
+        simMon.details = simMon.getUpdatedDetails();
+        simMon.setSpecies(simMon.baseSpecies);
         simMon.hp += grown;
         simMon.maxhp += grown;
         simMon.baseMaxhp += grown;

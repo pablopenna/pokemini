@@ -13,7 +13,7 @@ import { playEffect } from '#/game/battle/battle-animations';
 import { clearChoices, handleRequest, resetChoices, setUiPlayer } from '#/game/battle/choices';
 import { trackExperience } from '#/game/battle/experience';
 import { applyPartyState, battleOrder, readPartyState, restoreOrder } from '#/game/battle/party-state';
-import { setBlink, updateSprites } from '#/game/battle/sprites';
+import { setBlink, updateExp, updateSprites } from '#/game/battle/sprites';
 import { getPokemonData } from '#/game/pokemon-data';
 import { PlayerControl, type BattleOptions } from '#/types/battle/battle-options';
 import type { BattleOutcome, BattleResult } from '#/types/battle/battle-result';
@@ -70,10 +70,12 @@ export async function main(options: BattleOptions): Promise<BattleOutcome> {
                 clientBattle.add(args, kwArgs);
                 if (html) appendLog(html);
                 updateSprites(clientBattle);
+                updateExp(sentParty[sentSim.indexOf(sim.sides[0].active[0])]);
                 await playEffect(args, setBlink);
                 // The foe is `p2`; whoever stood against it earns experience as soon as it faints.
                 if (args[0] === 'faint' && String(args[1]).startsWith('p2')) {
                     await awardExperience(sentParty, sentSim, earned, chooseForgetMove);
+                    await updateExp(sentParty[sentSim.indexOf(sim.sides[0].active[0])]);
                     refreshBag();
                 }
                 if (args[0] === 'tie') return 'tie';
