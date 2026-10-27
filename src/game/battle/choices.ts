@@ -45,12 +45,13 @@ function renderSwitches(request: ChoiceRequest & { side: any }, _forced: boolean
 }
 
 function renderTeamPreview(request: ChoiceRequest) {
-    const size = (request as any).side?.pokemon?.length ?? 6;
-    const order = Array.from({ length: size }, (_, i) => i + 1).join('');
-    battleState.update(s => ({
-        ...s,
-        switches: [{ label: 'Start Battle', choice: `team ${order}` }]
-    }));
+    const team: any[] = (request as any).side?.pokemon ?? [];
+    const switches = team.map((pkmn, lead) => {
+        // The chosen lead goes first; the others keep their order.
+        const order = [lead, ...team.map((_, i) => i).filter(i => i !== lead)].map(i => i + 1).join('');
+        return { label: pkmn.details, choice: `team ${order}` };
+    });
+    battleState.update(s => ({ ...s, switches }));
 }
 
 /** Shows what the sim asks the player to choose. */
