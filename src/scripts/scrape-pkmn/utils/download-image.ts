@@ -2,21 +2,21 @@ import * as fsp from 'fs/promises';
 import * as path from 'path';
 import axios from 'axios';
 
-/** Downloads a Pokémon front sprite to public/pokemon/default/front as `<name><ext>` and returns its public path. Throws if the download fails. */
+/** Downloads a sprite to `destDir` as `<name><ext>` and returns its public path (e.g. `/pokemon/default/front/murkrow.png`). Throws if the download fails. */
 export async function downloadImage(
   imageUrl: string,
   name: string,
-  force: boolean = false
+  force: boolean = false,
+  destDir: string = path.join('public', 'pokemon', 'default', 'front')
 ): Promise<string> {
   const ext = path.extname(new URL(imageUrl).pathname);
   const filename = `${name}${ext}`;
-  const destDir = path.join('public', 'pokemon', 'default', 'front');
   const destPath = path.join(destDir, filename);
 
   if (!force) {
     try {
       await fsp.access(destPath);
-      return `/pokemon/default/front/${filename}`;  // already cached
+      return `/${path.relative('public', destPath).replace(/\\/g, '/')}`;  // already cached
     } catch {
       // not cached, proceed
     }
@@ -27,5 +27,5 @@ export async function downloadImage(
   await fsp.writeFile(destPath, data);
   console.log(`  Downloaded ${filename}`);
 
-  return `/pokemon/default/front/${filename}`;
+  return `/${path.relative('public', destPath).replace(/\\/g, '/')}`;
 }
