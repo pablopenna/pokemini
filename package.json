@@ -13,6 +13,8 @@
     "scrapeall": "node src/scripts/scrape-routes/scrape-routes.ts --id route1 --crawl",
     "scrapepkmn": "node src/scripts/scrape-pkmn/scrape-pkmn.ts",
     "scrapeallpkmn": "node src/scripts/scrape-pkmn/scrape-pkmn.ts --all",
+    "scrapepkmnsprite": "node src/scripts/scrape-pkmn/scrape-sprites.ts",
+    "scrapeallpkmnsprites": "node src/scripts/scrape-pkmn/scrape-sprites.ts --all",
     "scrapeitem": "node src/scripts/scrape-items/scrape-items.ts",
     "scrapeallitems": "node src/scripts/scrape-items/scrape-items.ts --all",
     "generateitemids": "node src/scripts/generate-item-ids.ts",
