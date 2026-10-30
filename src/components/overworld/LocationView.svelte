@@ -66,16 +66,31 @@
 </div>
 
 <style>
-  /* Phones / vertical screens: single column, image on top. */
-  .layout { display: flex; flex-direction: column; align-items: center; gap: 1rem; text-align: center; }
-  .map { max-width: 100%; height: auto; }
-  .panels { display: flex; flex-direction: column; align-items: center; gap: 1rem; }
+  /* Fill the height the main view leaves for the map and panels. */
+  .layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+    text-align: center;
+    flex: 1 1 auto;
+    width: 100%;
+    min-height: 0;
+  }
+  .map {
+    flex: 1 1 auto;
+    min-height: 0;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+  .panels { display: flex; flex-direction: column; align-items: center; gap: 0.75rem; min-height: 0; overflow-y: auto; }
   .connections { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem; }
 
   /* Wide screens: image on the left, sections on the right. */
   @media (min-width: 900px) {
-    .layout { flex-direction: row; align-items: flex-start; justify-content: center; }
+    .layout { flex-direction: row; align-items: stretch; justify-content: center; }
     .map { flex: 1 1 50%; min-width: 0; }
-    .panels { flex: 1 1 50%; min-width: 0; }
+    .panels { flex: 1 1 50%; min-width: 0; justify-content: center; }
   }
 </style>

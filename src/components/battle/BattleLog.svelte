@@ -20,7 +20,10 @@
   .battle-log {
     font-family: monospace;
     font-size: 13px;
-    height: 400px;
+    /* Smaller than before, and never taller than a fraction of the viewport. */
+    flex: 0 1 auto;
+    height: clamp(4rem, 15dvh, 7rem);
+    min-height: 4rem;
     overflow-y: auto;
     padding: 0.5rem;
     border: 1px solid #ccc;

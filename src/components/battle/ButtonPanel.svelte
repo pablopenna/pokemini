@@ -49,9 +49,9 @@
 </div>
 
 <style>
-  .button-panel { display: flex; flex-direction: column; gap: 1rem; max-width: 100%; overflow-x: auto; }
-  .button-section { display: flex; flex-direction: row; gap: 0.5rem; justify-content: center; align-items: center; flex-wrap: wrap; }
-  .button-section h3 { flex: 0 0 100%; text-align: center; margin-bottom: 0.25rem; margin-right: 0.5rem; }
+  .button-panel { display: flex; flex-direction: column; gap: 1rem; width: 100%; max-width: 100%; min-height: 0; overflow-x: hidden; overflow-y: auto; }
+  .button-section { display: flex; flex-direction: row; gap: 0.5rem; justify-content: center; align-items: center; flex-wrap: wrap; width: 100%; }
+  .button-section h3 { flex: 0 0 100%; width: 100%; text-align: center; margin: 0 0 0.25rem; }
   button {
     padding: 0.5rem 1rem;
     text-align: left;
@@ -64,10 +64,10 @@
   }
   @media (max-width: 768px) {
     .button-section { flex-direction: column; }
-    button { flex: 1 1 100%; max-width: 100%; width: 100%; }
+    .button-section h3 { flex: 0 0 auto; margin-right: 0; }
+    button { flex: 0 0 auto; max-width: 100%; width: 100%; }
   }
   @media (max-width: 480px) {
-    .button-section h3 { flex: 0 0 100%; }
-    button { flex: 1 1 100%; max-width: 100%; width: 100%; }
+    button { max-width: 100%; width: 100%; }
   }
 </style>

@@ -58,6 +58,15 @@
 </div>
 
 <style>
-  .sprites { margin-top: 16px; }
-  .continue { display: block; margin: 16px auto 0; }
+  .battle {
+    box-sizing: border-box;
+    height: 100dvh;
+    padding: 0.75rem 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    overflow: hidden;
+  }
+  .sprites { flex: 0 0 auto; margin-top: 0; }
+  .continue { display: block; flex: 0 0 auto; margin: 0.5rem auto 0; }
 </style>

@@ -1,12 +1,13 @@
 <!-- src/components/SpriteRenderer.svelte -->
 <script lang="ts">
   import { battleState } from '#/game/battle/battle.ts';
+  import { getAsset } from '#/utils/get-asset.ts';
 </script>
 
 <div class="sprite-container">
   <div class="sprite-slot">
     {#if $battleState.p1Sprite}
-      <img class:blink={$battleState.blink.p1} src={$battleState.p1Sprite} alt="Player Pokémon" />
+      <img class:blink={$battleState.blink.p1} src={getAsset($battleState.p1Sprite)} alt="Player Pokémon" />
       <!-- keyed on the sprite so a switch-in starts at its own HP instead of animating from the previous one -->
       {#key $battleState.p1Sprite}
         <div class="hp-row">
@@ -22,7 +23,7 @@
   </div>
   <div class="sprite-slot">
     {#if $battleState.p2Sprite}
-      <img class:blink={$battleState.blink.p2} class:hidden={$battleState.foeHidden} src={$battleState.p2Sprite} alt="Opponent Pokémon" />
+      <img class:blink={$battleState.blink.p2} class:hidden={$battleState.foeHidden} src={getAsset($battleState.p2Sprite)} alt="Opponent Pokémon" />
       <!-- keyed on the sprite so a switch-in starts at its own HP instead of animating from the previous one -->
       {#key $battleState.p2Sprite}
         <div class="hp-row">
@@ -47,7 +48,6 @@
   .sprite-container { position: relative; display: flex; gap: 2rem; justify-content: center; }
   .sprite-slot { width: 120px; }
   .sprite-slot img { width: 100%; height: 120px; object-fit: contain; image-rendering: pixelated; }
-  .sprite-slot:first-child img { transform: scaleX(-1); }
   .sprite-slot img.blink { animation: blink 0.2s ease-in-out 2; }
   @keyframes blink { 0% { opacity: 0.2; } 50% { opacity: 1; } }
   .sprite-slot img.hidden { opacity: 0; transform: scale(0.1); transition: opacity 0.3s, transform 0.3s; }

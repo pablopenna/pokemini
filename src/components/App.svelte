@@ -100,5 +100,20 @@
 {/if}
 
 <style>
-  main { text-align: center; }
+  :global(html, body, #app) { height: 100%; }
+  :global(body) { margin: 0; overflow: hidden; }
+
+  main {
+    box-sizing: border-box;
+    height: 100dvh;
+    padding: 0.75rem 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    overflow: hidden;
+    text-align: center;
+  }
+
+  h1 { margin: 0; font-size: clamp(1.5rem, 5vh, 2rem); }
 </style>

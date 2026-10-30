@@ -7,6 +7,7 @@
   import type { ItemId } from '#/types/item-id';
   import { ItemScene as Scene, type ItemTarget } from '#/types/item-usage';
   import type { Player } from '#/types/player';
+  import { getAsset } from '#/utils/get-asset.ts';
 
   type Props = {
     player: Player;
@@ -17,6 +18,10 @@
   let inventoryOpen = $state(false);
   let moveLearnPrompt = $state<MoveLearnPrompt>();
   let selected = $state<number | null>(null);
+
+  /** Local icon path for a species name (e.g. "Mr. Mime" -> /pokemon/default/icon/mrmime.png). */
+  const iconPath = (species: string) =>
+    getAsset(`/pokemon/default/icon/${species.toLowerCase().replace(/[^a-z0-9]/g, '')}.png`);
 
   async function useItem(id: ItemId, target: ItemTarget) {
     const result = await useOverworldItem(id, target, { party: player.team, inventory: player.inventory, chooseForget: moveLearnPrompt!.choose });
@@ -32,21 +37,36 @@
 <div class="player-info">
   <p>Current location: {player.location}</p>
   <p>Team:</p>
-  {#each player.team as pokemon, i}
-    <button onclick={() => (selected = i)}>{pokemon.name || pokemon.species}{levelEvolution(pokemon) ? ' (*)' : ''}</button>
-  {:else}
-    <p>empty</p>
-  {/each}
+  <div class="team">
+    {#each player.team as pokemon, i}
+      <button class="team-member" onclick={() => (selected = i)}>
+        <span class="team-member-content">
+          <img class="icon" src={iconPath(pokemon.species)} alt="" />
+          <span>{pokemon.name || pokemon.species}{levelEvolution(pokemon) ? ' (*)' : ''}</span>
+        </span>
+      </button>
+    {:else}
+      <p>empty</p>
+    {/each}
+  </div>
   <MoveLearnPrompt bind:this={moveLearnPrompt} />
   <PokemonDialog
     pokemon={selected === null ? null : player.team[selected] ?? null}
     onEvolve={evolved => (player.team[selected!] = evolved)}
     onClose={() => (selected = null)}
   />
-  <button onclick={() => (inventoryOpen = true)}>Inventory</button>
+  <div class="actions">
+    <button onclick={() => (inventoryOpen = true)}>Inventory</button>
+  </div>
   <InventoryDialog bind:open={inventoryOpen} inventory={player.inventory} party={player.team} scene={Scene.Overworld} onUse={useItem} />
 </div>
 
 <style>
   .player-info { margin-bottom: 1.5rem; }
+  .team { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 0.5rem; }
+  /* Flex lives on an inner span: some browsers do not center flex children of a <button>. */
+  .team-member { line-height: 1; }
+  .team-member-content { display: inline-flex; align-items: center; gap: 0.35rem; }
+  .icon { display: block; width: 24px; height: 24px; object-fit: contain; image-rendering: pixelated; }
+  .actions { margin-top: 0.75rem; }
 </style>
